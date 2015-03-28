@@ -1,8 +1,8 @@
 {
   "name": "cldr-dates-modern",
-  "version": "27.0.0",
-  "dependencies": {
-    "cldr-numbers-modern": "27.0.0"
+  "version": "27.0.1",
+  "peerDependencies": {
+    "cldr-numbers-modern": "27.0.1"
   },
   "homepage": "http://cldr.unicode.org",
   "author": "The Unicode Consortium",
