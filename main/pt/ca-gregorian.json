@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pt"
       },
@@ -234,10 +234,10 @@
                   "night1": "da madrugada"
                 },
                 "narrow": {
-                  "midnight": "m",
-                  "am": "a",
-                  "noon": "m",
-                  "pm": "p",
+                  "midnight": "meia-noite",
+                  "am": "AM",
+                  "noon": "meio-dia",
+                  "pm": "PM",
                   "morning1": "da manhã",
                   "afternoon1": "da tarde",
                   "evening1": "da noite",
@@ -311,7 +311,7 @@
               "full": "EEEE, d 'de' MMMM 'de' y",
               "long": "d 'de' MMMM 'de' y",
               "medium": "d 'de' MMM 'de' y",
-              "short": "dd/MM/yy"
+              "short": "dd/MM/y"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -355,6 +355,8 @@
                 "MMMEd": "E, d 'de' MMM",
                 "MMMMd": "d 'de' MMMM",
                 "MMMMEd": "E, d 'de' MMMM",
+                "MMMMW": "W'ª' 'semana' 'de' MMM",
+                "MMMMW": "W'ª' 'semana' 'de' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -367,8 +369,10 @@
                 "yMMMM": "MMMM 'de' y",
                 "yMMMMd": "d 'de' MMMM 'de' y",
                 "yMMMMEd": "E, d 'de' MMMM 'de' y",
-                "yQQQ": "y QQQ",
-                "yQQQQ": "y QQQQ"
+                "yQQQ": "QQQ 'de' y",
+                "yQQQQ": "QQQQ 'de' y",
+                "yw": "w'ª' 'semana' 'de' y",
+                "yw": "w'ª' 'semana' 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

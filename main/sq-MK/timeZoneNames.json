@@ -3,8 +3,8 @@
     "sq-MK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "sq",
         "territory": "MK"
@@ -12,8 +12,8 @@
       "dates": {
         "timeZoneNames": {
           "hourFormat": "+HH:mm;-HH:mm",
-          "gmtFormat": "Ora e Grenuiçit: {0}",
-          "gmtZeroFormat": "Ora e Grenuiçit",
+          "gmtFormat": "Ora e Grinuiçit: {0}",
+          "gmtZeroFormat": "Ora e Grinuiçit",
           "regionFormat": "Ora: {0}",
           "regionFormat-type-daylight": "Ora verore: {0}",
           "regionFormat-type-standard": "Ora standarde: {0}",
@@ -167,7 +167,7 @@
                 "exemplarCity": "El Salvador"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "Fort-Nelson"
               },
               "Fortaleza": {
                 "exemplarCity": "Fortaleza"
@@ -219,7 +219,7 @@
                   "exemplarCity": "Tell-Siti, Indiana"
                 },
                 "Knox": {
-                  "exemplarCity": "Noks, Indiana"
+                  "exemplarCity": "Knoks, Indiana"
                 },
                 "Winamac": {
                   "exemplarCity": "Uinamak, Indiana"
@@ -481,7 +481,7 @@
                 "exemplarCity": "Kanari"
               },
               "Cape_Verde": {
-                "exemplarCity": "Kepi Verde"
+                "exemplarCity": "Kepi i Gjelbër"
               },
               "Faeroe": {
                 "exemplarCity": "Faroe"
@@ -493,7 +493,7 @@
                 "exemplarCity": "Rejkjavik"
               },
               "South_Georgia": {
-                "exemplarCity": "Gjeorgjia e Jugut"
+                "exemplarCity": "Xhorxha e Jugut"
               },
               "St_Helena": {
                 "exemplarCity": "Shën-Helenë"
@@ -508,6 +508,9 @@
               },
               "Andorra": {
                 "exemplarCity": "Andorrë"
+              },
+              "Astrakhan": {
+                "exemplarCity": "Astrakan"
               },
               "Athens": {
                 "exemplarCity": "Athinë"
@@ -541,7 +544,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Ora verore e Irlandës"
+                  "daylight": "Ora strandarde e Irlandës"
                 },
                 "exemplarCity": "Dublin"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbonë"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tiranë"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Bejrut"
               },
@@ -928,7 +940,7 @@
                 "exemplarCity": "Xhajapurë"
               },
               "Jerusalem": {
-                "exemplarCity": "Jeruzalem"
+                "exemplarCity": "Jerusalem"
               },
               "Kabul": {
                 "exemplarCity": "Kabul"
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulanbatar"
@@ -1192,7 +1207,7 @@
                 "exemplarCity": "Honolulu"
               },
               "Johnston": {
-                "exemplarCity": "Xhonson"
+                "exemplarCity": "Xhonston"
               },
               "Kiritimati": {
                 "exemplarCity": "Kiritimat"
@@ -1714,35 +1729,35 @@
             },
             "Europe_Central": {
               "long": {
-                "generic": "Ora e Europës Qendrore",
-                "standard": "Ora standarde e Europës Qendrore",
-                "daylight": "Ora verore e Europës Qendrore"
+                "generic": "Ora e Evropës Qendrore",
+                "standard": "Ora standarde e Evropës Qendrore",
+                "daylight": "Ora verore e Evropës Qendrore"
               }
             },
             "Europe_Eastern": {
               "long": {
-                "generic": "Ora e Europës Lindore",
-                "standard": "Ora standarde e Europës Lindore",
-                "daylight": "Ora verore e Europës Lindore"
+                "generic": "Ora e Evropës Lindore",
+                "standard": "Ora standarde e Evropës Lindore",
+                "daylight": "Ora verore e Evropës Lindore"
               }
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Ora e Lindjes së Largët Europiane"
+                "standard": "Ora e Evropës së Largët Lindore"
               }
             },
             "Europe_Western": {
               "long": {
-                "generic": "Ora e Europës Perëndimore",
-                "standard": "Ora standarde e Europës Perëndimore",
-                "daylight": "Ora verore e Europës Perëndimore"
+                "generic": "Ora e Evropës Perëndimore",
+                "standard": "Ora standarde e Evropës Perëndimore",
+                "daylight": "Ora verore e Evropës Perëndimore"
               }
             },
             "Falkland": {
               "long": {
-                "generic": "Ora e Ishujve Folkland",
-                "standard": "Ora standarde e Ishujve Folkland",
-                "daylight": "Ora verore e Ishujve Folkland"
+                "generic": "Ora e Ishujve Falkland",
+                "standard": "Ora standarde e Ishujve Falkland",
+                "daylight": "Ora verore e Ishujve Falkland"
               }
             },
             "Fiji": {
@@ -1759,7 +1774,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "Ora e Rajoneve Australiane dhe Antraktike Franceze"
+                "standard": "Ora e Territoreve Jugore dhe Antarktike Franceze"
               }
             },
             "Galapagos": {
@@ -2166,6 +2181,11 @@
                 "standard": "Ora e Ponapeit"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "Ora e Penianit"
+              }
+            },
             "Qyzylorda": {
               "long": {
                 "generic": "Ora e Kizilordit",
@@ -2216,12 +2236,12 @@
             },
             "Solomon": {
               "long": {
-                "standard": "Ora e Ishujve Solomonë"
+                "standard": "Ora e Ishujve Solomon"
               }
             },
             "South_Georgia": {
               "long": {
-                "standard": "Ora e Gjeorgjisë së Jugut"
+                "standard": "Ora e Xhorxhas të Jugut"
               }
             },
             "Suriname": {

@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pl"
       },
@@ -113,13 +113,13 @@
                   "sat": "sob."
                 },
                 "narrow": {
-                  "sun": "N",
-                  "mon": "P",
-                  "tue": "W",
-                  "wed": "Ś",
-                  "thu": "C",
-                  "fri": "P",
-                  "sat": "S"
+                  "sun": "n",
+                  "mon": "p",
+                  "tue": "w",
+                  "wed": "ś",
+                  "thu": "c",
+                  "fri": "p",
+                  "sat": "s"
                 },
                 "short": {
                   "sun": "nie",
@@ -182,10 +182,10 @@
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "K1",
-                  "2": "K2",
-                  "3": "K3",
-                  "4": "K4"
+                  "1": "I kw.",
+                  "2": "II kw.",
+                  "3": "III kw.",
+                  "4": "IV kw."
                 },
                 "narrow": {
                   "1": "1",
@@ -202,10 +202,10 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "1 kw.",
-                  "2": "2 kw.",
-                  "3": "3 kw.",
-                  "4": "4 kw."
+                  "1": "I kw.",
+                  "2": "II kw.",
+                  "3": "III kw.",
+                  "4": "IV kw."
                 },
                 "narrow": {
                   "1": "1",
@@ -237,12 +237,12 @@
                 "narrow": {
                   "midnight": "o półn.",
                   "am": "a",
-                  "noon": "n",
+                  "noon": "w poł.",
                   "pm": "p",
                   "morning1": "rano",
-                  "morning2": "przed południem",
-                  "afternoon1": "po południu",
-                  "evening1": "wieczorem",
+                  "morning2": "przed poł.",
+                  "afternoon1": "po poł.",
+                  "evening1": "wiecz.",
                   "night1": "w nocy"
                 },
                 "wide": {
@@ -259,26 +259,26 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "o północy",
+                  "midnight": "północ",
                   "am": "AM",
-                  "noon": "w południe",
+                  "noon": "południe",
                   "pm": "PM",
                   "morning1": "rano",
-                  "morning2": "przed południem",
-                  "afternoon1": "po południu",
-                  "evening1": "wieczorem",
-                  "night1": "w nocy"
+                  "morning2": "przedpołudnie",
+                  "afternoon1": "popołudnie",
+                  "evening1": "wieczór",
+                  "night1": "noc"
                 },
                 "narrow": {
-                  "midnight": "o północy",
+                  "midnight": "półn.",
                   "am": "a",
-                  "noon": "w południe",
+                  "noon": "poł.",
                   "pm": "p",
                   "morning1": "rano",
-                  "morning2": "przed południem",
-                  "afternoon1": "po południu",
-                  "evening1": "wieczorem",
-                  "night1": "w nocy"
+                  "morning2": "przedpoł.",
+                  "afternoon1": "popoł.",
+                  "evening1": "wiecz.",
+                  "night1": "noc"
                 },
                 "wide": {
                   "midnight": "północ",

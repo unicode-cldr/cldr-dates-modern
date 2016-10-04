@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lv"
       },
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Sv",
-                  "mon": "Pr",
-                  "tue": "Ot",
-                  "wed": "Tr",
-                  "thu": "Ce",
-                  "fri": "Pk",
-                  "sat": "Se"
+                  "sun": "svētd.",
+                  "mon": "pirmd.",
+                  "tue": "otrd.",
+                  "wed": "trešd.",
+                  "thu": "ceturtd.",
+                  "fri": "piektd.",
+                  "sat": "sestd."
                 },
                 "narrow": {
                   "sun": "S",
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Sv",
-                  "mon": "Pr",
-                  "tue": "Ot",
-                  "wed": "Tr",
-                  "thu": "Ce",
-                  "fri": "Pk",
-                  "sat": "Se"
+                  "sun": "Svētd.",
+                  "mon": "Pirmd.",
+                  "tue": "Otrd.",
+                  "wed": "Trešd.",
+                  "thu": "Ceturtd.",
+                  "fri": "Piektd.",
+                  "sat": "Sestd."
                 },
                 "narrow": {
                   "sun": "S",
@@ -271,13 +271,13 @@
                   "noon": "pusd.",
                   "pm": "pēcp.",
                   "morning1": "rīts",
-                  "afternoon1": "pēcpusdiena",
+                  "afternoon1": "pēcpusd.",
                   "evening1": "vakars",
                   "night1": "nakts"
                 },
                 "wide": {
                   "midnight": "pusnakts",
-                  "am": "priekšpusdienā",
+                  "am": "priekšpusdiena",
                   "noon": "pusdienlaiks",
                   "pm": "pēcpusdiena",
                   "morning1": "rīts",
@@ -373,7 +373,7 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0}–{1}",
                 "d": {
-                  "d": "d–d"
+                  "d": "d.–d."
                 },
                 "h": {
                   "a": "h a – h a",

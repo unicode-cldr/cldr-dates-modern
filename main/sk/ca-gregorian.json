@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sk"
       },
@@ -317,7 +317,7 @@
               "full": "EEEE, d. MMMM y",
               "long": "d. MMMM y",
               "medium": "d. M. y",
-              "short": "d.M.yy"
+              "short": "d. M. y"
             },
             "timeFormats": {
               "full": "H:mm:ss zzzz",
@@ -361,6 +361,10 @@
                 "MMMEd": "E d. M.",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E d. MMMM",
+                "MMMMW": "W. 'týždeň' 'v' MMM",
+                "MMMMW": "W. 'týždeň' 'v' MMM",
+                "MMMMW": "W. 'týždeň' 'v' MMM",
+                "MMMMW": "W. 'týždeň' 'v' MMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -373,7 +377,11 @@
                 "yMMMM": "LLLL y",
                 "yMMMMd": "d. MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "w. 'týždeň' 'v' 'roku' y",
+                "yw": "w. 'týždeň' 'v' 'roku' y",
+                "yw": "w. 'týždeň' 'v' 'roku' y",
+                "yw": "w. 'týždeň' 'v' 'roku' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

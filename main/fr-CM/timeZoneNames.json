@@ -3,8 +3,8 @@
     "fr-CM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "fr",
         "territory": "CM"
@@ -422,7 +422,7 @@
                 "exemplarCity": "Saint-Jean de Terre-Neuve"
               },
               "St_Kitts": {
-                "exemplarCity": "Saint-Kitts"
+                "exemplarCity": "Saint-Christophe"
               },
               "St_Lucia": {
                 "exemplarCity": "Sainte-Lucie"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "Andorre"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Athènes"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbonne"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Oulianovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Oujgorod"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beyrouth"
               },
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Oulan-Bator"
@@ -2149,9 +2164,14 @@
                 "standard": "heure de l’île de Pohnpei"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "heure de Pyongyang"
+              }
+            },
             "Reunion": {
               "long": {
-                "standard": "heure de la Réunion"
+                "standard": "heure de La Réunion"
               }
             },
             "Rothera": {

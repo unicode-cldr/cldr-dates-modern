@@ -3,8 +3,8 @@
     "fr-ML": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12763 $",
+          "_cldrVersion": "30"
         },
         "language": "fr",
         "territory": "ML"
@@ -195,10 +195,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1er trimestre",
-                  "2": "2e trimestre",
-                  "3": "3e trimestre",
-                  "4": "4e trimestre"
+                  "1": "le 1er trimestre",
+                  "2": "le 2ème trimestre",
+                  "3": "le 3ème trimestre",
+                  "4": "le 4ème trimestre"
                 }
               },
               "stand-alone": {
@@ -216,16 +216,16 @@
                 },
                 "wide": {
                   "1": "1er trimestre",
-                  "2": "2e trimestre",
-                  "3": "3e trimestre",
-                  "4": "4e trimestre"
+                  "2": "2ème trimestre",
+                  "3": "3ème trimestre",
+                  "4": "4ème trimestre"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -235,7 +235,7 @@
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -257,7 +257,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -267,7 +267,7 @@
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",

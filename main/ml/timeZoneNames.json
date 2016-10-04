@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ml"
       },
@@ -97,7 +97,7 @@
                 "exemplarCity": "കേംബ്രിഡ്‌ജ് ബേ"
               },
               "Campo_Grande": {
-                "exemplarCity": "ക്യാന്പോ ഗ്രാൻഡെ"
+                "exemplarCity": "ക്യാമ്പോ ഗ്രാൻഡെ"
               },
               "Cancun": {
                 "exemplarCity": "കാൻകൂൺ"
@@ -121,7 +121,7 @@
                 "exemplarCity": "ചിഹ്വാഹ"
               },
               "Coral_Harbour": {
-                "exemplarCity": "ആത്തികോക്കൺ"
+                "exemplarCity": "ഏറ്റികോക്കൺ"
               },
               "Cordoba": {
                 "exemplarCity": "കോർഡോബ"
@@ -166,7 +166,7 @@
                 "exemplarCity": "എൽ സാൽ‌വദോർ"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ഫോർട്ട് നെൽസൺ"
               },
               "Fortaleza": {
                 "exemplarCity": "ഫോർട്ടലീസ"
@@ -290,7 +290,7 @@
                 "exemplarCity": "മറ്റാമൊറോസ്"
               },
               "Mazatlan": {
-                "exemplarCity": "മാസറ്റ്ലാൻ"
+                "exemplarCity": "മസറ്റ്‌ലാൻ"
               },
               "Mendoza": {
                 "exemplarCity": "മെൻഡോസ"
@@ -418,7 +418,7 @@
                 "exemplarCity": "സെൻറ് ബർത്തലെമി"
               },
               "St_Johns": {
-                "exemplarCity": "സെന്റ്. ജോൺസ്"
+                "exemplarCity": "സെന്റ് ജോൺസ്"
               },
               "St_Kitts": {
                 "exemplarCity": "സെന്റ് കിറ്റ്സ്"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "അണ്ടോറ"
               },
+              "Astrakhan": {
+                "exemplarCity": "അസ്‌ട്രഖാൻ"
+              },
               "Athens": {
                 "exemplarCity": "ഏതൻ‌സ്"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "കീവ്"
+              },
+              "Kirov": {
+                "exemplarCity": "കിറോ"
               },
               "Lisbon": {
                 "exemplarCity": "ലിസ്‌ബൺ‌"
@@ -646,6 +652,9 @@
               "Tirane": {
                 "exemplarCity": "ടിരാനെ"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "ഉല്ല്യാനോവ്‌സ്‌ക്"
+              },
               "Uzhgorod": {
                 "exemplarCity": "ഉസ്ഗൊറോഡ്"
               },
@@ -709,7 +718,7 @@
                 "exemplarCity": "ബ്ലാണ്ടെയർ‌"
               },
               "Brazzaville": {
-                "exemplarCity": "ബ്രാസവില്ലി"
+                "exemplarCity": "ബ്രാസവിൽ"
               },
               "Bujumbura": {
                 "exemplarCity": "ബുജും‌ബുര"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "ബാങ്കോക്ക്"
               },
+              "Barnaul": {
+                "exemplarCity": "ബർണോൽ"
+              },
               "Beirut": {
                 "exemplarCity": "ബെയ്‌റൂട്ട്"
               },
@@ -987,7 +999,7 @@
                 "exemplarCity": "ഓറൽ"
               },
               "Phnom_Penh": {
-                "exemplarCity": "നാം പെൻ"
+                "exemplarCity": "ഫെനോം പെൻ"
               },
               "Pontianak": {
                 "exemplarCity": "പൊൻറിയാനക്"
@@ -1017,7 +1029,7 @@
                 "exemplarCity": "സമർക്കന്ദ്"
               },
               "Seoul": {
-                "exemplarCity": "സിയോൾ"
+                "exemplarCity": "സോൾ"
               },
               "Shanghai": {
                 "exemplarCity": "ഷാങ്‌ഹായി"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "ടോക്കിയോ"
+              },
+              "Tomsk": {
+                "exemplarCity": "ടോംസ്ക്"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "ഉലാൻബാത്തർ"
@@ -1155,7 +1170,7 @@
                 "exemplarCity": "ബോഗൺവില്ലെ"
               },
               "Chatham": {
-                "exemplarCity": "ചാതം"
+                "exemplarCity": "ചാത്തം"
               },
               "Easter": {
                 "exemplarCity": "ഈസ്റ്റർ"
@@ -1624,7 +1639,7 @@
               "long": {
                 "generic": "ചാത്തം സമയം",
                 "standard": "ചാത്തം സ്റ്റാൻഡേർഡ് സമയം",
-                "daylight": "ചാതം വേനൽക്കാല സമയം"
+                "daylight": "ചാത്തം ഗ്രീഷ്‌മകാല സമയം"
               }
             },
             "Chile": {
@@ -2163,6 +2178,11 @@
                 "standard": "പൊനാപ്പ് സമയം"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "പ്യോംഗ്‌യാംഗ് സമയം"
+              }
+            },
             "Qyzylorda": {
               "long": {
                 "generic": "ഖിസിലോർഡ സമയം",
@@ -2198,7 +2218,7 @@
               "long": {
                 "generic": "സമോവ സമയം",
                 "standard": "സമോവ സ്റ്റാൻഡേർഡ് സമയം",
-                "daylight": "സമോവാ വേനൽക്കാല സമയം"
+                "daylight": "സമോവാ ഗ്രീഷ്‌മകാല സമയം"
               }
             },
             "Seychelles": {

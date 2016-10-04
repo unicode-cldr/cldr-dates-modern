@@ -3,8 +3,8 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11987 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12933 $",
+          "_cldrVersion": "30"
         },
         "language": "de",
         "territory": "CH"
@@ -481,7 +481,7 @@
                 "exemplarCity": "Kanaren"
               },
               "Cape_Verde": {
-                "exemplarCity": "Kap Verde"
+                "exemplarCity": "Cabo Verde"
               },
               "Faeroe": {
                 "exemplarCity": "Färöer"
@@ -508,6 +508,9 @@
               },
               "Andorra": {
                 "exemplarCity": "Andorra"
+              },
+              "Astrakhan": {
+                "exemplarCity": "Astrachan"
               },
               "Athens": {
                 "exemplarCity": "Athen"
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiew"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirow"
               },
               "Lisbon": {
                 "exemplarCity": "Lissabon"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanowsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uschgorod"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -1611,9 +1626,9 @@
             },
             "Cape_Verde": {
               "long": {
-                "generic": "Kap-Verde-Zeit",
-                "standard": "Kap-Verde-Normalzeit",
-                "daylight": "Kap-Verde-Sommerzeit"
+                "generic": "Cabo-Verde-Zeit",
+                "standard": "Cabo-Verde-Normalzeit",
+                "daylight": "Cabo-Verde-Sommerzeit"
               }
             },
             "Casey": {
@@ -2179,6 +2194,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ponape-Zeit"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pjöngjang-Zeit"
               }
             },
             "Qyzylorda": {

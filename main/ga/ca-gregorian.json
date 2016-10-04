@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ga"
       },
@@ -317,6 +317,11 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "'seachtain' 'a' W 'i' MMM",
+                "MMMMW": "'seachtain' 'a' W 'i' MMM",
+                "MMMMW": "'seachtain' 'a' W 'i' MMM",
+                "MMMMW": "'seachtain' 'a' W 'i' MMM",
+                "MMMMW": "'seachtain' 'a' W 'i' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -327,7 +332,12 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'seachtain' 'a' w 'i' y",
+                "yw": "'seachtain' 'a' w 'i' y",
+                "yw": "'seachtain' 'a' w 'i' y",
+                "yw": "'seachtain' 'a' w 'i' y",
+                "yw": "'seachtain' 'a' w 'i' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

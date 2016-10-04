@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12954 $",
+          "_cldrVersion": "30"
         },
         "language": "bn",
         "territory": "IN"
@@ -15,8 +15,8 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "জানুয়ারী",
-                  "2": "ফেব্রুয়ারী",
+                  "1": "জানু",
+                  "2": "ফেব",
                   "3": "মার্চ",
                   "4": "এপ্রিল",
                   "5": "মে",
@@ -245,8 +245,8 @@
                   "night1": "রাত্রি"
                 },
                 "wide": {
-                  "am": "পূর্বাহ্ণ",
-                  "pm": "অপরাহ্ণ",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "ভোর",
                   "morning2": "সকাল",
                   "afternoon1": "দুপুর",
@@ -356,6 +356,8 @@
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E d MMMM",
+                "MMMMW": "MMM এর Wয় সপ্তাহ",
+                "MMMMW": "MMM এর Wয় সপ্তাহ",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -367,7 +369,9 @@
                 "yMMMEd": "E, d MMM, y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "y এর wতম সপ্তাহ",
+                "yw": "y এর wতম সপ্তাহ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

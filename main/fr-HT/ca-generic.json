@@ -3,8 +3,8 @@
     "fr-HT": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11994 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12763 $",
+          "_cldrVersion": "30"
         },
         "language": "fr",
         "territory": "HT"
@@ -225,7 +225,7 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -235,7 +235,7 @@
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -252,12 +252,12 @@
                   "morning1": "du matin",
                   "afternoon1": "de l’après-midi",
                   "evening1": "du soir",
-                  "night1": "de nuit"
+                  "night1": "de la nuit"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -267,7 +267,7 @@
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",

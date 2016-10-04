@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ko",
         "territory": "KP"
@@ -52,9 +52,9 @@
           },
           "quarter": {
             "displayName": "분기",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "지난 분기",
+            "relative-type-0": "이번 분기",
+            "relative-type-1": "다음 분기",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}분기 후"
             },
@@ -64,9 +64,9 @@
           },
           "quarter-short": {
             "displayName": "분기",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "지난 분기",
+            "relative-type-0": "이번 분기",
+            "relative-type-1": "다음 분기",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}분기 후"
             },
@@ -76,9 +76,9 @@
           },
           "quarter-narrow": {
             "displayName": "분기",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "지난 분기",
+            "relative-type-0": "이번 분기",
+            "relative-type-1": "다음 분기",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}분기 후"
             },
@@ -132,7 +132,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0}주 전"
-            }
+            },
+            "relativePeriod": "{0}번째 주"
           },
           "week-short": {
             "displayName": "주",
@@ -144,7 +145,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0}주 전"
-            }
+            },
+            "relativePeriod": "{0}번째 주"
           },
           "week-narrow": {
             "displayName": "주",
@@ -156,7 +158,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0}주 전"
-            }
+            },
+            "relativePeriod": "{0}번째 주"
           },
           "day": {
             "displayName": "일",
@@ -206,113 +209,240 @@
           "sun": {
             "relative-type--1": "지난 일요일",
             "relative-type-0": "이번 일요일",
-            "relative-type-1": "다음 일요일"
+            "relative-type-1": "다음 일요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 일요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 일요일"
+            }
           },
           "sun-short": {
             "relative-type--1": "지난 일요일",
             "relative-type-0": "이번 일요일",
-            "relative-type-1": "다음 일요일"
+            "relative-type-1": "다음 일요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 일요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 일요일"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "지난 일요일",
             "relative-type-0": "이번 일요일",
-            "relative-type-1": "다음 일요일"
+            "relative-type-1": "다음 일요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 일요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 일요일"
+            }
           },
           "mon": {
             "relative-type--1": "지난 월요일",
             "relative-type-0": "이번 월요일",
-            "relative-type-1": "다음 월요일"
+            "relative-type-1": "다음 월요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 월요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 월요일"
+            }
           },
           "mon-short": {
             "relative-type--1": "지난 월요일",
             "relative-type-0": "이번 월요일",
-            "relative-type-1": "다음 월요일"
+            "relative-type-1": "다음 월요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 월요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 월요일"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "지난 월요일",
             "relative-type-0": "이번 월요일",
-            "relative-type-1": "다음 월요일"
+            "relative-type-1": "다음 월요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 월요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 월요일"
+            }
           },
           "tue": {
             "relative-type--1": "지난 화요일",
             "relative-type-0": "이번 화요일",
-            "relative-type-1": "다음 화요일"
+            "relative-type-1": "다음 화요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 화요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 화요일"
+            }
           },
           "tue-short": {
             "relative-type--1": "지난 화요일",
             "relative-type-0": "이번 화요일",
-            "relative-type-1": "다음 화요일"
+            "relative-type-1": "다음 화요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 화요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 화요일"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "지난 화요일",
             "relative-type-0": "이번 화요일",
-            "relative-type-1": "다음 화요일"
+            "relative-type-1": "다음 화요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 화요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 화요일"
+            }
           },
           "wed": {
             "relative-type--1": "지난 수요일",
             "relative-type-0": "이번 수요일",
-            "relative-type-1": "다음 수요일"
+            "relative-type-1": "다음 수요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 수요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 수요일"
+            }
           },
           "wed-short": {
             "relative-type--1": "지난 수요일",
             "relative-type-0": "이번 수요일",
-            "relative-type-1": "다음 수요일"
+            "relative-type-1": "다음 수요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 수요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 수요일"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "지난 수요일",
             "relative-type-0": "이번 수요일",
-            "relative-type-1": "다음 수요일"
+            "relative-type-1": "다음 수요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 수요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 수요일"
+            }
           },
           "thu": {
             "relative-type--1": "지난 목요일",
             "relative-type-0": "이번 목요일",
-            "relative-type-1": "다음 목요일"
+            "relative-type-1": "다음 목요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 목요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 목요일"
+            }
           },
           "thu-short": {
             "relative-type--1": "지난 목요일",
             "relative-type-0": "이번 목요일",
-            "relative-type-1": "다음 목요일"
+            "relative-type-1": "다음 목요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 목요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 목요일"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "지난 목요일",
             "relative-type-0": "이번 목요일",
-            "relative-type-1": "다음 목요일"
+            "relative-type-1": "다음 목요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 목요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 목요일"
+            }
           },
           "fri": {
             "relative-type--1": "지난 금요일",
             "relative-type-0": "이번 금요일",
-            "relative-type-1": "다음 금요일"
+            "relative-type-1": "다음 금요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 금요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 금요일"
+            }
           },
           "fri-short": {
             "relative-type--1": "지난 금요일",
             "relative-type-0": "이번 금요일",
-            "relative-type-1": "다음 금요일"
+            "relative-type-1": "다음 금요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 금요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 금요일"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "지난 금요일",
             "relative-type-0": "이번 금요일",
-            "relative-type-1": "다음 금요일"
+            "relative-type-1": "다음 금요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 금요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 금요일"
+            }
           },
           "sat": {
             "relative-type--1": "지난 토요일",
             "relative-type-0": "이번 토요일",
-            "relative-type-1": "다음 토요일"
+            "relative-type-1": "다음 토요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 토요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 토요일"
+            }
           },
           "sat-short": {
             "relative-type--1": "지난 토요일",
             "relative-type-0": "이번 토요일",
-            "relative-type-1": "다음 토요일"
+            "relative-type-1": "다음 토요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 토요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 토요일"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "지난 토요일",
             "relative-type-0": "이번 토요일",
-            "relative-type-1": "다음 토요일"
+            "relative-type-1": "다음 토요일",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}주 후 토요일"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}주 전 토요일"
+            }
           },
           "dayperiod": {
             "displayName": "오전/오후"
           },
           "hour": {
             "displayName": "시",
+            "relative-type-0": "현재 시간",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}시간 후"
             },
@@ -322,6 +452,7 @@
           },
           "hour-short": {
             "displayName": "시",
+            "relative-type-0": "현재 시간",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}시간 후"
             },
@@ -331,6 +462,7 @@
           },
           "hour-narrow": {
             "displayName": "시",
+            "relative-type-0": "현재 시간",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}시간 후"
             },
@@ -340,6 +472,7 @@
           },
           "minute": {
             "displayName": "분",
+            "relative-type-0": "현재 분",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}분 후"
             },
@@ -349,6 +482,7 @@
           },
           "minute-short": {
             "displayName": "분",
+            "relative-type-0": "현재 분",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}분 후"
             },
@@ -358,6 +492,7 @@
           },
           "minute-narrow": {
             "displayName": "분",
+            "relative-type-0": "현재 분",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}분 후"
             },

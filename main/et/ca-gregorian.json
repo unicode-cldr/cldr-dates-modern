@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "et"
       },
@@ -224,14 +224,20 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
+                  "midnight": "keskööl",
                   "am": "AM",
-                  "pm": "PM"
+                  "noon": "keskpäeval",
+                  "pm": "PM",
+                  "morning1": "hommikul",
+                  "afternoon1": "pärastlõunal",
+                  "evening1": "õhtul",
+                  "night1": "öösel"
                 },
                 "narrow": {
                   "midnight": "keskööl",
-                  "am": "a",
-                  "noon": "n",
-                  "pm": "p",
+                  "am": "AM",
+                  "noon": "keskpäeval",
+                  "pm": "PM",
                   "morning1": "hommikul",
                   "afternoon1": "pärastlõunal",
                   "evening1": "õhtul",
@@ -250,12 +256,24 @@
               },
               "stand-alone": {
                 "abbreviated": {
+                  "midnight": "kesköö",
                   "am": "AM",
-                  "pm": "PM"
+                  "noon": "keskpäev",
+                  "pm": "PM",
+                  "morning1": "hommik",
+                  "afternoon1": "pärastlõuna",
+                  "evening1": "õhtu",
+                  "night1": "öö"
                 },
                 "narrow": {
+                  "midnight": "kesköö",
                   "am": "AM",
-                  "pm": "PM"
+                  "noon": "keskpäev",
+                  "pm": "PM",
+                  "morning1": "hommik",
+                  "afternoon1": "pärastlõuna",
+                  "evening1": "õhtu",
+                  "night1": "öö"
                 },
                 "wide": {
                   "midnight": "kesköö",
@@ -296,10 +314,10 @@
               "short": "dd.MM.yy"
             },
             "timeFormats": {
-              "full": "H:mm.ss zzzz",
-              "long": "H:mm.ss z",
-              "medium": "H:mm.ss",
-              "short": "H:mm"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -312,8 +330,8 @@
                 "Ed": "E, d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
-                "Ehms": "E h:mm.ss a",
-                "EHms": "E HH:mm.ss",
+                "Ehms": "E h:mm:ss a",
+                "EHms": "E HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
                 "GyMMMd": "d. MMM y G",
@@ -322,10 +340,10 @@
                 "H": "HH",
                 "hm": "h:mm a",
                 "Hm": "HH:mm",
-                "hms": "h:mm.ss a",
-                "Hms": "H:mm.ss",
-                "hmsv": "h:mm.ss a v",
-                "Hmsv": "HH:mm.ss v",
+                "hms": "h:mm:ss a",
+                "Hms": "HH:mm:ss",
+                "hmsv": "h:mm:ss a v",
+                "Hmsv": "HH:mm:ss v",
                 "hmv": "h:mm a v",
                 "Hmv": "HH:mm v",
                 "M": "M",
@@ -336,8 +354,10 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "mmss": "mm.ss",
-                "ms": "mm.ss",
+                "MMMMW": "MMM (W. 'nädal')",
+                "MMMMW": "MMM (W. 'nädal')",
+                "mmss": "mm:ss",
+                "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
                 "yMd": "d.M.y",
@@ -347,7 +367,9 @@
                 "yMMMEd": "E, d. MMMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "y (w. 'nädal')",
+                "yw": "y (w. 'nädal')"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

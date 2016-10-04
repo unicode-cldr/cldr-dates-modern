@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "gu"
       },
@@ -15,7 +15,7 @@
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} સમય",
           "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat-type-standard": "{0} માનક સમય",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -166,7 +166,7 @@
                 "exemplarCity": "એલ સેલ્વાડોર"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ફોર્ટ નેલ્સન"
               },
               "Fortaleza": {
                 "exemplarCity": "ફોર્ટાલેઝા"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "ઍંડોરા"
               },
+              "Astrakhan": {
+                "exemplarCity": "આસ્ટ્રખન"
+              },
               "Athens": {
                 "exemplarCity": "એથેંસ"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "કૈવ"
+              },
+              "Kirov": {
+                "exemplarCity": "કીરોવ"
               },
               "Lisbon": {
                 "exemplarCity": "લિસ્બન"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "તિરાને"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "યુલ્યણોવસ્ક"
               },
               "Uzhgorod": {
                 "exemplarCity": "ઉઝ્ગોરોદ"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "બેંગકોક"
               },
+              "Barnaul": {
+                "exemplarCity": "બારનૌલ"
+              },
               "Beirut": {
                 "exemplarCity": "બૈરુત"
               },
@@ -921,7 +933,7 @@
                 "exemplarCity": "ઇર્કુત્સ્ક"
               },
               "Jakarta": {
-                "exemplarCity": "જાકાર્તા"
+                "exemplarCity": "જકાર્તા"
               },
               "Jayapura": {
                 "exemplarCity": "જયાપુરા"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "ટોક્યો"
+              },
+              "Tomsk": {
+                "exemplarCity": "તોમસ્ક"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "ઉલાંબાતર"
@@ -2161,6 +2176,11 @@
             "Ponape": {
               "long": {
                 "standard": "પોનપે સમય"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "યોન્ગ્યાન્ગ સમય"
               }
             },
             "Qyzylorda": {

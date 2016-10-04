@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lt"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "Salvadoras"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "Fort Nelsonas"
               },
               "Fortaleza": {
                 "exemplarCity": "Fortaleza"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andora"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrachanė"
+              },
               "Athens": {
                 "exemplarCity": "Atėnai"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kijevas"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirovas"
               },
               "Lisbon": {
                 "exemplarCity": "Lisabona"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanovskas"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užhorodas"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bankokas"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaulas"
+              },
               "Beirut": {
                 "exemplarCity": "Beirutas"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokijas"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomskas"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Batoras"
@@ -2163,6 +2178,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ponapės laikas"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pchenjano laikas"
               }
             },
             "Qyzylorda": {

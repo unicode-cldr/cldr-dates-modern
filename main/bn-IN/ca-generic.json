@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12954 $",
+          "_cldrVersion": "30"
         },
         "language": "bn",
         "territory": "IN"
@@ -245,8 +245,8 @@
                   "night1": "রাত্রি"
                 },
                 "wide": {
-                  "am": "পূর্বাহ্ণ",
-                  "pm": "অপরাহ্ণ",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "ভোর",
                   "morning2": "সকাল",
                   "afternoon1": "দুপুর",
@@ -422,7 +422,7 @@
                   "M": "E, d/M – E, d/M"
                 },
                 "MMM": {
-                  "M": "LLL–LLL"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
                   "d": "d–d MMM",

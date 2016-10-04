@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12312 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "vi"
       },
@@ -289,27 +289,27 @@
             },
             "eras": {
               "eraNames": {
-                "0": "tr. CN",
+                "0": "Trước CN",
                 "0-alt-variant": "BCE",
                 "1": "sau CN",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "CN"
               },
               "eraAbbr": {
-                "0": "tr. CN",
+                "0": "Trước CN",
                 "0-alt-variant": "BCE",
                 "1": "sau CN",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "CN"
               },
               "eraNarrow": {
                 "0": "tr. CN",
                 "0-alt-variant": "BCE",
                 "1": "sau CN",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "CN"
               }
             },
             "dateFormats": {
-              "full": "EEEE, 'ngày' dd MMMM 'năm' y",
-              "long": "'Ngày' dd 'tháng' MM 'năm' y",
+              "full": "EEEE, d MMMM, y",
+              "long": "d MMMM, y",
               "medium": "d MMM, y",
               "short": "dd/MM/y"
             },
@@ -335,7 +335,7 @@
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
                 "GyMMMd": "dd MMM, y G",
-                "GyMMMEd": "E, d MMM, y G",
+                "GyMMMEd": "E, dd/MM/y G",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -355,6 +355,7 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
+                "MMMMW": "'tuần' W 'của' 'tháng' M",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -367,7 +368,8 @@
                 "yMMMEd": "E, d MMM, y",
                 "yMMMM": "MMMM 'năm' y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ 'năm' y"
+                "yQQQQ": "QQQQ 'năm' y",
+                "yw": "'tuần' w 'của' 'năm' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

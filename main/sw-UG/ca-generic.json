@@ -3,8 +3,8 @@
     "sw-UG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "sw",
         "territory": "UG"
@@ -248,9 +248,9 @@
                 },
                 "wide": {
                   "midnight": "saa sita za usiku",
-                  "am": "AM",
+                  "am": "Asubuhi",
                   "noon": "saa sita za mchana",
-                  "pm": "PM",
+                  "pm": "Mchana",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
                   "afternoon1": "mchana",

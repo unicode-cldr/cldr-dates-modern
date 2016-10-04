@@ -3,8 +3,8 @@
     "de-AT": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12873 $",
+          "_cldrVersion": "30"
         },
         "language": "de",
         "territory": "AT"
@@ -272,8 +272,8 @@
                 },
                 "narrow": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "vm.",
+                  "pm": "nm.",
                   "morning1": "Morgen",
                   "morning2": "Vormittag",
                   "afternoon1": "Mittag",

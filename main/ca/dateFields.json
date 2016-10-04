@@ -3,8 +3,8 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ca"
       },
@@ -47,8 +47,8 @@
             "relative-type-0": "enguany",
             "relative-type-1": "l’any que ve",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} any",
-              "relativeTimePattern-count-other": "en {0} anys"
+              "relativeTimePattern-count-one": "d’aquí a {0} any",
+              "relativeTimePattern-count-other": "d’aquí a {0} anys"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "fa {0} any",
@@ -89,8 +89,8 @@
             "relative-type-0": "aquest trim.",
             "relative-type-1": "trim. vinent",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} trim.",
-              "relativeTimePattern-count-other": "en {0} trim."
+              "relativeTimePattern-count-one": "d’aquí a {0} trim.",
+              "relativeTimePattern-count-other": "d’aquí a {0} trim."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "fa {0} trim.",
@@ -131,8 +131,8 @@
             "relative-type-0": "aquest mes",
             "relative-type-1": "mes vinent",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} mes",
-              "relativeTimePattern-count-other": "en {0} mesos"
+              "relativeTimePattern-count-one": "d’aquí a {0} mes",
+              "relativeTimePattern-count-other": "d’aquí a {0} mesos"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "fa {0} mes",
@@ -151,7 +151,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "fa {0} setmana",
               "relativeTimePattern-count-other": "fa {0} setmanes"
-            }
+            },
+            "relativePeriod": "la setmana del {0}"
           },
           "week-short": {
             "displayName": "setm.",
@@ -165,7 +166,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "fa {0} setm.",
               "relativeTimePattern-count-other": "fa {0} setm."
-            }
+            },
+            "relativePeriod": "la setmana del {0}"
           },
           "week-narrow": {
             "displayName": "setm.",
@@ -173,13 +175,14 @@
             "relative-type-0": "aquesta setm.",
             "relative-type-1": "setm. vinent",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} setm.",
-              "relativeTimePattern-count-other": "en {0} setm."
+              "relativeTimePattern-count-one": "d’aquí a {0} setm.",
+              "relativeTimePattern-count-other": "d’aquí a {0} setm."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "fa {0} setm.",
               "relativeTimePattern-count-other": "fa {0} setm."
-            }
+            },
+            "relativePeriod": "la setmana del {0}"
           },
           "day": {
             "displayName": "dia",
@@ -235,113 +238,282 @@
           "sun": {
             "relative-type--1": "diumenge passat",
             "relative-type-0": "aquest diumenge",
-            "relative-type-1": "diumenge que ve"
+            "relative-type-1": "diumenge que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} diumenge",
+              "relativeTimePattern-count-other": "d’aquí a {0} diumenges"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} diumenge",
+              "relativeTimePattern-count-other": "fa {0} diumenges"
+            }
           },
           "sun-short": {
             "relative-type--1": "dg. passat",
             "relative-type-0": "aquest dg.",
-            "relative-type-1": "dg. que ve"
+            "relative-type-1": "dg. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dg.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dg."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dg.",
+              "relativeTimePattern-count-other": "fa {0} dg."
+            }
           },
           "sun-narrow": {
             "relative-type--1": "dg. passat",
             "relative-type-0": "aquest dg.",
-            "relative-type-1": "dg. que ve"
+            "relative-type-1": "dg. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dg.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dg."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dg.",
+              "relativeTimePattern-count-other": "fa {0} dg."
+            }
           },
           "mon": {
             "relative-type--1": "dilluns passat",
             "relative-type-0": "aquest dilluns",
-            "relative-type-1": "dilluns que ve"
+            "relative-type-1": "dilluns que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dilluns",
+              "relativeTimePattern-count-other": "d’aquí a {0} dilluns"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dilluns",
+              "relativeTimePattern-count-other": "fa {0} dilluns"
+            }
           },
           "mon-short": {
             "relative-type--1": "dl. passat",
             "relative-type-0": "aquest dl.",
-            "relative-type-1": "dl. que ve"
+            "relative-type-1": "dl. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dl.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dl."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dl.",
+              "relativeTimePattern-count-other": "fa {0} dl."
+            }
           },
           "mon-narrow": {
             "relative-type--1": "dl. passat",
             "relative-type-0": "aquest dl.",
-            "relative-type-1": "dl. que ve"
+            "relative-type-1": "dl. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dl.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dl."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dl.",
+              "relativeTimePattern-count-other": "fa {0} dl."
+            }
           },
           "tue": {
             "relative-type--1": "dimarts passat",
             "relative-type-0": "aquest dimarts",
-            "relative-type-1": "dimarts que ve"
+            "relative-type-1": "dimarts que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dimarts",
+              "relativeTimePattern-count-other": "d’aquí a {0} dimarts"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dimarts",
+              "relativeTimePattern-count-other": "fa {0} dimarts"
+            }
           },
           "tue-short": {
             "relative-type--1": "dt. passat",
             "relative-type-0": "aquest dt.",
-            "relative-type-1": "dt. que ve"
+            "relative-type-1": "dt. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dt.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dt.",
+              "relativeTimePattern-count-other": "fa {0} dt."
+            }
           },
           "tue-narrow": {
             "relative-type--1": "dt. passat",
             "relative-type-0": "aquest dt.",
-            "relative-type-1": "dt. que ve"
+            "relative-type-1": "dt. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dt.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dt.",
+              "relativeTimePattern-count-other": "fa {0} dt."
+            }
           },
           "wed": {
             "relative-type--1": "dimecres passat",
             "relative-type-0": "aquest dimecres",
-            "relative-type-1": "dimecres que ve"
+            "relative-type-1": "dimecres que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dimecres",
+              "relativeTimePattern-count-other": "d’aquí a {0} dimecres"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dimecres",
+              "relativeTimePattern-count-other": "fa {0} dimecres"
+            }
           },
           "wed-short": {
             "relative-type--1": "dc. passat",
             "relative-type-0": "aquest dc.",
-            "relative-type-1": "dc. que ve"
+            "relative-type-1": "dc. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dc.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dc."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dc.",
+              "relativeTimePattern-count-other": "fa {0} dc."
+            }
           },
           "wed-narrow": {
             "relative-type--1": "dc. passat",
             "relative-type-0": "aquest dc.",
-            "relative-type-1": "dc. que ve"
+            "relative-type-1": "dc. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dc.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dc."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dc.",
+              "relativeTimePattern-count-other": "fa {0} dc."
+            }
           },
           "thu": {
             "relative-type--1": "dijous passat",
             "relative-type-0": "aquest dijous",
-            "relative-type-1": "dijous que ve"
+            "relative-type-1": "dijous que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dijous",
+              "relativeTimePattern-count-other": "d’aquí a {0} dijous"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dijous",
+              "relativeTimePattern-count-other": "fa {0} dijous"
+            }
           },
           "thu-short": {
             "relative-type--1": "dj. passat",
             "relative-type-0": "aquest dj.",
-            "relative-type-1": "dj. que ve"
+            "relative-type-1": "dj. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dj.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dj."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dj.",
+              "relativeTimePattern-count-other": "fa {0} dj."
+            }
           },
           "thu-narrow": {
             "relative-type--1": "dj. passat",
             "relative-type-0": "aquest dj.",
-            "relative-type-1": "dj. que ve"
+            "relative-type-1": "dj. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dj.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dj."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dj.",
+              "relativeTimePattern-count-other": "fa {0} dj."
+            }
           },
           "fri": {
             "relative-type--1": "divendres passat",
             "relative-type-0": "aquest divendres",
-            "relative-type-1": "divendres que ve"
+            "relative-type-1": "divendres que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} divendres",
+              "relativeTimePattern-count-other": "d’aquí a {0} divendres"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} divendres",
+              "relativeTimePattern-count-other": "fa {0} divendres"
+            }
           },
           "fri-short": {
             "relative-type--1": "dv. passat",
             "relative-type-0": "aquest dv.",
-            "relative-type-1": "dv. que ve"
+            "relative-type-1": "dv. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dv.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dv."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dv.",
+              "relativeTimePattern-count-other": "fa {0} dv."
+            }
           },
           "fri-narrow": {
             "relative-type--1": "dv. passat",
             "relative-type-0": "aquest dv.",
-            "relative-type-1": "dv. que ve"
+            "relative-type-1": "dv. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dv.",
+              "relativeTimePattern-count-other": "d’aquí a {0} dv."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dv.",
+              "relativeTimePattern-count-other": "fa {0} dv."
+            }
           },
           "sat": {
             "relative-type--1": "dissabte passat",
             "relative-type-0": "aquest dissabte",
-            "relative-type-1": "dissabte que ve"
+            "relative-type-1": "dissabte que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} dissabte",
+              "relativeTimePattern-count-other": "d’aquí a {0} dissabtes"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} dissabte",
+              "relativeTimePattern-count-other": "fa {0} dissabtes"
+            }
           },
           "sat-short": {
             "relative-type--1": "ds. passat",
             "relative-type-0": "aquest ds.",
-            "relative-type-1": "ds. que ve"
+            "relative-type-1": "ds. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} ds.",
+              "relativeTimePattern-count-other": "d’aquí a {0} ds."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} ds.",
+              "relativeTimePattern-count-other": "fa {0} ds."
+            }
           },
           "sat-narrow": {
             "relative-type--1": "ds. passat",
             "relative-type-0": "aquest ds.",
-            "relative-type-1": "ds. que ve"
+            "relative-type-1": "ds. que ve",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "d’aquí a {0} ds.",
+              "relativeTimePattern-count-other": "d’aquí a {0} ds."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "fa {0} ds.",
+              "relativeTimePattern-count-other": "fa {0} ds."
+            }
           },
           "dayperiod": {
             "displayName": "a. m./p. m."
           },
           "hour": {
             "displayName": "hora",
+            "relative-type-0": "aquesta hora",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "d’aquí a {0} hora",
               "relativeTimePattern-count-other": "d’aquí a {0} hores"
@@ -353,6 +525,7 @@
           },
           "hour-short": {
             "displayName": "h",
+            "relative-type-0": "aquesta hora",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "d’aquí a {0} h",
               "relativeTimePattern-count-other": "d’aquí a {0} h"
@@ -364,6 +537,7 @@
           },
           "hour-narrow": {
             "displayName": "h",
+            "relative-type-0": "aquesta hora",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "d‘aquí a {0} h",
               "relativeTimePattern-count-other": "d‘aquí a {0} h"
@@ -375,6 +549,7 @@
           },
           "minute": {
             "displayName": "minut",
+            "relative-type-0": "aquest minut",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "d’aquí a {0} minut",
               "relativeTimePattern-count-other": "d’aquí a {0} minuts"
@@ -386,6 +561,7 @@
           },
           "minute-short": {
             "displayName": "min",
+            "relative-type-0": "aquest minut",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "d’aquí a {0} min",
               "relativeTimePattern-count-other": "d’aquí a {0} min"
@@ -397,6 +573,7 @@
           },
           "minute-narrow": {
             "displayName": "min",
+            "relative-type-0": "aquest minut",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "d’aquí a {0} min",
               "relativeTimePattern-count-other": "d’aquí a {0} min"

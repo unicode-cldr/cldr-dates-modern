@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hi"
       },
@@ -225,15 +225,15 @@
               "format": {
                 "abbreviated": {
                   "midnight": "मध्यरात्रि",
-                  "am": "पूर्व",
-                  "pm": "अपर",
+                  "am": "पूर्वाह्न",
+                  "pm": "अपराह्न",
                   "morning1": "सुबह",
                   "afternoon1": "अपराह्न",
                   "evening1": "शाम",
                   "night1": "रात"
                 },
                 "narrow": {
-                  "midnight": "आधी रात",
+                  "midnight": "मध्यरात्रि",
                   "am": "पू",
                   "pm": "अ",
                   "morning1": "सुबह",
@@ -254,10 +254,10 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "मध्यरात्रि",
-                  "am": "पूर्व",
-                  "pm": "अपर",
+                  "am": "पूर्वाह्न",
+                  "pm": "अपराह्न",
                   "morning1": "सुबह",
-                  "afternoon1": "अपराह्न",
+                  "afternoon1": "दोपहर",
                   "evening1": "शाम",
                   "night1": "रात"
                 },
@@ -271,7 +271,7 @@
                   "night1": "रात"
                 },
                 "wide": {
-                  "midnight": "आधी रात",
+                  "midnight": "मध्यरात्रि",
                   "am": "पूर्वाह्न",
                   "pm": "अपराह्न",
                   "morning1": "सुबह",

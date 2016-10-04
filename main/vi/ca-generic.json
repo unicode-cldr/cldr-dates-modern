@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12312 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "vi"
       },
@@ -350,7 +350,7 @@
                 "yyyy": "y G",
                 "yyyyM": "M/y G",
                 "yyyyMd": "d/M/y G",
-                "yyyyMEd": "E, dd-M-y G",
+                "yyyyMEd": "E, d/M/y GGGGG",
                 "yyyyMM": "MM-y G",
                 "yyyyMMM": "MMM y G",
                 "yyyyMMMd": "d MMM, y G",

@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lt"
       },
@@ -359,6 +359,10 @@
                 "MMMM": "LLLL",
                 "MMMMd": "MMMM d 'd'.",
                 "MMMMEd": "MMMM d 'd'., E",
+                "MMMMW": "MMM W 'sav'.",
+                "MMMMW": "MMM W 'sav'.",
+                "MMMMW": "MMM W 'sav'.",
+                "MMMMW": "MMM W 'sav'.",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -371,7 +375,11 @@
                 "yMMMMd": "y 'm'. MMMM d 'd'.",
                 "yMMMMEd": "y 'm'. MMMM d 'd'., E",
                 "yQQQ": "y QQQ",
-                "yQQQQ": "y QQQQ"
+                "yQQQQ": "y QQQQ",
+                "yw": "y w 'sav'.",
+                "yw": "y w 'sav'.",
+                "yw": "y w 'sav'.",
+                "yw": "y w 'sav'."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

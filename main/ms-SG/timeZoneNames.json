@@ -3,8 +3,8 @@
     "ms-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ms",
         "territory": "SG"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Athens"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbon"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirane"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -2112,6 +2127,11 @@
             "Ponape": {
               "long": {
                 "standard": "Waktu Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Waktu Pyongyang"
               }
             },
             "Reunion": {

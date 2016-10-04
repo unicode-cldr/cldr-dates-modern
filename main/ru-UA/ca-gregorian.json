@@ -3,8 +3,8 @@
     "ru-UA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "ru",
         "territory": "UA"
@@ -225,30 +225,30 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "полночь",
-                  "am": "ДП",
-                  "noon": "полдень",
-                  "pm": "ПП",
+                  "midnight": "полн.",
+                  "am": "AM",
+                  "noon": "полд.",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
                   "evening1": "вечера",
                   "night1": "ночи"
                 },
                 "narrow": {
-                  "midnight": "полночь",
-                  "am": "ДП",
-                  "noon": "полдень",
-                  "pm": "ПП",
+                  "midnight": "полн.",
+                  "am": "AM",
+                  "noon": "полд.",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
-                  "evening1": "вечера",
+                  "evening1": "веч.",
                   "night1": "ночи"
                 },
                 "wide": {
                   "midnight": "полночь",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полдень",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
                   "evening1": "вечера",
@@ -258,9 +258,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "веч.",
@@ -268,9 +268,9 @@
                 },
                 "narrow": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "веч.",
@@ -278,9 +278,9 @@
                 },
                 "wide": {
                   "midnight": "полночь",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полдень",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "вечер",
@@ -312,7 +312,7 @@
               "full": "EEEE, d MMMM y 'г'.",
               "long": "d MMMM y 'г'.",
               "medium": "d MMM y 'г'.",
-              "short": "dd.MM.yy"
+              "short": "dd.MM.y"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -334,19 +334,19 @@
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "y 'г'. G",
-                "GyMMM": "LLL y G",
+                "GyMMM": "LLL y 'г'. G",
                 "GyMMMd": "d MMM y 'г'. G",
                 "GyMMMEd": "E, d MMM y 'г'. G",
                 "h": "h a",
-                "H": "H",
+                "H": "HH",
                 "hm": "h:mm a",
-                "Hm": "H:mm",
+                "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
-                "Hms": "H:mm:ss",
+                "Hms": "HH:mm:ss",
                 "hmsv": "h:mm:ss a v",
-                "Hmsv": "H:mm:ss v",
+                "Hmsv": "HH:mm:ss v",
                 "hmv": "h:mm a v",
-                "Hmv": "H:mm v",
+                "Hmv": "HH:mm v",
                 "M": "L",
                 "Md": "dd.MM",
                 "MEd": "E, dd.MM",
@@ -355,18 +355,26 @@
                 "MMMd": "d MMM",
                 "MMMEd": "ccc, d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "W-'я' 'неделя' MMM",
+                "MMMMW": "W-'я' 'неделя' MMM",
+                "MMMMW": "W-'я' 'неделя' MMM",
+                "MMMMW": "W-'я' 'неделя' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
                 "yMd": "dd.MM.y",
-                "yMEd": "ccc, d.MM.y 'г'.",
+                "yMEd": "ccc, d.MM.y",
                 "yMM": "MM.y",
                 "yMMM": "LLL y 'г'.",
                 "yMMMd": "d MMM y 'г'.",
                 "yMMMEd": "E, d MMM y 'г'.",
                 "yMMMM": "LLLL y 'г'.",
                 "yQQQ": "QQQ y 'г'.",
-                "yQQQQ": "QQQQ y 'г'."
+                "yQQQQ": "QQQQ y 'г'.",
+                "yw": "w-'я' 'неделя' y 'г'.",
+                "yw": "w-'я' 'неделя' y 'г'.",
+                "yw": "w-'я' 'неделя' y 'г'.",
+                "yw": "w-'я' 'неделя' y 'г'."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -382,7 +390,7 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0} - {1}",
+                "intervalFormatFallback": "{0} – {1}",
                 "d": {
                   "d": "d–d"
                 },
@@ -391,7 +399,7 @@
                   "h": "h–h a"
                 },
                 "H": {
-                  "H": "H–H"
+                  "H": "HH–HH"
                 },
                 "hm": {
                   "a": "h:mm a – h:mm a",
@@ -399,8 +407,8 @@
                   "m": "h:mm–h:mm a"
                 },
                 "Hm": {
-                  "H": "H:mm–H:mm",
-                  "m": "H:mm–H:mm"
+                  "H": "HH:mm–HH:mm",
+                  "m": "HH:mm–HH:mm"
                 },
                 "hmv": {
                   "a": "h:mm a – h:mm a v",
@@ -408,15 +416,15 @@
                   "m": "h:mm–h:mm a v"
                 },
                 "Hmv": {
-                  "H": "H:mm–H:mm v",
-                  "m": "H:mm–H:mm v"
+                  "H": "HH:mm–HH:mm v",
+                  "m": "HH:mm–HH:mm v"
                 },
                 "hv": {
                   "a": "h a – h a v",
                   "h": "h–h a v"
                 },
                 "Hv": {
-                  "H": "H–H v"
+                  "H": "HH–HH v"
                 },
                 "M": {
                   "M": "M–M"
@@ -461,22 +469,22 @@
                   "y": "ccc, dd.MM.y – ccc, dd.MM.y"
                 },
                 "yMMM": {
-                  "M": "LLL–LLL y 'г'.",
-                  "y": "LLL y – LLL y 'г'."
+                  "M": "LLL – LLL y 'г'.",
+                  "y": "LLL y – LLL y"
                 },
                 "yMMMd": {
                   "d": "d–d MMM y 'г'.",
                   "M": "d MMM – d MMM y 'г'.",
-                  "y": "d MMM y – d MMM y 'г'."
+                  "y": "d MMM y – d MMM y"
                 },
                 "yMMMEd": {
                   "d": "ccc, d – ccc, d MMM y 'г'.",
                   "M": "ccc, d MMM – ccc, d MMM y 'г'.",
-                  "y": "ccc, d MMM y – ccc, d MMM y 'г'."
+                  "y": "ccc, d MMM y – ccc, d MMM y"
                 },
                 "yMMMM": {
-                  "M": "LLLL–LLLL y 'г'.",
-                  "y": "LLLL y – LLLL y 'г'."
+                  "M": "LLLL – LLLL y 'г'.",
+                  "y": "LLLL y – LLLL y"
                 }
               }
             }

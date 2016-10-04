@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ky"
       },
@@ -337,22 +337,22 @@
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "L",
-                "Md": "MM-dd",
-                "MEd": "MM-dd, E",
+                "Md": "dd/MM",
+                "MEd": "dd/MM, E",
                 "MMM": "LLL",
                 "MMMd": "d-MMM",
                 "MMMEd": "d-MMM, E",
-                "MMMMd": "MMMM d",
+                "MMMMd": "d MMMM",
                 "ms": "mm:ss",
                 "y": "y-G",
                 "yyyy": "y-G",
                 "yyyyM": "GGGGG y-MM",
-                "yyyyMd": "GGGGG y-MM-dd",
-                "yyyyMEd": "GGGGG y-MM-dd, E",
+                "yyyyMd": "GGGGG y-dd-MM",
+                "yyyyMEd": "GGGGG y-dd-MM, E",
                 "yyyyMMM": "G y-'ж'. MMM",
                 "yyyyMMMd": "G y-'ж'. d-MMM",
                 "yyyyMMMEd": "G y-'ж'. d-MMM, E",
-                "yyyyMMMM": "G y MMMM",
+                "yyyyMMMM": "G y-'ж'., MMMM",
                 "yyyyQQQ": "G y-'ж'. QQQ",
                 "yyyyQQQQ": "G y-'ж'. QQQQ"
               },
@@ -429,7 +429,7 @@
                   "M": "E, d MMM – E, d MMM"
                 },
                 "y": {
-                  "y": "y–y G"
+                  "y": "y-'ж'.–y-'ж'. G"
                 },
                 "yM": {
                   "M": "MM.y – MM.y G",

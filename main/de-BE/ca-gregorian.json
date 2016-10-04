@@ -3,8 +3,8 @@
     "de-BE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "de",
         "territory": "BE"
@@ -343,7 +343,7 @@
                 "GyMMM": "MMM y G",
                 "GyMMMd": "d. MMM y G",
                 "GyMMMEd": "E, d. MMM y G",
-                "h": "h a",
+                "h": "h 'Uhr' a",
                 "H": "HH 'Uhr'",
                 "hm": "h:mm a",
                 "Hm": "HH:mm",
@@ -363,6 +363,8 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
+                "MMMMW": "'Woche' W 'im' MMM",
+                "MMMMW": "'Woche' W 'im' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -375,7 +377,9 @@
                 "yMMMEd": "E, d. MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'Woche' w 'des' 'Jahres' y",
+                "yw": "'Woche' w 'des' 'Jahres' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -396,8 +400,8 @@
                   "d": "d.–d."
                 },
                 "h": {
-                  "a": "h a – h a",
-                  "h": "h–h a"
+                  "a": "h 'Uhr' a – h 'Uhr' a",
+                  "h": "h – h 'Uhr' a"
                 },
                 "H": {
                   "H": "HH–HH 'Uhr'"

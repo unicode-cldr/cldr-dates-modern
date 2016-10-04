@@ -3,8 +3,8 @@
     "es-HN": {
       "identity": {
         "version": {
-          "_number": "$Revision: $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "es",
         "territory": "HN"
@@ -225,9 +225,9 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "del mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "de la madrugada",
                   "morning2": "de la mañana",
                   "evening1": "de la tarde",
@@ -235,17 +235,17 @@
                 },
                 "narrow": {
                   "am": "a. m.",
-                  "noon": "m.",
+                  "noon": "del mediodía",
                   "pm": "p. m.",
-                  "morning1": "madrugada",
-                  "morning2": "mañana",
-                  "evening1": "tarde",
-                  "night1": "noche"
+                  "morning1": "de la madrugada",
+                  "morning2": "de la mañana",
+                  "evening1": "de la tarde",
+                  "night1": "de la noche"
                 },
                 "wide": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "del mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "de la madrugada",
                   "morning2": "de la mañana",
                   "evening1": "de la tarde",
@@ -254,27 +254,27 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
                   "evening1": "tarde",
                   "night1": "noche"
                 },
                 "narrow": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
                   "evening1": "tarde",
                   "night1": "noche"
                 },
                 "wide": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
                   "evening1": "tarde",
@@ -357,6 +357,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d 'de' MMMM",
                 "MMMMEd": "E, d 'de' MMMM",
+                "MMMMW": "'semana' W 'de' MMM",
+                "MMMMW": "'semana' W 'de' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -370,7 +372,9 @@
                 "yMMMMd": "d 'de' MMMM 'de' y",
                 "yMMMMEd": "EEE, d 'de' MMMM 'de' y",
                 "yQQQ": "QQQ 'de' y",
-                "yQQQQ": "QQQQ 'de' y"
+                "yQQQQ": "QQQQ 'de' y",
+                "yw": "'semana' w 'de' y",
+                "yw": "'semana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -395,7 +399,7 @@
                   "h": "h–h a"
                 },
                 "H": {
-                  "H": "HH – HH"
+                  "H": "H–H"
                 },
                 "hm": {
                   "a": "h:mm a – h:mm a",
@@ -403,8 +407,8 @@
                   "m": "h:mm – h:mm a"
                 },
                 "Hm": {
-                  "H": "HH:mm – HH:mm",
-                  "m": "HH:mm – HH:mm"
+                  "H": "H:mm–H:mm",
+                  "m": "H:mm–H:mm"
                 },
                 "hmv": {
                   "a": "h:mm a–h:mm a v",
@@ -412,15 +416,15 @@
                   "m": "h:mm–h:mm a v"
                 },
                 "Hmv": {
-                  "H": "HH:mm – HH:mm v",
-                  "m": "HH:mm – HH:mm v"
+                  "H": "H:mm–H:mm v",
+                  "m": "H:mm–H:mm v"
                 },
                 "hv": {
                   "a": "h a–h a v",
                   "h": "h–h a v"
                 },
                 "Hv": {
-                  "H": "HH – HH v"
+                  "H": "H–H v"
                 },
                 "M": {
                   "M": "M–M"

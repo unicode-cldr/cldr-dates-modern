@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12311 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ur"
       },
@@ -245,8 +245,8 @@
                 },
                 "wide": {
                   "midnight": "آدھی رات",
-                  "am": "قبل دوپہر",
-                  "pm": "بعد دوپہر",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "صبح",
                   "afternoon1": "دوپہر",
                   "afternoon2": "سہ پہر",
@@ -267,8 +267,8 @@
                 },
                 "narrow": {
                   "midnight": "آدھی رات",
-                  "am": "a",
-                  "pm": "p",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "صبح",
                   "afternoon1": "دوپہر",
                   "afternoon2": "سہ پہر",

@@ -3,8 +3,8 @@
     "ta-SG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ta",
         "territory": "SG"
@@ -195,10 +195,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1ஆம் காலாண்டு",
-                  "2": "2ஆம் காலாண்டு",
-                  "3": "3ஆம் காலாண்டு",
-                  "4": "4ஆம் காலாண்டு"
+                  "1": "ஒன்றாம் காலாண்டு",
+                  "2": "இரண்டாம் காலாண்டு",
+                  "3": "மூன்றாம் காலாண்டு",
+                  "4": "நான்காம் காலாண்டு"
                 }
               },
               "stand-alone": {
@@ -215,10 +215,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1ஆம் காலாண்டு",
-                  "2": "2ஆம் காலாண்டு",
-                  "3": "3ஆம் காலாண்டு",
-                  "4": "4ஆம் காலாண்டு"
+                  "1": "ஒன்றாம் காலாண்டு",
+                  "2": "இரண்டாம் காலாண்டு",
+                  "3": "மூன்றாம் காலாண்டு",
+                  "4": "நான்காம் காலாண்டு"
                 }
               }
             },
@@ -324,7 +324,7 @@
               "full": "EEEE, d MMMM, y G",
               "long": "d MMMM, y G",
               "medium": "d MMM, y G",
-              "short": "d-M-y GGGGG"
+              "short": "d/M/y GGGGG"
             },
             "timeFormats": {
               "full": "a h:mm:ss zzzz",
@@ -393,7 +393,7 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "d": {
-                  "d": "d–d"
+                  "d": "d – d"
                 },
                 "h": {
                   "a": "a h – a h",
@@ -428,7 +428,7 @@
                   "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "M–M"
+                  "M": "M – M"
                 },
                 "Md": {
                   "d": "d/M – d/M",
@@ -439,10 +439,10 @@
                   "M": "E, d/M – E, d/M"
                 },
                 "MMM": {
-                  "M": "MMM–MMM"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
-                  "d": "d–d MMM",
+                  "d": "d – d MMM",
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
@@ -450,7 +450,7 @@
                   "M": "E, d MMM – E, d MMM"
                 },
                 "y": {
-                  "y": "y–y G"
+                  "y": "y – y G"
                 },
                 "yM": {
                   "M": "M/y – M/y G",
@@ -467,11 +467,11 @@
                   "y": "E, d/M/y – E, d/M/y G"
                 },
                 "yMMM": {
-                  "M": "MMM–MMM y G",
+                  "M": "MMM – MMM y G",
                   "y": "MMM y – MMM y G"
                 },
                 "yMMMd": {
-                  "d": "d–d MMM, y G",
+                  "d": "d – d MMM, y G",
                   "M": "d MMM – d MMM, y G",
                   "y": "d MMM, y – d MMM, y G"
                 },

@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sl"
       },
@@ -124,7 +124,7 @@
                 "exemplarCity": "Atikokan"
               },
               "Cordoba": {
-                "exemplarCity": "Kordova"
+                "exemplarCity": "Cordoba"
               },
               "Costa_Rica": {
                 "exemplarCity": "Kostarika"
@@ -187,7 +187,7 @@
                 "exemplarCity": "Grenada"
               },
               "Guadeloupe": {
-                "exemplarCity": "Gvadelup"
+                "exemplarCity": "Guadeloupe"
               },
               "Guatemala": {
                 "exemplarCity": "Gvatemala"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andora"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrahan"
+              },
               "Athens": {
                 "exemplarCity": "Atene"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kijev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lizbona"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užgorod"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Bejrut"
               },
@@ -882,7 +894,7 @@
                 "exemplarCity": "Kolkata"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "Čita"
               },
               "Choibalsan": {
                 "exemplarCity": "Čojbalsan"
@@ -1026,7 +1038,7 @@
                 "exemplarCity": "Singapur"
               },
               "Srednekolymsk": {
-                "exemplarCity": "Srednekolymsk"
+                "exemplarCity": "Srednekolimsk"
               },
               "Taipei": {
                 "exemplarCity": "Tajpej"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -1839,9 +1854,9 @@
             },
             "Irkutsk": {
               "long": {
-                "generic": "Irkutški čas",
-                "standard": "Irkutški standardni čas",
-                "daylight": "Irkutški poletni čas"
+                "generic": "Irkutski čas",
+                "standard": "Irkutski standardni čas",
+                "daylight": "Irkutski poletni čas"
               }
             },
             "Israel": {
@@ -1889,9 +1904,9 @@
             },
             "Krasnoyarsk": {
               "long": {
-                "generic": "Krasnojarški čas",
-                "standard": "Krasnojarški standardni čas",
-                "daylight": "Krasnojarški poletni čas"
+                "generic": "Krasnojarski čas",
+                "standard": "Krasnojarski standardni čas",
+                "daylight": "Krasnojarski poletni čas"
               }
             },
             "Kyrgystan": {
@@ -1957,16 +1972,16 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Čas: severozahod Mehike",
-                "standard": "Standardni čas: severozahod Mehike",
-                "daylight": "Poletni čas: severozahod Mehike"
+                "generic": "mehiški severozahodni čas",
+                "standard": "mehiški severozahodni standardni čas",
+                "daylight": "mehiški severozahodni poletni čas"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "Čas: pacifiška obala Mehike",
-                "standard": "Standardni čas: pacifiška obala Mehike",
-                "daylight": "Poletni čas: pacifiška obala Mehike"
+                "generic": "mehiški pacifiški čas",
+                "standard": "mehiški pacifiški standardni čas",
+                "daylight": "mehiški pacifiški poletni čas"
               }
             },
             "Mongolia": {
@@ -2038,16 +2053,16 @@
             },
             "Novosibirsk": {
               "long": {
-                "generic": "Novosibirški čas",
-                "standard": "Novosibirški standardni čas",
-                "daylight": "Novosibirški poletni čas"
+                "generic": "Novosibirski čas",
+                "standard": "Novosibirski standardni čas",
+                "daylight": "Novosibirski poletni čas"
               }
             },
             "Omsk": {
               "long": {
-                "generic": "Omški čas",
-                "standard": "Omški standardni čas",
-                "daylight": "Omški poletni čas"
+                "generic": "Omski čas",
+                "standard": "Omski standardni čas",
+                "daylight": "Omski poletni čas"
               }
             },
             "Pakistan": {
@@ -2108,6 +2123,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ponapski čas"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pjongjanški čas"
               }
             },
             "Reunion": {
@@ -2259,7 +2279,7 @@
             },
             "Vostok": {
               "long": {
-                "standard": "Čas: Vostok"
+                "standard": "vostoški čas"
               }
             },
             "Wake": {

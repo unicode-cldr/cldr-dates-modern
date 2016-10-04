@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mk"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "Ел Салвадор"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "Форт Нелсон"
               },
               "Fortaleza": {
                 "exemplarCity": "Форталеза"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Андора"
               },
+              "Astrakhan": {
+                "exemplarCity": "Астрахан"
+              },
               "Athens": {
                 "exemplarCity": "Атина"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Киев"
+              },
+              "Kirov": {
+                "exemplarCity": "Киров"
               },
               "Lisbon": {
                 "exemplarCity": "Лисабон"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Тирана"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Улјановск"
               },
               "Uzhgorod": {
                 "exemplarCity": "Ужхород"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Бангкок"
               },
+              "Barnaul": {
+                "exemplarCity": "Барнаул"
+              },
               "Beirut": {
                 "exemplarCity": "Бејрут"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Токио"
+              },
+              "Tomsk": {
+                "exemplarCity": "Томск"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Улан Батор"
@@ -1485,7 +1500,7 @@
               "long": {
                 "generic": "Арапско време",
                 "standard": "Стандардно арапско време",
-                "daylight": "Арапски летно сметање на времето"
+                "daylight": "Арапско летно сметање на времето"
               }
             },
             "Argentina": {
@@ -2123,6 +2138,11 @@
             "Ponape": {
               "long": {
                 "standard": "Време во Понапе"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Пјонгјанг"
               }
             },
             "Reunion": {

@@ -3,8 +3,8 @@
     "fr-CM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "fr",
         "territory": "CM"
@@ -225,20 +225,20 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "min.",
-                  "am": "AM",
+                  "midnight": "minuit",
+                  "am": "mat.",
                   "noon": "midi",
-                  "pm": "PM",
+                  "pm": "soir",
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
-                  "am": "AM",
+                  "midnight": "minuit",
+                  "am": "mat.",
                   "noon": "midi",
-                  "pm": "PM",
+                  "pm": "soir",
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
@@ -246,9 +246,9 @@
                 },
                 "wide": {
                   "midnight": "minuit",
-                  "am": "AM",
+                  "am": "matin",
                   "noon": "midi",
-                  "pm": "PM",
+                  "pm": "soir",
                   "morning1": "du matin",
                   "afternoon1": "de l’après-midi",
                   "evening1": "du soir",
@@ -257,20 +257,20 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "min.",
-                  "am": "AM",
+                  "midnight": "minuit",
+                  "am": "mat.",
                   "noon": "midi",
-                  "pm": "PM",
+                  "pm": "soir",
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
-                  "am": "AM",
+                  "midnight": "minuit",
+                  "am": "mat.",
                   "noon": "midi",
-                  "pm": "PM",
+                  "pm": "soir",
                   "morning1": "mat.",
                   "afternoon1": "ap.m.",
                   "evening1": "soir",
@@ -278,9 +278,9 @@
                 },
                 "wide": {
                   "midnight": "minuit",
-                  "am": "AM",
+                  "am": "matin",
                   "noon": "midi",
-                  "pm": "PM",
+                  "pm": "soir",
                   "morning1": "matin",
                   "afternoon1": "après-midi",
                   "evening1": "soir",

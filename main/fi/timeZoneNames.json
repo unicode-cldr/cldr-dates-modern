@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12988 $",
+          "_cldrVersion": "30"
         },
         "language": "fi"
       },
@@ -511,6 +511,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrahan"
+              },
               "Athens": {
                 "exemplarCity": "Ateena"
               },
@@ -533,7 +536,7 @@
                 "exemplarCity": "Budapest"
               },
               "Busingen": {
-                "exemplarCity": "Busingen"
+                "exemplarCity": "Büsingen"
               },
               "Chisinau": {
                 "exemplarCity": "Chişinău"
@@ -570,6 +573,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiova"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lissabon"
@@ -649,6 +655,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užgorod"
@@ -873,6 +882,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1049,6 +1061,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -2169,6 +2184,11 @@
                 "standard": "Pohnpein aika"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pjongjangin aika"
+              }
+            },
             "Qyzylorda": {
               "long": {
                 "generic": "Qızılordan aika",
@@ -2229,7 +2249,7 @@
             },
             "Suriname": {
               "long": {
-                "standard": "Surinamin aika"
+                "standard": "Surinamen aika"
               }
             },
             "Syowa": {

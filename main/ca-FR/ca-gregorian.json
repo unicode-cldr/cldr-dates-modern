@@ -3,8 +3,8 @@
     "ca-FR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ca",
         "territory": "FR"
@@ -15,18 +15,18 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "gen.",
-                  "2": "febr.",
-                  "3": "març",
-                  "4": "abr.",
-                  "5": "maig",
-                  "6": "juny",
-                  "7": "jul.",
-                  "8": "ag.",
-                  "9": "set.",
-                  "10": "oct.",
-                  "11": "nov.",
-                  "12": "des."
+                  "1": "de gen.",
+                  "2": "de febr.",
+                  "3": "de març",
+                  "4": "d’abr.",
+                  "5": "de maig",
+                  "6": "de juny",
+                  "7": "de jul.",
+                  "8": "d’ag.",
+                  "9": "de set.",
+                  "10": "d’oct.",
+                  "11": "de nov.",
+                  "12": "de des."
                 },
                 "narrow": {
                   "1": "GN",
@@ -328,7 +328,7 @@
             },
             "dateTimeFormats": {
               "full": "{1} 'a' 'les' {0}",
-              "long": "{1}, {0}",
+              "long": "{1} 'a' 'les' {0}",
               "medium": "{1}, {0}",
               "short": "{1} {0}",
               "availableFormats": {
@@ -341,8 +341,8 @@
                 "EHms": "E H:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "LLL y G",
-                "GyMMMd": "d MMM y G",
-                "GyMMMEd": "E, d MMM y G",
+                "GyMMMd": "d MMM 'de' y G",
+                "GyMMMEd": "E, d MMM 'de' y G",
                 "GyMMMM": "LLLL 'de' y G",
                 "GyMMMMd": "d MMMM 'de' y G",
                 "GyMMMMEd": "E, d MMMM 'de' y G",
@@ -364,19 +364,23 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
+                "MMMMW": "'setmana' W MMMM",
+                "MMMMW": "'setmana' W MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
                 "yMd": "d/M/y",
                 "yMEd": "E, d/M/y",
                 "yMMM": "LLL 'de' y",
-                "yMMMd": "d MMM y",
+                "yMMMd": "d LLL y",
                 "yMMMEd": "E, d MMM y",
                 "yMMMM": "LLLL 'de' y",
                 "yMMMMd": "d MMMM 'de' y",
                 "yMMMMEd": "E, d MMMM 'de' y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'setmana' w 'de' y",
+                "yw": "'setmana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12922 $",
+          "_cldrVersion": "30"
         },
         "language": "zu"
       },
@@ -42,7 +42,7 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "Januwari",
+                  "1": "UMasingana",
                   "2": "Februwari",
                   "3": "Mashi",
                   "4": "Ephreli",
@@ -226,27 +226,27 @@
                 "abbreviated": {
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "ekuseni",
+                  "morning1": "entathakusa",
                   "morning2": "ekuseni",
-                  "afternoon1": "ntambama",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "narrow": {
                   "am": "a",
                   "pm": "p",
-                  "morning1": "ekuseni",
+                  "morning1": "entathakusa",
                   "morning2": "ekuseni",
-                  "afternoon1": "ntambama",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "wide": {
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "ekuseni",
-                  "morning2": "ekuseni2",
-                  "afternoon1": "ntambama",
+                  "morning1": "entathakusa",
+                  "morning2": "ekuseni",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 }
@@ -258,7 +258,7 @@
                   "morning1": "entathakusa",
                   "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "narrow": {
@@ -267,16 +267,16 @@
                   "morning1": "entathakusa",
                   "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "wide": {
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "entathakusa",
-                  "morning2": "ekuseni2",
+                  "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 }
               }
@@ -308,10 +308,10 @@
               "short": "M/d/yy"
             },
             "timeFormats": {
-              "full": "h:mm:ss a zzzz",
-              "long": "h:mm:ss a z",
-              "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -341,23 +341,27 @@
                 "hmv": "h:mm a v",
                 "Hmv": "HH:mm v",
                 "M": "L",
-                "Md": "M/d",
-                "MEd": "E, M/d",
+                "Md": "MM-dd",
+                "MEd": "MM-dd, E",
                 "MMM": "LLL",
                 "MMMd": "MMM d",
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
-                "yM": "M/y",
-                "yMd": "M/d/y",
-                "yMEd": "E, M/d/y",
+                "yM": "y-MM",
+                "yMd": "y-MM-dd",
+                "yMEd": "y-MM-dd, E",
                 "yMMM": "MMM y",
                 "yMMMd": "MMM d, y",
                 "yMMMEd": "E, MMM d, y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -379,38 +383,38 @@
                 },
                 "h": {
                   "a": "h a – h a",
-                  "h": "h–h a"
+                  "h": "h – h a"
                 },
                 "H": {
-                  "H": "HH–HH"
+                  "H": "HH – HH"
                 },
                 "hm": {
                   "a": "h:mm a – h:mm a",
-                  "h": "h:mm–h:mm a",
-                  "m": "h:mm–h:mm a"
+                  "h": "h:mm – h:mm a",
+                  "m": "h:mm – h:mm a"
                 },
                 "Hm": {
-                  "H": "HH:mm–HH:mm",
-                  "m": "HH:mm–HH:mm"
+                  "H": "HH:mm – HH:mm",
+                  "m": "HH:mm – HH:mm"
                 },
                 "hmv": {
                   "a": "h:mm a – h:mm a v",
-                  "h": "h:mm–h:mm a v",
-                  "m": "h:mm–h:mm a v"
+                  "h": "h:mm – h:mm a v",
+                  "m": "h:mm – h:mm a v"
                 },
                 "Hmv": {
-                  "H": "HH:mm–HH:mm v",
-                  "m": "HH:mm–HH:mm v"
+                  "H": "HH:mm – HH:mm v",
+                  "m": "HH:mm – HH:mm v"
                 },
                 "hv": {
                   "a": "h a – h a v",
-                  "h": "h–h a v"
+                  "h": "h – h a v"
                 },
                 "Hv": {
-                  "H": "HH–HH v"
+                  "H": "HH – HH v"
                 },
                 "M": {
-                  "M": "M–M"
+                  "M": "M – M"
                 },
                 "Md": {
                   "d": "M/d – M/d",
@@ -421,10 +425,10 @@
                   "M": "E, M/d – E, M/d"
                 },
                 "MMM": {
-                  "M": "MMM–MMM"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
-                  "d": "MMM d–d",
+                  "d": "MMM d – d",
                   "M": "MMM d – MMM d"
                 },
                 "MMMEd": {
@@ -449,11 +453,11 @@
                   "y": "E, M/d/y – E, M/d/y"
                 },
                 "yMMM": {
-                  "M": "MMM–MMM y",
+                  "M": "MMM – MMM y",
                   "y": "MMM y – MMM y"
                 },
                 "yMMMd": {
-                  "d": "MMM d–d, y",
+                  "d": "MMM d – d, y",
                   "M": "MMM d – MMM d, y",
                   "y": "MMM d, y – MMM d, y"
                 },
@@ -463,7 +467,7 @@
                   "y": "E, MMM d, y – E, MMM d, y"
                 },
                 "yMMMM": {
-                  "M": "MMMM–MMMM y",
+                  "M": "MMMM – MMMM y",
                   "y": "MMMM y – MMMM y"
                 }
               }

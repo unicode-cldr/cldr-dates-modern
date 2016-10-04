@@ -3,8 +3,8 @@
     "ca-ES-VALENCIA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ca",
         "territory": "ES",
@@ -117,7 +117,7 @@
                 "exemplarCity": "Caiman"
               },
               "Chicago": {
-                "exemplarCity": "Xicago"
+                "exemplarCity": "Chicago"
               },
               "Chihuahua": {
                 "exemplarCity": "Chihuahua"
@@ -510,6 +510,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Atenes"
               },
@@ -569,6 +572,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kíev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisboa"
@@ -647,6 +653,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uliànovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -871,6 +880,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1001,7 +1013,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qyzylorda": {
-                "exemplarCity": "Kizilordà"
+                "exemplarCity": "Kizil-Orda"
               },
               "Rangoon": {
                 "exemplarCity": "Rangoon"
@@ -1047,6 +1059,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tòquio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -2135,6 +2150,11 @@
             "Ponape": {
               "long": {
                 "standard": "Hora de Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Hora de Pyongyang"
               }
             },
             "Reunion": {

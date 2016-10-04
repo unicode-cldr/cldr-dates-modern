@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "km"
       },
@@ -113,6 +113,15 @@
                   "sat": "សៅរ៍"
                 },
                 "narrow": {
+                  "sun": "អ",
+                  "mon": "ច",
+                  "tue": "អ",
+                  "wed": "ព",
+                  "thu": "ព",
+                  "fri": "ស",
+                  "sat": "ស"
+                },
+                "short": {
                   "sun": "អា",
                   "mon": "ច",
                   "tue": "អ",
@@ -120,15 +129,6 @@
                   "thu": "ព្រ",
                   "fri": "សុ",
                   "sat": "ស"
-                },
-                "short": {
-                  "sun": "អាទិត្យ",
-                  "mon": "ច័ន្ទ",
-                  "tue": "អង្គារ",
-                  "wed": "ពុធ",
-                  "thu": "ព្រហស្បតិ៍",
-                  "fri": "សុក្រ",
-                  "sat": "សៅរ៍"
                 },
                 "wide": {
                   "sun": "អាទិត្យ",
@@ -151,6 +151,15 @@
                   "sat": "សៅរ៍"
                 },
                 "narrow": {
+                  "sun": "អ",
+                  "mon": "ច",
+                  "tue": "អ",
+                  "wed": "ព",
+                  "thu": "ព",
+                  "fri": "ស",
+                  "sat": "ស"
+                },
+                "short": {
                   "sun": "អា",
                   "mon": "ច",
                   "tue": "អ",
@@ -158,15 +167,6 @@
                   "thu": "ព្រ",
                   "fri": "សុ",
                   "sat": "ស"
-                },
-                "short": {
-                  "sun": "អាទិត្យ",
-                  "mon": "ច័ន្ទ",
-                  "tue": "អង្គារ",
-                  "wed": "ពុធ",
-                  "thu": "ព្រហស្បតិ៍",
-                  "fri": "សុក្រ",
-                  "sat": "សៅរ៍"
                 },
                 "wide": {
                   "sun": "អាទិត្យ",
@@ -224,30 +224,30 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "អាធ្រាត្រ",
-                  "am": "ព្រឹក",
-                  "noon": "ថ្ងៃ",
-                  "pm": "ល្ងាច",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
+                  "noon": "ថ្ងៃត្រង់",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
                   "night1": "យប់"
                 },
                 "narrow": {
-                  "midnight": "កណ្តាលអាធ្រាត្រ",
-                  "am": "ព្រឹក",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "a",
                   "noon": "ថ្ងៃត្រង់",
-                  "pm": "ល្ងាច",
+                  "pm": "p",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
                   "night1": "យប់"
                 },
                 "wide": {
-                  "midnight": "អាធ្រាត្រ",
-                  "am": "ព្រឹក",
-                  "noon": "ថ្ងៃ",
-                  "pm": "ល្ងាច",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
+                  "noon": "ថ្ងៃត្រង់",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
@@ -256,30 +256,30 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "កណ្តាលអាធ្រាត្រ",
-                  "am": "ព្រឹក",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
                   "noon": "ថ្ងៃ​ត្រង់",
-                  "pm": "ល្ងាច",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
                   "night1": "យប់"
                 },
                 "narrow": {
-                  "midnight": "កណ្តាលអាធ្រាត្រ",
-                  "am": "ព្រឹក",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
                   "noon": "ថ្ងៃ​ត្រង់",
-                  "pm": "ល្ងាច",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
                   "night1": "យប់"
                 },
                 "wide": {
-                  "midnight": "កណ្តាលអាធ្រាត្រ",
-                  "am": "ព្រឹក",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
                   "noon": "ថ្ងៃ​ត្រង់",
-                  "pm": "ល្ងាច",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
@@ -302,8 +302,8 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, d MMMM y G",
-              "long": "d MMMM, y G",
+              "full": "EEEE d MMMM y G",
+              "long": "d MMMM y G",
               "medium": "d MMM y G",
               "short": "d/M/y GGGGG"
             },
@@ -314,8 +314,8 @@
               "short": "h:mm a"
             },
             "dateTimeFormats": {
-              "full": "{1}, {0}",
-              "long": "{1}, {0}",
+              "full": "{1} នៅ​ម៉ោង {0}",
+              "long": "{1} នៅ​ម៉ោង {0}",
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
@@ -337,18 +337,18 @@
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "L",
-                "Md": "d-M",
-                "MEd": "E, d-M",
+                "Md": "d/M",
+                "MEd": "E d/M",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
-                "MMMMd": "MMMM d",
+                "MMMMd": "d MMMM",
                 "ms": "mm:ss",
                 "y": "y G",
                 "yyyy": "y G",
-                "yyyyM": "M-y GGGGG",
-                "yyyyMd": "d-M-y G",
-                "yyyyMEd": "E, d-M-y G",
+                "yyyyM": "M/y GGGGG",
+                "yyyyMd": "d/M/y GGGGG",
+                "yyyyMEd": "E d/M/y GGGGG",
                 "yyyyMMM": "MMM y G",
                 "yyyyMMMd": "d MMM y G",
                 "yyyyMMMEd": "E, d MMM y G",

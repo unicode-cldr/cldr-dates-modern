@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ml"
       },
@@ -33,10 +33,10 @@
                   "3": "മാ",
                   "4": "ഏ",
                   "5": "മെ",
-                  "6": "ജൂ",
+                  "6": "ജൂൺ",
                   "7": "ജൂ",
                   "8": "ഓ",
-                  "9": "സ",
+                  "9": "സെ",
                   "10": "ഒ",
                   "11": "ന",
                   "12": "ഡി"
@@ -77,7 +77,7 @@
                   "3": "മാ",
                   "4": "ഏ",
                   "5": "മെ",
-                  "6": "ജൂ",
+                  "6": "ജൂൺ",
                   "7": "ജൂ",
                   "8": "ഓ",
                   "9": "സെ",
@@ -241,13 +241,13 @@
                   "am": "AM",
                   "noon": "ഉച്ച",
                   "pm": "PM",
-                  "morning1": "പു",
-                  "morning2": "രാ",
+                  "morning1": "പുലർച്ചെ",
+                  "morning2": "രാവിലെ",
                   "afternoon1": "ഉച്ചയ്",
                   "afternoon2": "ഉച്ചതി",
                   "evening1": "വൈ",
-                  "evening2": "സ",
-                  "night1": "രാ"
+                  "evening2": "സന്ധ്യ",
+                  "night1": "രാത്രി"
                 },
                 "wide": {
                   "midnight": "അർദ്ധരാത്രി",
@@ -373,18 +373,22 @@
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "MMMM d, E",
+                "MMMMW": "MMM - ആഴ്ച W",
+                "MMMMW": "MMM - ആഴ്ച W",
                 "ms": "mm:ss",
                 "y": "y",
-                "yM": "M-y",
+                "yM": "y-MM",
                 "yMd": "d/M/y",
                 "yMEd": "d-M-y, E",
-                "yMM": "MM-y",
+                "yMM": "y-MM",
                 "yMMM": "y MMM",
                 "yMMMd": "y MMM d",
                 "yMMMEd": "y MMM d, E",
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
-                "yQQQQ": "y QQQQ"
+                "yQQQQ": "y QQQQ",
+                "yw": "y-ലെ ആഴ്ച w",
+                "yw": "y-ലെ ആഴ്ച w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -440,8 +444,8 @@
                   "M": "MM–MM"
                 },
                 "Md": {
-                  "d": "M/d – M/d",
-                  "M": "M/d – M/d"
+                  "d": "d/M – d/M",
+                  "M": "d/M – d/M"
                 },
                 "MEd": {
                   "d": "d/M, E – d/M, E",

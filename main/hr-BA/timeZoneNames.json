@@ -3,8 +3,8 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "hr",
         "territory": "BA"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "Andora"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Atena"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kijev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisabon"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzgorod"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -1738,7 +1753,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "daljeistočno europsko vrijeme"
+                "standard": "dalekoistočno europsko vrijeme"
               }
             },
             "Europe_Western": {
@@ -2182,6 +2197,11 @@
             "Ponape": {
               "long": {
                 "standard": "vrijeme Ponapea"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "pjongjanško vrijeme"
               }
             },
             "Qyzylorda": {

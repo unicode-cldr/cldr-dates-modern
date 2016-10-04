@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "kn"
       },
@@ -225,8 +225,8 @@
               "format": {
                 "abbreviated": {
                   "midnight": "ಮಧ್ಯ ರಾತ್ರಿ",
-                  "am": "AM",
-                  "pm": "PM",
+                  "am": "ಪೂರ್ವಾಹ್ನ",
+                  "pm": "ಅಪರಾಹ್ನ",
                   "morning1": "ಬೆಳಗ್ಗೆ",
                   "afternoon1": "ಮಧ್ಯಾಹ್ನ",
                   "evening1": "ಸಂಜೆ",
@@ -254,8 +254,8 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "ಮಧ್ಯರಾತ್ರಿ",
-                  "am": "AM",
-                  "pm": "PM",
+                  "am": "ಪೂರ್ವಾಹ್ನ",
+                  "pm": "ಅಪರಾಹ್ನ",
                   "morning1": "ಬೆಳಗ್ಗೆ",
                   "afternoon1": "ಮಧ್ಯಾಹ್ನ",
                   "evening1": "ಸಂಜೆ",
@@ -263,8 +263,8 @@
                 },
                 "narrow": {
                   "midnight": "ಮಧ್ಯರಾತ್ರಿ",
-                  "am": "AM",
-                  "pm": "PM",
+                  "am": "ಪೂರ್ವಾಹ್ನ",
+                  "pm": "ಅಪರಾಹ್ನ",
                   "morning1": "ಬೆಳಗ್ಗೆ",
                   "afternoon1": "ಮಧ್ಯಾಹ್ನ",
                   "evening1": "ಸಂಜೆ",

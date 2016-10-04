@@ -3,8 +3,8 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "uz",
         "script": "Latn"
@@ -16,12 +16,12 @@
           },
           "year": {
             "displayName": "yil",
-            "relative-type--1": "oʻtgan yil",
-            "relative-type-0": "bu yil",
+            "relative-type--1": "o‘tgan yil",
+            "relative-type-0": "shu yil",
             "relative-type-1": "keyingi yil",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} yildan soʻng",
-              "relativeTimePattern-count-other": "{0} yildan so‘ng"
+              "relativeTimePattern-count-one": "{0} yildan keyin",
+              "relativeTimePattern-count-other": "{0} yildan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} yil oldin",
@@ -34,8 +34,8 @@
             "relative-type-0": "bu yil",
             "relative-type-1": "keyingi yil",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} yildan soʻng",
-              "relativeTimePattern-count-other": "{0} yildan so‘ng"
+              "relativeTimePattern-count-one": "{0} yildan keyin",
+              "relativeTimePattern-count-other": "{0} yildan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} yil oldin",
@@ -48,8 +48,8 @@
             "relative-type-0": "bu yil",
             "relative-type-1": "keyingi yil",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} yildan so‘ng",
-              "relativeTimePattern-count-other": "{0} yildan so‘ng"
+              "relativeTimePattern-count-one": "{0} yildan keyin",
+              "relativeTimePattern-count-other": "{0} yildan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} yil oldin",
@@ -58,12 +58,12 @@
           },
           "quarter": {
             "displayName": "chorak",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "o‘tgan chorak",
+            "relative-type-0": "shu chorak",
+            "relative-type-1": "keyingi chorak",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} chorakdan so‘ng",
-              "relativeTimePattern-count-other": "{0} chorakdan so‘ng"
+              "relativeTimePattern-count-one": "{0} chorakdan keyin",
+              "relativeTimePattern-count-other": "{0} chorakdan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} chorak oldin",
@@ -72,12 +72,12 @@
           },
           "quarter-short": {
             "displayName": "ch",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "o‘tgan chorak",
+            "relative-type-0": "shu chorak",
+            "relative-type-1": "keyingi chorak",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} chorakdan so‘ng",
-              "relativeTimePattern-count-other": "{0} chorakdan so‘ng"
+              "relativeTimePattern-count-one": "{0} chorakdan keyin",
+              "relativeTimePattern-count-other": "{0} chorakdan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} chorak oldin",
@@ -86,12 +86,12 @@
           },
           "quarter-narrow": {
             "displayName": "ch",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "o‘tgan chorak",
+            "relative-type-0": "shu chorak",
+            "relative-type-1": "keyingi chorak",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} chorakdan so‘ng",
-              "relativeTimePattern-count-other": "{0} chorakdan so‘ng"
+              "relativeTimePattern-count-one": "{0} chorakdan keyin",
+              "relativeTimePattern-count-other": "{0} chorakdan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} chorak oldin",
@@ -104,8 +104,8 @@
             "relative-type-0": "shu oy",
             "relative-type-1": "keyingi oy",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} oydan so‘ng",
-              "relativeTimePattern-count-other": "{0} oydan so‘ng"
+              "relativeTimePattern-count-one": "{0} oydan keyin",
+              "relativeTimePattern-count-other": "{0} oydan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} oy oldin",
@@ -118,8 +118,8 @@
             "relative-type-0": "shu oy",
             "relative-type-1": "keyingi oy",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} oydan so‘ng",
-              "relativeTimePattern-count-other": "{0} oydan so‘ng"
+              "relativeTimePattern-count-one": "{0} oydan keyin",
+              "relativeTimePattern-count-other": "{0} oydan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} oy oldin",
@@ -132,8 +132,8 @@
             "relative-type-0": "shu oy",
             "relative-type-1": "keyingi oy",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} oydan so‘ng",
-              "relativeTimePattern-count-other": "{0} oydan so‘ng"
+              "relativeTimePattern-count-one": "{0} oydan keyin",
+              "relativeTimePattern-count-other": "{0} oydan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} oy oldin",
@@ -146,13 +146,14 @@
             "relative-type-0": "shu hafta",
             "relative-type-1": "keyingi hafta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} haftadan so‘ng",
-              "relativeTimePattern-count-other": "{0} haftadan so‘ng"
+              "relativeTimePattern-count-one": "{0} haftadan keyin",
+              "relativeTimePattern-count-other": "{0} haftadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} hafta oldin",
               "relativeTimePattern-count-other": "{0} hafta oldin"
-            }
+            },
+            "relativePeriod": "{0}-hafta"
           },
           "week-short": {
             "displayName": "hafta",
@@ -160,13 +161,14 @@
             "relative-type-0": "shu hafta",
             "relative-type-1": "keyingi hafta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} haftadan so‘ng",
-              "relativeTimePattern-count-other": "{0} haftadan so‘ng"
+              "relativeTimePattern-count-one": "{0} haftadan keyin",
+              "relativeTimePattern-count-other": "{0} haftadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} hafta oldin",
               "relativeTimePattern-count-other": "{0} hafta oldin"
-            }
+            },
+            "relativePeriod": "{0}-hafta"
           },
           "week-narrow": {
             "displayName": "hafta",
@@ -174,13 +176,14 @@
             "relative-type-0": "shu hafta",
             "relative-type-1": "keyingi hafta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} haftadan so‘ng",
-              "relativeTimePattern-count-other": "{0} haftadan so‘ng"
+              "relativeTimePattern-count-one": "{0} haftadan keyin",
+              "relativeTimePattern-count-other": "{0} haftadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} hafta oldin",
               "relativeTimePattern-count-other": "{0} hafta oldin"
-            }
+            },
+            "relativePeriod": "{0}-hafta"
           },
           "day": {
             "displayName": "kun",
@@ -188,8 +191,8 @@
             "relative-type-0": "bugun",
             "relative-type-1": "ertaga",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} kundan so‘ng",
-              "relativeTimePattern-count-other": "{0} kundan so‘ng"
+              "relativeTimePattern-count-one": "{0} kundan keyin",
+              "relativeTimePattern-count-other": "{0} kundan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} kun oldin",
@@ -202,8 +205,8 @@
             "relative-type-0": "bugun",
             "relative-type-1": "ertaga",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} kundan so‘ng",
-              "relativeTimePattern-count-other": "{0} kundan so‘ng"
+              "relativeTimePattern-count-one": "{0} kundan keyin",
+              "relativeTimePattern-count-other": "{0} kundan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} kun oldin",
@@ -216,8 +219,8 @@
             "relative-type-0": "bugun",
             "relative-type-1": "ertaga",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} kundan so‘ng",
-              "relativeTimePattern-count-other": "{0} kundan so‘ng"
+              "relativeTimePattern-count-one": "{0} kundan keyin",
+              "relativeTimePattern-count-other": "{0} kundan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} kun oldin",
@@ -230,116 +233,285 @@
           "sun": {
             "relative-type--1": "o‘tgan yakshanba",
             "relative-type-0": "shu yakshanba",
-            "relative-type-1": "keyingi yakshanba"
+            "relative-type-1": "keyingi yakshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta yakshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta yakshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta yakshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta yakshanba oldin"
+            }
           },
           "sun-short": {
             "relative-type--1": "o‘tgan yakshanba",
             "relative-type-0": "shu yakshanba",
-            "relative-type-1": "keyingi yakshanba"
+            "relative-type-1": "keyingi yakshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta yakshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta yakshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta yakshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta yakshanba oldin"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "o‘tgan yakshanba",
             "relative-type-0": "shu yakshanba",
-            "relative-type-1": "keyingi yakshanba"
+            "relative-type-1": "keyingi yakshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta yakshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta yakshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta yakshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta yakshanba oldin"
+            }
           },
           "mon": {
             "relative-type--1": "o‘tgan dushanba",
             "relative-type-0": "shu dushanba",
-            "relative-type-1": "keyingi dushanba"
+            "relative-type-1": "keyingi dushanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta dushanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta dushanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta dushanba oldin",
+              "relativeTimePattern-count-other": "{0} ta dushanba oldin"
+            }
           },
           "mon-short": {
             "relative-type--1": "o‘tgan dushanba",
             "relative-type-0": "shu dushanba",
-            "relative-type-1": "keyingi dushanba"
+            "relative-type-1": "keyingi dushanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta dushanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta dushanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta dushanba oldin",
+              "relativeTimePattern-count-other": "{0} ta dushanba oldin"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "o‘tgan dushanba",
             "relative-type-0": "shu dushanba",
-            "relative-type-1": "keyingi dushanba"
+            "relative-type-1": "keyingi dushanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta dushanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta dushanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta dushanba oldin",
+              "relativeTimePattern-count-other": "{0} ta dushanba oldin"
+            }
           },
           "tue": {
             "relative-type--1": "o‘tgan seshanba",
             "relative-type-0": "shu seshanba",
-            "relative-type-1": "keyingi seshanba"
+            "relative-type-1": "keyingi seshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta seshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta seshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta seshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta seshanba oldin"
+            }
           },
           "tue-short": {
             "relative-type--1": "o‘tgan seshanba",
             "relative-type-0": "shu seshanba",
-            "relative-type-1": "keyingi seshanba"
+            "relative-type-1": "keyingi seshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta seshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta seshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta seshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta seshanba oldin"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "o‘tgan seshanba",
             "relative-type-0": "shu seshanba",
-            "relative-type-1": "keyingi seshanba"
+            "relative-type-1": "keyingi seshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta seshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta seshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta seshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta seshanba oldin"
+            }
           },
           "wed": {
             "relative-type--1": "o‘tgan chorshanba",
             "relative-type-0": "shu chorshanba",
-            "relative-type-1": "keyingi chorshanba"
+            "relative-type-1": "keyingi chorshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta chorshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta chorshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta chorshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta chorshanba oldin"
+            }
           },
           "wed-short": {
             "relative-type--1": "o‘tgan chorshanba",
             "relative-type-0": "shu chorshanba",
-            "relative-type-1": "keyingi chorshanba"
+            "relative-type-1": "keyingi chorshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta chorshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta chorshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta chorshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta chorshanba oldin"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "o‘tgan chorshanba",
             "relative-type-0": "shu chorshanba",
-            "relative-type-1": "keyingi chorshanba"
+            "relative-type-1": "keyingi chorshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta chorshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta chorshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta chorshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta chorshanba oldin"
+            }
           },
           "thu": {
             "relative-type--1": "o‘tgan payshanba",
             "relative-type-0": "shu payshanba",
-            "relative-type-1": "keyingi payshanba"
+            "relative-type-1": "keyingi payshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta payshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta payshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta payshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta payshanba oldin"
+            }
           },
           "thu-short": {
             "relative-type--1": "o‘tgan payshanba",
             "relative-type-0": "shu payshanba",
-            "relative-type-1": "keyingi payshanba"
+            "relative-type-1": "keyingi payshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta payshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta payshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta payshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta payshanba oldin"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "o‘tgan payshanba",
             "relative-type-0": "shu payshanba",
-            "relative-type-1": "keyingi payshanba"
+            "relative-type-1": "keyingi payshanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta payshanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta payshanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta payshanba oldin",
+              "relativeTimePattern-count-other": "{0} ta payshanba oldin"
+            }
           },
           "fri": {
             "relative-type--1": "o‘tgan juma",
             "relative-type-0": "shu juma",
-            "relative-type-1": "keyingi juma"
+            "relative-type-1": "keyingi juma",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta jumadan keyin",
+              "relativeTimePattern-count-other": "{0} ta jumadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta juma oldin",
+              "relativeTimePattern-count-other": "{0} ta juma oldin"
+            }
           },
           "fri-short": {
             "relative-type--1": "o‘tgan juma",
             "relative-type-0": "shu juma",
-            "relative-type-1": "keyingi juma"
+            "relative-type-1": "keyingi juma",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta jumadan keyin",
+              "relativeTimePattern-count-other": "{0} ta jumadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta juma oldin",
+              "relativeTimePattern-count-other": "{0} ta juma oldin"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "o‘tgan juma",
             "relative-type-0": "shu juma",
-            "relative-type-1": "keyingi juma"
+            "relative-type-1": "keyingi juma",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta jumadan keyin",
+              "relativeTimePattern-count-other": "{0} ta jumadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta juma oldin",
+              "relativeTimePattern-count-other": "{0} ta juma oldin"
+            }
           },
           "sat": {
             "relative-type--1": "o‘tgan shanba",
             "relative-type-0": "shu shanba",
-            "relative-type-1": "keyingi shanba"
+            "relative-type-1": "keyingi shanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta shanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta shanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta shanba oldin",
+              "relativeTimePattern-count-other": "{0} ta shanba oldin"
+            }
           },
           "sat-short": {
             "relative-type--1": "o‘tgan shanba",
             "relative-type-0": "shu shanba",
-            "relative-type-1": "keyingi shanba"
+            "relative-type-1": "keyingi shanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta shanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta shanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta shanba oldin",
+              "relativeTimePattern-count-other": "{0} ta shanba oldin"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "o‘tgan shanba",
             "relative-type-0": "shu shanba",
-            "relative-type-1": "keyingi shanba"
+            "relative-type-1": "keyingi shanba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ta shanbadan keyin",
+              "relativeTimePattern-count-other": "{0} ta shanbadan keyin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ta shanba oldin",
+              "relativeTimePattern-count-other": "{0} ta shanba oldin"
+            }
           },
           "dayperiod": {
-            "displayName": "kun qismi"
+            "displayName": "TO/TK"
           },
           "hour": {
             "displayName": "soat",
+            "relative-type-0": "shu soatda",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} soatdan so‘ng",
-              "relativeTimePattern-count-other": "{0} soatdan so‘ng"
+              "relativeTimePattern-count-one": "{0} soatdan keyin",
+              "relativeTimePattern-count-other": "{0} soatdan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} soat oldin",
@@ -348,9 +520,10 @@
           },
           "hour-short": {
             "displayName": "soat",
+            "relative-type-0": "shu soatda",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} soatdan so‘ng",
-              "relativeTimePattern-count-other": "{0} soatdan so‘ng"
+              "relativeTimePattern-count-one": "{0} soatdan keyin",
+              "relativeTimePattern-count-other": "{0} soatdan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} soat oldin",
@@ -359,9 +532,10 @@
           },
           "hour-narrow": {
             "displayName": "soat",
+            "relative-type-0": "shu soatda",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} soatdan so‘ng",
-              "relativeTimePattern-count-other": "{0} soatdan so‘ng"
+              "relativeTimePattern-count-one": "{0} soatdan keyin",
+              "relativeTimePattern-count-other": "{0} soatdan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} soat oldin",
@@ -370,9 +544,10 @@
           },
           "minute": {
             "displayName": "daqiqa",
+            "relative-type-0": "shu daqiqada",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} daqiqadan so‘ng",
-              "relativeTimePattern-count-other": "{0} daqiqadan so‘ng"
+              "relativeTimePattern-count-one": "{0} daqiqadan keyin",
+              "relativeTimePattern-count-other": "{0} daqiqadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} daqiqa oldin",
@@ -381,9 +556,10 @@
           },
           "minute-short": {
             "displayName": "daq.",
+            "relative-type-0": "shu daqiqada",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} daqiqadan so‘ng",
-              "relativeTimePattern-count-other": "{0} daqiqadan so‘ng"
+              "relativeTimePattern-count-one": "{0} daqiqadan keyin",
+              "relativeTimePattern-count-other": "{0} daqiqadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} daqiqa oldin",
@@ -392,9 +568,10 @@
           },
           "minute-narrow": {
             "displayName": "daq.",
+            "relative-type-0": "shu daqiqada",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} daqiqadan so‘ng",
-              "relativeTimePattern-count-other": "{0} daqiqadan so‘ng"
+              "relativeTimePattern-count-one": "{0} daqiqadan keyin",
+              "relativeTimePattern-count-other": "{0} daqiqadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} daqiqa oldin",
@@ -405,8 +582,8 @@
             "displayName": "soniya",
             "relative-type-0": "hozir",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} soniyadan so‘ng",
-              "relativeTimePattern-count-other": "{0} soniyadan so‘ng"
+              "relativeTimePattern-count-one": "{0} soniyadan keyin",
+              "relativeTimePattern-count-other": "{0} soniyadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} soniya oldin",
@@ -417,8 +594,8 @@
             "displayName": "son.",
             "relative-type-0": "hozir",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} soniyadan so‘ng",
-              "relativeTimePattern-count-other": "{0} soniyadan so‘ng"
+              "relativeTimePattern-count-one": "{0} soniyadan keyin",
+              "relativeTimePattern-count-other": "{0} soniyadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} soniya oldin",
@@ -429,8 +606,8 @@
             "displayName": "son.",
             "relative-type-0": "hozir",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} soniyadan so‘ng",
-              "relativeTimePattern-count-other": "{0} soniyadan so‘ng"
+              "relativeTimePattern-count-one": "{0} soniyadan keyin",
+              "relativeTimePattern-count-other": "{0} soniyadan keyin"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} soniya oldin",

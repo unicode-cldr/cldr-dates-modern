@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sl"
       },
@@ -58,18 +58,18 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "jan",
-                  "2": "feb",
-                  "3": "mar",
-                  "4": "apr",
+                  "1": "jan.",
+                  "2": "feb.",
+                  "3": "mar.",
+                  "4": "apr.",
                   "5": "maj",
-                  "6": "jun",
-                  "7": "jul",
-                  "8": "avg",
-                  "9": "sep",
-                  "10": "okt",
-                  "11": "nov",
-                  "12": "dec"
+                  "6": "jun.",
+                  "7": "jul.",
+                  "8": "avg.",
+                  "9": "sep.",
+                  "10": "okt.",
+                  "11": "nov.",
+                  "12": "dec."
                 },
                 "narrow": {
                   "1": "j",
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "ned",
-                  "mon": "pon",
-                  "tue": "tor",
-                  "wed": "sre",
-                  "thu": "čet",
-                  "fri": "pet",
-                  "sat": "sob"
+                  "sun": "ned.",
+                  "mon": "pon.",
+                  "tue": "tor.",
+                  "wed": "sre.",
+                  "thu": "čet.",
+                  "fri": "pet.",
+                  "sat": "sob."
                 },
                 "narrow": {
                   "sun": "n",
@@ -224,9 +224,9 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "poln.",
+                  "midnight": "opoln.",
                   "am": "dop.",
-                  "noon": "pold.",
+                  "noon": "opold.",
                   "pm": "pop.",
                   "morning1": "zjut.",
                   "morning2": "dop.",
@@ -246,15 +246,15 @@
                   "night1": "po"
                 },
                 "wide": {
-                  "midnight": "polnoč",
+                  "midnight": "opolnoči",
                   "am": "dop.",
-                  "noon": "poldne",
+                  "noon": "opoldne",
                   "pm": "pop.",
-                  "morning1": "jutro",
+                  "morning1": "zjutraj",
                   "morning2": "dopoldan",
                   "afternoon1": "popoldan",
-                  "evening1": "večer",
-                  "night1": "noč"
+                  "evening1": "zvečer",
+                  "night1": "ponoči"
                 }
               },
               "stand-alone": {
@@ -263,33 +263,33 @@
                   "am": "dop.",
                   "noon": "pold.",
                   "pm": "pop.",
-                  "morning1": "zjut.",
+                  "morning1": "jut.",
                   "morning2": "dop.",
                   "afternoon1": "pop.",
                   "evening1": "zveč.",
-                  "night1": "pon."
+                  "night1": "noč"
                 },
                 "narrow": {
-                  "midnight": "polnoč",
-                  "am": "dop.",
-                  "noon": "poldne",
-                  "pm": "pop.",
-                  "morning1": "zjutraj",
-                  "morning2": "dopoldne",
-                  "afternoon1": "popoldne",
-                  "evening1": "zvečer",
-                  "night1": "ponoči"
+                  "midnight": "24.00",
+                  "am": "d",
+                  "noon": "12.00",
+                  "pm": "p",
+                  "morning1": "j",
+                  "morning2": "d",
+                  "afternoon1": "p",
+                  "evening1": "v",
+                  "night1": "n"
                 },
                 "wide": {
                   "midnight": "polnoč",
                   "am": "dopoldne",
                   "noon": "poldne",
                   "pm": "popoldne",
-                  "morning1": "zjutraj",
+                  "morning1": "jutro",
                   "morning2": "dopoldne",
                   "afternoon1": "popoldne",
-                  "evening1": "zvečer",
-                  "night1": "ponoči"
+                  "evening1": "večer",
+                  "night1": "noč"
                 }
               }
             },
@@ -297,20 +297,20 @@
               "eraNames": {
                 "0": "pred Kristusom",
                 "0-alt-variant": "pred našim štetjem",
-                "1": "naše štetje",
-                "1-alt-variant": "po n. št."
+                "1": "po Kristusu",
+                "1-alt-variant": "po našem štetju"
               },
               "eraAbbr": {
                 "0": "pr. Kr.",
                 "0-alt-variant": "pr. n. št.",
-                "1": "po n. št.",
-                "1-alt-variant": "n. št."
+                "1": "po Kr.",
+                "1-alt-variant": "po n. št."
               },
               "eraNarrow": {
                 "0": "pr. Kr.",
                 "0-alt-variant": "pr. n. št.",
-                "1": "po n. št.",
-                "1-alt-variant": "n. št."
+                "1": "po Kr.",
+                "1-alt-variant": "po n. št."
               }
             },
             "dateFormats": {
@@ -334,9 +334,9 @@
                 "d": "d.",
                 "E": "ccc",
                 "Ed": "E, d.",
-                "Ehm": "E h:mm a",
+                "Ehm": "E, h:mm a",
                 "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
+                "Ehms": "E, h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "y G",
                 "GyM": "MMM y G",
@@ -344,7 +344,7 @@
                 "GyMMMd": "d. MMM y G",
                 "GyMMMEd": "E, d. MMM y G",
                 "h": "h a",
-                "H": "HH",
+                "H": "HH'h'",
                 "hm": "h:mm a",
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
@@ -359,7 +359,11 @@
                 "MMM": "LLL",
                 "MMMd": "d. MMM",
                 "MMMEd": "E, d. MMM",
-                "MMMMd": "d MMMM",
+                "MMMMd": "d. MMMM",
+                "MMMMW": "W. 'teden' 'v' MMM",
+                "MMMMW": "W. 'teden' 'v' MMM",
+                "MMMMW": "W. 'teden' 'v' MMM",
+                "MMMMW": "W. 'teden' 'v' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -370,7 +374,11 @@
                 "yMMMEd": "E, d. MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "w. 'teden' 'v' y",
+                "yw": "w. 'teden' 'v' y",
+                "yw": "w. 'teden' 'v' y",
+                "yw": "w. 'teden' 'v' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

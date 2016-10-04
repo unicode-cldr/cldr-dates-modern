@@ -3,18 +3,18 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sw"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Enzi"
+            "displayName": "enzi"
           },
           "year": {
-            "displayName": "Mwaka",
+            "displayName": "mwaka",
             "relative-type--1": "mwaka uliopita",
             "relative-type-0": "mwaka huu",
             "relative-type-1": "mwaka ujao",
@@ -56,10 +56,10 @@
             }
           },
           "quarter": {
-            "displayName": "Robo",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "robo",
+            "relative-type--1": "robo ya mwaka iliyopita",
+            "relative-type-0": "robo hii ya mwaka",
+            "relative-type-1": "robo ya mwaka inayofuata",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya robo {0}",
               "relativeTimePattern-count-other": "baada ya robo {0}"
@@ -71,9 +71,9 @@
           },
           "quarter-short": {
             "displayName": "robo",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "robo ya mwaka iliyopita",
+            "relative-type-0": "robo hii ya mwaka",
+            "relative-type-1": "robo ya mwaka inayofuata",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya robo {0}",
               "relativeTimePattern-count-other": "baada ya robo {0}"
@@ -85,9 +85,9 @@
           },
           "quarter-narrow": {
             "displayName": "robo",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "robo ya mwaka iliyopita",
+            "relative-type-0": "robo hii ya mwaka",
+            "relative-type-1": "robo ya mwaka inayofuata",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya robo {0}",
               "relativeTimePattern-count-other": "baada ya robo {0}"
@@ -98,7 +98,7 @@
             }
           },
           "month": {
-            "displayName": "Mwezi",
+            "displayName": "mwezi",
             "relative-type--1": "mwezi uliopita",
             "relative-type-0": "mwezi huu",
             "relative-type-1": "mwezi ujao",
@@ -140,7 +140,7 @@
             }
           },
           "week": {
-            "displayName": "Wiki",
+            "displayName": "wiki",
             "relative-type--1": "wiki iliyopita",
             "relative-type-0": "wiki hii",
             "relative-type-1": "wiki ijayo",
@@ -151,7 +151,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "wiki {0} iliyopita",
               "relativeTimePattern-count-other": "wiki {0} zilizopita"
-            }
+            },
+            "relativePeriod": "wiki ya {0}"
           },
           "week-short": {
             "displayName": "wiki",
@@ -165,7 +166,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "wiki {0} iliyopita",
               "relativeTimePattern-count-other": "wiki {0} zilizopita"
-            }
+            },
+            "relativePeriod": "wiki ya {0}"
           },
           "week-narrow": {
             "displayName": "wiki",
@@ -179,10 +181,11 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "wiki {0} iliyopita",
               "relativeTimePattern-count-other": "wiki {0} zilizopita"
-            }
+            },
+            "relativePeriod": "wiki ya {0}"
           },
           "day": {
-            "displayName": "Siku",
+            "displayName": "siku",
             "relative-type--2": "juzi",
             "relative-type--1": "jana",
             "relative-type-0": "leo",
@@ -230,118 +233,287 @@
             }
           },
           "weekday": {
-            "displayName": "Siku ya wiki"
+            "displayName": "siku ya wiki"
           },
           "sun": {
             "relative-type--1": "Jumapili iliyopita",
             "relative-type-0": "Jumapili hii",
-            "relative-type-1": "Jumapili ijayo"
+            "relative-type-1": "Jumapili ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumapili {0}",
+              "relativeTimePattern-count-other": "baada ya Jumapili {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumapili {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumapili {0} zilizopita"
+            }
           },
           "sun-short": {
             "relative-type--1": "Jumapili iliyopita",
             "relative-type-0": "Jumapili hii",
-            "relative-type-1": "Jumapili ijayo"
+            "relative-type-1": "Jumapili ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumapili {0}",
+              "relativeTimePattern-count-other": "baada ya Jumapili {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumapili {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumapili {0} zilizopita"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "Jumapili iliyopita",
             "relative-type-0": "Jumapili hii",
-            "relative-type-1": "Jumapili ijayo"
+            "relative-type-1": "Jumapili ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumapili {0}",
+              "relativeTimePattern-count-other": "baada ya Jumapili {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumapili {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumapili {0} zilizopita"
+            }
           },
           "mon": {
             "relative-type--1": "Jumatatu iliyopita",
             "relative-type-0": "Jumatatu hii",
-            "relative-type-1": "Jumatatu ijayo"
+            "relative-type-1": "Jumatatu ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumatatu {0}",
+              "relativeTimePattern-count-other": "baada ya Jumatatu {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumatatu {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumatatu {0} zilizopita"
+            }
           },
           "mon-short": {
             "relative-type--1": "Jumatatu iliyopita",
             "relative-type-0": "Jumatatu hii",
-            "relative-type-1": "Jumatatu ijayo"
+            "relative-type-1": "Jumatatu ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumatatu {0}",
+              "relativeTimePattern-count-other": "baada ya Jumatatu {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumatatu {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumatatu {0} zilizopita"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "Jumatatu iliyopita",
             "relative-type-0": "Jumatatu hii",
-            "relative-type-1": "Jumatatu ijayo"
+            "relative-type-1": "Jumatatu ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumatatu {0}",
+              "relativeTimePattern-count-other": "baada ya Jumatatu {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumatatu {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumatatu {0} zilizopita"
+            }
           },
           "tue": {
             "relative-type--1": "Jumanne iliyopita",
             "relative-type-0": "Jumanne hii",
-            "relative-type-1": "Jumanne ijayo"
+            "relative-type-1": "Jumanne ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumanne {0}",
+              "relativeTimePattern-count-other": "baada ya Jumanne {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumanne {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumanne {0} zilizopita"
+            }
           },
           "tue-short": {
             "relative-type--1": "Jumanne iliyopita",
             "relative-type-0": "Jumanne hii",
-            "relative-type-1": "Jumanne ijayo"
+            "relative-type-1": "Jumanne ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumanne {0}",
+              "relativeTimePattern-count-other": "baada ya Jumanne {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumanne {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumanne {0} zilizopita"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "Jumanne iliyopita",
             "relative-type-0": "Jumanne hii",
-            "relative-type-1": "Jumanne ijayo"
+            "relative-type-1": "Jumanne ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumanne {0}",
+              "relativeTimePattern-count-other": "baada ya Jumanne {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumanne {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumanne {0} zilizopita"
+            }
           },
           "wed": {
             "relative-type--1": "Jumatano iliyopita",
             "relative-type-0": "Jumatano hii",
-            "relative-type-1": "Jumatano ijayo"
+            "relative-type-1": "Jumatano ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumatano {0}",
+              "relativeTimePattern-count-other": "baada ya Jumatano {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumatano {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumatano {0} zilizopita"
+            }
           },
           "wed-short": {
             "relative-type--1": "Jumatano iliyopita",
             "relative-type-0": "Jumatano hii",
-            "relative-type-1": "Jumatano ijayo"
+            "relative-type-1": "Jumatano ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumatano {0}",
+              "relativeTimePattern-count-other": "baada ya Jumatano {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumatano {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumatano {0} zilizopita"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "Jumatano iliyopita",
             "relative-type-0": "Jumatano hii",
-            "relative-type-1": "Jumatano ijayo"
+            "relative-type-1": "Jumatano ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumatano {0}",
+              "relativeTimePattern-count-other": "baada ya Jumatano {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumatano {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumatano {0} zilizopita"
+            }
           },
           "thu": {
             "relative-type--1": "Alhamisi iliyopita",
             "relative-type-0": "Alhamisi hii",
-            "relative-type-1": "Alhamisi ijayo"
+            "relative-type-1": "Alhamisi ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Alhamisi {0}",
+              "relativeTimePattern-count-other": "baada ya Alhamisi {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Alhamisi {0} iliyopita",
+              "relativeTimePattern-count-other": "Alhamisi {0} zilizopita"
+            }
           },
           "thu-short": {
             "relative-type--1": "Alhamisi iliyopita",
             "relative-type-0": "Alhamisi hii",
-            "relative-type-1": "Alhamisi ijayo"
+            "relative-type-1": "Alhamisi ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Alhamisi {0}",
+              "relativeTimePattern-count-other": "baada ya Alhamisi {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Alhamisi {0} iliyopita",
+              "relativeTimePattern-count-other": "Alhamisi {0} zilizopita"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "Alhamisi iliyopita",
             "relative-type-0": "Alhamisi hii",
-            "relative-type-1": "Alhamisi ijayo"
+            "relative-type-1": "Alhamisi ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Alhamisi {0}",
+              "relativeTimePattern-count-other": "baada ya Alhamisi {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Alhamisi {0} iliyopita",
+              "relativeTimePattern-count-other": "Alhamisi {0} zilizopita"
+            }
           },
           "fri": {
             "relative-type--1": "Ijumaa iliyopita",
             "relative-type-0": "Ijumaa hii",
-            "relative-type-1": "Ijumaa ijayo"
+            "relative-type-1": "Ijumaa ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Ijumaa {0}",
+              "relativeTimePattern-count-other": "baada ya Ijumaa {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Ijumaa {0} iliyopita",
+              "relativeTimePattern-count-other": "Ijumaa {0} zilizopita"
+            }
           },
           "fri-short": {
             "relative-type--1": "Ijumaa iliyopita",
             "relative-type-0": "Ijumaa hii",
-            "relative-type-1": "Ijumaa ijayo"
+            "relative-type-1": "Ijumaa ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Ijumaa {0}",
+              "relativeTimePattern-count-other": "baada ya Ijumaa {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Ijumaa {0} iliyopita",
+              "relativeTimePattern-count-other": "Ijumaa {0} zilizopita"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "Ijumaa iliyopita",
             "relative-type-0": "Ijumaa hii",
-            "relative-type-1": "Ijumaa ijayo"
+            "relative-type-1": "Ijumaa ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Ijumaa {0}",
+              "relativeTimePattern-count-other": "baada ya Ijumaa {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Ijumaa {0} iliyopita",
+              "relativeTimePattern-count-other": "Ijumaa {0} zilizopita"
+            }
           },
           "sat": {
             "relative-type--1": "Jumamosi iliyopita",
             "relative-type-0": "Jumamosi hii",
-            "relative-type-1": "Jumamosi ijayo"
+            "relative-type-1": "Jumamosi ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumamosi {0}",
+              "relativeTimePattern-count-other": "baada ya Jumamosi {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumamosi {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumamosi {0} zilizopita"
+            }
           },
           "sat-short": {
             "relative-type--1": "Jumamosi iliyopita",
             "relative-type-0": "Jumamosi hii",
-            "relative-type-1": "Jumamosi ijayo"
+            "relative-type-1": "Jumamosi ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumamosi {0}",
+              "relativeTimePattern-count-other": "baada ya Jumamosi {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumamosi {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumamosi {0} zilizopita"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "Jumamosi iliyopita",
             "relative-type-0": "Jumamosi hii",
-            "relative-type-1": "Jumamosi ijayo"
+            "relative-type-1": "Jumamosi ijayo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "baada ya Jumamosi {0}",
+              "relativeTimePattern-count-other": "baada ya Jumamosi {0}"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Jumamosi {0} iliyopita",
+              "relativeTimePattern-count-other": "Jumamosi {0} zilizopita"
+            }
           },
           "dayperiod": {
             "displayName": "AM/PM"
           },
           "hour": {
-            "displayName": "Saa",
+            "displayName": "saa",
+            "relative-type-0": "saa hii",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya saa {0}",
               "relativeTimePattern-count-other": "baada ya saa {0}"
@@ -353,17 +525,19 @@
           },
           "hour-short": {
             "displayName": "saa",
+            "relative-type-0": "saa hii",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya saa {0}",
               "relativeTimePattern-count-other": "baada ya saa {0}"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Saa {0} iliyopita",
-              "relativeTimePattern-count-other": "Saa {0} zilizopita"
+              "relativeTimePattern-count-one": "saa {0} iliyopita",
+              "relativeTimePattern-count-other": "saa {0} zilizopita"
             }
           },
           "hour-narrow": {
             "displayName": "saa",
+            "relative-type-0": "saa hii",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya saa {0}",
               "relativeTimePattern-count-other": "baada ya saa {0}"
@@ -374,7 +548,8 @@
             }
           },
           "minute": {
-            "displayName": "Dakika",
+            "displayName": "dakika",
+            "relative-type-0": "dakika hii",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya dakika {0}",
               "relativeTimePattern-count-other": "baada ya dakika {0}"
@@ -385,30 +560,32 @@
             }
           },
           "minute-short": {
-            "displayName": "dakika",
+            "displayName": "dak",
+            "relative-type-0": "dakika hii",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya dakika {0}",
               "relativeTimePattern-count-other": "baada ya dakika {0}"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Dakika {0} iliyopita",
-              "relativeTimePattern-count-other": "Dakika {0} zilizopita"
+              "relativeTimePattern-count-one": "dakika {0} iliyopita",
+              "relativeTimePattern-count-other": "dakika {0} zilizopita"
             }
           },
           "minute-narrow": {
-            "displayName": "dakika",
+            "displayName": "dak",
+            "relative-type-0": "dakika hii",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya dakika {0}",
               "relativeTimePattern-count-other": "baada ya dakika {0}"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Dakika {0} iliyopita",
-              "relativeTimePattern-count-other": "Dakika {0} zilizopita"
+              "relativeTimePattern-count-one": "dakika {0} iliyopita",
+              "relativeTimePattern-count-other": "dakika {0} zilizopita"
             }
           },
           "second": {
-            "displayName": "Sekunde",
-            "relative-type-0": "sasa",
+            "displayName": "sekunde",
+            "relative-type-0": "sasa hivi",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya sekunde {0}",
               "relativeTimePattern-count-other": "baada ya sekunde {0}"
@@ -419,31 +596,31 @@
             }
           },
           "second-short": {
-            "displayName": "sekunde",
-            "relative-type-0": "sasa",
+            "displayName": "sek",
+            "relative-type-0": "sasa hivi",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya sekunde {0}",
               "relativeTimePattern-count-other": "baada ya sekunde {0}"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Sekunde {0} iliyopita",
-              "relativeTimePattern-count-other": "Sekunde {0} zilizopita"
+              "relativeTimePattern-count-one": "sekunde {0} iliyopita",
+              "relativeTimePattern-count-other": "sekunde {0} zilizopita"
             }
           },
           "second-narrow": {
-            "displayName": "sekunde",
-            "relative-type-0": "sasa",
+            "displayName": "sek",
+            "relative-type-0": "sasa hivi",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "baada ya sekunde {0}",
               "relativeTimePattern-count-other": "baada ya sekunde {0}"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Sekunde {0} iliyopita",
-              "relativeTimePattern-count-other": "Sekunde {0} zilizopita"
+              "relativeTimePattern-count-one": "sekunde {0} iliyopita",
+              "relativeTimePattern-count-other": "sekunde {0} zilizopita"
             }
           },
           "zone": {
-            "displayName": "Saa za Eneo"
+            "displayName": "saa za eneo"
           }
         }
       }

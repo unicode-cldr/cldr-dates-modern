@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "uz"
       },
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Ya",
-                  "mon": "Du",
-                  "tue": "Se",
-                  "wed": "Ch",
-                  "thu": "Pa",
-                  "fri": "Ju",
-                  "sat": "Sh"
+                  "sun": "Yak",
+                  "mon": "Dush",
+                  "tue": "Sesh",
+                  "wed": "Chor",
+                  "thu": "Pay",
+                  "fri": "Jum",
+                  "sat": "Shan"
                 },
                 "narrow": {
                   "sun": "Y",
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Ya",
-                  "mon": "Du",
-                  "tue": "Se",
-                  "wed": "Ch",
-                  "thu": "Pa",
-                  "fri": "Ju",
-                  "sat": "Sh"
+                  "sun": "Yak",
+                  "mon": "Dush",
+                  "tue": "Sesh",
+                  "wed": "Chor",
+                  "thu": "Pay",
+                  "fri": "Jum",
+                  "sat": "Shan"
                 },
                 "narrow": {
                   "sun": "Y",
@@ -224,7 +224,7 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -234,7 +234,7 @@
                   "night1": "kechasi"
                 },
                 "narrow": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -244,7 +244,7 @@
                   "night1": "kechasi"
                 },
                 "wide": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -256,7 +256,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -266,7 +266,7 @@
                   "night1": "kechasi"
                 },
                 "narrow": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -276,7 +276,7 @@
                   "night1": "kechasi"
                 },
                 "wide": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -302,10 +302,10 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, d-MMMM, G y",
-              "long": "d-MMMM, G y",
-              "medium": "d-MMM, G y",
-              "short": "GGGGG dd/MM/y"
+              "full": "EEEE, d-MMMM, y (G)",
+              "long": "d-MMMM, y (G)",
+              "medium": "d-MMM, y (G)",
+              "short": "dd.MM.y (GGGGG)"
             },
             "timeFormats": {
               "full": "H:mm:ss (zzzz)",
@@ -321,38 +321,38 @@
               "availableFormats": {
                 "d": "d",
                 "E": "ccc",
-                "Ed": "d, E",
+                "Ed": "E, d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
-                "Gy": "G y",
-                "GyMMM": "MMM, G y",
-                "GyMMMd": "d-MMM, G y",
-                "GyMMMEd": "E, d-MMM, G y",
+                "Gy": "y (G)",
+                "GyMMM": "MMM, y (G)",
+                "GyMMMd": "d-MMM, y (G)",
+                "GyMMMEd": "E, d-MMM, y (G)",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
-                "M": "LL",
-                "Md": "dd/MM",
-                "MEd": "E, dd/MM",
+                "M": "L",
+                "Md": "dd.MM",
+                "MEd": "E, dd.MM",
                 "MMM": "LLL",
                 "MMMd": "d-MMM",
                 "MMMEd": "E, d-MMM",
                 "MMMMd": "d-MMMM",
                 "ms": "mm:ss",
-                "y": "G y",
-                "yyyy": "G y",
-                "yyyyM": "MM/y (GGGGG)",
-                "yyyyMd": "dd/MM/y (GGGGG)",
-                "yyyyMEd": "E, dd/MM/y (GGGGG)",
-                "yyyyMMM": "MMM, G y",
-                "yyyyMMMd": "d-MMM, G y",
-                "yyyyMMMEd": "E, d-MMM, G y",
-                "yyyyMMMM": "MMMM, G y",
+                "y": "y (G)",
+                "yyyy": "y (G)",
+                "yyyyM": "MM.y (GGGGG)",
+                "yyyyMd": "dd.MM.y (GGGGG)",
+                "yyyyMEd": "E, dd.MM.y (GGGGG)",
+                "yyyyMMM": "y (G), MMM",
+                "yyyyMMMd": "d-MMM, y (G)",
+                "yyyyMMMEd": "E, d-MMM, y (G)",
+                "yyyyMMMM": "y (G), MMMM",
                 "yyyyQQQ": "y (G), QQQ",
                 "yyyyQQQQ": "y (G), QQQQ"
               },
@@ -410,12 +410,12 @@
                   "M": "MM–MM"
                 },
                 "Md": {
-                  "d": "dd/MM – dd/MM",
-                  "M": "dd/MM – dd/MM"
+                  "d": "dd.MM – dd.MM",
+                  "M": "dd.MM – dd.MM"
                 },
                 "MEd": {
-                  "d": "E, dd/MM – E, dd/MM",
-                  "M": "E, dd/MM – E, dd/MM"
+                  "d": "E, dd.MM – E, dd.MM",
+                  "M": "E, dd.MM – E, dd.MM"
                 },
                 "MMM": {
                   "M": "MMM – MMM"
@@ -429,29 +429,29 @@
                   "M": "E, d-MMM – E, d-MMM"
                 },
                 "y": {
-                  "y": "G y–y"
+                  "y": "y–y (G)"
                 },
                 "yM": {
-                  "M": "MM/y – MM/y (GGGGG)",
-                  "y": "MM/y – MM/y (GGGGG)"
+                  "M": "MM.y – MM.y (GGGGG)",
+                  "y": "MM.y – MM.y (GGGGG)"
                 },
                 "yMd": {
-                  "d": "dd/MM/y – dd/MM/y (GGGGG)",
-                  "M": "dd/MM/y – dd/MM/y (GGGGG)",
-                  "y": "dd/MM/y – dd/MM/y (GGGGG)"
+                  "d": "dd.MM.y – dd.MM.y (GGGGG)",
+                  "M": "dd.MM.y – dd.MM.y (GGGGG)",
+                  "y": "dd.MM.y – dd.MM.y (GGGGG)"
                 },
                 "yMEd": {
-                  "d": "E, dd/MM/y – E, dd/MM/y (GGGGG)",
-                  "M": "E, dd/MM/y – E, dd/MM/y (GGGGG)",
-                  "y": "E, dd/MM/y – E, dd/MM/y (GGGGG)"
+                  "d": "E, dd.MM.y – E, dd.MM.y (GGGGG)",
+                  "M": "E, dd.MM.y – E, dd.MM.y (GGGGG)",
+                  "y": "E, dd.MM.y – E, dd.MM.y (GGGGG)"
                 },
                 "yMMM": {
-                  "M": "MMM – MMM, G y",
-                  "y": "MMM, y – MMM, y (G)"
+                  "M": "y (G), MMM – MMM",
+                  "y": "y (G), MMM – y, MMM"
                 },
                 "yMMMd": {
-                  "d": "d – d-MMM, G y",
-                  "M": "d-MMM – d-MMM, G y",
+                  "d": "d – d-MMM, y (G)",
+                  "M": "d-MMM – d-MMM, y (G)",
                   "y": "d-MMM, y – d-MMM, y (G)"
                 },
                 "yMMMEd": {

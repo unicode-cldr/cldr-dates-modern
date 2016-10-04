@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "kk"
       },
@@ -57,9 +57,9 @@
           },
           "quarter": {
             "displayName": "ширек",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "өткен ширек",
+            "relative-type-0": "осы ширек",
+            "relative-type-1": "келесі ширек",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ширектен кейін",
               "relativeTimePattern-count-other": "{0} ширектен кейін"
@@ -71,9 +71,9 @@
           },
           "quarter-short": {
             "displayName": "ш.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "өткен ширек",
+            "relative-type-0": "осы ширек",
+            "relative-type-1": "келесі ширек",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ш. кейін",
               "relativeTimePattern-count-other": "{0} ш. кейін"
@@ -85,9 +85,9 @@
           },
           "quarter-narrow": {
             "displayName": "ш.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "өткен ширек",
+            "relative-type-0": "осы ширек",
+            "relative-type-1": "келесі ширек",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ш. кейін",
               "relativeTimePattern-count-other": "{0} ш. кейін"
@@ -151,7 +151,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} апта бұрын",
               "relativeTimePattern-count-other": "{0} апта бұрын"
-            }
+            },
+            "relativePeriod": "{0} аптасы"
           },
           "week-short": {
             "displayName": "ап.",
@@ -165,7 +166,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ап. бұрын",
               "relativeTimePattern-count-other": "{0} ап. бұрын"
-            }
+            },
+            "relativePeriod": "{0} аптасы"
           },
           "week-narrow": {
             "displayName": "ап.",
@@ -179,11 +181,12 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ап. бұрын",
               "relativeTimePattern-count-other": "{0} ап. бұрын"
-            }
+            },
+            "relativePeriod": "{0} аптасы"
           },
           "day": {
             "displayName": "күн",
-            "relative-type--2": "алдыңғы күні",
+            "relative-type--2": "алдыңгүні",
             "relative-type--1": "кеше",
             "relative-type-0": "бүгін",
             "relative-type-1": "ертең",
@@ -235,113 +238,282 @@
           "sun": {
             "relative-type--1": "өткен жексенбі",
             "relative-type-0": "осы жексенбі",
-            "relative-type-1": "келесі жексенбі"
+            "relative-type-1": "келесі жексенбі",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} жексенбіден кейін",
+              "relativeTimePattern-count-other": "{0} жексенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} жексенбі бұрын",
+              "relativeTimePattern-count-other": "{0} жексенбі бұрын"
+            }
           },
           "sun-short": {
             "relative-type--1": "өткен жек.",
             "relative-type-0": "осы жек.",
-            "relative-type-1": "келесі жек."
+            "relative-type-1": "келесі жек.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} жексенбіден кейін",
+              "relativeTimePattern-count-other": "{0} жексенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} жексенбі бұрын",
+              "relativeTimePattern-count-other": "{0} жексенбі бұрын"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "өткен жс",
             "relative-type-0": "осы жс",
-            "relative-type-1": "келесі жс"
+            "relative-type-1": "келесі жс",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} жексенбіден кейін",
+              "relativeTimePattern-count-other": "{0} жексенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} жексенбі бұрын",
+              "relativeTimePattern-count-other": "{0} жексенбі бұрын"
+            }
           },
           "mon": {
             "relative-type--1": "өткен дүйсенбі",
             "relative-type-0": "осы дүйсенбі",
-            "relative-type-1": "келесі дүйсенбі"
+            "relative-type-1": "келесі дүйсенбі",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} дүйсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} дүйсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} дүйсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} дүйсенбі бұрын"
+            }
           },
           "mon-short": {
             "relative-type--1": "өткен дүй.",
             "relative-type-0": "осы дүй.",
-            "relative-type-1": "келесі дүй."
+            "relative-type-1": "келесі дүй.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} дүйсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} дүйсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} дүйсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} дүйсенбі бұрын"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "өткен дс",
             "relative-type-0": "осы дс",
-            "relative-type-1": "келесі дс"
+            "relative-type-1": "келесі дс",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} дүйсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} дүйсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} дүйсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} дүйсенбі бұрын"
+            }
           },
           "tue": {
             "relative-type--1": "өткен сейсенбі",
             "relative-type-0": "осы сейсенбі",
-            "relative-type-1": "келесі сейсенбі"
+            "relative-type-1": "келесі сейсенбі",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сейсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сейсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сейсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сейсенбі бұрын"
+            }
           },
           "tue-short": {
             "relative-type--1": "өткен сей.",
             "relative-type-0": "осы сей.",
-            "relative-type-1": "келесі сей."
+            "relative-type-1": "келесі сей.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сейсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сейсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сейсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сейсенбі бұрын"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "өткен сс",
             "relative-type-0": "осы сс",
-            "relative-type-1": "келесі сс"
+            "relative-type-1": "келесі сс",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сейсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сейсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сейсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сейсенбі бұрын"
+            }
           },
           "wed": {
             "relative-type--1": "өткен сәрсенбі",
             "relative-type-0": "осы сәрсенбі",
-            "relative-type-1": "келесі сәрсенбі"
+            "relative-type-1": "келесі сәрсенбі",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сәрсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сәрсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сәрсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сәрсенбі бұрын"
+            }
           },
           "wed-short": {
             "relative-type--1": "өткен сәр.",
             "relative-type-0": "осы сәр.",
-            "relative-type-1": "келесі сәр."
+            "relative-type-1": "келесі сәр.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сәрсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сәрсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сәрсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сәрсенбі бұрын"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "өткен ср",
             "relative-type-0": "осы ср",
-            "relative-type-1": "келесі ср"
+            "relative-type-1": "келесі ср",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сәрсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сәрсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сәрсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сәрсенбі бұрын"
+            }
           },
           "thu": {
             "relative-type--1": "өткен бейсенбі",
             "relative-type-0": "осы бейсенбі",
-            "relative-type-1": "келесі бейсенбі"
+            "relative-type-1": "келесі бейсенбі",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} бейсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} бейсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} бейсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} бейсенбі бұрын"
+            }
           },
           "thu-short": {
             "relative-type--1": "өткен бей.",
             "relative-type-0": "осы бей.",
-            "relative-type-1": "келесі бей."
+            "relative-type-1": "келесі бей.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} бейсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} бейсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} бейсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} бейсенбі бұрын"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "өткен бс",
             "relative-type-0": "осы бс",
-            "relative-type-1": "келесі бс"
+            "relative-type-1": "келесі бс",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} бейсенбіден кейін",
+              "relativeTimePattern-count-other": "{0} бейсенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} бейсенбі бұрын",
+              "relativeTimePattern-count-other": "{0} бейсенбі бұрын"
+            }
           },
           "fri": {
             "relative-type--1": "өткен жұма",
             "relative-type-0": "осы жұма",
-            "relative-type-1": "келесі жұма"
+            "relative-type-1": "келесі жұма",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} жұмадан кейін",
+              "relativeTimePattern-count-other": "{0} жұмадан кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} жұма бұрын",
+              "relativeTimePattern-count-other": "{0} жұма бұрын"
+            }
           },
           "fri-short": {
             "relative-type--1": "өткен жұм.",
             "relative-type-0": "осы жұм.",
-            "relative-type-1": "келесі жұм."
+            "relative-type-1": "келесі жұм.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} жұмадан кейін",
+              "relativeTimePattern-count-other": "{0} жұмадан кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} жұма бұрын",
+              "relativeTimePattern-count-other": "{0} жұма бұрын"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "өткен жм",
             "relative-type-0": "осы жм",
-            "relative-type-1": "келесі жм"
+            "relative-type-1": "келесі жм",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} жұмадан кейін",
+              "relativeTimePattern-count-other": "{0} жұмадан кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} жұма бұрын",
+              "relativeTimePattern-count-other": "{0} жұма бұрын"
+            }
           },
           "sat": {
             "relative-type--1": "өткен сенбі",
             "relative-type-0": "осы сенбі",
-            "relative-type-1": "келесі сенбі"
+            "relative-type-1": "келесі сенбі",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сенбі бұрын"
+            }
           },
           "sat-short": {
             "relative-type--1": "өткен сен.",
             "relative-type-0": "осы сен.",
-            "relative-type-1": "келесі сен."
+            "relative-type-1": "келесі сен.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сенбі бұрын"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "өткен сб",
             "relative-type-0": "осы сб",
-            "relative-type-1": "келесі сб"
+            "relative-type-1": "келесі сб",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} сенбіден кейін",
+              "relativeTimePattern-count-other": "{0} сенбіден кейін"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} сенбі бұрын",
+              "relativeTimePattern-count-other": "{0} сенбі бұрын"
+            }
           },
           "dayperiod": {
-            "displayName": "таңғы/түскі/кешкі"
+            "displayName": "АМ/РМ"
           },
           "hour": {
             "displayName": "сағат",
+            "relative-type-0": "осы сағат",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} сағаттан кейін",
               "relativeTimePattern-count-other": "{0} сағаттан кейін"
@@ -352,7 +524,8 @@
             }
           },
           "hour-short": {
-            "displayName": "сағ.",
+            "displayName": "сағ",
+            "relative-type-0": "осы сағат",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} сағ. кейін",
               "relativeTimePattern-count-other": "{0} сағ. кейін"
@@ -363,7 +536,8 @@
             }
           },
           "hour-narrow": {
-            "displayName": "сағ.",
+            "displayName": "сағ",
+            "relative-type-0": "осы сағат",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} сағ. кейін",
               "relativeTimePattern-count-other": "{0} сағ. кейін"
@@ -375,6 +549,7 @@
           },
           "minute": {
             "displayName": "минут",
+            "relative-type-0": "осы минут",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} минуттан кейін",
               "relativeTimePattern-count-other": "{0} минуттан кейін"
@@ -385,7 +560,8 @@
             }
           },
           "minute-short": {
-            "displayName": "мин.",
+            "displayName": "мин",
+            "relative-type-0": "осы минут",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} мин. кейін",
               "relativeTimePattern-count-other": "{0} мин. кейін"
@@ -396,7 +572,8 @@
             }
           },
           "minute-narrow": {
-            "displayName": "мин.",
+            "displayName": "мин",
+            "relative-type-0": "осы минут",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} мин. кейін",
               "relativeTimePattern-count-other": "{0} мин. кейін"
@@ -419,7 +596,7 @@
             }
           },
           "second-short": {
-            "displayName": "сек.",
+            "displayName": "с",
             "relative-type-0": "қазір",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} сек. кейін",
@@ -431,7 +608,7 @@
             }
           },
           "second-narrow": {
-            "displayName": "сек.",
+            "displayName": "с",
             "relative-type-0": "қазір",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} сек. кейін",

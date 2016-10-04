@@ -3,8 +3,8 @@
     "da": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12387 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "da"
       },
@@ -342,7 +342,7 @@
                 "MMM": "MMM",
                 "MMMd": "d. MMM",
                 "MMMEd": "E d. MMM",
-                "MMMMd": "d MMMM",
+                "MMMMd": "d. MMMM",
                 "MMMMEd": "E d. MMMM",
                 "ms": "mm.ss",
                 "y": "y G",
@@ -371,7 +371,7 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0} – {1}",
+                "intervalFormatFallback": "{0}-{1}",
                 "d": {
                   "d": "d.–d."
                 },
@@ -411,58 +411,58 @@
                   "M": "M–M"
                 },
                 "Md": {
-                  "d": "dd/MM – dd/MM",
-                  "M": "dd/MM – dd/MM"
+                  "d": "dd/MM–dd/MM",
+                  "M": "dd/MM–dd/MM"
                 },
                 "MEd": {
-                  "d": "E dd/MM – E dd/MM",
-                  "M": "E dd/MM – E dd/MM"
+                  "d": "E dd/MM–E dd/MM",
+                  "M": "E dd/MM–E dd/MM"
                 },
                 "MMM": {
                   "M": "MMM–MMM"
                 },
                 "MMMd": {
                   "d": "d.–d. MMM",
-                  "M": "d. MMM – d. MMM"
+                  "M": "d. MMM–d. MMM"
                 },
                 "MMMEd": {
-                  "d": "E 'den' d. – E 'den' d. MMM",
-                  "M": "E 'den' d. MMM – E 'den' d. MMM"
+                  "d": "E 'den' d.–E 'den' d. MMM",
+                  "M": "E 'den' d. MMM–E 'den' d. MMM"
                 },
                 "y": {
                   "y": "y–y G"
                 },
                 "yM": {
-                  "M": "MM/y – MM/y G",
-                  "y": "MM/y – MM/y G"
+                  "M": "MM/y–MM/y G",
+                  "y": "MM/y–MM/y G"
                 },
                 "yMd": {
-                  "d": "dd/MM/y – dd/MM/y G",
-                  "M": "dd/MM/y – dd/MM/y G",
-                  "y": "dd/MM/y – dd/MM/y G"
+                  "d": "dd/MM/y–dd/MM/y G",
+                  "M": "dd/MM/y–dd/MM/y G",
+                  "y": "dd/MM/y–dd/MM/y G"
                 },
                 "yMEd": {
                   "d": "E dd/MM/y – E dd/MM/y G",
-                  "M": "E dd/MM/y – E dd/MM/y G",
-                  "y": "E dd/MM/y – E dd/MM/y G"
+                  "M": "E dd/MM/y–E dd/MM/y G",
+                  "y": "E dd/MM/y–E dd/MM/y G"
                 },
                 "yMMM": {
                   "M": "MMM–MMM y G",
-                  "y": "MMM y – MMM y G"
+                  "y": "MMM y–MMM y G"
                 },
                 "yMMMd": {
                   "d": "d.–d. MMM y G",
-                  "M": "d. MMM – d. MMM y G",
-                  "y": "d. MMM y – d. MMM y G"
+                  "M": "d. MMM–d. MMM y G",
+                  "y": "d. MMM y–d. MMM y G"
                 },
                 "yMMMEd": {
-                  "d": "E 'den' d. – E 'den' d. MMM y G",
-                  "M": "E 'den' d. MMM – E 'den' d. MMM y G",
-                  "y": "E 'den' d. MMM y – E 'den' d. MMM y G"
+                  "d": "E 'den' d.–E 'den' d. MMM y G",
+                  "M": "E 'den' d. MMM–E 'den' d. MMM y G",
+                  "y": "E 'den' d. MMM y–E 'den' d. MMM y G"
                 },
                 "yMMMM": {
                   "M": "MMMM–MMMM y G",
-                  "y": "MMMM y – MMMM y G"
+                  "y": "MMMM y–MMMM y G"
                 }
               }
             }

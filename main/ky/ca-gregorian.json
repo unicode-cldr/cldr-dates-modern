@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ky"
       },
@@ -290,7 +290,7 @@
             "eras": {
               "eraNames": {
                 "0": "биздин заманга чейин",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "б.з.ч.",
                 "1": "биздин заман",
                 "1-alt-variant": "CE"
               },
@@ -308,10 +308,10 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, d-MMMM, y-'ж'.",
-              "long": "y MMMM d",
-              "medium": "y MMM d",
-              "short": "dd.MM.yy"
+              "full": "y-'ж'., d-MMMM, EEEE",
+              "long": "y-'ж'., d-MMMM",
+              "medium": "y-'ж'., d-MMM",
+              "short": "d/M/yy"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -352,18 +352,22 @@
                 "MMM": "LLL",
                 "MMMd": "d-MMM",
                 "MMMEd": "d-MMM, E",
-                "MMMMd": "MMMM d",
+                "MMMMd": "d-MMMM",
+                "MMMMW": "MMM 'айынын' W-'аптасы'",
+                "MMMMW": "MMM 'айынын' W-'аптасы'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
-                "yMd": "y-MM-dd",
-                "yMEd": "y-MM-dd, E",
+                "yMd": "y-dd-MM",
+                "yMEd": "y-dd-MM, E",
                 "yMMM": "y-'ж'. MMM",
                 "yMMMd": "y-'ж'. d-MMM",
                 "yMMMEd": "y-'ж'. d-MMM, E",
-                "yMMMM": "y MMMM",
+                "yMMMM": "y-'ж'., MMMM",
                 "yQQQ": "y-'ж'., QQQ",
-                "yQQQQ": "y-'ж'., QQQQ"
+                "yQQQQ": "y-'ж'., QQQQ",
+                "yw": "y-'жылдын' w-'аптасы'",
+                "yw": "y-'жылдын' w-'аптасы'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -423,8 +427,8 @@
                   "M": "dd.MM – dd.MM"
                 },
                 "MEd": {
-                  "d": "MM-dd, E – MM-dd, E",
-                  "M": "MM-dd, E – MM-dd, E"
+                  "d": "dd-MM, E – dd-MM, E",
+                  "M": "dd-MM, E – dd-MM, E"
                 },
                 "MMM": {
                   "M": "MMM–MMM"
@@ -434,8 +438,8 @@
                   "M": "d-MMM – d-MMM"
                 },
                 "MMMEd": {
-                  "d": "MMM d, E – MMM d, E",
-                  "M": "MMM d, E – MMM d, E"
+                  "d": "d-MMM, E – d-MMM, E",
+                  "M": "d-MMM, E – d-MMM, E"
                 },
                 "y": {
                   "y": "y–y"
@@ -451,8 +455,8 @@
                 },
                 "yMEd": {
                   "d": "E, dd.MM.y – E, dd.MM.y",
-                  "M": "y-MM-dd, E – y-MM-dd, E",
-                  "y": "y-MM-dd, E – y-MM-dd, E"
+                  "M": "y-dd-MM, E – y-dd-MM, E",
+                  "y": "y-dd-MM, E – y-dd-MM, E"
                 },
                 "yMMM": {
                   "M": "MMM–MMM y-'ж'.",
@@ -464,13 +468,13 @@
                   "y": "d-MMM y-'ж'. - d-MMM y-'ж'."
                 },
                 "yMMMEd": {
-                  "d": "y MMM d, E – MMM d, E",
-                  "M": "y MMM d, E – MMM d, E",
-                  "y": "y MMM d, E – y MMM d, E"
+                  "d": "y-'ж'., d-MMM, E – d-MMM, E",
+                  "M": "y-'ж'., d-MMM, E – d-MMM E",
+                  "y": "y-'ж'., d-MMM, E – y-'ж'., d-MMM, E"
                 },
                 "yMMMM": {
-                  "M": "MMMM – MMMM y",
-                  "y": "MMMM y – MMMM y"
+                  "M": "MMMM – MMMM, y-'ж'.",
+                  "y": "MMMM, y-'ж'. – MMMM, y-'ж'."
                 }
               }
             }

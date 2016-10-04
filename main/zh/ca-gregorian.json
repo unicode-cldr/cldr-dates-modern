@@ -3,8 +3,8 @@
     "zh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12984 $",
+          "_cldrVersion": "30"
         },
         "language": "zh"
       },
@@ -229,7 +229,7 @@
                   "pm": "下午",
                   "morning1": "清晨",
                   "morning2": "上午",
-                  "afternoon1": "下午",
+                  "afternoon1": "中午",
                   "afternoon2": "下午",
                   "evening1": "晚上",
                   "night1": "凌晨"
@@ -251,7 +251,7 @@
                   "pm": "下午",
                   "morning1": "清晨",
                   "morning2": "上午",
-                  "afternoon1": "下午",
+                  "afternoon1": "中午",
                   "afternoon2": "下午",
                   "evening1": "晚上",
                   "night1": "凌晨"
@@ -262,7 +262,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "早上",
+                  "morning1": "清晨",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -296,21 +296,21 @@
             "eras": {
               "eraNames": {
                 "0": "公元前",
-                "0-alt-variant": "西元前",
+                "0-alt-variant": "BCE",
                 "1": "公元",
-                "1-alt-variant": "西元"
+                "1-alt-variant": "CE"
               },
               "eraAbbr": {
                 "0": "公元前",
-                "0-alt-variant": "西元前",
+                "0-alt-variant": "BCE",
                 "1": "公元",
-                "1-alt-variant": "西元"
+                "1-alt-variant": "CE"
               },
               "eraNarrow": {
                 "0": "公元前",
-                "0-alt-variant": "西元前",
+                "0-alt-variant": "BCE",
                 "1": "公元",
-                "1-alt-variant": "西元"
+                "1-alt-variant": "CE"
               }
             },
             "dateFormats": {
@@ -334,9 +334,9 @@
                 "d": "d日",
                 "E": "ccc",
                 "Ed": "d日E",
-                "Ehm": "E ah:mm",
+                "Ehm": "Eah:mm",
                 "EHm": "EHH:mm",
-                "Ehms": "E ah:mm:ss",
+                "Ehms": "Eah:mm:ss",
                 "EHms": "EHH:mm:ss",
                 "Gy": "Gy年",
                 "GyMMM": "Gy年M月",
@@ -360,6 +360,7 @@
                 "MMMd": "M月d日",
                 "MMMEd": "M月d日E",
                 "MMMMd": "M月d日",
+                "MMMMW": "MMM第W周",
                 "ms": "mm:ss",
                 "y": "y年",
                 "yM": "y年M月",
@@ -371,7 +372,8 @@
                 "yMMMEd": "y年M月d日E",
                 "yMMMM": "y年M月",
                 "yQQQ": "y年第Q季度",
-                "yQQQQ": "y年第Q季度"
+                "yQQQQ": "y年第Q季度",
+                "yw": "y年第w周"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -435,7 +437,7 @@
                   "M": "M/dE至M/dE"
                 },
                 "MMM": {
-                  "M": "LLL至LLL"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
                   "d": "M月d日至d日",

@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lo"
       },
@@ -14,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "ເວລາ {0}",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat-type-daylight": "ເວລາກາງເວັນ {0}",
+          "regionFormat-type-standard": "ເວລາມາດຕະຖານ {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -29,7 +29,7 @@
                 "exemplarCity": "ແອນກິນລາ"
               },
               "Antigua": {
-                "exemplarCity": "ແອນຕີກາ"
+                "exemplarCity": "ແອນທິກົວ"
               },
               "Araguaina": {
                 "exemplarCity": "ອາຣາກົວນາ"
@@ -166,7 +166,7 @@
                 "exemplarCity": "ເອວ ຊາວາດໍ"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ຟອດ ເນວສັນ"
               },
               "Fortaleza": {
                 "exemplarCity": "ຟໍຕາເລຊາ"
@@ -175,13 +175,13 @@
                 "exemplarCity": "ເກລດເບ"
               },
               "Godthab": {
-                "exemplarCity": "ນຸກ"
+                "exemplarCity": "ນູກ"
               },
               "Goose_Bay": {
                 "exemplarCity": "ກູສເບ"
               },
               "Grand_Turk": {
-                "exemplarCity": "ແກຣນທັກ"
+                "exemplarCity": "ແກຣນ ເທີກ"
               },
               "Grenada": {
                 "exemplarCity": "ເກຣນາດາ"
@@ -352,7 +352,7 @@
                 "exemplarCity": "ໂອຈິນາກາ"
               },
               "Panama": {
-                "exemplarCity": "ປານາມາ"
+                "exemplarCity": "ພານາມາ"
               },
               "Pangnirtung": {
                 "exemplarCity": "ແພງເນີດທັງ"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "ອິນດໍຣາ"
               },
+              "Astrakhan": {
+                "exemplarCity": "ອາສຕຣາຄານ"
+              },
               "Athens": {
                 "exemplarCity": "ເອເທນສ໌"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "ຂຽບ"
+              },
+              "Kirov": {
+                "exemplarCity": "ກິໂຣບ"
               },
               "Lisbon": {
                 "exemplarCity": "ລິສບອນ"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "ທິຣານ"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "ອູລີອານອບສຄ໌"
               },
               "Uzhgorod": {
                 "exemplarCity": "ອັສຊ໌ກໍໂຣດ"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "ບາງກອກ"
               },
+              "Barnaul": {
+                "exemplarCity": "ບານົວ"
+              },
               "Beirut": {
                 "exemplarCity": "ເບຣຸດ"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "ໂຕກຽວ"
+              },
+              "Tomsk": {
+                "exemplarCity": "ທອມສກ໌"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "ອູລານບາຕາຣ໌"
@@ -1457,21 +1472,21 @@
               "long": {
                 "generic": "ເວລາຕາເວັນອອກ",
                 "standard": "ເວລາມາດຕະຖານຕາເວັນອອກ",
-                "daylight": "ເວລາຕອນທ່ຽງທາງຕາເວັນອອກ"
+                "daylight": "ເວລາກາງເວັນຕາເວັນອອກ"
               }
             },
             "America_Mountain": {
               "long": {
                 "generic": "ເວລາແຖບພູເຂົາ",
                 "standard": "ເວລາມາດຕະຖານແຖບພູເຂົາ",
-                "daylight": "ເວລາກາງເວັນແຖວພູເຂົາ"
+                "daylight": "ເວລາກາງເວັນແຖບພູເຂົາ"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "ເວລາປາຊີຟິກ",
-                "standard": "ເວລາມາດຕະຖານຂອງປາຊີຟິກ",
-                "daylight": "ເວລາກາງເວັນຂອງປາຊີຟິກ"
+                "generic": "ເວລາແປຊິຟິກ",
+                "standard": "ເວລາມາດຕະຖານແປຊິຟິກ",
+                "daylight": "ເວລາກາງເວັນແປຊິຟິກ"
               }
             },
             "Apia": {
@@ -1499,7 +1514,7 @@
               "long": {
                 "generic": "ເວ​ລາ​ອາ​ຣາ​ບຽນ",
                 "standard": "ເວ​ລາ​ມາດ​ຕະ​ຖານອາ​ຣາ​ບຽນ",
-                "daylight": "ເວ​ລາ​ຕອນ​ທ່ຽງອາ​ຣາ​ບຽນ"
+                "daylight": "ເວລາກາງເວັນອາຣາບຽນ"
               }
             },
             "Argentina": {
@@ -1674,7 +1689,7 @@
               "long": {
                 "generic": "ເວລາຄິວບາ",
                 "standard": "ເວລາມາດຕະຖານຂອງຄິວບາ",
-                "daylight": "ເວລາຕອນທ່ຽງຂອງຄິວບາ"
+                "daylight": "ເວລາກາງເວັນຄິວບາ"
               }
             },
             "Davis": {
@@ -1751,7 +1766,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "ເວລາຝຣັ່ງຕອນໃຕ້ແລະແອນຕາກຕິກ"
+                "standard": "ເວລາຝຣັ່ງຕອນໃຕ້ ແລະ ແອນຕາກຕິກ"
               }
             },
             "Galapagos": {
@@ -1879,7 +1894,7 @@
               "long": {
                 "generic": "ເວ​ລາ​ອິ​ສ​ຣາ​ເອວ",
                 "standard": "ເວ​ລາ​ມາດ​ຕະ​ຖານອິ​ສ​ຣາ​ເອວ",
-                "daylight": "ເວ​ລາ​ຕອນ​ທ່ຽງອິ​ສ​ຣາ​ເອວ"
+                "daylight": "ເວລາກາງເວັນອິສຣາເອວ"
               }
             },
             "Japan": {
@@ -1920,7 +1935,7 @@
             },
             "Kyrgystan": {
               "long": {
-                "standard": "ເວລາຄຣີກິສຖານ"
+                "standard": "ເວລາເຄຍກິສຖານ"
               }
             },
             "Lanka": {
@@ -1995,14 +2010,14 @@
               "long": {
                 "generic": "​ເວ​ລາ​ນອດ​ເວ​ສ​ເມັກ​ຊິ​ໂກ",
                 "standard": "​ເວ​ລາ​ມາດ​ຕະ​ຖານນອດ​ເວ​ສ​ເມັກ​ຊິ​ໂກ",
-                "daylight": "​ເວ​ລາ​ຕອນ​ທ່ຽງນອດ​ເວ​ສ​ເມັກ​ຊິ​ໂກ"
+                "daylight": "ເວລາກາງເວັນເມັກຊິກັນນອດເວສ"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "​ເວ​ລາ​ເມັກ​ຊິ​ກັນ​ປາ​ຊິ​ຟິກ",
-                "standard": "​ເວ​ລາ​​ມາດ​ຕະ​ຖານເມັກ​ຊິ​ກັນ​ປາ​ຊິ​ຟິກ​",
-                "daylight": "​ເວ​ລາ​ຕອນ​ທ່ຽງ​ເມັກ​ຊິ​ກັນ​ປາ​ຊິ​ຟິກ"
+                "generic": "ເວລາແປຊິຟິກເມັກຊິກັນ",
+                "standard": "ເວລາມາດຕະຖານແປຊິຟິກເມັກຊິກັນ",
+                "daylight": "ເວລາກາງເວັນແປຊິຟິກເມັກຊິກັນ"
               }
             },
             "Mongolia": {
@@ -2052,7 +2067,7 @@
               "long": {
                 "generic": "ເວ​ລາ​ນິວ​ຟາວ​ແລນ",
                 "standard": "ເວ​ລາ​ມາດ​ຕະ​ຖານ​ນິວ​ຟາວ​ແລນ",
-                "daylight": "​ເວ​ລາ​ຕອນ​ທ່ຽງ​ນິວ​ຟາວ​ແລນ"
+                "daylight": "ເວລາກາງເວັນນິວຟາວແລນ"
               }
             },
             "Niue": {
@@ -2149,6 +2164,11 @@
             "Ponape": {
               "long": {
                 "standard": "ເວລາໂປເນບ"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "ເວລາປຽງຢາງ"
               }
             },
             "Qyzylorda": {
@@ -2310,7 +2330,7 @@
             },
             "Wallis": {
               "long": {
-                "standard": "ເວລາວາລລີສແລະຟຸຕູນາ"
+                "standard": "ເວລາວາລລິສ ແລະ ຟູຕູນາ"
               }
             },
             "Yakutsk": {

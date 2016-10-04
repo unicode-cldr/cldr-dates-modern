@@ -3,8 +3,8 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12413 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12954 $",
+          "_cldrVersion": "30"
         },
         "language": "en",
         "territory": "AU"
@@ -29,18 +29,18 @@
                   "12": "Dec."
                 },
                 "narrow": {
-                  "1": "Jan.",
-                  "2": "Feb.",
-                  "3": "Mar.",
-                  "4": "Apr.",
-                  "5": "May",
-                  "6": "Jun.",
-                  "7": "Jul.",
-                  "8": "Aug.",
-                  "9": "Sep.",
-                  "10": "Oct.",
-                  "11": "Nov.",
-                  "12": "Dec."
+                  "1": "J",
+                  "2": "F",
+                  "3": "M",
+                  "4": "A",
+                  "5": "M",
+                  "6": "J",
+                  "7": "J",
+                  "8": "A",
+                  "9": "S",
+                  "10": "O",
+                  "11": "N",
+                  "12": "D"
                 },
                 "wide": {
                   "1": "January",
@@ -73,18 +73,18 @@
                   "12": "Dec."
                 },
                 "narrow": {
-                  "1": "Jan.",
-                  "2": "Feb.",
-                  "3": "Mar.",
-                  "4": "Apr.",
-                  "5": "May",
-                  "6": "Jun.",
-                  "7": "Jul.",
-                  "8": "Aug.",
-                  "9": "Sep.",
-                  "10": "Oct.",
-                  "11": "Nov.",
-                  "12": "Dec."
+                  "1": "J",
+                  "2": "F",
+                  "3": "M",
+                  "4": "A",
+                  "5": "M",
+                  "6": "J",
+                  "7": "J",
+                  "8": "A",
+                  "9": "S",
+                  "10": "O",
+                  "11": "N",
+                  "12": "D"
                 },
                 "wide": {
                   "1": "January",
@@ -255,19 +255,19 @@
                   "noon": "midday",
                   "pm": "pm",
                   "pm-alt-variant": "pm",
-                  "morning1": "morning",
-                  "afternoon1": "afternoon",
-                  "evening1": "evening",
-                  "night1": "night"
+                  "morning1": "in the morning",
+                  "afternoon1": "in the afternoon",
+                  "evening1": "in the evening",
+                  "night1": "at night"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "midnight",
-                  "am": "am",
+                  "am": "AM",
                   "am-alt-variant": "am",
                   "noon": "midday",
-                  "pm": "pm",
+                  "pm": "PM",
                   "pm-alt-variant": "pm",
                   "morning1": "morning",
                   "afternoon1": "afternoon",
@@ -359,7 +359,7 @@
                 "Hmsv": "HH:mm:ss v",
                 "hmv": "h:mm a v",
                 "Hmv": "HH:mm v",
-                "M": "LL",
+                "M": "L",
                 "Md": "dd/MM",
                 "MEd": "E, dd/MM",
                 "MMdd": "dd/MM",
@@ -367,6 +367,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -374,10 +376,12 @@
                 "yMEd": "E, dd/MM/y",
                 "yMMM": "MMM y",
                 "yMMMd": "d MMM y",
-                "yMMMEd": "E, d MMM y",
+                "yMMMEd": "E, d MMM,y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12311 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ur"
       },
@@ -245,8 +245,8 @@
                 },
                 "wide": {
                   "midnight": "آدھی رات",
-                  "am": "قبل دوپہر",
-                  "pm": "بعد دوپہر",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "صبح",
                   "afternoon1": "دوپہر",
                   "afternoon2": "سہ پہر",
@@ -267,8 +267,8 @@
                 },
                 "narrow": {
                   "midnight": "آدھی رات",
-                  "am": "a",
-                  "pm": "p",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "صبح",
                   "afternoon1": "دوپہر",
                   "afternoon2": "سہ پہر",
@@ -290,9 +290,9 @@
             "eras": {
               "eraNames": {
                 "0": "قبل مسیح",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "عام دور سے قبل",
                 "1": "عیسوی",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "عام دور"
               },
               "eraAbbr": {
                 "0": "قبل مسیح",
@@ -310,7 +310,7 @@
             "dateFormats": {
               "full": "EEEE، d MMMM، y",
               "long": "d MMMM، y",
-              "medium": "d MMM، y",
+              "medium": "y MMM d",
               "short": "d/M/yy"
             },
             "timeFormats": {
@@ -353,6 +353,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E، d MMM",
                 "MMMMd": "MMMM d",
+                "MMMMW": "MMM کے W ہفتے",
+                "MMMMW": "MMM کے W ہفتے",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -363,7 +365,9 @@
                 "yMMMEd": "E، d MMM، y",
                 "yMMMM": "y MMMM",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "y کا w ہفتہ",
+                "yw": "y کا w ہفتہ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

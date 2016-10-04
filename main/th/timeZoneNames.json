@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "th"
       },
@@ -166,13 +166,13 @@
                 "exemplarCity": "เอลซัลวาดอร์"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ฟอร์ตเนลสัน"
               },
               "Fortaleza": {
                 "exemplarCity": "ฟอร์ตาเลซา"
               },
               "Glace_Bay": {
-                "exemplarCity": "แกลซเบย์"
+                "exemplarCity": "เกลซเบย์"
               },
               "Godthab": {
                 "exemplarCity": "กอดแธบ"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "อันดอร์รา"
               },
+              "Astrakhan": {
+                "exemplarCity": "แอสตราคาน"
+              },
               "Athens": {
                 "exemplarCity": "เอเธนส์"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "เคียฟ"
+              },
+              "Kirov": {
+                "exemplarCity": "คิรอฟ"
               },
               "Lisbon": {
                 "exemplarCity": "ลิสบอน"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "ติรานา"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "อะลิยานอฟ"
               },
               "Uzhgorod": {
                 "exemplarCity": "อัซโกร็อด"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "กรุงเทพ"
               },
+              "Barnaul": {
+                "exemplarCity": "บราโมล"
+              },
               "Beirut": {
                 "exemplarCity": "เบรุต"
               },
@@ -1046,6 +1058,9 @@
               "Tokyo": {
                 "exemplarCity": "โตเกียว"
               },
+              "Tomsk": {
+                "exemplarCity": "ตอมสค์"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "อูลานบาตอร์"
               },
@@ -1132,7 +1147,7 @@
                 "exemplarCity": "ลินดีแมน"
               },
               "Lord_Howe": {
-                "exemplarCity": "ลอร์ดโฮวี"
+                "exemplarCity": "ลอร์ดโฮว์"
               },
               "Melbourne": {
                 "exemplarCity": "เมลเบิร์น"
@@ -1155,7 +1170,7 @@
                 "exemplarCity": "บูเกนวิลล์"
               },
               "Chatham": {
-                "exemplarCity": "แชแทม"
+                "exemplarCity": "แชทัม"
               },
               "Easter": {
                 "exemplarCity": "อีสเตอร์"
@@ -1164,7 +1179,7 @@
                 "exemplarCity": "เอฟาเต"
               },
               "Enderbury": {
-                "exemplarCity": "เอนเดอร์เบอร์รี"
+                "exemplarCity": "เอนเดอร์เบอรี"
               },
               "Fakaofo": {
                 "exemplarCity": "ฟาเคาโฟ"
@@ -1197,7 +1212,7 @@
                 "exemplarCity": "คิริทิมาตี"
               },
               "Kosrae": {
-                "exemplarCity": "คอสแร"
+                "exemplarCity": "คอสไร"
               },
               "Kwajalein": {
                 "exemplarCity": "ควาจาเลน"
@@ -1206,7 +1221,7 @@
                 "exemplarCity": "มาจูโร"
               },
               "Marquesas": {
-                "exemplarCity": "มาร์เควซัส"
+                "exemplarCity": "มาร์เคซัส"
               },
               "Midway": {
                 "exemplarCity": "มิดเวย์"
@@ -1245,7 +1260,7 @@
                 "exemplarCity": "ไซปัน"
               },
               "Tahiti": {
-                "exemplarCity": "ทาฮิติ"
+                "exemplarCity": "ตาฮีตี"
               },
               "Tarawa": {
                 "exemplarCity": "ตาระวา"
@@ -1273,7 +1288,7 @@
                 "exemplarCity": "เคซีย์"
               },
               "Davis": {
-                "exemplarCity": "ดาวีส์"
+                "exemplarCity": "เดวิส"
               },
               "DumontDUrville": {
                 "exemplarCity": "ดูมองต์ดูร์วิลล์"
@@ -1282,7 +1297,7 @@
                 "exemplarCity": "แมคควอรี"
               },
               "Mawson": {
-                "exemplarCity": "มาว์ซัน"
+                "exemplarCity": "มอว์สัน"
               },
               "McMurdo": {
                 "exemplarCity": "แมคมัวโด"
@@ -1291,16 +1306,16 @@
                 "exemplarCity": "พาล์เมอร์"
               },
               "Rothera": {
-                "exemplarCity": "โรเทรา"
+                "exemplarCity": "โรธีรา"
               },
               "Syowa": {
-                "exemplarCity": "เซียวา"
+                "exemplarCity": "ไซโยวา"
               },
               "Troll": {
                 "exemplarCity": "โทรล"
               },
               "Vostok": {
-                "exemplarCity": "วอสต็อค"
+                "exemplarCity": "วอสตอค"
               }
             },
             "Etc": {
@@ -1441,9 +1456,9 @@
             },
             "Amazon": {
               "long": {
-                "generic": "เวลาอะเมซอน",
-                "standard": "เวลามาตรฐานอะเมซอน",
-                "daylight": "เวลาฤดูร้อนอะเมซอน"
+                "generic": "เวลาแอมะซอน",
+                "standard": "เวลามาตรฐานแอมะซอน",
+                "daylight": "เวลาฤดูร้อนแอมะซอน"
               }
             },
             "America_Central": {
@@ -1949,9 +1964,9 @@
             },
             "Lord_Howe": {
               "long": {
-                "generic": "เวลาลอร์ดโฮว",
+                "generic": "เวลาลอร์ดโฮว์",
                 "standard": "เวลามาตรฐานลอร์ดโฮว์",
-                "daylight": "เวลาออมแสงของลอร์ดโฮว์"
+                "daylight": "เวลาออมแสงลอร์ดโฮว์"
               }
             },
             "Macau": {
@@ -2162,7 +2177,12 @@
             },
             "Ponape": {
               "long": {
-                "standard": "เวลาโปเนป"
+                "standard": "เวลาโปนาเป"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "เวลาเปียงยาง"
               }
             },
             "Qyzylorda": {
@@ -2230,7 +2250,7 @@
             },
             "Syowa": {
               "long": {
-                "standard": "เวลาโซวา"
+                "standard": "เวลาไซโยวา"
               }
             },
             "Tahiti": {

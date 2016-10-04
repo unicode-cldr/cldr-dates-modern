@@ -3,8 +3,8 @@
     "sw-UG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "sw",
         "territory": "UG"
@@ -248,9 +248,9 @@
                 },
                 "wide": {
                   "midnight": "saa sita za usiku",
-                  "am": "AM",
+                  "am": "Asubuhi",
                   "noon": "saa sita za mchana",
-                  "pm": "PM",
+                  "pm": "Mchana",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
                   "afternoon1": "mchana",
@@ -302,15 +302,15 @@
                 "1-alt-variant": "CE"
               },
               "eraAbbr": {
-                "0": "BC",
+                "0": "KK",
                 "0-alt-variant": "BCE",
-                "1": "AD",
+                "1": "BK",
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
-                "0": "BC",
+                "0": "KK",
                 "0-alt-variant": "BCE",
-                "1": "AD",
+                "1": "BK",
                 "1-alt-variant": "CE"
               }
             },
@@ -361,6 +361,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
+                "MMMMW": "'wiki' W 'ya' MMM",
+                "MMMMW": "'wiki' W 'ya' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -371,7 +373,9 @@
                 "yMMMEd": "E, MMM d, y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "y QQQ",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'wiki' w 'ya' y",
+                "yw": "'wiki' w 'ya' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

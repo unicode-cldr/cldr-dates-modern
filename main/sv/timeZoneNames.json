@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12366 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13007 $",
+          "_cldrVersion": "30"
         },
         "language": "sv"
       },
@@ -305,7 +305,7 @@
                 "exemplarCity": "Metlakatla"
               },
               "Mexico_City": {
-                "exemplarCity": "Mexico City"
+                "exemplarCity": "Mexiko City"
               },
               "Miquelon": {
                 "exemplarCity": "Miquelon"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Aten"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lissabon"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzjhorod"
@@ -840,7 +849,7 @@
                 "exemplarCity": "Aden"
               },
               "Almaty": {
-                "exemplarCity": "Alma-Ata"
+                "exemplarCity": "Almaty"
               },
               "Amman": {
                 "exemplarCity": "Amman"
@@ -868,6 +877,9 @@
               },
               "Bangkok": {
                 "exemplarCity": "Bangkok"
+              },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
               },
               "Beirut": {
                 "exemplarCity": "Beirut"
@@ -1046,6 +1058,9 @@
               "Tokyo": {
                 "exemplarCity": "Tokyo"
               },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
               },
@@ -1188,6 +1203,11 @@
                 "exemplarCity": "Guam"
               },
               "Honolulu": {
+                "short": {
+                  "generic": "Honolulutid",
+                  "standard": "Honolulunormaltid",
+                  "daylight": "Honolulusommartid"
+                },
                 "exemplarCity": "Honolulu"
               },
               "Johnston": {
@@ -2181,6 +2201,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ponapetid"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pyongyangtid"
               }
             },
             "Qyzylorda": {

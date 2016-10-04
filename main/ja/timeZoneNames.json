@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ja"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "エルサルバドル"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "フォートネルソン"
               },
               "Fortaleza": {
                 "exemplarCity": "フォルタレザ"
@@ -187,7 +187,7 @@
                 "exemplarCity": "グレナダ"
               },
               "Guadeloupe": {
-                "exemplarCity": "グアダループ"
+                "exemplarCity": "グアドループ"
               },
               "Guatemala": {
                 "exemplarCity": "グアテマラ"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "アンドラ"
               },
+              "Astrakhan": {
+                "exemplarCity": "アストラハン"
+              },
               "Athens": {
                 "exemplarCity": "アテネ"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "キエフ"
+              },
+              "Kirov": {
+                "exemplarCity": "キーロフ"
               },
               "Lisbon": {
                 "exemplarCity": "リスボン"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "ティラナ"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "ウリヤノフスク"
               },
               "Uzhgorod": {
                 "exemplarCity": "ウージュホロド"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "バンコク"
               },
+              "Barnaul": {
+                "exemplarCity": "バルナウル"
+              },
               "Beirut": {
                 "exemplarCity": "ベイルート"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "東京"
+              },
+              "Tomsk": {
+                "exemplarCity": "トムスク"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "ウランバートル"
@@ -2167,6 +2182,11 @@
             "Ponape": {
               "long": {
                 "standard": "ポナペ時間"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "平壌時間"
               }
             },
             "Qyzylorda": {

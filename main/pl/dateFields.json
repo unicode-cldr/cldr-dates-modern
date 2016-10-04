@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pl"
       },
@@ -191,7 +191,8 @@
               "relativeTimePattern-count-few": "{0} tygodnie temu",
               "relativeTimePattern-count-many": "{0} tygodni temu",
               "relativeTimePattern-count-other": "{0} tygodnia temu"
-            }
+            },
+            "relativePeriod": "tydzień {0}"
           },
           "week-short": {
             "displayName": "tydz.",
@@ -209,7 +210,8 @@
               "relativeTimePattern-count-few": "{0} tyg. temu",
               "relativeTimePattern-count-many": "{0} tyg. temu",
               "relativeTimePattern-count-other": "{0} tyg. temu"
-            }
+            },
+            "relativePeriod": "tydzień {0}"
           },
           "week-narrow": {
             "displayName": "tydz.",
@@ -227,7 +229,8 @@
               "relativeTimePattern-count-few": "{0} tyg. temu",
               "relativeTimePattern-count-many": "{0} tyg. temu",
               "relativeTimePattern-count-other": "{0} tyg. temu"
-            }
+            },
+            "relativePeriod": "tydzień {0}"
           },
           "day": {
             "displayName": "dzień",
@@ -295,113 +298,366 @@
           "sun": {
             "relative-type--1": "w zeszłą niedzielę",
             "relative-type-0": "w tę niedzielę",
-            "relative-type-1": "w przyszłą niedzielę"
+            "relative-type-1": "w przyszłą niedzielę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} niedzielę",
+              "relativeTimePattern-count-few": "za {0} niedziele",
+              "relativeTimePattern-count-many": "za {0} niedziel",
+              "relativeTimePattern-count-other": "za {0} niedzieli"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} niedzielę temu",
+              "relativeTimePattern-count-few": "{0} niedziele temu",
+              "relativeTimePattern-count-many": "{0} niedziel temu",
+              "relativeTimePattern-count-other": "{0} niedzieli temu"
+            }
           },
           "sun-short": {
             "relative-type--1": "w zeszłą niedzielę",
             "relative-type-0": "w tę niedzielę",
-            "relative-type-1": "w przyszłą niedzielę"
+            "relative-type-1": "w przyszłą niedzielę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} niedzielę",
+              "relativeTimePattern-count-few": "za {0} niedziele",
+              "relativeTimePattern-count-many": "za {0} niedziel",
+              "relativeTimePattern-count-other": "za {0} niedzieli"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} niedzielę temu",
+              "relativeTimePattern-count-few": "{0} niedziele temu",
+              "relativeTimePattern-count-many": "{0} niedziel temu",
+              "relativeTimePattern-count-other": "{0} niedzieli temu"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "w zeszłą niedzielę",
             "relative-type-0": "w tę niedzielę",
-            "relative-type-1": "w przyszłą niedzielę"
+            "relative-type-1": "w przyszłą niedzielę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} niedzielę",
+              "relativeTimePattern-count-few": "za {0} niedziele",
+              "relativeTimePattern-count-many": "za {0} niedziel",
+              "relativeTimePattern-count-other": "za {0} niedzieli"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} niedzielę temu",
+              "relativeTimePattern-count-few": "{0} niedziele temu",
+              "relativeTimePattern-count-many": "{0} niedziel temu",
+              "relativeTimePattern-count-other": "{0} niedzieli temu"
+            }
           },
           "mon": {
             "relative-type--1": "w zeszły poniedziałek",
             "relative-type-0": "w ten poniedziałek",
-            "relative-type-1": "w przyszły poniedziałek"
+            "relative-type-1": "w przyszły poniedziałek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} poniedziałek",
+              "relativeTimePattern-count-few": "za {0} poniedziałki",
+              "relativeTimePattern-count-many": "za {0} poniedziałków",
+              "relativeTimePattern-count-other": "za {0} poniedziałku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} poniedziałek temu",
+              "relativeTimePattern-count-few": "{0} poniedziałki temu",
+              "relativeTimePattern-count-many": "{0} poniedziałków temu",
+              "relativeTimePattern-count-other": "{0} poniedziałku temu"
+            }
           },
           "mon-short": {
             "relative-type--1": "w zeszły poniedziałek",
             "relative-type-0": "w ten poniedziałek",
-            "relative-type-1": "w przyszły poniedziałek"
+            "relative-type-1": "w przyszły poniedziałek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} poniedziałek",
+              "relativeTimePattern-count-few": "za {0} poniedziałki",
+              "relativeTimePattern-count-many": "za {0} poniedziałków",
+              "relativeTimePattern-count-other": "za {0} poniedziałku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} poniedziałek temu",
+              "relativeTimePattern-count-few": "{0} poniedziałki temu",
+              "relativeTimePattern-count-many": "{0} poniedziałków temu",
+              "relativeTimePattern-count-other": "{0} poniedziałku temu"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "w zeszły poniedziałek",
             "relative-type-0": "w ten poniedziałek",
-            "relative-type-1": "w przyszły poniedziałek"
+            "relative-type-1": "w przyszły poniedziałek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} poniedziałek",
+              "relativeTimePattern-count-few": "za {0} poniedziałki",
+              "relativeTimePattern-count-many": "za {0} poniedziałków",
+              "relativeTimePattern-count-other": "za {0} poniedziałku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} poniedziałek temu",
+              "relativeTimePattern-count-few": "{0} poniedziałki temu",
+              "relativeTimePattern-count-many": "{0} poniedziałków temu",
+              "relativeTimePattern-count-other": "{0} poniedziałku temu"
+            }
           },
           "tue": {
             "relative-type--1": "w zeszły wtorek",
             "relative-type-0": "w ten wtorek",
-            "relative-type-1": "w przyszły wtorek"
+            "relative-type-1": "w przyszły wtorek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} wtorek",
+              "relativeTimePattern-count-few": "za {0} wtorki",
+              "relativeTimePattern-count-many": "za {0} wtorków",
+              "relativeTimePattern-count-other": "za {0} wtorku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} wtorek temu",
+              "relativeTimePattern-count-few": "{0} wtorki temu",
+              "relativeTimePattern-count-many": "{0} wtorków temu",
+              "relativeTimePattern-count-other": "{0} wtorku temu"
+            }
           },
           "tue-short": {
             "relative-type--1": "w zeszły wtorek",
             "relative-type-0": "w ten wtorek",
-            "relative-type-1": "w przyszły wtorek"
+            "relative-type-1": "w przyszły wtorek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} wtorek",
+              "relativeTimePattern-count-few": "za {0} wtorki",
+              "relativeTimePattern-count-many": "za {0} wtorków",
+              "relativeTimePattern-count-other": "za {0} wtorku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} wtorek temu",
+              "relativeTimePattern-count-few": "{0} wtorki temu",
+              "relativeTimePattern-count-many": "{0} wtorków temu",
+              "relativeTimePattern-count-other": "{0} wtorku temu"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "w zeszły wtorek",
             "relative-type-0": "w ten wtorek",
-            "relative-type-1": "w przyszły wtorek"
+            "relative-type-1": "w przyszły wtorek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} wtorek",
+              "relativeTimePattern-count-few": "za {0} wtorki",
+              "relativeTimePattern-count-many": "za {0} wtorków",
+              "relativeTimePattern-count-other": "za {0} wtorku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} wtorek temu",
+              "relativeTimePattern-count-few": "{0} wtorki temu",
+              "relativeTimePattern-count-many": "{0} wtorków temu",
+              "relativeTimePattern-count-other": "{0} wtorku temu"
+            }
           },
           "wed": {
             "relative-type--1": "w zeszłą środę",
             "relative-type-0": "w tę środę",
-            "relative-type-1": "w przyszłą środę"
+            "relative-type-1": "w przyszłą środę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} środę",
+              "relativeTimePattern-count-few": "za {0} środy",
+              "relativeTimePattern-count-many": "za {0} śród",
+              "relativeTimePattern-count-other": "za {0} środy"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} środę temu",
+              "relativeTimePattern-count-few": "{0} środy temu",
+              "relativeTimePattern-count-many": "{0} śród temu",
+              "relativeTimePattern-count-other": "{0} środy temu"
+            }
           },
           "wed-short": {
             "relative-type--1": "w zeszłą środę",
             "relative-type-0": "w tę środę",
-            "relative-type-1": "w przyszłą środę"
+            "relative-type-1": "w przyszłą środę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} środę",
+              "relativeTimePattern-count-few": "za {0} środy",
+              "relativeTimePattern-count-many": "za {0} śród",
+              "relativeTimePattern-count-other": "za {0} środy"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} środę temu",
+              "relativeTimePattern-count-few": "{0} środy temu",
+              "relativeTimePattern-count-many": "{0} śród temu",
+              "relativeTimePattern-count-other": "{0} środy temu"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "w zeszłą środę",
             "relative-type-0": "w tę środę",
-            "relative-type-1": "w przyszłą środę"
+            "relative-type-1": "w przyszłą środę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} środę",
+              "relativeTimePattern-count-few": "za {0} środy",
+              "relativeTimePattern-count-many": "za {0} śród",
+              "relativeTimePattern-count-other": "za {0} środy"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} środę temu",
+              "relativeTimePattern-count-few": "{0} środy temu",
+              "relativeTimePattern-count-many": "{0} śród temu",
+              "relativeTimePattern-count-other": "{0} środy temu"
+            }
           },
           "thu": {
             "relative-type--1": "w zeszły czwartek",
             "relative-type-0": "w ten czwartek",
-            "relative-type-1": "w przyszły czwartek"
+            "relative-type-1": "w przyszły czwartek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} czwartek",
+              "relativeTimePattern-count-few": "za {0} czwartki",
+              "relativeTimePattern-count-many": "za {0} czwartków",
+              "relativeTimePattern-count-other": "za {0} czwartku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} czwartek temu",
+              "relativeTimePattern-count-few": "{0} czwartki temu",
+              "relativeTimePattern-count-many": "{0} czwartków temu",
+              "relativeTimePattern-count-other": "{0} czwartku temu"
+            }
           },
           "thu-short": {
             "relative-type--1": "w zeszły czwartek",
             "relative-type-0": "w ten czwartek",
-            "relative-type-1": "w przyszły czwartek"
+            "relative-type-1": "w przyszły czwartek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} czwartek",
+              "relativeTimePattern-count-few": "za {0} czwartki",
+              "relativeTimePattern-count-many": "za {0} czwartków",
+              "relativeTimePattern-count-other": "za {0} czwartku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} czwartek temu",
+              "relativeTimePattern-count-few": "{0} czwartki temu",
+              "relativeTimePattern-count-many": "{0} czwartków temu",
+              "relativeTimePattern-count-other": "{0} czwartku temu"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "w zeszły czwartek",
             "relative-type-0": "w ten czwartek",
-            "relative-type-1": "w przyszły czwartek"
+            "relative-type-1": "w przyszły czwartek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} czwartek",
+              "relativeTimePattern-count-few": "za {0} czwartki",
+              "relativeTimePattern-count-many": "za {0} czwartków",
+              "relativeTimePattern-count-other": "za {0} czwartku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} czwartek temu",
+              "relativeTimePattern-count-few": "{0} czwartki temu",
+              "relativeTimePattern-count-many": "{0} czwartków temu",
+              "relativeTimePattern-count-other": "{0} czwartku temu"
+            }
           },
           "fri": {
             "relative-type--1": "w zeszły piątek",
             "relative-type-0": "w ten piątek",
-            "relative-type-1": "w przyszły piątek"
+            "relative-type-1": "w przyszły piątek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} piątek",
+              "relativeTimePattern-count-few": "za {0} piątki",
+              "relativeTimePattern-count-many": "za {0} piątków",
+              "relativeTimePattern-count-other": "za {0} piątku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} piątek temu",
+              "relativeTimePattern-count-few": "{0} piątki temu",
+              "relativeTimePattern-count-many": "{0} piątków temu",
+              "relativeTimePattern-count-other": "{0} piątku temu"
+            }
           },
           "fri-short": {
             "relative-type--1": "w zeszły piątek",
             "relative-type-0": "w ten piątek",
-            "relative-type-1": "w przyszły piątek"
+            "relative-type-1": "w przyszły piątek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} piątek",
+              "relativeTimePattern-count-few": "za {0} piątki",
+              "relativeTimePattern-count-many": "za {0} piątków",
+              "relativeTimePattern-count-other": "za {0} piątku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} piątek temu",
+              "relativeTimePattern-count-few": "{0} piątki temu",
+              "relativeTimePattern-count-many": "{0} piątków temu",
+              "relativeTimePattern-count-other": "{0} piątku temu"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "w zeszły piątek",
             "relative-type-0": "w ten piątek",
-            "relative-type-1": "w przyszły piątek"
+            "relative-type-1": "w przyszły piątek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} piątek",
+              "relativeTimePattern-count-few": "za {0} piątki",
+              "relativeTimePattern-count-many": "za {0} piątków",
+              "relativeTimePattern-count-other": "za {0} piątku"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} piątek temu",
+              "relativeTimePattern-count-few": "{0} piątki temu",
+              "relativeTimePattern-count-many": "{0} piątków temu",
+              "relativeTimePattern-count-other": "{0} piątku temu"
+            }
           },
           "sat": {
             "relative-type--1": "w zeszłą sobotę",
             "relative-type-0": "w tę sobotę",
-            "relative-type-1": "w przyszłą sobotę"
+            "relative-type-1": "w przyszłą sobotę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} sobotę",
+              "relativeTimePattern-count-few": "za {0} soboty",
+              "relativeTimePattern-count-many": "za {0} sobót",
+              "relativeTimePattern-count-other": "za {0} soboty"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} sobotę temu",
+              "relativeTimePattern-count-few": "{0} soboty temu",
+              "relativeTimePattern-count-many": "{0} sobót temu",
+              "relativeTimePattern-count-other": "{0} soboty temu"
+            }
           },
           "sat-short": {
             "relative-type--1": "w zeszłą sobotę",
             "relative-type-0": "w tę sobotę",
-            "relative-type-1": "w przyszłą sobotę"
+            "relative-type-1": "w przyszłą sobotę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} sobotę",
+              "relativeTimePattern-count-few": "za {0} soboty",
+              "relativeTimePattern-count-many": "za {0} sobót",
+              "relativeTimePattern-count-other": "za {0} soboty"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} sobotę temu",
+              "relativeTimePattern-count-few": "{0} soboty temu",
+              "relativeTimePattern-count-many": "{0} sobót temu",
+              "relativeTimePattern-count-other": "{0} soboty temu"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "w zeszłą sobotę",
             "relative-type-0": "w tę sobotę",
-            "relative-type-1": "w przyszłą sobotę"
+            "relative-type-1": "w przyszłą sobotę",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "za {0} sobotę",
+              "relativeTimePattern-count-few": "za {0} soboty",
+              "relativeTimePattern-count-many": "za {0} sobót",
+              "relativeTimePattern-count-other": "za {0} soboty"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} sobotę temu",
+              "relativeTimePattern-count-few": "{0} soboty temu",
+              "relativeTimePattern-count-many": "{0} sobót temu",
+              "relativeTimePattern-count-other": "{0} soboty temu"
+            }
           },
           "dayperiod": {
             "displayName": "rano / po południu / wieczorem"
           },
           "hour": {
             "displayName": "godzina",
+            "relative-type-0": "ta godzina",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} godzinę",
               "relativeTimePattern-count-few": "za {0} godziny",
@@ -417,6 +673,7 @@
           },
           "hour-short": {
             "displayName": "godz.",
+            "relative-type-0": "ta godzina",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} godz.",
               "relativeTimePattern-count-few": "za {0} godz.",
@@ -432,6 +689,7 @@
           },
           "hour-narrow": {
             "displayName": "g.",
+            "relative-type-0": "ta godzina",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} g.",
               "relativeTimePattern-count-few": "za {0} g.",
@@ -447,6 +705,7 @@
           },
           "minute": {
             "displayName": "minuta",
+            "relative-type-0": "ta minuta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} minutę",
               "relativeTimePattern-count-few": "za {0} minuty",
@@ -462,6 +721,7 @@
           },
           "minute-short": {
             "displayName": "min",
+            "relative-type-0": "ta minuta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} min",
               "relativeTimePattern-count-few": "za {0} min",
@@ -477,6 +737,7 @@
           },
           "minute-narrow": {
             "displayName": "min",
+            "relative-type-0": "ta minuta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} min",
               "relativeTimePattern-count-few": "za {0} min",

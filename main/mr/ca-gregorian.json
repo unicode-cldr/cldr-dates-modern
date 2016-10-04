@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mr"
       },
@@ -238,7 +238,7 @@
                 "narrow": {
                   "midnight": "म.रा.",
                   "am": "स",
-                  "noon": "म",
+                  "noon": "दु",
                   "pm": "सं",
                   "morning1": "प",
                   "morning2": "स",
@@ -283,7 +283,7 @@
                   "afternoon1": "दु",
                   "evening1": "सं",
                   "evening2": "सा",
-                  "night1": "रा"
+                  "night1": "रात्र"
                 },
                 "wide": {
                   "midnight": "मध्यरात्र",
@@ -308,13 +308,13 @@
               },
               "eraAbbr": {
                 "0": "इ. स. पू.",
-                "0-alt-variant": "ईसापूर्व युग",
+                "0-alt-variant": "इ. स. पू. युग",
                 "1": "इ. स.",
                 "1-alt-variant": "ख्रि. यु."
               },
               "eraNarrow": {
                 "0": "इ. स. पू.",
-                "0-alt-variant": "ईसापूर्व युग",
+                "0-alt-variant": "इ. स. पू. युग",
                 "1": "इ. स.",
                 "1-alt-variant": "ख्रि. यु."
               }
@@ -366,6 +366,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "MMM चा W रा आठवडा",
+                "MMMMW": "MMM चा W रा आठवडा",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -377,7 +379,9 @@
                 "yMMMEd": "E, d, MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "y चा w रा आठवडा",
+                "yw": "y चा w रा आठवडा"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

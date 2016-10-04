@@ -3,8 +3,8 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "tr",
         "territory": "CY"
@@ -15,7 +15,7 @@
             "displayName": "Miladi Dönem"
           },
           "year": {
-            "displayName": "Yıl",
+            "displayName": "yıl",
             "relative-type--1": "geçen yıl",
             "relative-type-0": "bu yıl",
             "relative-type-1": "gelecek yıl",
@@ -57,10 +57,10 @@
             }
           },
           "quarter": {
-            "displayName": "Çeyrek",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "çeyrek",
+            "relative-type--1": "geçen çeyrek",
+            "relative-type-0": "bu çeyrek",
+            "relative-type-1": "gelecek çeyrek",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} çeyrek sonra",
               "relativeTimePattern-count-other": "{0} çeyrek sonra"
@@ -72,9 +72,9 @@
           },
           "quarter-short": {
             "displayName": "çyr.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "geçen çeyrek",
+            "relative-type-0": "bu çeyrek",
+            "relative-type-1": "gelecek çeyrek",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} çyr. sonra",
               "relativeTimePattern-count-other": "{0} çyr. sonra"
@@ -86,9 +86,9 @@
           },
           "quarter-narrow": {
             "displayName": "çyr.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "geçen çeyrek",
+            "relative-type-0": "bu çeyrek",
+            "relative-type-1": "gelecek çeyrek",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} çyr. sonra",
               "relativeTimePattern-count-other": "{0} çyr. sonra"
@@ -99,7 +99,7 @@
             }
           },
           "month": {
-            "displayName": "Ay",
+            "displayName": "ay",
             "relative-type--1": "geçen ay",
             "relative-type-0": "bu ay",
             "relative-type-1": "gelecek ay",
@@ -141,7 +141,7 @@
             }
           },
           "week": {
-            "displayName": "Hafta",
+            "displayName": "hafta",
             "relative-type--1": "geçen hafta",
             "relative-type-0": "bu hafta",
             "relative-type-1": "gelecek hafta",
@@ -152,7 +152,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} hafta önce",
               "relativeTimePattern-count-other": "{0} hafta önce"
-            }
+            },
+            "relativePeriod": "{0} haftası"
           },
           "week-short": {
             "displayName": "hf.",
@@ -166,7 +167,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} hf. önce",
               "relativeTimePattern-count-other": "{0} hf. önce"
-            }
+            },
+            "relativePeriod": "{0} haftası"
           },
           "week-narrow": {
             "displayName": "hf.",
@@ -180,10 +182,11 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} hf. önce",
               "relativeTimePattern-count-other": "{0} hf. önce"
-            }
+            },
+            "relativePeriod": "{0} haftası"
           },
           "day": {
-            "displayName": "Gün",
+            "displayName": "gün",
             "relative-type--2": "evvelsi gün",
             "relative-type--1": "dün",
             "relative-type-0": "bugün",
@@ -231,118 +234,287 @@
             }
           },
           "weekday": {
-            "displayName": "Haftanın Günü"
+            "displayName": "haftanın günü"
           },
           "sun": {
             "relative-type--1": "geçen pazar",
             "relative-type-0": "bu pazar",
-            "relative-type-1": "gelecek pazar"
+            "relative-type-1": "gelecek pazar",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} pazar sonra",
+              "relativeTimePattern-count-other": "{0} pazar sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} pazar önce",
+              "relativeTimePattern-count-other": "{0} pazar önce"
+            }
           },
           "sun-short": {
             "relative-type--1": "geçen paz.",
             "relative-type-0": "bu paz.",
-            "relative-type-1": "gelecek paz."
+            "relative-type-1": "gelecek paz.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} paz. sonra",
+              "relativeTimePattern-count-other": "{0} paz. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} paz. önce",
+              "relativeTimePattern-count-other": "{0} paz. önce"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "geçen paz.",
             "relative-type-0": "bu paz.",
-            "relative-type-1": "gelecek paz."
+            "relative-type-1": "gelecek paz.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} paz. sonra",
+              "relativeTimePattern-count-other": "{0} paz. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} paz. önce",
+              "relativeTimePattern-count-other": "{0} paz. önce"
+            }
           },
           "mon": {
             "relative-type--1": "geçen pazartesi",
             "relative-type-0": "bu pazartesi",
-            "relative-type-1": "gelecek pazartesi"
+            "relative-type-1": "gelecek pazartesi",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} pazartesi sonra",
+              "relativeTimePattern-count-other": "{0} pazartesi sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} pazartesi önce",
+              "relativeTimePattern-count-other": "{0} pazartesi önce"
+            }
           },
           "mon-short": {
             "relative-type--1": "geçen pzt.",
             "relative-type-0": "bu pzt.",
-            "relative-type-1": "gelecek pzt."
+            "relative-type-1": "gelecek pzt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} pzt. sonra",
+              "relativeTimePattern-count-other": "{0} pzt. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} pzt. önce",
+              "relativeTimePattern-count-other": "{0} pzt. önce"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "geçen pzt.",
             "relative-type-0": "bu pzt.",
-            "relative-type-1": "gelecek pzt."
+            "relative-type-1": "gelecek pzt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} pzt. sonra",
+              "relativeTimePattern-count-other": "{0} pzt. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} pzt. önce",
+              "relativeTimePattern-count-other": "{0} pzt. önce"
+            }
           },
           "tue": {
             "relative-type--1": "geçen salı",
             "relative-type-0": "bu salı",
-            "relative-type-1": "gelecek salı"
+            "relative-type-1": "gelecek salı",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} salı sonra",
+              "relativeTimePattern-count-other": "{0} salı sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} salı önce",
+              "relativeTimePattern-count-other": "{0} salı önce"
+            }
           },
           "tue-short": {
             "relative-type--1": "geçen salı",
             "relative-type-0": "bu salı",
-            "relative-type-1": "gelecek salı"
+            "relative-type-1": "gelecek salı",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} salı sonra",
+              "relativeTimePattern-count-other": "{0} salı sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} salı önce",
+              "relativeTimePattern-count-other": "{0} salı önce"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "geçen salı",
             "relative-type-0": "bu salı",
-            "relative-type-1": "gelecek salı"
+            "relative-type-1": "gelecek salı",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} salı sonra",
+              "relativeTimePattern-count-other": "{0} salı sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} salı önce",
+              "relativeTimePattern-count-other": "{0} salı önce"
+            }
           },
           "wed": {
             "relative-type--1": "geçen çarşamba",
             "relative-type-0": "bu çarşamba",
-            "relative-type-1": "gelecek çarşamba"
+            "relative-type-1": "gelecek çarşamba",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} çarşamba sonra",
+              "relativeTimePattern-count-other": "{0} çarşamba sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} çarşamba önce",
+              "relativeTimePattern-count-other": "{0} çarşamba önce"
+            }
           },
           "wed-short": {
             "relative-type--1": "geçen çar.",
             "relative-type-0": "bu çar.",
-            "relative-type-1": "gelecek çar."
+            "relative-type-1": "gelecek çar.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} çar. sonra",
+              "relativeTimePattern-count-other": "{0} çar. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} çar. önce",
+              "relativeTimePattern-count-other": "{0} çar. önce"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "geçen çar.",
             "relative-type-0": "bu çar.",
-            "relative-type-1": "gelecek çar."
+            "relative-type-1": "gelecek çar.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} çar. sonra",
+              "relativeTimePattern-count-other": "{0} çar. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} çar. önce",
+              "relativeTimePattern-count-other": "{0} çar. önce"
+            }
           },
           "thu": {
             "relative-type--1": "geçen perşembe",
             "relative-type-0": "bu perşembe",
-            "relative-type-1": "gelecek perşembe"
+            "relative-type-1": "gelecek perşembe",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} perşembe sonra",
+              "relativeTimePattern-count-other": "{0} perşembe sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} perşembe önce",
+              "relativeTimePattern-count-other": "{0} perşembe önce"
+            }
           },
           "thu-short": {
             "relative-type--1": "geçen per.",
             "relative-type-0": "bu per.",
-            "relative-type-1": "gelecek per."
+            "relative-type-1": "gelecek per.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} per. sonra",
+              "relativeTimePattern-count-other": "{0} per. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} per. önce",
+              "relativeTimePattern-count-other": "{0} per. önce"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "geçen per.",
             "relative-type-0": "bu per.",
-            "relative-type-1": "gelecek per."
+            "relative-type-1": "gelecek per.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} per. sonra",
+              "relativeTimePattern-count-other": "{0} per. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} per. önce",
+              "relativeTimePattern-count-other": "{0} per. önce"
+            }
           },
           "fri": {
             "relative-type--1": "geçen cuma",
             "relative-type-0": "bu cuma",
-            "relative-type-1": "gelecek cuma"
+            "relative-type-1": "gelecek cuma",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} cuma sonra",
+              "relativeTimePattern-count-other": "{0} cuma sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} cuma önce",
+              "relativeTimePattern-count-other": "{0} cuma önce"
+            }
           },
           "fri-short": {
             "relative-type--1": "geçen cuma",
             "relative-type-0": "bu cuma",
-            "relative-type-1": "gelecek cuma"
+            "relative-type-1": "gelecek cuma",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} cuma sonra",
+              "relativeTimePattern-count-other": "{0} cuma sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} cuma önce",
+              "relativeTimePattern-count-other": "{0} cuma önce"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "geçen cuma",
             "relative-type-0": "bu cuma",
-            "relative-type-1": "gelecek cuma"
+            "relative-type-1": "gelecek cuma",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} cuma sonra",
+              "relativeTimePattern-count-other": "{0} cuma sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} cuma önce",
+              "relativeTimePattern-count-other": "{0} cuma önce"
+            }
           },
           "sat": {
             "relative-type--1": "geçen cumartesi",
             "relative-type-0": "bu cumartesi",
-            "relative-type-1": "gelecek cumartesi"
+            "relative-type-1": "gelecek cumartesi",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} cumartesi sonra",
+              "relativeTimePattern-count-other": "{0} cumartesi sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} cumartesi önce",
+              "relativeTimePattern-count-other": "{0} cumartesi önce"
+            }
           },
           "sat-short": {
             "relative-type--1": "geçen cmt.",
             "relative-type-0": "bu cmt.",
-            "relative-type-1": "gelecek cmt."
+            "relative-type-1": "gelecek cmt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} cmt. sonra",
+              "relativeTimePattern-count-other": "{0} cmt. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} cmt. önce",
+              "relativeTimePattern-count-other": "{0} cmt. önce"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "geçen cmt.",
             "relative-type-0": "bu cmt.",
-            "relative-type-1": "gelecek cmt."
+            "relative-type-1": "gelecek cmt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} cmt. sonra",
+              "relativeTimePattern-count-other": "{0} cmt. sonra"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} cmt. önce",
+              "relativeTimePattern-count-other": "{0} cmt. önce"
+            }
           },
           "dayperiod": {
             "displayName": "ÖÖ/ÖS"
           },
           "hour": {
-            "displayName": "Saat",
+            "displayName": "saat",
+            "relative-type-0": "bu saat",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} saat sonra",
               "relativeTimePattern-count-other": "{0} saat sonra"
@@ -354,6 +526,7 @@
           },
           "hour-short": {
             "displayName": "sa.",
+            "relative-type-0": "bu saat",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} sa. sonra",
               "relativeTimePattern-count-other": "{0} sa. sonra"
@@ -365,6 +538,7 @@
           },
           "hour-narrow": {
             "displayName": "sa.",
+            "relative-type-0": "bu saat",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} sa. sonra",
               "relativeTimePattern-count-other": "{0} sa. sonra"
@@ -375,7 +549,8 @@
             }
           },
           "minute": {
-            "displayName": "Dakika",
+            "displayName": "dakika",
+            "relative-type-0": "bu dakika",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} dakika sonra",
               "relativeTimePattern-count-other": "{0} dakika sonra"
@@ -387,6 +562,7 @@
           },
           "minute-short": {
             "displayName": "dk.",
+            "relative-type-0": "bu dakika",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} dk. sonra",
               "relativeTimePattern-count-other": "{0} dk. sonra"
@@ -398,6 +574,7 @@
           },
           "minute-narrow": {
             "displayName": "dk.",
+            "relative-type-0": "bu dakika",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} dk. sonra",
               "relativeTimePattern-count-other": "{0} dk. sonra"
@@ -408,7 +585,7 @@
             }
           },
           "second": {
-            "displayName": "Saniye",
+            "displayName": "saniye",
             "relative-type-0": "şimdi",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} saniye sonra",
@@ -444,7 +621,7 @@
             }
           },
           "zone": {
-            "displayName": "Saat Dilimi"
+            "displayName": "saat dilimi"
           }
         }
       }

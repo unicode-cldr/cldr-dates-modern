@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lv"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "Salvadora"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "Fortnelsona"
               },
               "Fortaleza": {
                 "exemplarCity": "Fortaleza"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andora"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrahaņa"
+              },
               "Athens": {
                 "exemplarCity": "Atēnas"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kijeva"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirova"
               },
               "Lisbon": {
                 "exemplarCity": "Lisabona"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirāna"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uļjanovska"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užhoroda"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkoka"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaula"
+              },
               "Beirut": {
                 "exemplarCity": "Beirūta"
               },
@@ -1046,6 +1058,9 @@
               "Tokyo": {
                 "exemplarCity": "Tokija"
               },
+              "Tomsk": {
+                "exemplarCity": "Tomska"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulanbatora"
               },
@@ -1082,7 +1097,7 @@
                 "exemplarCity": "Ziemsvētku sala"
               },
               "Cocos": {
-                "exemplarCity": "Kokosa sala"
+                "exemplarCity": "Kokosu (Kīlinga) sala"
               },
               "Comoro": {
                 "exemplarCity": "Komoras"
@@ -1152,7 +1167,7 @@
                 "exemplarCity": "Oklenda"
               },
               "Bougainville": {
-                "exemplarCity": "Bugeinvile"
+                "exemplarCity": "Bugenvila sala"
               },
               "Chatham": {
                 "exemplarCity": "Četema"
@@ -1589,7 +1604,7 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "Čamoro standarta laiks"
+                "standard": "Čamorra ziemas laiks"
               }
             },
             "Chatham": {
@@ -1627,7 +1642,7 @@
             },
             "Cocos": {
               "long": {
-                "standard": "Kokosa salu laiks"
+                "standard": "Kokosu (Kīlinga) salu laiks"
               }
             },
             "Colombia": {
@@ -1721,9 +1736,9 @@
             },
             "Falkland": {
               "long": {
-                "generic": "Folklenda salu laiks",
-                "standard": "Folklenda salu ziemas laiks",
-                "daylight": "Folklenda salu vasaras laiks"
+                "generic": "Folklenda (Malvinu) salu laiks",
+                "standard": "Folklenda (Malvinu) salu ziemas laiks",
+                "daylight": "Folklenda (Malvinu) salu vasaras laiks"
               }
             },
             "Fiji": {
@@ -1740,7 +1755,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "Francijas Dienidjūru un Antarktikas teritorijas laiks"
+                "standard": "Francijas Dienvidjūru un Antarktikas teritorijas laiks"
               }
             },
             "Galapagos": {
@@ -1945,7 +1960,7 @@
             },
             "Maldives": {
               "long": {
-                "standard": "Maldīvu salu laiks"
+                "standard": "Maldīvijas laiks"
               }
             },
             "Marquesas": {
@@ -2123,6 +2138,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ponapē laiks"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Phenjanas laiks"
               }
             },
             "Reunion": {

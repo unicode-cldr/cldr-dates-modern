@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ml"
       },
@@ -241,13 +241,13 @@
                   "am": "AM",
                   "noon": "ഉച്ച",
                   "pm": "PM",
-                  "morning1": "പു",
-                  "morning2": "രാ",
+                  "morning1": "പുലർച്ചെ",
+                  "morning2": "രാവിലെ",
                   "afternoon1": "ഉച്ചയ്",
                   "afternoon2": "ഉച്ചതി",
                   "evening1": "വൈ",
-                  "evening2": "സ",
-                  "night1": "രാ"
+                  "evening2": "സന്ധ്യ",
+                  "night1": "രാത്രി"
                 },
                 "wide": {
                   "midnight": "അർദ്ധരാത്രി",

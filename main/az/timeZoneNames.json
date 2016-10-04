@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "az"
       },
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Həştərxan"
+              },
               "Athens": {
                 "exemplarCity": "Afina"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiyev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lissabon"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Ujgorod"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Banqkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beyrut"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulanbator"
@@ -2094,6 +2109,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ponape Vaxtı"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pxenyan Vaxtı"
               }
             },
             "Reunion": {

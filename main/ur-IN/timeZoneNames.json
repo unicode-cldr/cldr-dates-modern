@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12779 $",
+          "_cldrVersion": "30"
         },
         "language": "ur",
         "territory": "IN"
@@ -167,7 +167,7 @@
                 "exemplarCity": "ال سلواڈور"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "فورٹ نیلسن"
               },
               "Fortaleza": {
                 "exemplarCity": "فورٹالیزا"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "انڈورا"
               },
+              "Astrakhan": {
+                "exemplarCity": "استراخان"
+              },
               "Athens": {
                 "exemplarCity": "ایتھنز"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "کیوو"
+              },
+              "Kirov": {
+                "exemplarCity": "کیروف"
               },
               "Lisbon": {
                 "exemplarCity": "لسبن"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "ٹیرانی"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "الیانوسک"
               },
               "Uzhgorod": {
                 "exemplarCity": "ازگوروڈ"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "بنکاک"
               },
+              "Barnaul": {
+                "exemplarCity": "برنال"
+              },
               "Beirut": {
                 "exemplarCity": "بیروت"
               },
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "ٹوکیو"
+              },
+              "Tomsk": {
+                "exemplarCity": "ٹامسک"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "اولان باتار"
@@ -2109,6 +2124,11 @@
             "Ponape": {
               "long": {
                 "standard": "پوناپے ٹائم"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "پیانگ یانگ وقت"
               }
             },
             "Reunion": {

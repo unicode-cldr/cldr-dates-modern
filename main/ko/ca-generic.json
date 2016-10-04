@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12922 $",
+          "_cldrVersion": "30"
         },
         "language": "ko"
       },
@@ -260,9 +260,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "자정",
-                  "am": "오전",
+                  "am": "AM",
                   "noon": "정오",
-                  "pm": "오후",
+                  "pm": "PM",
                   "morning1": "새벽",
                   "morning2": "오전",
                   "afternoon1": "오후",

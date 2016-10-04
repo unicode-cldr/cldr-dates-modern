@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "te"
       },
@@ -243,8 +243,8 @@
                 },
                 "wide": {
                   "midnight": "అర్థరాత్రి",
-                  "am": "[AM]",
-                  "pm": "[PM]",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "ఉదయం",
                   "afternoon1": "మధ్యాహ్నం",
                   "evening1": "సాయంత్రం",
@@ -290,15 +290,15 @@
               },
               "eraAbbr": {
                 "0": "క్రీపూ",
-                "0-alt-variant": "[BCE]",
+                "0-alt-variant": "BCE",
                 "1": "క్రీశ",
-                "1-alt-variant": "[CE]"
+                "1-alt-variant": "CE"
               },
               "eraNarrow": {
                 "0": "క్రీపూ",
-                "0-alt-variant": "[BCE]",
+                "0-alt-variant": "BCE",
                 "1": "క్రీశ",
-                "1-alt-variant": "[CE]"
+                "1-alt-variant": "CE"
               }
             },
             "dateFormats": {
@@ -348,6 +348,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "MMM Wవ వారం",
+                "MMMMW": "MMM Wవ వారం",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -359,7 +361,9 @@
                 "yMMMEd": "E, d, MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "y wవ వారం",
+                "yw": "y wవ వారం"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

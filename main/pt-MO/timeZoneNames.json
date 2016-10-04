@@ -3,8 +3,8 @@
     "pt-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "pt",
         "territory": "MO"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astracã"
+              },
               "Athens": {
                 "exemplarCity": "Atenas"
               },
@@ -541,7 +544,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Hora de Verão da Irlanda"
+                  "daylight": "Hora de verão da Irlanda"
                 },
                 "exemplarCity": "Dublin"
               },
@@ -569,6 +572,9 @@
               "Kiev": {
                 "exemplarCity": "Kiev"
               },
+              "Kirov": {
+                "exemplarCity": "Kirov"
+              },
               "Lisbon": {
                 "exemplarCity": "Lisboa"
               },
@@ -577,7 +583,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "Hora de Verão Britânica"
+                  "daylight": "Hora de verão Britânica"
                 },
                 "exemplarCity": "Londres"
               },
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulianovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "Banguecoque"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirute"
               },
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tóquio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -2159,6 +2174,11 @@
             "Ponape": {
               "long": {
                 "standard": "Hora de Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Hora de Pyongyang"
               }
             },
             "Qyzylorda": {

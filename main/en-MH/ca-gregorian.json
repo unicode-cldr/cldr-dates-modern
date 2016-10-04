@@ -3,8 +3,8 @@
     "en-MH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "en",
         "territory": "MH"
@@ -269,10 +269,10 @@
                   "noon": "noon",
                   "pm": "PM",
                   "pm-alt-variant": "pm",
-                  "morning1": "in the morning",
-                  "afternoon1": "in the afternoon",
-                  "evening1": "in the evening",
-                  "night1": "at night"
+                  "morning1": "morning",
+                  "afternoon1": "afternoon",
+                  "evening1": "evening",
+                  "night1": "night"
                 },
                 "narrow": {
                   "midnight": "midnight",
@@ -281,10 +281,10 @@
                   "noon": "noon",
                   "pm": "PM",
                   "pm-alt-variant": "pm",
-                  "morning1": "in the morning",
-                  "afternoon1": "in the afternoon",
-                  "evening1": "in the evening",
-                  "night1": "at night"
+                  "morning1": "morning",
+                  "afternoon1": "afternoon",
+                  "evening1": "evening",
+                  "night1": "night"
                 },
                 "wide": {
                   "midnight": "midnight",
@@ -366,6 +366,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -376,7 +378,9 @@
                 "yMMMEd": "E, MMM d, y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

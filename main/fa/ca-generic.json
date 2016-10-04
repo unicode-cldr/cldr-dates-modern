@@ -3,8 +3,8 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "fa"
       },
@@ -229,7 +229,7 @@
                   "noon": "ظهر",
                   "pm": "ب.ظ.",
                   "morning1": "صبح",
-                  "afternoon1": "عصر",
+                  "afternoon1": "ب.ظ.",
                   "evening1": "عصر",
                   "night1": "شب"
                 },
@@ -239,7 +239,7 @@
                   "noon": "ظ",
                   "pm": "ب",
                   "morning1": "ص",
-                  "afternoon1": "ب",
+                  "afternoon1": "ب.ظ.",
                   "evening1": "ع",
                   "night1": "ش"
                 },
@@ -261,19 +261,19 @@
                   "noon": "ظ",
                   "pm": "ب.ظ.",
                   "morning1": "صبح",
-                  "afternoon1": "عصر",
-                  "evening1": "سر شب",
+                  "afternoon1": "ب.ظ.",
+                  "evening1": "عصر",
                   "night1": "شب"
                 },
                 "narrow": {
-                  "midnight": "نیمه‌شب",
+                  "midnight": "ن",
                   "am": "ق.ظ.",
-                  "noon": "ظهر",
+                  "noon": "ظ",
                   "pm": "ب.ظ.",
-                  "morning1": "صبح",
-                  "afternoon1": "عصر",
-                  "evening1": "سر شب",
-                  "night1": "شب"
+                  "morning1": "ص",
+                  "afternoon1": "ب.ظ.",
+                  "evening1": "ع",
+                  "night1": "ش"
                 },
                 "wide": {
                   "midnight": "نیمه‌شب",
@@ -281,8 +281,8 @@
                   "noon": "ظهر",
                   "pm": "بعدازظهر",
                   "morning1": "صبح",
-                  "afternoon1": "عصر",
-                  "evening1": "سر شب",
+                  "afternoon1": "بعدازظهر",
+                  "evening1": "عصر",
                   "night1": "شب"
                 }
               }

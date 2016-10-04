@@ -3,8 +3,8 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "el",
         "territory": "CY"
@@ -71,7 +71,7 @@
                 "exemplarCity": "Μπαχία Ντε Μπαντέρας"
               },
               "Barbados": {
-                "exemplarCity": "Μπαρμπάντος"
+                "exemplarCity": "Μπαρμπέιντος"
               },
               "Belem": {
                 "exemplarCity": "Μπέλεμ"
@@ -89,7 +89,7 @@
                 "exemplarCity": "Μπογκοτά"
               },
               "Boise": {
-                "exemplarCity": "Μπόιζ"
+                "exemplarCity": "Μπόιζι"
               },
               "Buenos_Aires": {
                 "exemplarCity": "Μπουένος Άιρες"
@@ -122,7 +122,7 @@
                 "exemplarCity": "Τσιουάουα"
               },
               "Coral_Harbour": {
-                "exemplarCity": "Κόραλ Χάρμπουρ"
+                "exemplarCity": "Ατικόκαν"
               },
               "Cordoba": {
                 "exemplarCity": "Κόρδοβα"
@@ -155,7 +155,7 @@
                 "exemplarCity": "Ντιτρόιτ"
               },
               "Dominica": {
-                "exemplarCity": "Δομινίκα"
+                "exemplarCity": "Ντομίνικα"
               },
               "Edmonton": {
                 "exemplarCity": "Έντμοντον"
@@ -167,7 +167,7 @@
                 "exemplarCity": "Ελ Σαλβαδόρ"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "Φορτ Νέλσον"
               },
               "Fortaleza": {
                 "exemplarCity": "Φορταλέζα"
@@ -176,7 +176,7 @@
                 "exemplarCity": "Γκλέις Μπέι"
               },
               "Godthab": {
-                "exemplarCity": "Γκόνθαμπ"
+                "exemplarCity": "Νουούκ"
               },
               "Goose_Bay": {
                 "exemplarCity": "Γκους Μπέι"
@@ -210,13 +210,13 @@
               },
               "Indiana": {
                 "Vincennes": {
-                  "exemplarCity": "Βίνκενες, Ιντιάνα"
+                  "exemplarCity": "Βανσέν, Ιντιάνα"
                 },
                 "Petersburg": {
                   "exemplarCity": "Πίτερσμπεργκ, Ιντιάνα"
                 },
                 "Tell_City": {
-                  "exemplarCity": "Τελ Σίτυ, Ιντιάνα"
+                  "exemplarCity": "Τελ Σίτι, Ιντιάνα"
                 },
                 "Knox": {
                   "exemplarCity": "Νοξ, Ιντιάνα"
@@ -228,7 +228,7 @@
                   "exemplarCity": "Μαρένγκο, Ιντιάνα"
                 },
                 "Vevay": {
-                  "exemplarCity": "Βεβάι, Ιντιάνα"
+                  "exemplarCity": "Βιβέι, Ιντιάνα"
                 }
               },
               "Indianapolis": {
@@ -238,7 +238,7 @@
                 "exemplarCity": "Ινούβικ"
               },
               "Iqaluit": {
-                "exemplarCity": "Ικαλούτ"
+                "exemplarCity": "Ικαλούιτ"
               },
               "Jamaica": {
                 "exemplarCity": "Τζαμάικα"
@@ -267,10 +267,10 @@
                 "exemplarCity": "Λος Άντζελες"
               },
               "Louisville": {
-                "exemplarCity": "Λούισβιλ"
+                "exemplarCity": "Λούιβιλ"
               },
               "Lower_Princes": {
-                "exemplarCity": "Άγιος Μαρτίνος Ολλανδίας"
+                "exemplarCity": "Lower Prince’s Quarter"
               },
               "Maceio": {
                 "exemplarCity": "Μασέιο"
@@ -282,7 +282,7 @@
                 "exemplarCity": "Μανάος"
               },
               "Marigot": {
-                "exemplarCity": "Μάριγκοτ"
+                "exemplarCity": "Μαριγκό"
               },
               "Martinique": {
                 "exemplarCity": "Μαρτινίκα"
@@ -340,13 +340,13 @@
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Μπέουλαχ, Βόρεια Ντακότα"
+                  "exemplarCity": "Μπέουλα, Βόρεια Ντακότα"
                 },
                 "New_Salem": {
-                  "exemplarCity": "Νιου Σάλεμ, Βόρεια Ντακότα"
+                  "exemplarCity": "Νιου Σέιλεμ, Βόρεια Ντακότα"
                 },
                 "Center": {
-                  "exemplarCity": "Κέντρο, Βόρεια Ντακότα"
+                  "exemplarCity": "Σέντερ, Βόρεια Ντακότα"
                 }
               },
               "Ojinaga": {
@@ -380,7 +380,7 @@
                 "exemplarCity": "Ρέινι Ρίβερ"
               },
               "Rankin_Inlet": {
-                "exemplarCity": "Ρέινκιν Ίνλετ"
+                "exemplarCity": "Ράνκιν Ίνλετ"
               },
               "Recife": {
                 "exemplarCity": "Ρεσίφε"
@@ -389,7 +389,7 @@
                 "exemplarCity": "Ρετζίνα"
               },
               "Resolute": {
-                "exemplarCity": "Ρέσολουτ"
+                "exemplarCity": "Ρέζολουτ"
               },
               "Rio_Branco": {
                 "exemplarCity": "Ρίο Μπράνκο"
@@ -419,10 +419,10 @@
                 "exemplarCity": "Άγιος Βαρθολομαίος"
               },
               "St_Johns": {
-                "exemplarCity": "Σεντ Τζονς"
+                "exemplarCity": "Σεν Τζονς"
               },
               "St_Kitts": {
-                "exemplarCity": "Άγιος Χριστόφορος (Σαιντ Κιτς)"
+                "exemplarCity": "Σεν Κιτς"
               },
               "St_Lucia": {
                 "exemplarCity": "Αγία Λουκία"
@@ -434,13 +434,13 @@
                 "exemplarCity": "Άγιος Βικέντιος"
               },
               "Swift_Current": {
-                "exemplarCity": "Σουίφτ Κάρρεντ"
+                "exemplarCity": "Σουίφτ Κάρεντ"
               },
               "Tegucigalpa": {
                 "exemplarCity": "Τεγκουσιγκάλπα"
               },
               "Thule": {
-                "exemplarCity": "Τούλε"
+                "exemplarCity": "Θούλη"
               },
               "Thunder_Bay": {
                 "exemplarCity": "Θάντερ Μπέι"
@@ -475,7 +475,7 @@
                 "exemplarCity": "Αζόρες"
               },
               "Bermuda": {
-                "exemplarCity": "Βερμούδα"
+                "exemplarCity": "Βερμούδες"
               },
               "Canary": {
                 "exemplarCity": "Κανάρια"
@@ -508,6 +508,9 @@
               },
               "Andorra": {
                 "exemplarCity": "Ανδόρα"
+              },
+              "Astrakhan": {
+                "exemplarCity": "Αστραχάν"
               },
               "Athens": {
                 "exemplarCity": "Αθήνα"
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Κίεβο"
+              },
+              "Kirov": {
+                "exemplarCity": "Κίροφ"
               },
               "Lisbon": {
                 "exemplarCity": "Λισαβόνα"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Τίρανα"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ουλιάνοφσκ"
               },
               "Uzhgorod": {
                 "exemplarCity": "Ουζκόροντ"
@@ -841,7 +850,7 @@
                 "exemplarCity": "Άντεν"
               },
               "Almaty": {
-                "exemplarCity": "Αλμάτυ"
+                "exemplarCity": "Αλμάτι"
               },
               "Amman": {
                 "exemplarCity": "Αμμάν"
@@ -869,6 +878,9 @@
               },
               "Bangkok": {
                 "exemplarCity": "Μπανγκόκ"
+              },
+              "Barnaul": {
+                "exemplarCity": "Μπαρναούλ"
               },
               "Beirut": {
                 "exemplarCity": "Βυρητός"
@@ -1000,7 +1012,7 @@
                 "exemplarCity": "Κατάρ"
               },
               "Qyzylorda": {
-                "exemplarCity": "Κτζιλ-Ορντά"
+                "exemplarCity": "Κιζιλορντά"
               },
               "Rangoon": {
                 "exemplarCity": "Ρανγκούν"
@@ -1045,7 +1057,10 @@
                 "exemplarCity": "Τρίμφου"
               },
               "Tokyo": {
-                "exemplarCity": "Τόκυο"
+                "exemplarCity": "Τόκιο"
+              },
+              "Tomsk": {
+                "exemplarCity": "Τομσκ"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ουλάν Μπατόρ"
@@ -1165,7 +1180,7 @@
                 "exemplarCity": "Εφάτε"
               },
               "Enderbury": {
-                "exemplarCity": "Εντερμπέρυ"
+                "exemplarCity": "Έντερμπερι"
               },
               "Fakaofo": {
                 "exemplarCity": "Φακαόφο"
@@ -1237,7 +1252,7 @@
                 "exemplarCity": "Πονάπε"
               },
               "Port_Moresby": {
-                "exemplarCity": "Πορτ Μόρεσμπυ"
+                "exemplarCity": "Πορτ Μόρεσμπι"
               },
               "Rarotonga": {
                 "exemplarCity": "Ραροτόνγκα"
@@ -1838,17 +1853,17 @@
             },
             "Indonesia_Central": {
               "long": {
-                "standard": "Ώρα: Κεντρική Ινδονησία"
+                "standard": "Ώρα Κεντρικής Ινδονησίας"
               }
             },
             "Indonesia_Eastern": {
               "long": {
-                "standard": "Ώρα: Ανατολική Ινδονησία"
+                "standard": "Ώρα Ανατολικής Ινδονησίας"
               }
             },
             "Indonesia_Western": {
               "long": {
-                "standard": "Ώρα: Δυτική Ινδονησία"
+                "standard": "Ώρα Δυτικής Ινδονησίας"
               }
             },
             "Iran": {
@@ -2141,6 +2156,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ώρα Πονάπε"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Ώρα Πιονγιάνγκ"
               }
             },
             "Reunion": {

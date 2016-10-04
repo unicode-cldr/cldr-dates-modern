@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "am"
       },
@@ -151,7 +151,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "ከ{0} ሳምንት በፊት",
               "relativeTimePattern-count-other": "ከ{0} ሳምንታት በፊት"
-            }
+            },
+            "relativePeriod": "{0} ሳምንት"
           },
           "week-short": {
             "displayName": "ሳምንት",
@@ -165,7 +166,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "ከ{0} ሳምንታት በፊት",
               "relativeTimePattern-count-other": "ከ{0} ሳምንታት በፊት"
-            }
+            },
+            "relativePeriod": "{0} ሳምንት"
           },
           "week-narrow": {
             "displayName": "ሳምንት",
@@ -179,7 +181,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "ከ{0} ሳምንታት በፊት",
               "relativeTimePattern-count-other": "ከ{0} ሳምንታት በፊት"
-            }
+            },
+            "relativePeriod": "{0} ሳምንት"
           },
           "day": {
             "displayName": "ቀን",
@@ -235,113 +238,282 @@
           "sun": {
             "relative-type--1": "ያለፈው እሑድ",
             "relative-type-0": "የአሁኑ እሑድ",
-            "relative-type-1": "የሚቀጥለው እሑድ"
+            "relative-type-1": "የሚቀጥለው እሑድ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} እሑድ ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} እሑዶች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} እሑድ በፊት",
+              "relativeTimePattern-count-other": "ከ{0} እሑዶች በፊት"
+            }
           },
           "sun-short": {
             "relative-type--1": "ያለፈው እሑድ",
             "relative-type-0": "የአሁኑ እሑድ",
-            "relative-type-1": "የሚቀጥለው እሑድ"
+            "relative-type-1": "የሚቀጥለው እሑድ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} እሑዶች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} እሑዶች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} እሑዶች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} እሑዶች በፊት"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "ያለፈው እሑድ",
             "relative-type-0": "የአሁኑ እሑድ",
-            "relative-type-1": "የሚቀጥለው እሑድ"
+            "relative-type-1": "የሚቀጥለው እሑድ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} እሑዶች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} እሑዶች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} እሑዶች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} እሑዶች በፊት"
+            }
           },
           "mon": {
             "relative-type--1": "ያለፈው ሰኞ",
             "relative-type-0": "የአሁኑ ሰኞ",
-            "relative-type-1": "የሚቀጥለው ሰኞ"
+            "relative-type-1": "የሚቀጥለው ሰኞ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ሰኞ ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ሰኞዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ሰኞ በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ሰኞዎች በፊት"
+            }
           },
           "mon-short": {
             "relative-type--1": "ያለፈው ሰኞ",
             "relative-type-0": "የአሁኑ ሰኞ",
-            "relative-type-1": "የሚቀጥለው ሰኞ"
+            "relative-type-1": "የሚቀጥለው ሰኞ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ሰኞዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ሰኞዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ሰኞዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ሰኞዎች በፊት"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "ያለፈው ሰኞ",
             "relative-type-0": "የአሁኑ ሰኞ",
-            "relative-type-1": "የሚቀጥለው ሰኞ"
+            "relative-type-1": "የሚቀጥለው ሰኞ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ሰኞዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ሰኞዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ሰኞዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ሰኞዎች በፊት"
+            }
           },
           "tue": {
             "relative-type--1": "ያለፈው ማክሰኞ",
             "relative-type-0": "የአሁኑ ማክሰኞ",
-            "relative-type-1": "የሚቀጥለው ማክሰኞ"
+            "relative-type-1": "የሚቀጥለው ማክሰኞ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ማክሰኞ ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ማክሰኞዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ማክሰኞ በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ማክሰኞዎች በፊት"
+            }
           },
           "tue-short": {
             "relative-type--1": "ያለፈው ማክሰኞ",
             "relative-type-0": "የአሁኑ ማክሰኞ",
-            "relative-type-1": "የሚቀጥለው ማክሰኞ"
+            "relative-type-1": "የሚቀጥለው ማክሰኞ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ማክሰኞዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ማክሰኞዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ማክሰኞዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ማክሰኞዎች በፊት"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "ያለፈው ማክሰኞ",
             "relative-type-0": "የአሁኑ ማክሰኞ",
-            "relative-type-1": "የሚቀጥለው ማክሰኞ"
+            "relative-type-1": "የሚቀጥለው ማክሰኞ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ማክሰኞዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ማክሰኞዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ማክሰኞዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ማክሰኞዎች በፊት"
+            }
           },
           "wed": {
             "relative-type--1": "ያለፈው ረቡዕ",
             "relative-type-0": "የአሁኑ ረቡዕ",
-            "relative-type-1": "የሚቀጥለው ረቡዕ"
+            "relative-type-1": "የሚቀጥለው ረቡዕ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ረቡዕ ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ረቡዕዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ረቡዕ በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ረቡዕዎች በፊት"
+            }
           },
           "wed-short": {
             "relative-type--1": "ያለፈው ረቡዕ",
             "relative-type-0": "የአሁኑ ረቡዕ",
-            "relative-type-1": "የሚቀጥለው ረቡዕ"
+            "relative-type-1": "የሚቀጥለው ረቡዕ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ረቡዕዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ረቡዕዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ረቡዕዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ረቡዕዎች በፊት"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "ያለፈው ረቡዕ",
             "relative-type-0": "የአሁኑ ረቡዕ",
-            "relative-type-1": "የሚቀጥለው ረቡዕ"
+            "relative-type-1": "የሚቀጥለው ረቡዕ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ረቡዕዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ረቡዕዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ረቡዕዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ረቡዕዎች በፊት"
+            }
           },
           "thu": {
             "relative-type--1": "ያለፈው ሐሙስ",
             "relative-type-0": "የአሁኑ ሐሙስ",
-            "relative-type-1": "የሚቀጥለው ሐሙስ"
+            "relative-type-1": "የሚቀጥለው ሐሙስ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ሐሙስ ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ሐሙሶች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ሐሙስ በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ሐሙሶች በፊት"
+            }
           },
           "thu-short": {
             "relative-type--1": "ያለፈው ሐሙስ",
             "relative-type-0": "የአሁኑ ሐሙስ",
-            "relative-type-1": "የሚቀጥለው ሐሙስ"
+            "relative-type-1": "የሚቀጥለው ሐሙስ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ሐሙሶች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ሐሙሶች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ሐሙሶች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ሐሙሶች በፊት"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "ያለፈው ሐሙስ",
             "relative-type-0": "የአሁኑ ሐሙስ",
-            "relative-type-1": "የሚቀጥለው ሐሙስ"
+            "relative-type-1": "የሚቀጥለው ሐሙስ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ሐሙሶች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ሐሙሶች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ሐሙሶች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ሐሙሶች በፊት"
+            }
           },
           "fri": {
             "relative-type--1": "ያለፈው ዓርብ",
             "relative-type-0": "የአሁኑ ዓርብ",
-            "relative-type-1": "የሚቀጥለው ዓርብ"
+            "relative-type-1": "የሚቀጥለው ዓርብ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ዓርብ ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ዓርብዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ዓርብ በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ዓርብዎች በፊት"
+            }
           },
           "fri-short": {
             "relative-type--1": "ያለፈው ዓርብ",
             "relative-type-0": "የአሁኑ ዓርብ",
-            "relative-type-1": "የሚቀጥለው ዓርብ"
+            "relative-type-1": "የሚቀጥለው ዓርብ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ዓርብዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ዓርብዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ዓርብዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ዓርብዎች በፊት"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "ያለፈው ዓርብ",
             "relative-type-0": "የአሁኑ ዓርብ",
-            "relative-type-1": "የሚቀጥለው ዓርብ"
+            "relative-type-1": "የሚቀጥለው ዓርብ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ዓርብዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ዓርብዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ዓርብዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ዓርብዎች በፊት"
+            }
           },
           "sat": {
             "relative-type--1": "ያለፈው ቅዳሜ",
             "relative-type-0": "የአሁኑ ቅዳሜ",
-            "relative-type-1": "የሚቀጥለው ቅዳሜ"
+            "relative-type-1": "የሚቀጥለው ቅዳሜ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ቅዳሜ ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ቅዳሜዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ቅዳሜ በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ቅዳሜዎች በፊት"
+            }
           },
           "sat-short": {
             "relative-type--1": "ያለፈው ቅዳሜ",
             "relative-type-0": "የአሁኑ ቅዳሜ",
-            "relative-type-1": "የሚቀጥለው ቅዳሜ"
+            "relative-type-1": "የሚቀጥለው ቅዳሜ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ቅዳሜዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ቅዳሜዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ቅዳሜዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ቅዳሜዎች በፊት"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "ያለፈው ቅዳሜ",
             "relative-type-0": "የአሁኑ ቅዳሜ",
-            "relative-type-1": "የሚቀጥለው ቅዳሜ"
+            "relative-type-1": "የሚቀጥለው ቅዳሜ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "በ{0} ቅዳሜዎች ውስጥ",
+              "relativeTimePattern-count-other": "በ{0} ቅዳሜዎች ውስጥ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ከ{0} ቅዳሜዎች በፊት",
+              "relativeTimePattern-count-other": "ከ{0} ቅዳሜዎች በፊት"
+            }
           },
           "dayperiod": {
             "displayName": "ጥዋት/ከሰዓት"
           },
           "hour": {
             "displayName": "ሰዓት",
+            "relative-type-0": "ይህ ሰዓት",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "በ{0} ሰዓት ውስጥ",
               "relativeTimePattern-count-other": "በ{0} ሰዓቶች ውስጥ"
@@ -353,6 +525,7 @@
           },
           "hour-short": {
             "displayName": "ሰዓት",
+            "relative-type-0": "ይህ ሰዓት",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "በ{0} ሰዓት ውስጥ",
               "relativeTimePattern-count-other": "በ{0} ሰዓቶች ውስጥ"
@@ -364,6 +537,7 @@
           },
           "hour-narrow": {
             "displayName": "ሰዓት",
+            "relative-type-0": "ይህ ሰዓት",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "በ{0} ሰዓት ውስጥ",
               "relativeTimePattern-count-other": "በ{0} ሰዓቶች ውስጥ"
@@ -375,6 +549,7 @@
           },
           "minute": {
             "displayName": "ደቂቃ",
+            "relative-type-0": "ይህ ደቂቃ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "በ{0} ደቂቃ ውስጥ",
               "relativeTimePattern-count-other": "በ{0} ደቂቃዎች ውስጥ"
@@ -386,6 +561,7 @@
           },
           "minute-short": {
             "displayName": "ደቂቃ",
+            "relative-type-0": "ይህ ደቂቃ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "በ{0} ደቂቃ ውስጥ",
               "relativeTimePattern-count-other": "በ{0} ደቂቃዎች ውስጥ"
@@ -397,6 +573,7 @@
           },
           "minute-narrow": {
             "displayName": "ደቂቃ",
+            "relative-type-0": "ይህ ደቂቃ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "በ{0} ደቂቃ ውስጥ",
               "relativeTimePattern-count-other": "በ{0} ደቂቃዎች ውስጥ"

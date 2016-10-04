@@ -3,8 +3,8 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hans"
@@ -167,7 +167,7 @@
                 "exemplarCity": "萨尔瓦多"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "纳尔逊堡"
               },
               "Fortaleza": {
                 "exemplarCity": "福塔雷萨"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "安道尔"
               },
+              "Astrakhan": {
+                "exemplarCity": "阿斯特拉罕"
+              },
               "Athens": {
                 "exemplarCity": "雅典"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "基辅"
+              },
+              "Kirov": {
+                "exemplarCity": "基洛夫"
               },
               "Lisbon": {
                 "exemplarCity": "里斯本"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "地拉那"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "乌里扬诺夫斯克"
               },
               "Uzhgorod": {
                 "exemplarCity": "乌日哥罗德"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "曼谷"
               },
+              "Barnaul": {
+                "exemplarCity": "巴尔瑙尔"
+              },
               "Beirut": {
                 "exemplarCity": "贝鲁特"
               },
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "东京"
+              },
+              "Tomsk": {
+                "exemplarCity": "托木斯克"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "乌兰巴托"
@@ -1594,7 +1609,7 @@
             },
             "Bolivia": {
               "long": {
-                "standard": "玻利维亚时间"
+                "standard": "玻利维亚标准时间"
               }
             },
             "Brasilia": {
@@ -1709,7 +1724,7 @@
             },
             "Ecuador": {
               "long": {
-                "standard": "厄瓜多尔时间"
+                "standard": "厄瓜多尔标准时间"
               }
             },
             "Europe_Central": {
@@ -1754,7 +1769,7 @@
             },
             "French_Guiana": {
               "long": {
-                "standard": "法属圭亚那时间"
+                "standard": "法属圭亚那标准时间"
               }
             },
             "French_Southern": {
@@ -2164,6 +2179,11 @@
             "Ponape": {
               "long": {
                 "standard": "波纳佩时间"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "平壤时间"
               }
             },
             "Qyzylorda": {

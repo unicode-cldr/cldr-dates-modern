@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "kn"
       },
@@ -15,7 +15,7 @@
           },
           "year": {
             "displayName": "ವರ್ಷ",
-            "relative-type--1": "ಕಳೆದ ವರ್ಷ",
+            "relative-type--1": "ಹಿಂದಿನ ವರ್ಷ",
             "relative-type-0": "ಈ ವರ್ಷ",
             "relative-type-1": "ಮುಂದಿನ ವರ್ಷ",
             "relativeTime-type-future": {
@@ -57,7 +57,7 @@
           },
           "quarter": {
             "displayName": "ತ್ರೈಮಾಸಿಕ",
-            "relative-type--1": "ಕಳೆದ ತ್ರೈಮಾಸಿಕ",
+            "relative-type--1": "ಹಿಂದಿನ ತ್ರೈಮಾಸಿಕ",
             "relative-type-0": "ಈ ತ್ರೈಮಾಸಿಕ",
             "relative-type-1": "ಮುಂದಿನ ತ್ರೈಮಾಸಿಕ",
             "relativeTime-type-future": {
@@ -76,11 +76,11 @@
             "relative-type-1": "ಮುಂದಿನ ತ್ರೈಮಾಸಿಕ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ತ್ರೈ.ಮಾ.ದಲ್ಲಿ",
-              "relativeTimePattern-count-other": "{0} ತ್ರೈ.ಮಾ.ಗಳಲ್ಲಿ"
+              "relativeTimePattern-count-other": "{0} ತ್ರೈಮಾಸಿಕಗಳಲ್ಲಿ"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ತ್ರೈ.ಮಾ. ಹಿಂದೆ",
-              "relativeTimePattern-count-other": "{0} ತ್ರೈ.ಮಾ. ಗಳ ಹಿಂದೆ"
+              "relativeTimePattern-count-other": "{0} ತ್ರೈಮಾಸಿಕಗಳ ಹಿಂದೆ"
             }
           },
           "quarter-narrow": {
@@ -89,11 +89,11 @@
             "relative-type-0": "ಈ ತ್ರೈಮಾಸಿಕ",
             "relative-type-1": "ಮುಂದಿನ ತ್ರೈಮಾಸಿಕ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} ತ್ರೈ",
-              "relativeTimePattern-count-other": "+{0} ತ್ರೈ"
+              "relativeTimePattern-count-one": "{0} ತ್ರೈಮಾಸಿಕಗಳಲ್ಲಿ",
+              "relativeTimePattern-count-other": "{0} ತ್ರೈಮಾಸಿಕಗಳಲ್ಲಿ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "+{0} ತ್ರೈ. ಹಿಂದೆ",
+              "relativeTimePattern-count-one": "{0} ತ್ರೈಮಾಸಿಕಗಳ ಹಿಂದೆ",
               "relativeTimePattern-count-other": "+{0} ತ್ರೈ. ಹಿಂದೆ"
             }
           },
@@ -151,7 +151,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ವಾರದ ಹಿಂದೆ",
               "relativeTimePattern-count-other": "{0} ವಾರಗಳ ಹಿಂದೆ"
-            }
+            },
+            "relativePeriod": "{0} ವಾರ"
           },
           "week-short": {
             "displayName": "ವಾರ",
@@ -165,7 +166,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ವಾರದ ಹಿಂದೆ",
               "relativeTimePattern-count-other": "{0} ವಾರಗಳ ಹಿಂದೆ"
-            }
+            },
+            "relativePeriod": "{0} ವಾರ"
           },
           "week-narrow": {
             "displayName": "ವಾರ",
@@ -179,7 +181,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ವಾರದ ಹಿಂದೆ",
               "relativeTimePattern-count-other": "{0} ವಾರಗಳ ಹಿಂದೆ"
-            }
+            },
+            "relativePeriod": "{0} ವಾರ"
           },
           "day": {
             "displayName": "ದಿನ",
@@ -235,113 +238,282 @@
           "sun": {
             "relative-type--1": "ಕಳೆದ ಭಾನುವಾರ",
             "relative-type-0": "ಈ ಭಾನುವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಭಾನುವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಭಾನುವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಭಾನುವಾರದಂದು",
+              "relativeTimePattern-count-other": "{0} ಭಾನುವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಭಾನುವಾರದ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಭಾನುವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "sun-short": {
             "relative-type--1": "ಕಳೆದ ಭಾನುವಾರ",
             "relative-type-0": "ಈ ಭಾನುವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಭಾನುವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಭಾನುವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಭಾನುವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಭಾನುವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಭಾನುವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಭಾನುವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "ಕಳೆದ ಭಾನುವಾರ",
             "relative-type-0": "ಈ ಭಾನುವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಭಾನುವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಭಾನುವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಭಾನುವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಭಾನುವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಭಾನುವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಭಾನುವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "mon": {
             "relative-type--1": "ಕಳೆದ ಸೋಮವಾರ",
             "relative-type-0": "ಈ ಸೋಮವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಸೋಮವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಸೋಮವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಸೋಮವಾರದಂದು",
+              "relativeTimePattern-count-other": "{0} ಸೋಮವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಸೋಮವಾರದ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಸೋಮವಾರಗಳಂದು"
+            }
           },
           "mon-short": {
             "relative-type--1": "ಕಳೆದ ಸೋಮವಾರ",
             "relative-type-0": "ಈ ಸೋಮವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಸೋಮವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಸೋಮವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಸೋಮವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಸೋಮವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಸೋಮವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಸೋಮವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "ಕಳೆದ ಸೋಮವಾರ",
             "relative-type-0": "ಈ ಸೋಮವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಸೋಮವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಸೋಮವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಸೋಮವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಸೋಮವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಸೋಮವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಸೋಮವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "tue": {
             "relative-type--1": "ಕಳೆದ ಮಂಗಳವಾರ",
             "relative-type-0": "ಈ ಮಂಗಳವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಮಂಗಳವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಮಂಗಳವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಮಂಗಳವಾರದಂದು",
+              "relativeTimePattern-count-other": "{0} ಮಂಗಳವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಮಂಗಳವಾರದ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಮಂಗಳವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "tue-short": {
             "relative-type--1": "ಕಳೆದ ಮಂಗಳವಾರ",
             "relative-type-0": "ಈ ಮಂಗಳವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಮಂಗಳವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಮಂಗಳವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಮಂಗಳವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಮಂಗಳವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಮಂಗಳವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಮಂಗಳವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "ಕಳೆದ ಮಂಗಳವಾರ",
             "relative-type-0": "ಈ ಮಂಗಳವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಮಂಗಳವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಮಂಗಳವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಮಂಗಳವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಮಂಗಳವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಮಂಗಳವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಮಂಗಳವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "wed": {
             "relative-type--1": "ಕಳೆದ ಬುಧವಾರ",
             "relative-type-0": "ಈ ಬುಧವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಬುಧವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಬುಧವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಬುಧವಾರದಂದು",
+              "relativeTimePattern-count-other": "{0} ಬುಧವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಬುಧವಾರದ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಬುಧವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "wed-short": {
             "relative-type--1": "ಕಳೆದ ಬುಧವಾರ",
             "relative-type-0": "ಈ ಬುಧವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಬುಧವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಬುಧವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಬುಧವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಬುಧವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಬುಧವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಬುಧವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "ಕಳೆದ ಬುಧವಾರ",
             "relative-type-0": "ಈ ಬುಧವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಬುಧವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಬುಧವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಬುಧವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಬುಧವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಬುಧವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಬುಧವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "thu": {
             "relative-type--1": "ಕಳೆದ ಗುರುವಾರ",
             "relative-type-0": "ಈ ಗುರುವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಗುರುವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಗುರುವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಗುರುವಾರದಂದು",
+              "relativeTimePattern-count-other": "{0} ಗುರುವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಗುರುವಾರದ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಗುರುವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "thu-short": {
             "relative-type--1": "ಕಳೆದ ಗುರುವಾರ",
             "relative-type-0": "ಈ ಗುರುವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಗುರುವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಗುರುವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಗುರುವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಗುರುವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಗುರುವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಗುರುವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "ಕಳೆದ ಗುರುವಾರ",
             "relative-type-0": "ಈ ಗುರುವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಗುರುವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಗುರುವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಗುರುವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಗುರುವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಗುರುವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಗುರುವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "fri": {
             "relative-type--1": "ಕಳೆದ ಶುಕ್ರವಾರ",
             "relative-type-0": "ಈ ಶುಕ್ರವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಶುಕ್ರವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಶುಕ್ರವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಶುಕ್ರವಾರದಂದು",
+              "relativeTimePattern-count-other": "{0} ಶುಕ್ರವಾರಗಳಲ್ಲಿ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಶುಕ್ರವಾರದ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಶುಕ್ರವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "fri-short": {
             "relative-type--1": "ಕಳೆದ ಶುಕ್ರವಾರ",
             "relative-type-0": "ಈ ಶುಕ್ರವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಶುಕ್ರವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಶುಕ್ರವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಶುಕ್ರವಾರಗಳಲ್ಲಿ",
+              "relativeTimePattern-count-other": "{0} ಶುಕ್ರವಾರಗಳಲ್ಲಿ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಶುಕ್ರವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಶುಕ್ರವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "ಕಳೆದ ಶುಕ್ರವಾರ",
             "relative-type-0": "ಈ ಶುಕ್ರವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಶುಕ್ರವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಶುಕ್ರವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಶುಕ್ರವಾರಗಳಲ್ಲಿ",
+              "relativeTimePattern-count-other": "{0} ಶುಕ್ರವಾರಗಳಲ್ಲಿ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಶುಕ್ರವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಶುಕ್ರವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "sat": {
             "relative-type--1": "ಕಳೆದ ಶನಿವಾರ",
             "relative-type-0": "ಈ ಶನಿವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಶನಿವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಶನಿವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಶನಿವಾರದಂದು",
+              "relativeTimePattern-count-other": "{0} ಶನಿವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಶನಿವಾರದ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಶನಿವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "sat-short": {
             "relative-type--1": "ಕಳೆದ ಶನಿವಾರ",
             "relative-type-0": "ಈ ಶನಿವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಶನಿವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಶನಿವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಶನಿವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಶನಿವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಶನಿವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಶನಿವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "ಕಳೆದ ಶನಿವಾರ",
             "relative-type-0": "ಈ ಶನಿವಾರ",
-            "relative-type-1": "ಮುಂದಿನ ಶನಿವಾರ"
+            "relative-type-1": "ಮುಂದಿನ ಶನಿವಾರ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ಶನಿವಾರಗಳಂದು",
+              "relativeTimePattern-count-other": "{0} ಶನಿವಾರಗಳಂದು"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ಶನಿವಾರಗಳ ಹಿಂದೆ",
+              "relativeTimePattern-count-other": "{0} ಶನಿವಾರಗಳ ಹಿಂದೆ"
+            }
           },
           "dayperiod": {
             "displayName": "ಪೂರ್ವಾಹ್ನ/ಅಪರಾಹ್ನ"
           },
           "hour": {
             "displayName": "ಗಂಟೆ",
+            "relative-type-0": "ಈ ಗಂಟೆ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ಗಂಟೆಯಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ಗಂಟೆಗಳಲ್ಲಿ"
@@ -353,6 +525,7 @@
           },
           "hour-short": {
             "displayName": "ಗಂಟೆ",
+            "relative-type-0": "ಈ ಗಂಟೆ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ಗಂಟೆಯಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ಗಂಟೆಗಳಲ್ಲಿ"
@@ -364,6 +537,7 @@
           },
           "hour-narrow": {
             "displayName": "ಗಂಟೆ",
+            "relative-type-0": "ಈ ಗಂಟೆ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ಗಂಟೆಯಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ಗಂಟೆಗಳಲ್ಲಿ"
@@ -375,6 +549,7 @@
           },
           "minute": {
             "displayName": "ನಿಮಿಷ",
+            "relative-type-0": "ಈ ನಿಮಿಷ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ನಿಮಿಷದಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ನಿಮಿಷಗಳಲ್ಲಿ"
@@ -386,6 +561,7 @@
           },
           "minute-short": {
             "displayName": "ನಿಮಿಷ",
+            "relative-type-0": "ಈ ನಿಮಿಷ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ನಿಮಿಷದಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ನಿಮಿಷಗಳಲ್ಲಿ"
@@ -397,6 +573,7 @@
           },
           "minute-narrow": {
             "displayName": "ನಿಮಿಷ",
+            "relative-type-0": "ಈ ನಿಮಿಷ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ನಿಮಿಷದಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ನಿಮಿಷಗಳಲ್ಲಿ"
@@ -408,7 +585,7 @@
           },
           "second": {
             "displayName": "ಸೆಕೆಂಡ್",
-            "relative-type-0": "ಇದೀಗ",
+            "relative-type-0": "ಈಗ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ಸೆಕೆಂಡ್‌ನಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ಸೆಕೆಂಡ್‌ಗಳಲ್ಲಿ"
@@ -420,7 +597,7 @@
           },
           "second-short": {
             "displayName": "ಸೆಕೆಂಡ್",
-            "relative-type-0": "ಇದೀಗ",
+            "relative-type-0": "ಈಗ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ಸೆಕೆಂಡ್‌ನಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ಸೆಕೆಂಡ್‌ಗಳಲ್ಲಿ"
@@ -432,7 +609,7 @@
           },
           "second-narrow": {
             "displayName": "ಸೆಕೆಂಡ್",
-            "relative-type-0": "ಇದೀಗ",
+            "relative-type-0": "ಈಗ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ಸೆಕೆಂಡ್‌ನಲ್ಲಿ",
               "relativeTimePattern-count-other": "{0} ಸೆಕೆಂಡ್‌ಗಳಲ್ಲಿ"

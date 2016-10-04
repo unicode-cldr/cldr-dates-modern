@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "ka"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "სალვადორი"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ფორტ-ნელსონი"
               },
               "Fortaleza": {
                 "exemplarCity": "ფორტალეზა"
@@ -187,7 +187,7 @@
                 "exemplarCity": "გრენადა"
               },
               "Guadeloupe": {
-                "exemplarCity": "გვადელუპე"
+                "exemplarCity": "გვადელუპა"
               },
               "Guatemala": {
                 "exemplarCity": "გვატემალა"
@@ -342,7 +342,7 @@
                   "exemplarCity": "ბიულა, ჩრდილოეთი დაკოტა"
                 },
                 "New_Salem": {
-                  "exemplarCity": "ნიუ სალემი, ჩრდილოეთი დაკოტა"
+                  "exemplarCity": "ნიუ-სალემი, ჩრდილოეთი დაკოტა"
                 },
                 "Center": {
                   "exemplarCity": "ცენტრი, ჩრდილოეთი დაკოტა"
@@ -418,7 +418,7 @@
                 "exemplarCity": "სენ-ბართელემი"
               },
               "St_Johns": {
-                "exemplarCity": "სენტ ჯონსი"
+                "exemplarCity": "სენტ-ჯონსი"
               },
               "St_Kitts": {
                 "exemplarCity": "სენტ-კიტსი"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "ანდორა"
               },
+              "Astrakhan": {
+                "exemplarCity": "ასტრახანი"
+              },
               "Athens": {
                 "exemplarCity": "ათენი"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "კიევი"
+              },
+              "Kirov": {
+                "exemplarCity": "კიროვი"
               },
               "Lisbon": {
                 "exemplarCity": "ლისაბონი"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "ტირანა"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "ულიანოვსკი"
               },
               "Uzhgorod": {
                 "exemplarCity": "უჟგოროდი"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "ბანგკოკი"
               },
+              "Barnaul": {
+                "exemplarCity": "ბარნაული"
+              },
               "Beirut": {
                 "exemplarCity": "ბეირუთი"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "ტოკიო"
+              },
+              "Tomsk": {
+                "exemplarCity": "ტომსკი"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "ულანბატარი"
@@ -1421,8 +1436,8 @@
             "Alaska": {
               "long": {
                 "generic": "ალასკის დრო",
-                "standard": "ალასკას სტანდარტული დრო",
-                "daylight": "ალასკას ზაფხულის დრო"
+                "standard": "ალასკის სტანდარტული დრო",
+                "daylight": "ალასკის ზაფხულის დრო"
               }
             },
             "Amazon": {
@@ -1774,9 +1789,9 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "ჰავაის და ალეუტის დრო",
-                "standard": "ჰავაის და ალეუტის სტანდარტული დრო",
-                "daylight": "ჰავაის და ალეუტის ზაფხულის დრო"
+                "generic": "ჰავაისა და ალეუტის დრო",
+                "standard": "ჰავაისა და ალეუტის სტანდარტული დრო",
+                "daylight": "ჰავაისა და ალეუტის ზაფხულის დრო"
               }
             },
             "Hong_Kong": {
@@ -2094,6 +2109,11 @@
             "Ponape": {
               "long": {
                 "standard": "პონაპეს დრო"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "ფხენიანის დრო"
               }
             },
             "Reunion": {

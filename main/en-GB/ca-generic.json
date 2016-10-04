@@ -3,8 +3,8 @@
     "en-GB": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12924 $",
+          "_cldrVersion": "30"
         },
         "language": "en",
         "territory": "GB"
@@ -269,22 +269,22 @@
                   "noon": "noon",
                   "pm": "pm",
                   "pm-alt-variant": "pm",
-                  "morning1": "in the morning",
-                  "afternoon1": "in the afternoon",
-                  "evening1": "in the evening",
-                  "night1": "at night"
+                  "morning1": "morning",
+                  "afternoon1": "afternoon",
+                  "evening1": "evening",
+                  "night1": "night"
                 },
                 "narrow": {
                   "midnight": "midnight",
-                  "am": "a",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "p",
+                  "pm": "pm",
                   "pm-alt-variant": "pm",
-                  "morning1": "in the morning",
-                  "afternoon1": "in the afternoon",
-                  "evening1": "in the evening",
-                  "night1": "at night"
+                  "morning1": "morning",
+                  "afternoon1": "afternoon",
+                  "evening1": "evening",
+                  "night1": "night"
                 },
                 "wide": {
                   "midnight": "midnight",

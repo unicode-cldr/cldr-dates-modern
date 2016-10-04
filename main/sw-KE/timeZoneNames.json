@@ -3,8 +3,8 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "sw",
         "territory": "KE"
@@ -128,7 +128,7 @@
                 "exemplarCity": "Cordoba"
               },
               "Costa_Rica": {
-                "exemplarCity": "Kosta Rika"
+                "exemplarCity": "Costa Rica"
               },
               "Creston": {
                 "exemplarCity": "Creston"
@@ -137,7 +137,7 @@
                 "exemplarCity": "Cuiaba"
               },
               "Curacao": {
-                "exemplarCity": "Kurakao"
+                "exemplarCity": "Curacao"
               },
               "Danmarkshavn": {
                 "exemplarCity": "Danmarkshavn"
@@ -306,7 +306,7 @@
                 "exemplarCity": "Metlakatla"
               },
               "Mexico_City": {
-                "exemplarCity": "Jiji la Meksiko"
+                "exemplarCity": "Jiji la Mexico"
               },
               "Miquelon": {
                 "exemplarCity": "Miquelon"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Athens"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbon"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirane"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1047,6 +1059,9 @@
               "Tokyo": {
                 "exemplarCity": "Tokyo"
               },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
               },
@@ -1080,7 +1095,7 @@
                 "exemplarCity": "Chagos"
               },
               "Christmas": {
-                "exemplarCity": "Krismasi"
+                "exemplarCity": "Christmas"
               },
               "Cocos": {
                 "exemplarCity": "Cocos"
@@ -1394,7 +1409,7 @@
           "metazone": {
             "Afghanistan": {
               "long": {
-                "standard": "Saa za Afghanistani"
+                "standard": "Saa za Afghanistan"
               }
             },
             "Africa_Central": {
@@ -1415,7 +1430,7 @@
             "Africa_Western": {
               "long": {
                 "generic": "Saa za Afrika Magharibi",
-                "standard": "Saa Wastani za Afrika Magharibi",
+                "standard": "Saa za Wastani za Afrika Magharibi",
                 "daylight": "Saa za Majira ya joto za Afrika Magharibi"
               }
             },
@@ -1429,7 +1444,7 @@
             "Amazon": {
               "long": {
                 "generic": "Saa za Amazon",
-                "standard": "Saa Wastani za Amazon",
+                "standard": "Saa za Wastani za Amazon",
                 "daylight": "Saa za Majira ya joto za Amazon"
               }
             },
@@ -1484,16 +1499,16 @@
             },
             "Argentina": {
               "long": {
-                "generic": "Saa za Ajentina",
-                "standard": "Saa Wastani za Ajentina",
-                "daylight": "Saa za Majira ya joto za Ajentina"
+                "generic": "Saa za Argentina",
+                "standard": "Saa za Wastani za Argentina",
+                "daylight": "Saa za Majira ya joto za Argentina"
               }
             },
             "Argentina_Western": {
               "long": {
-                "generic": "Saa za Magharibi mwa Ajentina",
-                "standard": "Saa Wastani za Magharibi mwa Ajentina",
-                "daylight": "Saa za Majira ya joto za Magharibi mwa Ajentina"
+                "generic": "Saa za Magharibi mwa Argentina",
+                "standard": "Saa Wastani za Magharibi mwa Argentina",
+                "daylight": "Saa za Majira ya joto za Magharibi mwa Argentina"
               }
             },
             "Armenia": {
@@ -1554,9 +1569,9 @@
             },
             "Bangladesh": {
               "long": {
-                "generic": "Saa za Bangladeshi",
-                "standard": "Saa Wastani za Bangladeshi",
-                "daylight": "Saa za Majira ya joto za Bangladeshi"
+                "generic": "Saa za Bangladesh",
+                "standard": "Saa Wastani za Bangladesh",
+                "daylight": "Saa za Majira ya joto za Bangladesh"
               }
             },
             "Bhutan": {
@@ -1572,7 +1587,7 @@
             "Brasilia": {
               "long": {
                 "generic": "Saa za Brasilia",
-                "standard": "Saa Wastani za Brasilia",
+                "standard": "Saa za Wastani za Brasilia",
                 "daylight": "Saa za Majira ya joto za Brasilia"
               }
             },
@@ -1584,7 +1599,7 @@
             "Cape_Verde": {
               "long": {
                 "generic": "Saa za Cape Verde",
-                "standard": "Saa Wastani za Cape Verde",
+                "standard": "Saa za Wastani za Cape Verde",
                 "daylight": "Saa za Majira ya joto za Cape Verde"
               }
             },
@@ -1603,7 +1618,7 @@
             "Chile": {
               "long": {
                 "generic": "Saa za Chile",
-                "standard": "Saa Wastani za Chile",
+                "standard": "Saa za Wastani za Chile",
                 "daylight": "Saa za Majira ya joto za Chile"
               }
             },
@@ -1623,7 +1638,7 @@
             },
             "Christmas": {
               "long": {
-                "standard": "Saa za Kisiwa cha Krisimasi"
+                "standard": "Saa za Kisiwa cha Christmas"
               }
             },
             "Cocos": {
@@ -1633,9 +1648,9 @@
             },
             "Colombia": {
               "long": {
-                "generic": "Saa za Kolombia",
-                "standard": "Saa Wastani za Kolombia",
-                "daylight": "Saa za Majira ya joto za Kolombia"
+                "generic": "Saa za Colombia",
+                "standard": "Saa za Wastani za Colombia",
+                "daylight": "Saa za Majira ya joto za Colombia"
               }
             },
             "Cook": {
@@ -1676,7 +1691,7 @@
             },
             "Ecuador": {
               "long": {
-                "standard": "Saa za Ekwado"
+                "standard": "Saa za Ecuador"
               }
             },
             "Europe_Central": {
@@ -1841,7 +1856,7 @@
             "Irkutsk": {
               "long": {
                 "generic": "Saa za Irkutsk",
-                "standard": "Saa Wastani za Irkutsk",
+                "standard": "Saa za Wastani za Irkutsk",
                 "daylight": "Saa za Majira ya joto za Irkutsk"
               }
             },
@@ -1854,9 +1869,9 @@
             },
             "Japan": {
               "long": {
-                "generic": "Saa za Japani",
-                "standard": "Saa Wastani za Japani",
-                "daylight": "Saa za Mchana za Japani"
+                "generic": "Saa za Japan",
+                "standard": "Saa Wastani za Japan",
+                "daylight": "Saa za Mchana za Japan"
               }
             },
             "Kamchatka": {
@@ -1868,12 +1883,12 @@
             },
             "Kazakhstan_Eastern": {
               "long": {
-                "standard": "Saa za Kazakistani Mashariki"
+                "standard": "Saa za Kazakhstan Mashariki"
               }
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "Saa za Kazakistani Magharibi"
+                "standard": "Saa za Kazakhstan Magharibi"
               }
             },
             "Korea": {
@@ -1891,7 +1906,7 @@
             "Krasnoyarsk": {
               "long": {
                 "generic": "Saa za Krasnoyarsk",
-                "standard": "Saa Wastani za Krasnoyaski",
+                "standard": "Saa za Wastani za Krasnoyask",
                 "daylight": "Saa za Majira ya joto za Krasnoyarsk"
               }
             },
@@ -1920,7 +1935,7 @@
             "Magadan": {
               "long": {
                 "generic": "Saa za Magadan",
-                "standard": "Saa Wastani za Magadani",
+                "standard": "Saa za Wastani za Magadan",
                 "daylight": "Saa za Majira ya joto za Magadan"
               }
             },
@@ -1947,7 +1962,7 @@
             "Mauritius": {
               "long": {
                 "generic": "Saa za Mauritius",
-                "standard": "Saa Wastani za Mauritius",
+                "standard": "Saa za Wastani za Mauritius",
                 "daylight": "Saa za Majira ya joto za Mauritius"
               }
             },
@@ -1958,16 +1973,16 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Saa za Meksiko Kaskazini Magharibi",
-                "standard": "Saa za wastani za Meksiko Kaskazini Magharibi",
-                "daylight": "Saa za mchana za Meksiko Kaskazini Magharibi"
+                "generic": "Saa za Mexico Kaskazini Magharibi",
+                "standard": "Saa Wastani za Mexico Kaskazini Magharibi",
+                "daylight": "Saa za mchana za Mexico Kaskazini Magharibi"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "Saa za pasifiki za Meksiko",
-                "standard": "Saa za wastani za pasifiki za Meksiko",
-                "daylight": "Saa za mchana za pasifiki za Meksiko"
+                "generic": "Saa za pasifiki za Mexico",
+                "standard": "Saa za wastani za pasifiki za Mexico",
+                "daylight": "Saa za mchana za pasifiki za Mexico"
               }
             },
             "Mongolia": {
@@ -1996,7 +2011,7 @@
             },
             "Nepal": {
               "long": {
-                "standard": "Saa za Nepali"
+                "standard": "Saa za Nepal"
               }
             },
             "New_Caledonia": {
@@ -2008,9 +2023,9 @@
             },
             "New_Zealand": {
               "long": {
-                "generic": "Saa za Nyuzilandi",
-                "standard": "Saa Wastani za Nyuzilandi",
-                "daylight": "Saa za Mchana za Nyuzilandi"
+                "generic": "Saa za New Zealand",
+                "standard": "Saa Wastani za New Zealand",
+                "daylight": "Saa za Mchana za New Zealand"
               }
             },
             "Newfoundland": {
@@ -2040,22 +2055,22 @@
             "Novosibirsk": {
               "long": {
                 "generic": "Saa za Novosibirsk",
-                "standard": "Saa Wastani za Novosibirsk",
+                "standard": "Saa za Wastani za Novosibirsk",
                 "daylight": "Saa za Majira ya joto za Novosibirsk"
               }
             },
             "Omsk": {
               "long": {
                 "generic": "Saa za Omsk",
-                "standard": "Saa Wastani za Omsk",
+                "standard": "Saa za Wastani za Omsk",
                 "daylight": "Saa za Majira ya joto za Omsk"
               }
             },
             "Pakistan": {
               "long": {
-                "generic": "Saa za Pakistani",
-                "standard": "Saa Wastani za Pakistani",
-                "daylight": "Saa za Majira ya joto za Pakistani"
+                "generic": "Saa za Pakistan",
+                "standard": "Saa Wastani za Pakistan",
+                "daylight": "Saa za Majira ya joto za Pakistan"
               }
             },
             "Palau": {
@@ -2070,15 +2085,15 @@
             },
             "Paraguay": {
               "long": {
-                "generic": "Saa za Paragwai",
-                "standard": "Saa Wastani za Paragwai",
-                "daylight": "Saa za Majira ya joto za Paragwai"
+                "generic": "Saa za Paraguay",
+                "standard": "Saa za Wastani za Paraguay",
+                "daylight": "Saa za Majira ya joto za Paraguay"
               }
             },
             "Peru": {
               "long": {
                 "generic": "Saa za Peru",
-                "standard": "Saa Wastani za Peru",
+                "standard": "Saa za Wastani za Peru",
                 "daylight": "Saa za Majira ya joto za Peru"
               }
             },
@@ -2111,6 +2126,11 @@
                 "standard": "Saa za Ponape"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "Saa za Pyongyang"
+              }
+            },
             "Reunion": {
               "long": {
                 "standard": "Saa za Reunion"
@@ -2124,7 +2144,7 @@
             "Sakhalin": {
               "long": {
                 "generic": "Saa za Sakhalin",
-                "standard": "Saa Wastani za Sakhalin",
+                "standard": "Saa za Wastani za Sakhalin",
                 "daylight": "Saa za Majira ya joto za Sakhalin"
               }
             },
@@ -2154,7 +2174,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "Saa za Visiwa vya Suleimani"
+                "standard": "Saa za Visiwa vya Solomon"
               }
             },
             "South_Georgia": {
@@ -2186,7 +2206,7 @@
             },
             "Tajikistan": {
               "long": {
-                "standard": "Saa za Tajikistani"
+                "standard": "Saa za Tajikistan"
               }
             },
             "Tokelau": {
@@ -2209,7 +2229,7 @@
             "Turkmenistan": {
               "long": {
                 "generic": "Saa za Turkmenistan",
-                "standard": "Saa Wastani za Turkmenistan",
+                "standard": "Saa za Wastani za Turkmenistan",
                 "daylight": "Saa za Majira ya joto za Turkmenistan"
               }
             },
@@ -2220,16 +2240,16 @@
             },
             "Uruguay": {
               "long": {
-                "generic": "Saa za Urugwai",
-                "standard": "Saa Wastani za Urugwai",
-                "daylight": "Saa za Majira ya joto za Urugwai"
+                "generic": "Saa za Uruguay",
+                "standard": "Saa za Wastani za Uruguay",
+                "daylight": "Saa za Majira ya joto za Uruguay"
               }
             },
             "Uzbekistan": {
               "long": {
-                "generic": "Saa za Uzbekistani",
-                "standard": "Saa Wastani za Uzbekistani",
-                "daylight": "Saa za Majira ya joto za Uzbekistani"
+                "generic": "Saa za Uzbekistan",
+                "standard": "Saa za Wastani za Uzbekistan",
+                "daylight": "Saa za Majira ya joto za Uzbekistan"
               }
             },
             "Vanuatu": {
@@ -2247,14 +2267,14 @@
             "Vladivostok": {
               "long": {
                 "generic": "Saa za Vladivostok",
-                "standard": "Saa Wastani za Vladivostok",
+                "standard": "Saa za Wastani za Vladivostok",
                 "daylight": "Saa za Majira ya joto za Vladivostok"
               }
             },
             "Volgograd": {
               "long": {
                 "generic": "Saa za Volgograd",
-                "standard": "Saa Wastani za Volgograd",
+                "standard": "Saa za Wastani za Volgograd",
                 "daylight": "Saa za Majira ya joto za Volgograd"
               }
             },
@@ -2276,14 +2296,14 @@
             "Yakutsk": {
               "long": {
                 "generic": "Saa za Yakutsk",
-                "standard": "Saa Wastani za Yakutsk",
+                "standard": "Saa za Wastani za Yakutsk",
                 "daylight": "Saa za Majira ya joto za Yakutsk"
               }
             },
             "Yekaterinburg": {
               "long": {
                 "generic": "Saa za Yekaterinburg",
-                "standard": "Saa Wastani za Yekaterinburg",
+                "standard": "Saa za Wastani za Yekaterinburg",
                 "daylight": "Saa za Majira ya joto za Yekaterinburg"
               }
             }

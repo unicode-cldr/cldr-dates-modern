@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "eu"
       },
@@ -13,9 +13,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0}",
-          "regionFormat-type-daylight": "{0} (udako ordua)",
-          "regionFormat-type-standard": "{0} (ordu estandarra)",
+          "regionFormat": "{0} aldeko ordutegia",
+          "regionFormat-type-daylight": "{0} (udako ordutegia)",
+          "regionFormat-type-standard": "{0} ordutegi estandarra",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -26,7 +26,7 @@
                 "exemplarCity": "Anchorage"
               },
               "Anguilla": {
-                "exemplarCity": "Anguilla"
+                "exemplarCity": "Aingira"
               },
               "Antigua": {
                 "exemplarCity": "Antigua"
@@ -112,7 +112,7 @@
                 "exemplarCity": "Cayenne"
               },
               "Cayman": {
-                "exemplarCity": "Cayman"
+                "exemplarCity": "Kaiman"
               },
               "Chicago": {
                 "exemplarCity": "Chicago"
@@ -424,7 +424,7 @@
                 "exemplarCity": "St. Kitts"
               },
               "St_Lucia": {
-                "exemplarCity": "St. Lucia"
+                "exemplarCity": "Santa Luzia"
               },
               "St_Thomas": {
                 "exemplarCity": "St. Thomas"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Atenas"
               },
@@ -540,7 +543,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Dublingo udako ordua"
+                  "daylight": "Irlandako ordutegi estandarra"
                 },
                 "exemplarCity": "Dublin"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisboa"
@@ -646,8 +652,11 @@
               "Tirane": {
                 "exemplarCity": "Tirana"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
+              },
               "Uzhgorod": {
-                "exemplarCity": "Uzhgorod"
+                "exemplarCity": "Uzhhorod"
               },
               "Vaduz": {
                 "exemplarCity": "Vaduz"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -1420,44 +1435,44 @@
             },
             "Alaska": {
               "long": {
-                "generic": "Alaskako ordua",
-                "standard": "Alaskako ordu estandarra",
-                "daylight": "Alaskako udako ordua"
+                "generic": "Alaskako ordutegia",
+                "standard": "Alaskako ordutegi estandarra",
+                "daylight": "Alaskako udako ordutegia"
               }
             },
             "Amazon": {
               "long": {
-                "generic": "Amazoniako ordua",
-                "standard": "Amazoniako ordu estandarra",
-                "daylight": "Amazoniako udako ordua"
+                "generic": "Amazoniako ordutegia",
+                "standard": "Amazoniako ordutegi estandarra",
+                "daylight": "Amazoniako udako ordutegia"
               }
             },
             "America_Central": {
               "long": {
-                "generic": "Ipar Amerikako erdialdeko ordua",
+                "generic": "Ipar Amerikako erdialdeko ordutegia",
                 "standard": "Ipar Amerikako erdialdeko ordu estandarra",
-                "daylight": "Ipar Amerikako erdialdeko udako ordua"
+                "daylight": "Ipar Amerikako erdialdeko udako ordutegia"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Ipar Amerikako ekialdeko ordua",
-                "standard": "Ipar Amerikako ekialdeko ordu estandarra",
-                "daylight": "Ipar Amerikako ekialdeko udako ordua"
+                "generic": "Ipar Amerikako ekialdeko ordutegia",
+                "standard": "Ipar Amerikako ekialdeko ordutegi estandarra",
+                "daylight": "Ipar Amerikako ekialdeko udako ordutegia"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Ipar Amerikako mendialdeko ordua",
-                "standard": "Ipar Amerikako mendialdeko ordu estandarra",
-                "daylight": "Ipar Amerikako mendialdeko udako ordua"
+                "generic": "Ipar Amerikako mendialdeko ordutegia",
+                "standard": "Ipar Amerikako mendialdeko ordutegi estandarra",
+                "daylight": "Ipar Amerikako mendialdeko udako ordutegia"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Ipar Amerikako Pazifikoko ordua",
-                "standard": "Ipar Amerikako Pazifikoko ordu estandarra",
-                "daylight": "Ipar Amerikako Pazifikoko udako ordua"
+                "generic": "Ipar Amerikako Pazifikoko ordutegia",
+                "standard": "Ipar Amerikako Pazifikoko ordutegi estandarra",
+                "daylight": "Ipar Amerikako Pazifikoko udako ordutegia"
               }
             },
             "Anadyr": {
@@ -1483,16 +1498,16 @@
             },
             "Argentina": {
               "long": {
-                "generic": "Argentinako ordua",
-                "standard": "Argentinako ordu estandarra",
-                "daylight": "Argentinako udako ordua"
+                "generic": "Argentinako ordutegia",
+                "standard": "Argentinako ordutegi estandarra",
+                "daylight": "Argentinako udako ordutegia"
               }
             },
             "Argentina_Western": {
               "long": {
-                "generic": "Argentina mendebaldeko ordua",
-                "standard": "Argentina mendebaldeko ordu estandarra",
-                "daylight": "Argentina mendebaldeko udako ordua"
+                "generic": "Argentina mendebaldeko ordutegia",
+                "standard": "Argentina mendebaldeko ordutegia estandarra",
+                "daylight": "Argentina mendebaldeko udako ordutegia"
               }
             },
             "Armenia": {
@@ -1504,9 +1519,9 @@
             },
             "Atlantic": {
               "long": {
-                "generic": "Atlantikoko ordua",
-                "standard": "Atlantikoko ordu estandarra",
-                "daylight": "Atlantikoko udako ordua"
+                "generic": "Atlantikoko ordutegia",
+                "standard": "Atlantikoko ordutegi estandarra",
+                "daylight": "Atlantikoko udako ordutegia"
               }
             },
             "Australia_Central": {
@@ -1565,7 +1580,7 @@
             },
             "Bolivia": {
               "long": {
-                "standard": "Boliviako ordua"
+                "standard": "Boliviako ordutegia"
               }
             },
             "Brasilia": {
@@ -1646,9 +1661,9 @@
             },
             "Cuba": {
               "long": {
-                "generic": "Kubako ordua",
-                "standard": "Kubako ordu estandarra",
-                "daylight": "Kubako udako ordua"
+                "generic": "Kubako ordutegia",
+                "standard": "Kubako ordutegi estandarra",
+                "daylight": "Kubako udako ordutegia"
               }
             },
             "Davis": {
@@ -1740,7 +1755,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "Frantziaren lurralde austral eta antartikoetako ordua"
+                "standard": "Frantziaren lurralde austral eta antartikoetako ordutegia"
               }
             },
             "Galapagos": {
@@ -1775,16 +1790,16 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "Groenlandia ekialdeko ordua",
-                "standard": "Groenlandia ekialdeko ordu estandarra",
-                "daylight": "Groenlandia ekialdeko udako ordua"
+                "generic": "Groenlandia ekialdeko ordutegia",
+                "standard": "Groenlandia ekialdeko ordutegi estandarra",
+                "daylight": "Groenlandia ekialdeko udako ordutegia"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Groenlandia mendebaldeko ordua",
-                "standard": "Groenlandia mendebaldeko ordu estandarra",
-                "daylight": "Groenlandia mendebaldeko udako ordua"
+                "generic": "Groenlandia mendebaldeko ordutegia",
+                "standard": "Groenlandia mendebaldeko ordutegi estandarra",
+                "daylight": "Groenlandia mendebaldeko udako ordutegia"
               }
             },
             "Gulf": {
@@ -1799,9 +1814,9 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "Hawaii-Aleutiar uharteetako ordua",
-                "standard": "Hawaii-Aleutiar uharteetako ordu estandarra",
-                "daylight": "Hawaii-Aleutiar uharteetako udako ordua"
+                "generic": "Hawaii-Aleutiar uharteetako ordutegia",
+                "standard": "Hawaii-Aleutiar uharteetako ordutegi estandarra",
+                "daylight": "Hawaii-Aleutiar uharteetako udako ordutegia"
               }
             },
             "Hong_Kong": {
@@ -1857,7 +1872,7 @@
             },
             "Irkutsk": {
               "long": {
-                "generic": "Irkutskeko ordua",
+                "generic": "Irkutskeko ordutegia",
                 "standard": "Irkutskeko ordu estandarra",
                 "daylight": "Irkutskeko udako ordua"
               }
@@ -1907,7 +1922,7 @@
             },
             "Krasnoyarsk": {
               "long": {
-                "generic": "Krasnoyarskeko ordua",
+                "generic": "Krasnoiarskeko ordutegia",
                 "standard": "Krasnoyarskeko ordu estandarra",
                 "daylight": "Krasnoyarskeko udako ordua"
               }
@@ -1936,7 +1951,7 @@
             },
             "Magadan": {
               "long": {
-                "generic": "Magadako ordua",
+                "generic": "Magadango ordutegia",
                 "standard": "Magadango ordu estandarra",
                 "daylight": "Magadango udako ordua"
               }
@@ -1975,16 +1990,16 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Mexikoko ipar-ekialdeko ordua",
-                "standard": "Mexikoko ipar-ekialdeko ordu estandarra",
-                "daylight": "Mexikoko ipar-ekialdeko udako ordua"
+                "generic": "Mexikoko ipar-ekialdeko ordutegia",
+                "standard": "Mexikoko ipar-ekialdeko ordutegi estandarra",
+                "daylight": "Mexikoko ipar-ekialdeko udako ordutegia"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "Mexikoko Pazifikoko ordua",
-                "standard": "Mexikoko Pazifikoko ordu estandarra",
-                "daylight": "Mexikoko Pazifikoko udako ordua"
+                "generic": "Mexikoko Pazifikoko ordutegia",
+                "standard": "Mexikoko Pazifikoko ordutegi estandarra",
+                "daylight": "Mexikoko Pazifikoko udako ordutegia"
               }
             },
             "Mongolia": {
@@ -2032,9 +2047,9 @@
             },
             "Newfoundland": {
               "long": {
-                "generic": "Ternuako ordua",
-                "standard": "Ternuako ordu estandarra",
-                "daylight": "Ternuako udako ordua"
+                "generic": "Ternuako ordutegia",
+                "standard": "Ternuako ordutegi estandarra",
+                "daylight": "Ternuako udako ordutegia"
               }
             },
             "Niue": {
@@ -2056,14 +2071,14 @@
             },
             "Novosibirsk": {
               "long": {
-                "generic": "Novosibirskeko ordua",
+                "generic": "Novosibirskeko ordutegia",
                 "standard": "Novosibirskeko ordu estandarra",
                 "daylight": "Novosibirskeko udako ordua"
               }
             },
             "Omsk": {
               "long": {
-                "generic": "Omskeko ordua",
+                "generic": "Omskeko ordutegia",
                 "standard": "Omskeko ordu estandarra",
                 "daylight": "Omskeko udako ordua"
               }
@@ -2113,9 +2128,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Saint-Pierre eta Mikeluneko ordua",
-                "standard": "Saint-Pierre eta Mikeluneko ordu estandarra",
-                "daylight": "Saint-Pierre eta Mikeluneko udako ordua"
+                "generic": "Saint-Pierre eta Mikeluneko ordutegia",
+                "standard": "Saint-Pierre eta Mikeluneko ordutegi estandarra",
+                "daylight": "Saint-Pierre eta Mikeluneko udako ordutegia"
               }
             },
             "Pitcairn": {
@@ -2126,6 +2141,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ponapeko ordua"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Piongiangeko ordua"
               }
             },
             "Reunion": {
@@ -2140,7 +2160,7 @@
             },
             "Sakhalin": {
               "long": {
-                "generic": "Sakhalingo ordua",
+                "generic": "Sakhalingo ordutegia",
                 "standard": "Sakhalingo ordu estandarra",
                 "daylight": "Sakhalingo udako ordua"
               }
@@ -2263,7 +2283,7 @@
             },
             "Vladivostok": {
               "long": {
-                "generic": "Vladivostokeko ordua",
+                "generic": "Vladivostokeko ordutegia",
                 "standard": "Vladivostokeko ordu estandarra",
                 "daylight": "Vladivostokeko udako ordua"
               }
@@ -2287,19 +2307,19 @@
             },
             "Wallis": {
               "long": {
-                "standard": "Wallis eta Futunako ordua"
+                "standard": "Wallis eta Futunako ordutegia"
               }
             },
             "Yakutsk": {
               "long": {
-                "generic": "Yakutskeko ordua",
+                "generic": "Jakutskeko ordutegia",
                 "standard": "Yakutskeko ordu estandarra",
                 "daylight": "Yakutskeko udako ordua"
               }
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "Yekaterinburgeko ordua",
+                "generic": "Jekaterinburgeko ordutegia",
                 "standard": "Jekaterinburgeko ordu estandarra",
                 "daylight": "Yekaterinburgeko udako ordua"
               }

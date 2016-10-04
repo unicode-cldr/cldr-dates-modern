@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sk"
       },
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrachán"
+              },
               "Athens": {
                 "exemplarCity": "Atény"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kyjev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisabon"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uľjanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užhorod"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Bejrút"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulanbátar"
@@ -1276,7 +1291,7 @@
                 "exemplarCity": "Davis"
               },
               "DumontDUrville": {
-                "exemplarCity": "Dumont D’Urville"
+                "exemplarCity": "Dumont d’Urville"
               },
               "Macquarie": {
                 "exemplarCity": "Macquarie"
@@ -2113,6 +2128,11 @@
             "Ponape": {
               "long": {
                 "standard": "ponapský čas"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "pchjongjanský čas"
               }
             },
             "Reunion": {

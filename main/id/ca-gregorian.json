@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "id"
       },
@@ -291,7 +291,7 @@
               "eraNames": {
                 "0": "Sebelum Masehi",
                 "0-alt-variant": "Sebelum Era Umum",
-                "1": "M",
+                "1": "Masehi",
                 "1-alt-variant": "Era Umum"
               },
               "eraAbbr": {
@@ -354,6 +354,7 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
+                "MMMMW": "'minggu' 'ke'-W MMM",
                 "ms": "mm.ss",
                 "y": "y",
                 "yM": "M/y",
@@ -364,7 +365,8 @@
                 "yMMMEd": "E, d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'minggu' 'ke'-w y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

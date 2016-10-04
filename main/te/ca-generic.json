@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "te"
       },
@@ -243,8 +243,8 @@
                 },
                 "wide": {
                   "midnight": "అర్థరాత్రి",
-                  "am": "[AM]",
-                  "pm": "[PM]",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "ఉదయం",
                   "afternoon1": "మధ్యాహ్నం",
                   "evening1": "సాయంత్రం",

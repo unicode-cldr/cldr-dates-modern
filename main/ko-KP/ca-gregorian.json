@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ko",
         "territory": "KP"
@@ -261,9 +261,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "자정",
-                  "am": "오전",
+                  "am": "AM",
                   "noon": "정오",
-                  "pm": "오후",
+                  "pm": "PM",
                   "morning1": "새벽",
                   "morning2": "오전",
                   "afternoon1": "오후",
@@ -365,6 +365,7 @@
                 "MMMEd": "MMM d일 (E)",
                 "MMMEEEEd": "MMM d일 EEEE",
                 "MMMMd": "MMMM d일",
+                "MMMMW": "MMM W번째 주",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y년",
@@ -379,7 +380,8 @@
                 "yMMMEEEEd": "y년 MMM d일 EEEE",
                 "yMMMM": "y년 MMMM",
                 "yQQQ": "y년 QQQ",
-                "yQQQQ": "y년 QQQQ"
+                "yQQQQ": "y년 QQQQ",
+                "yw": "y년 w번째 주"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

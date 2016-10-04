@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "am"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "ኤልሳልቫዶር"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ፎርት ኔልሰን"
               },
               "Fortaleza": {
                 "exemplarCity": "ፎርታሌዛ"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "አንዶራ"
               },
+              "Astrakhan": {
+                "exemplarCity": "አስትራክሃን"
+              },
               "Athens": {
                 "exemplarCity": "አቴንስ"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "ኪየቭ"
+              },
+              "Kirov": {
+                "exemplarCity": "ኪሮቭ"
               },
               "Lisbon": {
                 "exemplarCity": "ሊዝበን"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "ቴራን"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "ኡልያኖቭስክ"
               },
               "Uzhgorod": {
                 "exemplarCity": "ኡዝጎሮድ"
@@ -772,7 +781,7 @@
                 "exemplarCity": "ሌጎስ"
               },
               "Libreville": {
-                "exemplarCity": "ሊብርልቪል"
+                "exemplarCity": "ሊበርቪል"
               },
               "Lome": {
                 "exemplarCity": "ሎሜ"
@@ -868,6 +877,9 @@
               },
               "Bangkok": {
                 "exemplarCity": "ባንኮክ"
+              },
+              "Barnaul": {
+                "exemplarCity": "ባርናኡል"
               },
               "Beirut": {
                 "exemplarCity": "ቤሩት"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "ቶኪዮ"
+              },
+              "Tomsk": {
+                "exemplarCity": "ቶምስክ"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "ኡላአንባአታር"
@@ -1484,7 +1499,7 @@
             "Argentina": {
               "long": {
                 "generic": "የአርጀንቲና የሰዓት አቆጣጠር",
-                "standard": "የአርጀንቲና መደበኛ ጊዜ",
+                "standard": "የአርጀንቲና መደበኛ ሰዓት አቆጣጠር",
                 "daylight": "የአርጀንቲና የበጋ ሰዓት አቆጣጠር"
               }
             },
@@ -1525,7 +1540,7 @@
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "የምዕራባዊ አውስትራሊያ የሰአት አቆጣጠር",
+                "generic": "የምዕራባዊ አውስትራሊያ የሰዓት አቆጣጠር",
                 "standard": "የአውስትራሊያ ምዕራባዊ መደበኛ የሰዓት አቆጣጠር",
                 "daylight": "የአውስትራሊያ ምዕራባዊ የቀን ሰዓት አቆጣጠር"
               }
@@ -1571,7 +1586,7 @@
             "Brasilia": {
               "long": {
                 "generic": "የብራዚላዊ ሰዓት አቆጣጠር",
-                "standard": "የብራሲሊያ መደበኛ ጊዜ",
+                "standard": "የብራሲሊያ መደበኛ ሰዓት አቆጣጠር",
                 "daylight": "የብራዚላ የበጋ ሰዓት አቆጣጠር"
               }
             },
@@ -1867,12 +1882,12 @@
             },
             "Kazakhstan_Eastern": {
               "long": {
-                "standard": "የምስራቅ ካዛኪስታን ጊዜ"
+                "standard": "የምስራቅ ካዛኪስታን ሰዓት"
               }
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "የምዕራብ ካዛኪስታን ጊዜ"
+                "standard": "የምዕራብ ካዛኪስታን ሰዓት"
               }
             },
             "Korea": {
@@ -2108,6 +2123,11 @@
             "Ponape": {
               "long": {
                 "standard": "የፖናፔ ሰዓት"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "የፕዮንግያንግ ሰዓት"
               }
             },
             "Reunion": {

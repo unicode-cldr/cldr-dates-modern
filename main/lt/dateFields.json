@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lt"
       },
@@ -69,9 +69,9 @@
           },
           "quarter": {
             "displayName": "ketvirtis",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "praėjęs ketvirtis",
+            "relative-type-0": "šis ketvirtis",
+            "relative-type-1": "kitas ketvirtis",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} ketvirčio",
               "relativeTimePattern-count-few": "po {0} ketvirčių",
@@ -87,9 +87,9 @@
           },
           "quarter-short": {
             "displayName": "ketv.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "praėjęs ketvirtis",
+            "relative-type-0": "šis ketvirtis",
+            "relative-type-1": "kitas ketvirtis",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} ketv.",
               "relativeTimePattern-count-few": "po {0} ketv.",
@@ -105,9 +105,9 @@
           },
           "quarter-narrow": {
             "displayName": "ketv.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "praėjęs ketvirtis",
+            "relative-type-0": "šis ketvirtis",
+            "relative-type-1": "kitas ketvirtis",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} ketv.",
               "relativeTimePattern-count-few": "po {0} ketv.",
@@ -191,7 +191,8 @@
               "relativeTimePattern-count-few": "prieš {0} savaites",
               "relativeTimePattern-count-many": "prieš {0} savaitės",
               "relativeTimePattern-count-other": "prieš {0} savaičių"
-            }
+            },
+            "relativePeriod": "{0} savaitę"
           },
           "week-short": {
             "displayName": "sav.",
@@ -209,7 +210,8 @@
               "relativeTimePattern-count-few": "prieš {0} sav.",
               "relativeTimePattern-count-many": "prieš {0} sav.",
               "relativeTimePattern-count-other": "prieš {0} sav."
-            }
+            },
+            "relativePeriod": "{0} savaitę"
           },
           "week-narrow": {
             "displayName": "sav.",
@@ -227,7 +229,8 @@
               "relativeTimePattern-count-few": "prieš {0} sav.",
               "relativeTimePattern-count-many": "prieš {0} sav.",
               "relativeTimePattern-count-other": "prieš {0} sav."
-            }
+            },
+            "relativePeriod": "{0} savaitę"
           },
           "day": {
             "displayName": "diena",
@@ -295,113 +298,366 @@
           "sun": {
             "relative-type--1": "praėjusį sekmadienį",
             "relative-type-0": "šį sekmadienį",
-            "relative-type-1": "kitą sekmadienį"
+            "relative-type-1": "kitą sekmadienį",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} sekmadienio",
+              "relativeTimePattern-count-few": "po {0} sekmadienių",
+              "relativeTimePattern-count-many": "po {0} sekmadienio",
+              "relativeTimePattern-count-other": "po {0} sekmadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} sekmadienį",
+              "relativeTimePattern-count-few": "prieš {0} sekmadienius",
+              "relativeTimePattern-count-many": "prieš {0} sekmadienio",
+              "relativeTimePattern-count-other": "prieš {0} sekmadienių"
+            }
           },
           "sun-short": {
             "relative-type--1": "praėjusį sekm.",
             "relative-type-0": "šį sekm.",
-            "relative-type-1": "kitą sekm."
+            "relative-type-1": "kitą sekm.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} sekmadienio",
+              "relativeTimePattern-count-few": "po {0} sekmadienių",
+              "relativeTimePattern-count-many": "po {0} sekmadienio",
+              "relativeTimePattern-count-other": "po {0} sekmadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} sekmadienį",
+              "relativeTimePattern-count-few": "prieš {0} sekmadienius",
+              "relativeTimePattern-count-many": "prieš {0} sekmadienio",
+              "relativeTimePattern-count-other": "prieš {0} sekmadienių"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "praėjusį sekm.",
             "relative-type-0": "šį sekm.",
-            "relative-type-1": "kitą sekm."
+            "relative-type-1": "kitą sekm.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} sekmadienio",
+              "relativeTimePattern-count-few": "po {0} sekmadienių",
+              "relativeTimePattern-count-many": "po {0} sekmadienio",
+              "relativeTimePattern-count-other": "po {0} sekmadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} sekmadienį",
+              "relativeTimePattern-count-few": "prieš {0} sekmadienius",
+              "relativeTimePattern-count-many": "prieš {0} sekmadienio",
+              "relativeTimePattern-count-other": "prieš {0} sekmadienių"
+            }
           },
           "mon": {
             "relative-type--1": "praėjusį pirmadienį",
             "relative-type-0": "šį pirmadienį",
-            "relative-type-1": "kitą pirmadienį"
+            "relative-type-1": "kitą pirmadienį",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} pirmadienio",
+              "relativeTimePattern-count-few": "po {0} pirmadienių",
+              "relativeTimePattern-count-many": "po {0} pirmadienio",
+              "relativeTimePattern-count-other": "po {0} pirmadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} pirmadienį",
+              "relativeTimePattern-count-few": "prieš {0} pirmadienius",
+              "relativeTimePattern-count-many": "prieš {0} pirmadienio",
+              "relativeTimePattern-count-other": "prieš {0} pirmadienių"
+            }
           },
           "mon-short": {
             "relative-type--1": "praėjusį pirm.",
             "relative-type-0": "šį pirm.",
-            "relative-type-1": "kitą pirm."
+            "relative-type-1": "kitą pirm.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} pirmadienio",
+              "relativeTimePattern-count-few": "po {0} pirmadienių",
+              "relativeTimePattern-count-many": "po {0} pirmadienio",
+              "relativeTimePattern-count-other": "po {0} pirmadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} pirmadienį",
+              "relativeTimePattern-count-few": "prieš {0} pirmadienius",
+              "relativeTimePattern-count-many": "prieš {0} pirmadienio",
+              "relativeTimePattern-count-other": "prieš {0} pirmadienių"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "praėjusį pirm.",
             "relative-type-0": "šį pirm.",
-            "relative-type-1": "kitą pirm."
+            "relative-type-1": "kitą pirm.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} pirmadienio",
+              "relativeTimePattern-count-few": "po {0} pirmadienių",
+              "relativeTimePattern-count-many": "po {0} pirmadienio",
+              "relativeTimePattern-count-other": "po {0} pirmadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} pirmadienį",
+              "relativeTimePattern-count-few": "prieš {0} pirmadienius",
+              "relativeTimePattern-count-many": "prieš {0} pirmadienio",
+              "relativeTimePattern-count-other": "prieš {0} pirmadienių"
+            }
           },
           "tue": {
             "relative-type--1": "praėjusį antradienį",
             "relative-type-0": "šį antradienį",
-            "relative-type-1": "kitą antradienį"
+            "relative-type-1": "kitą antradienį",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} antradienio",
+              "relativeTimePattern-count-few": "po {0} antradienių",
+              "relativeTimePattern-count-many": "po {0} antradienio",
+              "relativeTimePattern-count-other": "po {0} antradienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} antradienį",
+              "relativeTimePattern-count-few": "prieš {0} antradienius",
+              "relativeTimePattern-count-many": "prieš {0} antradienio",
+              "relativeTimePattern-count-other": "prieš {0} antradienių"
+            }
           },
           "tue-short": {
             "relative-type--1": "praėjusį antr.",
             "relative-type-0": "šį antr.",
-            "relative-type-1": "kitą antr."
+            "relative-type-1": "kitą antr.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} antradienio",
+              "relativeTimePattern-count-few": "po {0} antradienių",
+              "relativeTimePattern-count-many": "po {0} antradienio",
+              "relativeTimePattern-count-other": "po {0} antradienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} antradienį",
+              "relativeTimePattern-count-few": "prieš {0} antradienius",
+              "relativeTimePattern-count-many": "prieš {0} antradienio",
+              "relativeTimePattern-count-other": "prieš {0} antradienių"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "praėjusį antr.",
             "relative-type-0": "šį antr.",
-            "relative-type-1": "kitą antr."
+            "relative-type-1": "kitą antr.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} antradienio",
+              "relativeTimePattern-count-few": "po {0} antradienių",
+              "relativeTimePattern-count-many": "po {0} antradienio",
+              "relativeTimePattern-count-other": "po {0} antradienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} antradienį",
+              "relativeTimePattern-count-few": "prieš {0} antradienius",
+              "relativeTimePattern-count-many": "prieš {0} antradienio",
+              "relativeTimePattern-count-other": "prieš {0} antradienių"
+            }
           },
           "wed": {
             "relative-type--1": "praėjusį trečiadienį",
             "relative-type-0": "šį trečiadienį",
-            "relative-type-1": "kitą trečiadienį"
+            "relative-type-1": "kitą trečiadienį",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} trečiadienio",
+              "relativeTimePattern-count-few": "po {0} trečiadienių",
+              "relativeTimePattern-count-many": "po {0} trečiadienio",
+              "relativeTimePattern-count-other": "po {0} trečiadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} trečiadienį",
+              "relativeTimePattern-count-few": "prieš {0} trečiadienius",
+              "relativeTimePattern-count-many": "prieš {0} trečiadienio",
+              "relativeTimePattern-count-other": "prieš {0} trečiadienių"
+            }
           },
           "wed-short": {
             "relative-type--1": "praėjusį treč.",
             "relative-type-0": "šį treč.",
-            "relative-type-1": "kitą treč."
+            "relative-type-1": "kitą treč.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} trečiadienio",
+              "relativeTimePattern-count-few": "po {0} trečiadienių",
+              "relativeTimePattern-count-many": "po {0} trečiadienio",
+              "relativeTimePattern-count-other": "po {0} trečiadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} trečiadienį",
+              "relativeTimePattern-count-few": "prieš {0} trečiadienius",
+              "relativeTimePattern-count-many": "prieš {0} trečiadienio",
+              "relativeTimePattern-count-other": "prieš {0} trečiadienių"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "praėjusį treč.",
             "relative-type-0": "šį treč.",
-            "relative-type-1": "kitą treč."
+            "relative-type-1": "kitą treč.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} trečiadienio",
+              "relativeTimePattern-count-few": "po {0} trečiadienių",
+              "relativeTimePattern-count-many": "po {0} trečiadienio",
+              "relativeTimePattern-count-other": "po {0} trečiadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} trečiadienį",
+              "relativeTimePattern-count-few": "prieš {0} trečiadienius",
+              "relativeTimePattern-count-many": "prieš {0} trečiadienio",
+              "relativeTimePattern-count-other": "prieš {0} trečiadienių"
+            }
           },
           "thu": {
             "relative-type--1": "praėjusį ketvirtadienį",
             "relative-type-0": "šį ketvirtadienį",
-            "relative-type-1": "kitą ketvirtadienį"
+            "relative-type-1": "kitą ketvirtadienį",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} ketvirtadienio",
+              "relativeTimePattern-count-few": "po {0} ketvirtadienių",
+              "relativeTimePattern-count-many": "po {0} ketvirtadienio",
+              "relativeTimePattern-count-other": "po {0} ketvirtadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} ketvirtadienį",
+              "relativeTimePattern-count-few": "prieš {0} ketvirtadienius",
+              "relativeTimePattern-count-many": "prieš {0} ketvirtadienio",
+              "relativeTimePattern-count-other": "prieš {0} ketvirtadienių"
+            }
           },
           "thu-short": {
             "relative-type--1": "praėjusį ketv.",
             "relative-type-0": "šį ketv.",
-            "relative-type-1": "kitą ketv."
+            "relative-type-1": "kitą ketv.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} ketvirtadienio",
+              "relativeTimePattern-count-few": "po {0} ketvirtadienių",
+              "relativeTimePattern-count-many": "po {0} ketvirtadienio",
+              "relativeTimePattern-count-other": "po {0} ketvirtadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} ketvirtadienį",
+              "relativeTimePattern-count-few": "prieš {0} ketvirtadienius",
+              "relativeTimePattern-count-many": "prieš {0} ketvirtadienio",
+              "relativeTimePattern-count-other": "prieš {0} ketvirtadienių"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "praėjusį ketv.",
             "relative-type-0": "šį ketv.",
-            "relative-type-1": "kitą ketv."
+            "relative-type-1": "kitą ketv.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} ketvirtadienio",
+              "relativeTimePattern-count-few": "po {0} ketvirtadienių",
+              "relativeTimePattern-count-many": "po {0} ketvirtadienio",
+              "relativeTimePattern-count-other": "po {0} ketvirtadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} ketvirtadienį",
+              "relativeTimePattern-count-few": "prieš {0} ketvirtadienius",
+              "relativeTimePattern-count-many": "prieš {0} ketvirtadienio",
+              "relativeTimePattern-count-other": "prieš {0} ketvirtadienių"
+            }
           },
           "fri": {
             "relative-type--1": "praėjusį penktadienį",
             "relative-type-0": "šį penktadienį",
-            "relative-type-1": "kitą penktadienį"
+            "relative-type-1": "kitą penktadienį",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} penktadienio",
+              "relativeTimePattern-count-few": "po {0} penktadienių",
+              "relativeTimePattern-count-many": "po {0} penktadienio",
+              "relativeTimePattern-count-other": "po {0} penktadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} penktadienį",
+              "relativeTimePattern-count-few": "prieš {0} penktadienius",
+              "relativeTimePattern-count-many": "prieš {0} penktadienio",
+              "relativeTimePattern-count-other": "prieš {0} penktadienių"
+            }
           },
           "fri-short": {
             "relative-type--1": "praėjusį penkt.",
             "relative-type-0": "šį penkt.",
-            "relative-type-1": "kitą penkt."
+            "relative-type-1": "kitą penkt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} penktadienio",
+              "relativeTimePattern-count-few": "po {0} penktadienių",
+              "relativeTimePattern-count-many": "po {0} penktadienio",
+              "relativeTimePattern-count-other": "po {0} penktadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} penktadienį",
+              "relativeTimePattern-count-few": "prieš {0} penktadienius",
+              "relativeTimePattern-count-many": "prieš {0} penktadienio",
+              "relativeTimePattern-count-other": "prieš {0} penktadienių"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "praėjusį penkt.",
             "relative-type-0": "šį penkt.",
-            "relative-type-1": "kitą penkt."
+            "relative-type-1": "kitą penkt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} penktadienio",
+              "relativeTimePattern-count-few": "po {0} penktadienių",
+              "relativeTimePattern-count-many": "po {0} penktadienio",
+              "relativeTimePattern-count-other": "po {0} penktadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} penktadienį",
+              "relativeTimePattern-count-few": "prieš {0} penktadienius",
+              "relativeTimePattern-count-many": "prieš {0} penktadienio",
+              "relativeTimePattern-count-other": "prieš {0} penktadienių"
+            }
           },
           "sat": {
             "relative-type--1": "praėjusį šeštadienį",
             "relative-type-0": "šį šeštadienį",
-            "relative-type-1": "kitą šeštadienį"
+            "relative-type-1": "kitą šeštadienį",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} šeštadienio",
+              "relativeTimePattern-count-few": "po {0} šeštadienių",
+              "relativeTimePattern-count-many": "po {0} šeštadienio",
+              "relativeTimePattern-count-other": "po {0} šeštadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} šeštadienį",
+              "relativeTimePattern-count-few": "prieš {0} šeštadienius",
+              "relativeTimePattern-count-many": "prieš {0} šeštadienio",
+              "relativeTimePattern-count-other": "prieš {0} šeštadienių"
+            }
           },
           "sat-short": {
             "relative-type--1": "praėjusį šešt.",
             "relative-type-0": "šį šešt.",
-            "relative-type-1": "kitą šešt."
+            "relative-type-1": "kitą šešt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} šeštadienio",
+              "relativeTimePattern-count-few": "po {0} šeštadienių",
+              "relativeTimePattern-count-many": "po {0} šeštadienio",
+              "relativeTimePattern-count-other": "po {0} šeštadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} šeštadienį",
+              "relativeTimePattern-count-few": "prieš {0} šeštadienius",
+              "relativeTimePattern-count-many": "prieš {0} šeštadienio",
+              "relativeTimePattern-count-other": "prieš {0} šeštadienių"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "praėjusį šešt.",
             "relative-type-0": "šį šešt.",
-            "relative-type-1": "kitą šešt."
+            "relative-type-1": "kitą šešt.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "po {0} šeštadienio",
+              "relativeTimePattern-count-few": "po {0} šeštadienių",
+              "relativeTimePattern-count-many": "po {0} šeštadienio",
+              "relativeTimePattern-count-other": "po {0} šeštadienių"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "prieš {0} šeštadienį",
+              "relativeTimePattern-count-few": "prieš {0} šeštadienius",
+              "relativeTimePattern-count-many": "prieš {0} šeštadienio",
+              "relativeTimePattern-count-other": "prieš {0} šeštadienių"
+            }
           },
           "dayperiod": {
             "displayName": "iki pietų / po pietų"
           },
           "hour": {
             "displayName": "valanda",
+            "relative-type-0": "šią valandą",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} valandos",
               "relativeTimePattern-count-few": "po {0} valandų",
@@ -417,6 +673,7 @@
           },
           "hour-short": {
             "displayName": "val.",
+            "relative-type-0": "šią valandą",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} val.",
               "relativeTimePattern-count-few": "po {0} val.",
@@ -432,6 +689,7 @@
           },
           "hour-narrow": {
             "displayName": "h",
+            "relative-type-0": "šią valandą",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} val.",
               "relativeTimePattern-count-few": "po {0} val.",
@@ -447,6 +705,7 @@
           },
           "minute": {
             "displayName": "minutė",
+            "relative-type-0": "šią minutę",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} minutės",
               "relativeTimePattern-count-few": "po {0} minučių",
@@ -462,6 +721,7 @@
           },
           "minute-short": {
             "displayName": "min.",
+            "relative-type-0": "šią minutę",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} min.",
               "relativeTimePattern-count-few": "po {0} min.",
@@ -477,6 +737,7 @@
           },
           "minute-narrow": {
             "displayName": "min.",
+            "relative-type-0": "šią minutę",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "po {0} min.",
               "relativeTimePattern-count-few": "po {0} min.",

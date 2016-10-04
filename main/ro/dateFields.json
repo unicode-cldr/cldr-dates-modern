@@ -3,18 +3,18 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ro"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Eră"
+            "displayName": "eră"
           },
           "year": {
-            "displayName": "An",
+            "displayName": "an",
             "relative-type--1": "anul trecut",
             "relative-type-0": "anul acesta",
             "relative-type-1": "anul viitor",
@@ -62,7 +62,7 @@
             }
           },
           "quarter": {
-            "displayName": "Trimestru",
+            "displayName": "trimestru",
             "relative-type--1": "trimestrul trecut",
             "relative-type-0": "trimestrul acesta",
             "relative-type-1": "trimestrul viitor",
@@ -110,7 +110,7 @@
             }
           },
           "month": {
-            "displayName": "Lună",
+            "displayName": "lună",
             "relative-type--1": "luna trecută",
             "relative-type-0": "luna aceasta",
             "relative-type-1": "luna viitoare",
@@ -158,7 +158,7 @@
             }
           },
           "week": {
-            "displayName": "Săptămână",
+            "displayName": "săptămână",
             "relative-type--1": "săptămâna trecută",
             "relative-type-0": "săptămâna aceasta",
             "relative-type-1": "săptămâna viitoare",
@@ -171,7 +171,8 @@
               "relativeTimePattern-count-one": "acum {0} săptămână",
               "relativeTimePattern-count-few": "acum {0} săptămâni",
               "relativeTimePattern-count-other": "acum {0} de săptămâni"
-            }
+            },
+            "relativePeriod": "săptămâna cu {0}"
           },
           "week-short": {
             "displayName": "săpt.",
@@ -187,7 +188,8 @@
               "relativeTimePattern-count-one": "acum {0} săpt.",
               "relativeTimePattern-count-few": "acum {0} săpt.",
               "relativeTimePattern-count-other": "acum {0} săpt."
-            }
+            },
+            "relativePeriod": "săpt. cu {0}"
           },
           "week-narrow": {
             "displayName": "săpt.",
@@ -203,10 +205,11 @@
               "relativeTimePattern-count-one": "-{0} săpt.",
               "relativeTimePattern-count-few": "-{0} săpt.",
               "relativeTimePattern-count-other": "-{0} săpt."
-            }
+            },
+            "relativePeriod": "săpt. cu {0}"
           },
           "day": {
-            "displayName": "Zi",
+            "displayName": "zi",
             "relative-type--2": "alaltăieri",
             "relative-type--1": "ieri",
             "relative-type-0": "azi",
@@ -265,113 +268,324 @@
           "sun": {
             "relative-type--1": "duminica trecută",
             "relative-type-0": "duminica aceasta",
-            "relative-type-1": "duminica viitoare"
+            "relative-type-1": "duminica viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "duminică, peste {0} săptămână",
+              "relativeTimePattern-count-few": "duminică, peste {0} săptămâni",
+              "relativeTimePattern-count-other": "duminică, peste {0} de săptămâni"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "duminică, acum {0} săptămână",
+              "relativeTimePattern-count-few": "duminică, acum {0} săptămâni",
+              "relativeTimePattern-count-other": "duminică, acum {0} de săptămâni"
+            }
           },
           "sun-short": {
             "relative-type--1": "dum. trecută",
             "relative-type-0": "dum. aceasta",
-            "relative-type-1": "dum. viitoare"
+            "relative-type-1": "dum. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "duminică, peste {0} săpt.",
+              "relativeTimePattern-count-few": "duminică, peste {0} săpt.",
+              "relativeTimePattern-count-other": "duminică, peste {0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "duminică, acum {0} săpt.",
+              "relativeTimePattern-count-few": "duminică, acum {0} săpt.",
+              "relativeTimePattern-count-other": "duminică, acum {0} săpt."
+            }
           },
           "sun-narrow": {
-            "relative-type--1": "D (trecută)",
-            "relative-type-0": "D (aceasta)",
-            "relative-type-1": "D (viitoare)"
+            "relative-type--1": "du. trecută",
+            "relative-type-0": "du. aceasta",
+            "relative-type-1": "du. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "du. +{0} săpt.",
+              "relativeTimePattern-count-few": "du. +{0} săpt.",
+              "relativeTimePattern-count-other": "du. +{0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "du. -{0} săpt.",
+              "relativeTimePattern-count-few": "du. -{0} săpt.",
+              "relativeTimePattern-count-other": "du. -{0} săpt."
+            }
           },
           "mon": {
             "relative-type--1": "lunea trecută",
             "relative-type-0": "lunea aceasta",
-            "relative-type-1": "lunea viitoare"
+            "relative-type-1": "lunea viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "luni, peste {0} săptămână",
+              "relativeTimePattern-count-few": "luni, peste {0} săptămâni",
+              "relativeTimePattern-count-other": "luni, peste {0} de săptămâni"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "luni, acum {0} săptămână",
+              "relativeTimePattern-count-few": "luni, acum {0} săptămâni",
+              "relativeTimePattern-count-other": "luni, acum {0} de săptămâni"
+            }
           },
           "mon-short": {
             "relative-type--1": "lun. trecută",
             "relative-type-0": "lun. aceasta",
-            "relative-type-1": "lun. viitoare"
+            "relative-type-1": "lun. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "luni, peste {0} săpt.",
+              "relativeTimePattern-count-few": "luni, peste {0} săpt.",
+              "relativeTimePattern-count-other": "luni, peste {0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "luni, acum {0} săpt.",
+              "relativeTimePattern-count-few": "luni, acum {0} săpt.",
+              "relativeTimePattern-count-other": "luni, acum {0} săpt."
+            }
           },
           "mon-narrow": {
-            "relative-type--1": "L (trecută)",
-            "relative-type-0": "L (aceasta)",
-            "relative-type-1": "L (viitoare)"
+            "relative-type--1": "lu. trecută",
+            "relative-type-0": "lu. aceasta",
+            "relative-type-1": "lu. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "lu. +{0} săpt.",
+              "relativeTimePattern-count-few": "lu. +{0} săpt.",
+              "relativeTimePattern-count-other": "lu. +{0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "lu. -{0} săpt.",
+              "relativeTimePattern-count-few": "lu. -{0} săpt.",
+              "relativeTimePattern-count-other": "lu. -{0} săpt."
+            }
           },
           "tue": {
             "relative-type--1": "marțea trecută",
             "relative-type-0": "marțea aceasta",
-            "relative-type-1": "marțea viitoare"
+            "relative-type-1": "marțea viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "marți, peste {0} săptămână",
+              "relativeTimePattern-count-few": "marți, peste {0} săptămâni",
+              "relativeTimePattern-count-other": "marți, peste {0} de săptămâni"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "marți, acum {0} săptămână",
+              "relativeTimePattern-count-few": "marți, acum {0} săptămâni",
+              "relativeTimePattern-count-other": "marți, acum {0} de săptămâni"
+            }
           },
           "tue-short": {
             "relative-type--1": "mar. trecută",
             "relative-type-0": "mar. aceasta",
-            "relative-type-1": "mar. viitoare"
+            "relative-type-1": "mar. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "marți, peste {0} săpt.",
+              "relativeTimePattern-count-few": "marți, peste {0} săpt.",
+              "relativeTimePattern-count-other": "marți, peste {0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "marți, acum {0} săpt.",
+              "relativeTimePattern-count-few": "marți, acum {0} săpt.",
+              "relativeTimePattern-count-other": "marți, acum {0} săpt."
+            }
           },
           "tue-narrow": {
-            "relative-type--1": "Ma (trecută)",
-            "relative-type-0": "Ma (aceasta)",
-            "relative-type-1": "Ma (viitoare)"
+            "relative-type--1": "ma. trecută",
+            "relative-type-0": "ma. aceasta",
+            "relative-type-1": "ma. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "ma. +{0} săpt.",
+              "relativeTimePattern-count-few": "ma. +{0} săpt.",
+              "relativeTimePattern-count-other": "ma. +{0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "ma. -{0} săpt.",
+              "relativeTimePattern-count-few": "ma. -{0} săpt.",
+              "relativeTimePattern-count-other": "ma. -{0} săpt."
+            }
           },
           "wed": {
             "relative-type--1": "miercurea trecută",
             "relative-type-0": "miercurea aceasta",
-            "relative-type-1": "miercurea viitoare"
+            "relative-type-1": "miercurea viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "miercuri, peste {0} săptămână",
+              "relativeTimePattern-count-few": "miercuri, peste {0} săptămâni",
+              "relativeTimePattern-count-other": "miercuri, peste {0} de săptămâni"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "miercuri, acum {0} săptămână",
+              "relativeTimePattern-count-few": "miercuri, acum {0} săptămâni",
+              "relativeTimePattern-count-other": "miercuri, acum {0} de săptămâni"
+            }
           },
           "wed-short": {
             "relative-type--1": "mie. trecută",
             "relative-type-0": "mie. aceasta",
-            "relative-type-1": "mie. viitoare"
+            "relative-type-1": "mie. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "miercuri, peste {0} săpt.",
+              "relativeTimePattern-count-few": "miercuri, peste {0} săpt.",
+              "relativeTimePattern-count-other": "miercuri, peste {0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "miercuri, acum {0} săpt.",
+              "relativeTimePattern-count-few": "miercuri, acum {0} săpt.",
+              "relativeTimePattern-count-other": "miercuri, acum {0} săpt."
+            }
           },
           "wed-narrow": {
-            "relative-type--1": "Mi (trecută)",
-            "relative-type-0": "Mi (aceasta)",
-            "relative-type-1": "Mi (viitoare)"
+            "relative-type--1": "mi. trecută",
+            "relative-type-0": "mi. aceasta",
+            "relative-type-1": "mi. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "mi. +{0} săpt.",
+              "relativeTimePattern-count-few": "mi. +{0} săpt.",
+              "relativeTimePattern-count-other": "mi. +{0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "mi. -{0} săpt.",
+              "relativeTimePattern-count-few": "mi. -{0} săpt.",
+              "relativeTimePattern-count-other": "mi. -{0} săpt."
+            }
           },
           "thu": {
             "relative-type--1": "joia trecută",
             "relative-type-0": "joia aceasta",
-            "relative-type-1": "joia viitoare"
+            "relative-type-1": "joia viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "joi, peste {0} săptămână",
+              "relativeTimePattern-count-few": "joi, peste {0} săptămâni",
+              "relativeTimePattern-count-other": "joi, peste {0} de săptămâni"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "joi, acum {0} săptămână",
+              "relativeTimePattern-count-few": "joi, acum {0} săptămâni",
+              "relativeTimePattern-count-other": "joi, acum {0} de săptămâni"
+            }
           },
           "thu-short": {
-            "relative-type--1": "joia trecută",
-            "relative-type-0": "joia aceasta",
-            "relative-type-1": "joia viitoare"
+            "relative-type--1": "joi trecută",
+            "relative-type-0": "joi aceasta",
+            "relative-type-1": "joia viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "joi, peste {0} săpt.",
+              "relativeTimePattern-count-few": "joi, peste {0} săpt.",
+              "relativeTimePattern-count-other": "joi, peste {0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "joi, acum {0} săpt.",
+              "relativeTimePattern-count-few": "joi, acum {0} săpt.",
+              "relativeTimePattern-count-other": "joi, acum {0} săpt."
+            }
           },
           "thu-narrow": {
-            "relative-type--1": "J (trecută)",
-            "relative-type-0": "J (aceasta)",
-            "relative-type-1": "J (viitoare)"
+            "relative-type--1": "jo. trecută",
+            "relative-type-0": "jo. aceasta",
+            "relative-type-1": "jo. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "jo. +{0} săpt.",
+              "relativeTimePattern-count-few": "jo. +{0} săpt.",
+              "relativeTimePattern-count-other": "jo. +{0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "jo. -{0} săpt.",
+              "relativeTimePattern-count-few": "jo. -{0} săpt.",
+              "relativeTimePattern-count-other": "jo. -{0} săpt."
+            }
           },
           "fri": {
             "relative-type--1": "vinerea trecută",
             "relative-type-0": "vinerea aceasta",
-            "relative-type-1": "vinerea viitoare"
+            "relative-type-1": "vinerea viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "vineri, peste {0} săptămână",
+              "relativeTimePattern-count-few": "vineri, peste {0} săptămâni",
+              "relativeTimePattern-count-other": "vineri, peste {0} de săptămâni"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "vineri, acum {0} săptămână",
+              "relativeTimePattern-count-few": "vineri, acum {0} săptămâni",
+              "relativeTimePattern-count-other": "vineri, acum {0} de săptămâni"
+            }
           },
           "fri-short": {
             "relative-type--1": "vin. trecută",
             "relative-type-0": "vin. aceasta",
-            "relative-type-1": "vin. viitoare"
+            "relative-type-1": "vin. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "vineri, peste {0} săpt.",
+              "relativeTimePattern-count-few": "vineri, peste {0} săpt.",
+              "relativeTimePattern-count-other": "vineri, peste {0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "vineri, acum {0} săpt.",
+              "relativeTimePattern-count-few": "vineri, acum {0} săpt.",
+              "relativeTimePattern-count-other": "vineri, acum {0} săpt."
+            }
           },
           "fri-narrow": {
-            "relative-type--1": "V (trecută)",
-            "relative-type-0": "V (aceasta)",
-            "relative-type-1": "V (viitoare)"
+            "relative-type--1": "vi. trecută",
+            "relative-type-0": "vi. aceasta",
+            "relative-type-1": "vi. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "vi. +{0} săpt.",
+              "relativeTimePattern-count-few": "vi. +{0} săpt.",
+              "relativeTimePattern-count-other": "vi. +{0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "vi. -{0} săpt.",
+              "relativeTimePattern-count-few": "vi. -{0} săpt.",
+              "relativeTimePattern-count-other": "vi. -{0} săpt."
+            }
           },
           "sat": {
             "relative-type--1": "sâmbăta trecută",
             "relative-type-0": "sâmbăta aceasta",
-            "relative-type-1": "sâmbăta viitoare"
+            "relative-type-1": "sâmbăta viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "sâmbătă, peste {0} săptămână",
+              "relativeTimePattern-count-few": "sâmbătă, peste {0} săptămâni",
+              "relativeTimePattern-count-other": "sâmbătă, peste {0} de săptămâni"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "sâmbătă, acum {0} săptămână",
+              "relativeTimePattern-count-few": "sâmbătă, acum {0} săptămâni",
+              "relativeTimePattern-count-other": "sâmbătă, acum de {0} săptămâni"
+            }
           },
           "sat-short": {
             "relative-type--1": "sâm. trecută",
             "relative-type-0": "sâm. aceasta",
-            "relative-type-1": "sâm. viitoare"
+            "relative-type-1": "sâm. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "sâmbătă, peste {0} săpt.",
+              "relativeTimePattern-count-few": "sâmbătă, peste {0} săpt.",
+              "relativeTimePattern-count-other": "sâmbătă, peste {0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "sâmbătă, acum {0} săpt.",
+              "relativeTimePattern-count-few": "sâmbătă, acum {0} săpt.",
+              "relativeTimePattern-count-other": "sâmbătă, acum {0} săpt."
+            }
           },
           "sat-narrow": {
-            "relative-type--1": "S (trecută)",
-            "relative-type-0": "S (aceasta)",
-            "relative-type-1": "S (viitoare)"
+            "relative-type--1": "sâ. trecută",
+            "relative-type-0": "sâ. aceasta",
+            "relative-type-1": "sâ. viitoare",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "sâ. +{0} săpt.",
+              "relativeTimePattern-count-few": "sâ. +{0} săpt.",
+              "relativeTimePattern-count-other": "sâ. +{0} săpt."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "sâ. -{0} săpt.",
+              "relativeTimePattern-count-few": "sâ. -{0} săpt.",
+              "relativeTimePattern-count-other": "sâ. -{0} săpt."
+            }
           },
           "dayperiod": {
             "displayName": "a.m/p.m."
           },
           "hour": {
-            "displayName": "Oră",
+            "displayName": "oră",
+            "relative-type-0": "ora aceasta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "peste {0} oră",
               "relativeTimePattern-count-few": "peste {0} ore",
@@ -385,6 +599,7 @@
           },
           "hour-short": {
             "displayName": "h",
+            "relative-type-0": "ora aceasta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "peste {0} h",
               "relativeTimePattern-count-few": "peste {0} h",
@@ -398,6 +613,7 @@
           },
           "hour-narrow": {
             "displayName": "h",
+            "relative-type-0": "ora aceasta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} h",
               "relativeTimePattern-count-few": "+{0} h",
@@ -410,7 +626,8 @@
             }
           },
           "minute": {
-            "displayName": "Minut",
+            "displayName": "minut",
+            "relative-type-0": "minutul acesta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "peste {0} minut",
               "relativeTimePattern-count-few": "peste {0} minute",
@@ -424,6 +641,7 @@
           },
           "minute-short": {
             "displayName": "min.",
+            "relative-type-0": "minutul acesta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "peste {0} min.",
               "relativeTimePattern-count-few": "peste {0} min.",
@@ -437,6 +655,7 @@
           },
           "minute-narrow": {
             "displayName": "m",
+            "relative-type-0": "minutul acesta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} m",
               "relativeTimePattern-count-few": "+{0} m",
@@ -449,7 +668,7 @@
             }
           },
           "second": {
-            "displayName": "Secundă",
+            "displayName": "secundă",
             "relative-type-0": "acum",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "peste {0} secundă",
@@ -491,7 +710,7 @@
             }
           },
           "zone": {
-            "displayName": "Fus orar"
+            "displayName": "fus orar"
           }
         }
       }

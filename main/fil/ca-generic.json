@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "fil"
       },
@@ -232,7 +232,7 @@
                   "morning2": "madaling-araw",
                   "afternoon1": "tanghali",
                   "evening1": "ng hapon",
-                  "night1": "ng gabi"
+                  "night1": "gabi"
                 },
                 "narrow": {
                   "midnight": "hatinggabi",
@@ -242,7 +242,7 @@
                   "morning1": "umaga",
                   "morning2": "madaling-araw",
                   "afternoon1": "tanghali",
-                  "evening1": "hapon",
+                  "evening1": "ng hapon",
                   "night1": "gabi"
                 },
                 "wide": {
@@ -252,7 +252,7 @@
                   "pm": "PM",
                   "morning1": "nang umaga",
                   "morning2": "madaling-araw",
-                  "afternoon1": "ng tanghali",
+                  "afternoon1": "tanghali",
                   "evening1": "ng hapon",
                   "night1": "ng gabi"
                 }

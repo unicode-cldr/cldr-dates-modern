@@ -3,8 +3,8 @@
     "sv-AX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "sv",
         "territory": "AX"
@@ -396,8 +396,8 @@
                   "m": "h:mm–h:mm a"
                 },
                 "Hm": {
-                  "H": "HH:mm–HH:mm",
-                  "m": "HH:mm–HH:mm"
+                  "H": "HH:mm – HH:mm",
+                  "m": "HH:mm – HH:mm"
                 },
                 "hmv": {
                   "a": "h:mm a – h:mm a v",
@@ -405,8 +405,8 @@
                   "m": "h:mm–h:mm a v"
                 },
                 "Hmv": {
-                  "H": "HH:mm–HH:mm v",
-                  "m": "HH:mm–HH:mm v"
+                  "H": "HH:mm – HH:mm v",
+                  "m": "HH:mm – HH:mm v"
                 },
                 "hv": {
                   "a": "h a – h a v",

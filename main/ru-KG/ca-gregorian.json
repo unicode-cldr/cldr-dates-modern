@@ -3,8 +3,8 @@
     "ru-KG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ru",
         "territory": "KG"
@@ -225,9 +225,9 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "полночь",
+                  "midnight": "полн.",
                   "am": "ДП",
-                  "noon": "полдень",
+                  "noon": "полд.",
                   "pm": "ПП",
                   "morning1": "утра",
                   "afternoon1": "дня",
@@ -235,9 +235,9 @@
                   "night1": "ночи"
                 },
                 "narrow": {
-                  "midnight": "полночь",
+                  "midnight": "полн.",
                   "am": "ДП",
-                  "noon": "полдень",
+                  "noon": "полд.",
                   "pm": "ПП",
                   "morning1": "утра",
                   "afternoon1": "дня",
@@ -312,7 +312,7 @@
               "full": "EEEE, d MMMM y 'г'.",
               "long": "d MMMM y 'г'.",
               "medium": "d MMM y 'г'.",
-              "short": "dd.MM.yy"
+              "short": "dd.MM.y"
             },
             "timeFormats": {
               "full": "H:mm:ss zzzz",
@@ -355,6 +355,10 @@
                 "MMMd": "d MMM",
                 "MMMEd": "ccc, d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "W-'я' 'неделя' MMM",
+                "MMMMW": "W-'я' 'неделя' MMM",
+                "MMMMW": "W-'я' 'неделя' MMM",
+                "MMMMW": "W-'я' 'неделя' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -366,7 +370,11 @@
                 "yMMMEd": "E, d MMM y 'г'.",
                 "yMMMM": "LLLL y 'г'.",
                 "yQQQ": "QQQ y 'г'.",
-                "yQQQQ": "QQQQ y 'г'."
+                "yQQQQ": "QQQQ y 'г'.",
+                "yw": "w-'я' 'неделя' y 'г'.",
+                "yw": "w-'я' 'неделя' y 'г'.",
+                "yw": "w-'я' 'неделя' y 'г'.",
+                "yw": "w-'я' 'неделя' y 'г'."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -382,7 +390,7 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0} - {1}",
+                "intervalFormatFallback": "{0} – {1}",
                 "d": {
                   "d": "d–d"
                 },
@@ -461,22 +469,22 @@
                   "y": "ccc, dd.MM.y – ccc, dd.MM.y"
                 },
                 "yMMM": {
-                  "M": "LLL–LLL y 'г'.",
-                  "y": "LLL y – LLL y 'г'."
+                  "M": "LLL – LLL y 'г'.",
+                  "y": "LLL y 'г'. – LLL y 'г'."
                 },
                 "yMMMd": {
                   "d": "d–d MMM y 'г'.",
                   "M": "d MMM – d MMM y 'г'.",
-                  "y": "d MMM y – d MMM y 'г'."
+                  "y": "d MMM y 'г'. – d MMM y 'г'."
                 },
                 "yMMMEd": {
                   "d": "ccc, d – ccc, d MMM y 'г'.",
                   "M": "ccc, d MMM – ccc, d MMM y 'г'.",
-                  "y": "ccc, d MMM y – ccc, d MMM y 'г'."
+                  "y": "ccc, d MMM y 'г'. – ccc, d MMM y 'г'."
                 },
                 "yMMMM": {
-                  "M": "LLLL–LLLL y 'г'.",
-                  "y": "LLLL y – LLLL y 'г'."
+                  "M": "LLLL – LLLL y 'г'.",
+                  "y": "LLLL y 'г'. – LLLL y 'г'."
                 }
               }
             }

@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "fil"
       },
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Athens"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbon"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirane"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -1435,7 +1450,7 @@
             "America_Central": {
               "long": {
                 "generic": "Sentral na Oras",
-                "standard": "Sentral na Standard na Oras",
+                "standard": "Sentral na Karaniwang Oras",
                 "daylight": "Sentral na Daylight Time"
               }
             },
@@ -1449,7 +1464,7 @@
             "America_Mountain": {
               "long": {
                 "generic": "Oras sa Bundok",
-                "standard": "Standard na Oras sa Bundok",
+                "standard": "Karaniwang Oras sa Bundok",
                 "daylight": "Daylight Time sa Bundok"
               }
             },
@@ -1470,7 +1485,7 @@
             "Apia": {
               "long": {
                 "generic": "Oras sa Apia",
-                "standard": "Apia Standard Time",
+                "standard": "Standard na Oras sa Apia",
                 "daylight": "Apia Daylight Time"
               }
             },
@@ -1532,7 +1547,7 @@
             },
             "Australia_Western": {
               "long": {
-                "generic": "Oras ng Kanlurang Australya",
+                "generic": "Oras sa Kanlurang Australya",
                 "standard": "Standard Time ng Kanlurang Australya",
                 "daylight": "Daylight Time sa Kanlurang Australya"
               }
@@ -2108,6 +2123,11 @@
             "Ponape": {
               "long": {
                 "standard": "Oras sa Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Oras sa Pyongyang"
               }
             },
             "Reunion": {

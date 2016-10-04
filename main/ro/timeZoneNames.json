@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ro"
       },
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrahan"
+              },
               "Athens": {
                 "exemplarCity": "Atena"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisabona"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulianovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Ujhorod"
@@ -799,7 +808,7 @@
                 "exemplarCity": "Mbabane"
               },
               "Mogadishu": {
-                "exemplarCity": "Mogadishu"
+                "exemplarCity": "Mogadiscio"
               },
               "Monrovia": {
                 "exemplarCity": "Monrovia"
@@ -823,7 +832,7 @@
                 "exemplarCity": "Porto-Novo"
               },
               "Sao_Tome": {
-                "exemplarCity": "São Tomé"
+                "exemplarCity": "Sao Tomé"
               },
               "Tripoli": {
                 "exemplarCity": "Tripoli"
@@ -868,6 +877,9 @@
               },
               "Bangkok": {
                 "exemplarCity": "Bangkok"
+              },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
               },
               "Beirut": {
                 "exemplarCity": "Beirut"
@@ -1017,7 +1029,7 @@
                 "exemplarCity": "Samarkand"
               },
               "Seoul": {
-                "exemplarCity": "Seul"
+                "exemplarCity": "Seoul"
               },
               "Shanghai": {
                 "exemplarCity": "Shanghai"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -1079,7 +1094,7 @@
                 "exemplarCity": "Chagos"
               },
               "Christmas": {
-                "exemplarCity": "Insula Crăciunului"
+                "exemplarCity": "Christmas"
               },
               "Cocos": {
                 "exemplarCity": "Cocos"
@@ -1742,7 +1757,7 @@
             },
             "French_Guiana": {
               "long": {
-                "standard": "Ora Guianei Franceze"
+                "standard": "Ora din Guyana Franceză"
               }
             },
             "French_Southern": {
@@ -2133,6 +2148,11 @@
             "Ponape": {
               "long": {
                 "standard": "Ora din Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Ora din Pyongyang"
               }
             },
             "Reunion": {

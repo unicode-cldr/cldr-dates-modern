@@ -3,8 +3,8 @@
     "ar-MA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ar",
         "territory": "MA"
@@ -228,17 +228,17 @@
                   "am": "ص",
                   "pm": "م",
                   "morning1": "فجرا",
-                  "morning2": "صباحًا",
+                  "morning2": "ص",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
                   "evening1": "مساءً",
                   "night1": "منتصف الليل",
-                  "night2": "ليلاً"
+                  "night2": "ل"
                 },
                 "narrow": {
                   "am": "ص",
                   "pm": "م",
-                  "morning1": "فجرا",
+                  "morning1": "فجرًا",
                   "morning2": "صباحًا",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
@@ -249,7 +249,7 @@
                 "wide": {
                   "am": "ص",
                   "pm": "م",
-                  "morning1": "فجرا",
+                  "morning1": "فجرًا",
                   "morning2": "صباحًا",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
@@ -263,7 +263,7 @@
                   "am": "ص",
                   "pm": "م",
                   "morning1": "فجرا",
-                  "morning2": "صباحًا",
+                  "morning2": "ص",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
                   "evening1": "مساءً",
@@ -284,7 +284,7 @@
                 "wide": {
                   "am": "صباحًا",
                   "pm": "مساءً",
-                  "morning1": "فجرا",
+                  "morning1": "فجرًا",
                   "morning2": "صباحًا",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",

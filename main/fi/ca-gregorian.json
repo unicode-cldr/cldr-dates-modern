@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12988 $",
+          "_cldrVersion": "30"
         },
         "language": "fi"
       },
@@ -14,18 +14,18 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "tammikuuta",
-                  "2": "helmikuuta",
-                  "3": "maaliskuuta",
-                  "4": "huhtikuuta",
-                  "5": "toukokuuta",
-                  "6": "kesäkuuta",
-                  "7": "heinäkuuta",
-                  "8": "elokuuta",
-                  "9": "syyskuuta",
-                  "10": "lokakuuta",
-                  "11": "marraskuuta",
-                  "12": "joulukuuta"
+                  "1": "tammik.",
+                  "2": "helmik.",
+                  "3": "maalisk.",
+                  "4": "huhtik.",
+                  "5": "toukok.",
+                  "6": "kesäk.",
+                  "7": "heinäk.",
+                  "8": "elok.",
+                  "9": "syysk.",
+                  "10": "lokak.",
+                  "11": "marrask.",
+                  "12": "jouluk."
                 },
                 "narrow": {
                   "1": "T",
@@ -224,26 +224,26 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "keskiyö",
+                  "midnight": "keskiyöllä",
                   "am": "ap.",
                   "noon": "keskip.",
                   "pm": "ip.",
-                  "morning1": "aamu",
+                  "morning1": "aamulla",
                   "morning2": "aamup.",
                   "afternoon1": "iltap.",
-                  "evening1": "ilta",
-                  "night1": "yö"
+                  "evening1": "illalla",
+                  "night1": "yöllä"
                 },
                 "narrow": {
                   "midnight": "ky.",
                   "am": "ap.",
                   "noon": "kp.",
                   "pm": "ip.",
-                  "morning1": "aamu",
+                  "morning1": "aamulla",
                   "morning2": "ap.",
                   "afternoon1": "ip.",
-                  "evening1": "ilta",
-                  "night1": "yö"
+                  "evening1": "illalla",
+                  "night1": "yöllä"
                 },
                 "wide": {
                   "midnight": "keskiyöllä",
@@ -307,9 +307,9 @@
                 "1-alt-variant": "jaa."
               },
               "eraNarrow": {
-                "0": "eK",
+                "0": "eKr",
                 "0-alt-variant": "eaa",
-                "1": "jK",
+                "1": "jKr",
                 "1-alt-variant": "jaa"
               }
             },
@@ -359,6 +359,8 @@
                 "MMMd": "d. MMM",
                 "MMMEd": "ccc d. MMM",
                 "MMMMd": "d. MMMM",
+                "MMMMW": "LLLL'n' W. 'viikko'",
+                "MMMMW": "LLLL'n' W. 'viikko'",
                 "ms": "m.ss",
                 "y": "y",
                 "yM": "L.y",
@@ -371,7 +373,9 @@
                 "yMMMM": "LLLL y",
                 "yMMMMccccd": "cccc d. MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'vuoden' y 'viikko' w",
+                "yw": "'vuoden' y 'viikko' w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

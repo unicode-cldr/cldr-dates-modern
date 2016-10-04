@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12779 $",
+          "_cldrVersion": "30"
         },
         "language": "ur",
         "territory": "IN"
@@ -48,19 +48,19 @@
             "relative-type-0": "اس سال",
             "relative-type-1": "اگلے سال",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} سال میں",
-              "relativeTimePattern-count-other": "+{0} سال میں"
+              "relativeTimePattern-count-one": "{0} سال میں",
+              "relativeTimePattern-count-other": "{0} سال میں"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} سال پہلے",
-              "relativeTimePattern-count-other": "-{0} سال پہلے"
+              "relativeTimePattern-count-one": "{0} سال پہلے",
+              "relativeTimePattern-count-other": "{0} سال پہلے"
             }
           },
           "quarter": {
             "displayName": "سہ ماہی",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "گزشتہ سہ ماہی",
+            "relative-type-0": "اس سہ ماہی",
+            "relative-type-1": "اگلے سہ ماہی",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} سہ ماہی",
               "relativeTimePattern-count-other": "+{0} سہ ماہی"
@@ -72,9 +72,9 @@
           },
           "quarter-short": {
             "displayName": "سہ ماہی",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "گزشتہ سہ ماہی",
+            "relative-type-0": "اس سہ ماہی",
+            "relative-type-1": "اگلے سہ ماہی",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} سہ ماہی میں",
               "relativeTimePattern-count-other": "{0} سہ ماہی میں"
@@ -86,9 +86,9 @@
           },
           "quarter-narrow": {
             "displayName": "سہ ماہی",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "گزشتہ سہ ماہی",
+            "relative-type-0": "اس سہ ماہی",
+            "relative-type-1": "اگلے سہ ماہی",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} سہ ماہی میں",
               "relativeTimePattern-count-other": "{0} سہ ماہی میں"
@@ -133,7 +133,7 @@
             "relative-type-1": "اگلے مہینہ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} ماہ میں",
-              "relativeTimePattern-count-other": "+{0} ماہ میں"
+              "relativeTimePattern-count-other": "{0} ماہ میں"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ماہ قبل",
@@ -152,7 +152,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ہفتہ قبل",
               "relativeTimePattern-count-other": "{0} ہفتے قبل"
-            }
+            },
+            "relativePeriod": "{0} کے ہفتے"
           },
           "week-short": {
             "displayName": "ہفتہ",
@@ -166,7 +167,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ہفتے قبل",
               "relativeTimePattern-count-other": "{0} ہفتے قبل"
-            }
+            },
+            "relativePeriod": "{0} کے ہفتے"
           },
           "week-narrow": {
             "displayName": "ہفتہ",
@@ -180,7 +182,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ہفتہ قبل",
               "relativeTimePattern-count-other": "{0} ہفتے قبل"
-            }
+            },
+            "relativePeriod": "{0} کے ہفتے"
           },
           "day": {
             "displayName": "دن",
@@ -236,113 +239,282 @@
           "sun": {
             "relative-type--1": "گزشتہ اتوار",
             "relative-type-0": "اس اتوار",
-            "relative-type-1": "اگلے اتوار"
+            "relative-type-1": "اگلے اتوار",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} اتوار میں",
+              "relativeTimePattern-count-other": "{0} اتوار میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} اتوار قبل",
+              "relativeTimePattern-count-other": "{0} اتوار قبل"
+            }
           },
           "sun-short": {
             "relative-type--1": "گزشتہ اتوار",
             "relative-type-0": "اس اتوار",
-            "relative-type-1": "اگلے اتوار"
+            "relative-type-1": "اگلے اتوار",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} اتوار میں",
+              "relativeTimePattern-count-other": "{0} اتوار میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} اتوار قبل",
+              "relativeTimePattern-count-other": "{0} اتوار قبل"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "گزشتہ اتوار",
             "relative-type-0": "اس اتوار",
-            "relative-type-1": "اگلے اتوار"
+            "relative-type-1": "اگلے اتوار",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} اتوار میں",
+              "relativeTimePattern-count-other": "{0} اتوار میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} اتوار قبل",
+              "relativeTimePattern-count-other": "{0} اتوار قبل"
+            }
           },
           "mon": {
             "relative-type--1": "پچھلے سوموار",
             "relative-type-0": "اس سوموار",
-            "relative-type-1": "اگلے سوموار"
+            "relative-type-1": "اگلے سوموار",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} پیر میں",
+              "relativeTimePattern-count-other": "{0} پیر میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} پیر قبل",
+              "relativeTimePattern-count-other": "{0} پیر قبل"
+            }
           },
           "mon-short": {
             "relative-type--1": "گزشتہ سوموار",
             "relative-type-0": "اس سوموار",
-            "relative-type-1": "اگلے سوموار"
+            "relative-type-1": "اگلے سوموار",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} سوموار میں",
+              "relativeTimePattern-count-other": "{0} پیر میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} پیر قبل",
+              "relativeTimePattern-count-other": "{0} پیر قبل"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "گزشتہ سوموار",
             "relative-type-0": "اس سوموار",
-            "relative-type-1": "اگلے سوموار"
+            "relative-type-1": "اگلے سوموار",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} پیر میں",
+              "relativeTimePattern-count-other": "{0} پیر میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} پیر قبل",
+              "relativeTimePattern-count-other": "{0} پیر قبل"
+            }
           },
           "tue": {
             "relative-type--1": "پچھلے منگل",
             "relative-type-0": "اس منگل",
-            "relative-type-1": "اگلے منگل"
+            "relative-type-1": "اگلے منگل",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} منگل میں",
+              "relativeTimePattern-count-other": "{0} منگل میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} منگل قبل",
+              "relativeTimePattern-count-other": "{0} منگل قبل"
+            }
           },
           "tue-short": {
             "relative-type--1": "گزشتہ منگل",
             "relative-type-0": "اس منگل",
-            "relative-type-1": "اگلے منگل"
+            "relative-type-1": "اگلے منگل",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} منگل میں",
+              "relativeTimePattern-count-other": "{0} منگل میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} منگل قبل",
+              "relativeTimePattern-count-other": "{0} منگل قبل"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "گزشتہ منگل",
             "relative-type-0": "اس منگل",
-            "relative-type-1": "اگلے منگل"
+            "relative-type-1": "اگلے منگل",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} منگل میں",
+              "relativeTimePattern-count-other": "{0} منگل میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} منگل قبل",
+              "relativeTimePattern-count-other": "{0} منگل قبل"
+            }
           },
           "wed": {
             "relative-type--1": "پچھلے بدھ",
             "relative-type-0": "اس بدھ",
-            "relative-type-1": "اگلے بدھ"
+            "relative-type-1": "اگلے بدھ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} بدھ میں",
+              "relativeTimePattern-count-other": "{0} بدھ میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} بدھ قبل",
+              "relativeTimePattern-count-other": "{0} بدھ قبل"
+            }
           },
           "wed-short": {
             "relative-type--1": "گزشتہ بدھ",
             "relative-type-0": "اس بدھ",
-            "relative-type-1": "اگلے بدھ"
+            "relative-type-1": "اگلے بدھ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} بدھ میں",
+              "relativeTimePattern-count-other": "{0} بدھ میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} بدھ قبل",
+              "relativeTimePattern-count-other": "{0} بدھ قبل"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "گزشتہ بدھ",
             "relative-type-0": "اس بدھ",
-            "relative-type-1": "اگلے بدھ"
+            "relative-type-1": "اگلے بدھ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} بدھ میں",
+              "relativeTimePattern-count-other": "{0} بدھ میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} بدھ قبل",
+              "relativeTimePattern-count-other": "{0} بدھ قبل"
+            }
           },
           "thu": {
             "relative-type--1": "پچھلے جمعرات",
             "relative-type-0": "اس جمعرات",
-            "relative-type-1": "اگلے جمعرات"
+            "relative-type-1": "اگلے جمعرات",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} جمعرات میں",
+              "relativeTimePattern-count-other": "{0} جمعرات میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} جمعرات قبل",
+              "relativeTimePattern-count-other": "{0} جمعرات قبل"
+            }
           },
           "thu-short": {
             "relative-type--1": "گزشتہ جمعرات",
             "relative-type-0": "اس جمعرات",
-            "relative-type-1": "اگلی جمعرات"
+            "relative-type-1": "اگلے جمعرات",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} جمعرات میں",
+              "relativeTimePattern-count-other": "{0} جمعرات میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} جمعرات قبل",
+              "relativeTimePattern-count-other": "{0} جمعرات قبل"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "گزشتہ جمعرات",
             "relative-type-0": "اس جمعرات",
-            "relative-type-1": "اگلی جمعرات"
+            "relative-type-1": "اگلی جمعرات",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} جمعرات میں",
+              "relativeTimePattern-count-other": "{0} جمعرات میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} جمعرات قبل",
+              "relativeTimePattern-count-other": "{0} جمعرات قبل"
+            }
           },
           "fri": {
             "relative-type--1": "پچھلے جمعہ",
             "relative-type-0": "اس جمعہ",
-            "relative-type-1": "اگلے جمعہ"
+            "relative-type-1": "اگلے جمعہ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} جمعہ میں",
+              "relativeTimePattern-count-other": "{0} جمعہ میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} جمعہ قبل",
+              "relativeTimePattern-count-other": "{0} جمعہ قبل"
+            }
           },
           "fri-short": {
             "relative-type--1": "گزشتہ جمعہ",
             "relative-type-0": "اس جمعہ",
-            "relative-type-1": "اگلے جمعہ"
+            "relative-type-1": "اگلے جمعہ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} جمعہ میں",
+              "relativeTimePattern-count-other": "{0} جمعہ میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} جمعہ قبل",
+              "relativeTimePattern-count-other": "{0} جمعہ قبل"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "گزشتہ جمعہ",
             "relative-type-0": "اس جمعہ",
-            "relative-type-1": "اگلے جمعہ"
+            "relative-type-1": "اگلے جمعہ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} جمعہ میں",
+              "relativeTimePattern-count-other": "{0} جمعہ میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} جمعہ قبل",
+              "relativeTimePattern-count-other": "{0} جمعہ قبل"
+            }
           },
           "sat": {
             "relative-type--1": "گزشتہ سنیچر",
             "relative-type-0": "اس سنیچر",
-            "relative-type-1": "اگلے سنیچر"
+            "relative-type-1": "اگلے سنیچر",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} سنیچر میں",
+              "relativeTimePattern-count-other": "{0} سنیچر میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} سنیچر قبل",
+              "relativeTimePattern-count-other": "{0} سنیچر قبل"
+            }
           },
           "sat-short": {
             "relative-type--1": "گزشتہ سنیچر",
             "relative-type-0": "اس سنیچر",
-            "relative-type-1": "اگلے سنیچر"
+            "relative-type-1": "اگلے سنیچر",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} سنیچر میں",
+              "relativeTimePattern-count-other": "{0} سنیچر میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} سنیچر قبل",
+              "relativeTimePattern-count-other": "{0} سنیچر قبل"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "گزشتہ سنیچر",
             "relative-type-0": "اس سنیچر",
-            "relative-type-1": "اگلے سنیچر"
+            "relative-type-1": "اگلے سنیچر",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} سنیچر میں",
+              "relativeTimePattern-count-other": "{0} سنیچر میں"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} سنیچر قبل",
+              "relativeTimePattern-count-other": "{0} سنیچر قبل"
+            }
           },
           "dayperiod": {
             "displayName": "قبل دوپہر/بعد دوپہر"
           },
           "hour": {
             "displayName": "گھنٹہ",
+            "relative-type-0": "اس گھنٹے",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} گھنٹہ میں",
               "relativeTimePattern-count-other": "{0} گھنٹے میں"
@@ -354,6 +526,7 @@
           },
           "hour-short": {
             "displayName": "گھنٹہ",
+            "relative-type-0": "اس گھنٹے",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} گھنٹے میں",
               "relativeTimePattern-count-other": "{0} گھنٹے میں"
@@ -365,6 +538,7 @@
           },
           "hour-narrow": {
             "displayName": "گھنٹہ",
+            "relative-type-0": "اس گھنٹے",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} گھنٹہ میں",
               "relativeTimePattern-count-other": "{0} گھنٹوں میں"
@@ -376,6 +550,7 @@
           },
           "minute": {
             "displayName": "منٹ",
+            "relative-type-0": "اس منٹ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} منٹ میں",
               "relativeTimePattern-count-other": "{0} منٹ میں"
@@ -387,6 +562,7 @@
           },
           "minute-short": {
             "displayName": "منٹ",
+            "relative-type-0": "اس منٹ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} منٹ میں",
               "relativeTimePattern-count-other": "{0} منٹ میں"
@@ -398,6 +574,7 @@
           },
           "minute-narrow": {
             "displayName": "منٹ",
+            "relative-type-0": "اس منٹ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} منٹ میں",
               "relativeTimePattern-count-other": "{0} منٹ میں"

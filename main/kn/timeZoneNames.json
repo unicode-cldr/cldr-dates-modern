@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "kn"
       },
@@ -14,8 +14,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} ಸಮಯ",
-          "regionFormat-type-daylight": "{0} (+1) ದಿನದ ಸಮಯ",
-          "regionFormat-type-standard": "{0} (+0) ಪ್ರಮಾಣಿತ ಸಮಯ",
+          "regionFormat-type-daylight": "{0} ದಿನದ ಸಮಯ",
+          "regionFormat-type-standard": "{0} ಪ್ರಮಾಣಿತ ಸಮಯ",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -26,7 +26,7 @@
                 "exemplarCity": "ಆಂಕರೋಜ್"
               },
               "Anguilla": {
-                "exemplarCity": "ಅಂಗುಲ್ಲಾ"
+                "exemplarCity": "ಆಂಗ್ವಿಲ್ಲಾ"
               },
               "Antigua": {
                 "exemplarCity": "ಆಂಟಿಗುವಾ"
@@ -115,7 +115,7 @@
                 "exemplarCity": "ಕೇಮನ್"
               },
               "Chicago": {
-                "exemplarCity": "ಶಿಕಾಗೋ"
+                "exemplarCity": "ಚಿಕಾಗೋ"
               },
               "Chihuahua": {
                 "exemplarCity": "ಚಿವಾವ"
@@ -166,7 +166,7 @@
                 "exemplarCity": "ಎಲ್ ಸಾಲ್ವಡೋರ್"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ಫೋರ್ಟ್ ನೆಲ್ಸನ್"
               },
               "Fortaleza": {
                 "exemplarCity": "ಫೊರ್ಟಲೆಜಾ"
@@ -460,7 +460,7 @@
                 "exemplarCity": "ವೈಟ್‌ಹಾರ್ಸ್"
               },
               "Winnipeg": {
-                "exemplarCity": "ವಿನ್ನಿಪೇಗ್"
+                "exemplarCity": "ವಿನ್ನಿಪೆಗ್"
               },
               "Yakutat": {
                 "exemplarCity": "ಯಾಕುಟಾಟ್"
@@ -507,6 +507,9 @@
               },
               "Andorra": {
                 "exemplarCity": "ಅಂಡೋರಾ"
+              },
+              "Astrakhan": {
+                "exemplarCity": "ಆಸ್ಟ್ರಾಖಾನ್"
               },
               "Athens": {
                 "exemplarCity": "ಅಥೆನ್ಸ್"
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "ಕಿವ್"
+              },
+              "Kirov": {
+                "exemplarCity": "ಕಿರಾವ್"
               },
               "Lisbon": {
                 "exemplarCity": "ಲಿಸ್ಬನ್"
@@ -646,6 +652,9 @@
               "Tirane": {
                 "exemplarCity": "ಟಿರಾನೆ"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "ಉಲ್ಯಾನೊವಸ್ಕ್"
+              },
               "Uzhgorod": {
                 "exemplarCity": "ಉಜ್‌ಗೊರೊದ್"
               },
@@ -688,7 +697,7 @@
                 "exemplarCity": "ಆಡಿಸ್ ಅಬಾಬಾ"
               },
               "Algiers": {
-                "exemplarCity": "ಅಲ್ಗೀರ್ಸ್"
+                "exemplarCity": "ಅಲ್ಜೀರ್ಸ್"
               },
               "Asmera": {
                 "exemplarCity": "ಅಸ್ಮಾರಾ"
@@ -751,7 +760,7 @@
                 "exemplarCity": "ಹರಾರೆ"
               },
               "Johannesburg": {
-                "exemplarCity": "ಜೋಹನ್ಸ್‌ಬರ್ಗ್"
+                "exemplarCity": "ಜೋಹಾನ್ಸ್‌ಬರ್ಗ್"
               },
               "Juba": {
                 "exemplarCity": "ಜುಬಾ"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "ಬ್ಯಾಂಕಾಕ್"
               },
+              "Barnaul": {
+                "exemplarCity": "ಬಾರ್ನೌಲ್"
+              },
               "Beirut": {
                 "exemplarCity": "ಬೀರಟ್"
               },
@@ -918,7 +930,7 @@
                 "exemplarCity": "ಹೋವ್ಡ್"
               },
               "Irkutsk": {
-                "exemplarCity": "ಇರ್‌ಕುಟ್ಸ್"
+                "exemplarCity": "ಇರಕುಟ್ಸ್ಕ್"
               },
               "Jakarta": {
                 "exemplarCity": "ಜಕಾರ್ತಾ"
@@ -933,7 +945,7 @@
                 "exemplarCity": "ಕಾಬೂಲ್"
               },
               "Kamchatka": {
-                "exemplarCity": "ಕಮ್ಚತ್ಕ"
+                "exemplarCity": "ಕಂಚಟ್ಕ್"
               },
               "Karachi": {
                 "exemplarCity": "ಕರಾಚಿ"
@@ -957,7 +969,7 @@
                 "exemplarCity": "ಕುವೈತ್"
               },
               "Macau": {
-                "exemplarCity": "ಮಖಾವ್"
+                "exemplarCity": "ಮಕಾವು"
               },
               "Magadan": {
                 "exemplarCity": "ಮಗದನ್‌"
@@ -969,7 +981,7 @@
                 "exemplarCity": "ಮನಿಲಾ"
               },
               "Muscat": {
-                "exemplarCity": "ಮಸ್ಕತ್"
+                "exemplarCity": "ಮಸ್ಕಟ್"
               },
               "Nicosia": {
                 "exemplarCity": "ನಿಕೋಸಿಯಾ"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "ಟೋಕಿಯೊ"
+              },
+              "Tomsk": {
+                "exemplarCity": "ಟೋಮ್‌ಸ್ಕ್"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "ಉಲಾನ್‍ಬಾತರ್"
@@ -1132,7 +1147,7 @@
                 "exemplarCity": "ಲಿಂಡಿಮಾನ್"
               },
               "Lord_Howe": {
-                "exemplarCity": "ಲಾರ್ಡ್ ಹೋ"
+                "exemplarCity": "ಲಾರ್ಡ್ ಹೋವ್"
               },
               "Melbourne": {
                 "exemplarCity": "ಮೆಲ್ಬರ್ನ್"
@@ -1155,7 +1170,7 @@
                 "exemplarCity": "ಬೌಗೆನ್‍ವಿಲ್ಲೆ"
               },
               "Chatham": {
-                "exemplarCity": "ಚತಮ್"
+                "exemplarCity": "ಚಥಾಮ್"
               },
               "Easter": {
                 "exemplarCity": "ಈಸ್ಟರ್"
@@ -1265,7 +1280,7 @@
             },
             "Arctic": {
               "Longyearbyen": {
-                "exemplarCity": "ಲಾಂಗ್‌ಇಯರ್‌ಬೇನ್"
+                "exemplarCity": "ಲಾಂಗ್ಯೀರ್ಬೆನ್"
               }
             },
             "Antarctica": {
@@ -1757,7 +1772,7 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "*ಪೂರ್ವ ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಸಮಯ",
+                "generic": "ಪೂರ್ವ ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಸಮಯ",
                 "standard": "ಪೂರ್ವ ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
                 "daylight": "ಪೂರ್ವ ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಬೇಸಿಗೆ ಸಮಯ"
               }
@@ -1796,7 +1811,7 @@
             "Hovd": {
               "long": {
                 "generic": "ಹವ್ಡ್ ಸಮಯ",
-                "standard": "ಹವ್ಡ್ ಸ್ಟ್ಯಾಂಡರ್ಡ್ ಸಮಯ",
+                "standard": "ಹವ್ಡ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
                 "daylight": "ಹವ್ಡ್ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
@@ -2042,7 +2057,7 @@
             "Novosibirsk": {
               "long": {
                 "generic": "ನೊವೊಸಿಬಿರ್‌ಸ್ಕ್ ಸಮಯ",
-                "standard": "ನೊವೊಸಿಬಿಸ್ಕ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "standard": "ನೊವೊಸಿಬಿರ್‌ಸ್ಕ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
                 "daylight": "ನೊವೊಸಿಬಿರ್‌ಸ್ಕ್ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
@@ -2111,6 +2126,11 @@
             "Ponape": {
               "long": {
                 "standard": "ಪೊನಾಪೆ ಸಮಯ"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "ಪ್ಯೊಂಗ್ಯಾಂಗ್ ಸಮಯ"
               }
             },
             "Reunion": {

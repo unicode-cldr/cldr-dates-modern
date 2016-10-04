@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sl"
       },
@@ -191,7 +191,8 @@
               "relativeTimePattern-count-two": "pred {0} tednoma",
               "relativeTimePattern-count-few": "pred {0} tedni",
               "relativeTimePattern-count-other": "pred {0} tedni"
-            }
+            },
+            "relativePeriod": "v tednu {0}"
           },
           "week-short": {
             "displayName": "ted.",
@@ -209,7 +210,8 @@
               "relativeTimePattern-count-two": "pred {0} ted.",
               "relativeTimePattern-count-few": "pred {0} ted.",
               "relativeTimePattern-count-other": "pred {0} ted."
-            }
+            },
+            "relativePeriod": "v tednu {0}"
           },
           "week-narrow": {
             "displayName": "ted.",
@@ -227,10 +229,11 @@
               "relativeTimePattern-count-two": "pred {0} ted.",
               "relativeTimePattern-count-few": "pred {0} ted.",
               "relativeTimePattern-count-other": "pred {0} ted."
-            }
+            },
+            "relativePeriod": "v tednu {0}"
           },
           "day": {
-            "displayName": "Dan",
+            "displayName": "dan",
             "relative-type--2": "predvčerajšnjim",
             "relative-type--1": "včeraj",
             "relative-type-0": "danes",
@@ -295,113 +298,366 @@
           "sun": {
             "relative-type--1": "prejšnjo nedeljo",
             "relative-type-0": "to nedeljo",
-            "relative-type-1": "naslednjo nedeljo"
+            "relative-type-1": "naslednjo nedeljo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} nedeljo",
+              "relativeTimePattern-count-two": "čez {0} nedelji",
+              "relativeTimePattern-count-few": "čez {0} nedelje",
+              "relativeTimePattern-count-other": "čez {0} nedelj"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} nedeljo",
+              "relativeTimePattern-count-two": "pred {0} nedeljama",
+              "relativeTimePattern-count-few": "pred {0} nedeljami",
+              "relativeTimePattern-count-other": "pred {0} nedeljami"
+            }
           },
           "sun-short": {
             "relative-type--1": "prejšnjo ned.",
             "relative-type-0": "to ned.",
-            "relative-type-1": "naslednjo ned."
+            "relative-type-1": "naslednjo ned.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} nedeljo",
+              "relativeTimePattern-count-two": "čez {0} nedelji",
+              "relativeTimePattern-count-few": "čez {0} nedelje",
+              "relativeTimePattern-count-other": "čez {0} nedelj"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} nedeljo",
+              "relativeTimePattern-count-two": "pred {0} nedeljama",
+              "relativeTimePattern-count-few": "pred {0} nedeljami",
+              "relativeTimePattern-count-other": "pred {0} nedeljami"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "prejš. ned.",
             "relative-type-0": "to ned.",
-            "relative-type-1": "nasl. ned."
+            "relative-type-1": "nasl. ned.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} nedeljo",
+              "relativeTimePattern-count-two": "čez {0} nedelji",
+              "relativeTimePattern-count-few": "čez {0} nedelje",
+              "relativeTimePattern-count-other": "čez {0} nedelj"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} nedeljo",
+              "relativeTimePattern-count-two": "pred {0} nedeljama",
+              "relativeTimePattern-count-few": "pred {0} nedeljami",
+              "relativeTimePattern-count-other": "pred {0} nedeljami"
+            }
           },
           "mon": {
             "relative-type--1": "prejšnji ponedeljek",
             "relative-type-0": "ta ponedeljek",
-            "relative-type-1": "naslednji ponedeljek"
+            "relative-type-1": "naslednji ponedeljek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} ponedeljek",
+              "relativeTimePattern-count-two": "čez {0} ponedeljka",
+              "relativeTimePattern-count-few": "čez {0} ponedeljke",
+              "relativeTimePattern-count-other": "čez {0} ponedeljkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} ponedeljkom",
+              "relativeTimePattern-count-two": "pred {0} ponedeljkoma",
+              "relativeTimePattern-count-few": "pred {0} ponedeljki",
+              "relativeTimePattern-count-other": "pred {0} ponedeljki"
+            }
           },
           "mon-short": {
             "relative-type--1": "prejšnji pon.",
             "relative-type-0": "ta pon.",
-            "relative-type-1": "naslednji pon."
+            "relative-type-1": "naslednji pon.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} ponedeljek",
+              "relativeTimePattern-count-two": "čez {0} ponedeljka",
+              "relativeTimePattern-count-few": "čez {0} ponedeljke",
+              "relativeTimePattern-count-other": "čez {0} ponedeljkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} ponedeljkom",
+              "relativeTimePattern-count-two": "pred {0} ponedeljkoma",
+              "relativeTimePattern-count-few": "pred {0} ponedeljki",
+              "relativeTimePattern-count-other": "pred {0} ponedeljki"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "prejš. pon.",
             "relative-type-0": "ta pon.",
-            "relative-type-1": "nasl. pon."
+            "relative-type-1": "nasl. pon.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} ponedeljek",
+              "relativeTimePattern-count-two": "čez {0} ponedeljka",
+              "relativeTimePattern-count-few": "čez {0} ponedeljke",
+              "relativeTimePattern-count-other": "čez {0} ponedeljkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} ponedeljkom",
+              "relativeTimePattern-count-two": "pred {0} ponedeljkoma",
+              "relativeTimePattern-count-few": "pred {0} ponedeljki",
+              "relativeTimePattern-count-other": "pred {0} ponedeljki"
+            }
           },
           "tue": {
             "relative-type--1": "prejšnji torek",
             "relative-type-0": "ta torek",
-            "relative-type-1": "naslednji torek"
+            "relative-type-1": "naslednji torek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} torek",
+              "relativeTimePattern-count-two": "čez {0} torka",
+              "relativeTimePattern-count-few": "čez {0} torke",
+              "relativeTimePattern-count-other": "čez {0} torkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} torkom",
+              "relativeTimePattern-count-two": "pred {0} torkoma",
+              "relativeTimePattern-count-few": "pred {0} torki",
+              "relativeTimePattern-count-other": "pred {0} torki"
+            }
           },
           "tue-short": {
             "relative-type--1": "prejšnji tor.",
             "relative-type-0": "ta tor.",
-            "relative-type-1": "naslednji tor."
+            "relative-type-1": "naslednji tor.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} torek",
+              "relativeTimePattern-count-two": "čez {0} torka",
+              "relativeTimePattern-count-few": "čez {0} torke",
+              "relativeTimePattern-count-other": "čez {0} torkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} torkom",
+              "relativeTimePattern-count-two": "pred {0} torkoma",
+              "relativeTimePattern-count-few": "pred {0} torki",
+              "relativeTimePattern-count-other": "pred {0} torki"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "prejš. tor.",
             "relative-type-0": "ta tor.",
-            "relative-type-1": "nasl. tor."
+            "relative-type-1": "nasl. tor.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} torek",
+              "relativeTimePattern-count-two": "čez {0} torka",
+              "relativeTimePattern-count-few": "čez {0} torke",
+              "relativeTimePattern-count-other": "čez {0} torkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} torkom",
+              "relativeTimePattern-count-two": "pred {0} torkoma",
+              "relativeTimePattern-count-few": "pred {0} torki",
+              "relativeTimePattern-count-other": "pred {0} torki"
+            }
           },
           "wed": {
             "relative-type--1": "prejšnjo sredo",
             "relative-type-0": "to sredo",
-            "relative-type-1": "naslednjo sredo"
+            "relative-type-1": "naslednjo sredo",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} sredo",
+              "relativeTimePattern-count-two": "čez {0} sredi",
+              "relativeTimePattern-count-few": "čez {0} srede",
+              "relativeTimePattern-count-other": "čez {0} sred"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} sredo",
+              "relativeTimePattern-count-two": "pred {0} sredama",
+              "relativeTimePattern-count-few": "pred {0} sredami",
+              "relativeTimePattern-count-other": "pred {0} sredami"
+            }
           },
           "wed-short": {
             "relative-type--1": "prejšnjo sre.",
             "relative-type-0": "to sre.",
-            "relative-type-1": "naslednjo sre."
+            "relative-type-1": "naslednjo sre.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} sredo",
+              "relativeTimePattern-count-two": "čez {0} sredi",
+              "relativeTimePattern-count-few": "čez {0} srede",
+              "relativeTimePattern-count-other": "čez {0} sred"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} sredo",
+              "relativeTimePattern-count-two": "pred {0} sredama",
+              "relativeTimePattern-count-few": "pred {0} sredami",
+              "relativeTimePattern-count-other": "pred {0} sredami"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "prejš. sre.",
             "relative-type-0": "to sre.",
-            "relative-type-1": "nasl. sre."
+            "relative-type-1": "nasl. sre.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} sredo",
+              "relativeTimePattern-count-two": "čez {0} sredi",
+              "relativeTimePattern-count-few": "čez {0} srede",
+              "relativeTimePattern-count-other": "čez {0} sred"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} sredo",
+              "relativeTimePattern-count-two": "pred {0} sredama",
+              "relativeTimePattern-count-few": "pred {0} sredami",
+              "relativeTimePattern-count-other": "pred {0} sredami"
+            }
           },
           "thu": {
             "relative-type--1": "prejšnji četrtek",
             "relative-type-0": "ta četrtek",
-            "relative-type-1": "naslednji četrtek"
+            "relative-type-1": "naslednji četrtek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} četrtek",
+              "relativeTimePattern-count-two": "čez {0} četrtka",
+              "relativeTimePattern-count-few": "čez {0} četrtke",
+              "relativeTimePattern-count-other": "čez {0} četrtkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} četrtkom",
+              "relativeTimePattern-count-two": "pred {0} četrtkoma",
+              "relativeTimePattern-count-few": "pred {0} četrtki",
+              "relativeTimePattern-count-other": "pred {0} četrtki"
+            }
           },
           "thu-short": {
             "relative-type--1": "prejšnji čet.",
             "relative-type-0": "ta čet.",
-            "relative-type-1": "naslednji čet."
+            "relative-type-1": "naslednji čet.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} četrtek",
+              "relativeTimePattern-count-two": "čez {0} četrtka",
+              "relativeTimePattern-count-few": "čez {0} četrtke",
+              "relativeTimePattern-count-other": "čez {0} četrtkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} četrtkom",
+              "relativeTimePattern-count-two": "pred {0} četrtkoma",
+              "relativeTimePattern-count-few": "pred {0} četrtki",
+              "relativeTimePattern-count-other": "pred {0} četrtki"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "prejš. čet.",
             "relative-type-0": "ta čet.",
-            "relative-type-1": "nasl. čet."
+            "relative-type-1": "nasl. čet.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} četrtek",
+              "relativeTimePattern-count-two": "čez {0} četrtka",
+              "relativeTimePattern-count-few": "čez {0} četrtke",
+              "relativeTimePattern-count-other": "čez {0} četrtkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} četrtkom",
+              "relativeTimePattern-count-two": "pred {0} četrtkoma",
+              "relativeTimePattern-count-few": "pred {0} četrtki",
+              "relativeTimePattern-count-other": "pred {0} četrtki"
+            }
           },
           "fri": {
             "relative-type--1": "prejšnji petek",
             "relative-type-0": "ta petek",
-            "relative-type-1": "naslednji petek"
+            "relative-type-1": "naslednji petek",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} petek",
+              "relativeTimePattern-count-two": "čez {0} petka",
+              "relativeTimePattern-count-few": "čez {0} petke",
+              "relativeTimePattern-count-other": "čez {0} petkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} petkom",
+              "relativeTimePattern-count-two": "pred {0} petkoma",
+              "relativeTimePattern-count-few": "pred {0} petki",
+              "relativeTimePattern-count-other": "pred {0} petki"
+            }
           },
           "fri-short": {
             "relative-type--1": "prejšnji pet.",
             "relative-type-0": "ta pet.",
-            "relative-type-1": "naslednji pet."
+            "relative-type-1": "naslednji pet.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} petek",
+              "relativeTimePattern-count-two": "čez {0} petka",
+              "relativeTimePattern-count-few": "čez {0} petke",
+              "relativeTimePattern-count-other": "čez {0} petkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} petkom",
+              "relativeTimePattern-count-two": "pred {0} petkoma",
+              "relativeTimePattern-count-few": "pred {0} petki",
+              "relativeTimePattern-count-other": "pred {0} petki"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "prejš. pet.",
             "relative-type-0": "ta pet.",
-            "relative-type-1": "nasl. pet."
+            "relative-type-1": "nasl. pet.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} petek",
+              "relativeTimePattern-count-two": "čez {0} petka",
+              "relativeTimePattern-count-few": "čez {0} petke",
+              "relativeTimePattern-count-other": "čez {0} petkov"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} petkom",
+              "relativeTimePattern-count-two": "pred {0} petkoma",
+              "relativeTimePattern-count-few": "pred {0} petki",
+              "relativeTimePattern-count-other": "pred {0} petki"
+            }
           },
           "sat": {
             "relative-type--1": "prejšnjo soboto",
             "relative-type-0": "to soboto",
-            "relative-type-1": "naslednjo soboto"
+            "relative-type-1": "naslednjo soboto",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} soboto",
+              "relativeTimePattern-count-two": "čez {0} soboti",
+              "relativeTimePattern-count-few": "čez {0} sobote",
+              "relativeTimePattern-count-other": "čez {0} sobot"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} soboto",
+              "relativeTimePattern-count-two": "pred {0} sobotama",
+              "relativeTimePattern-count-few": "pred {0} sobotami",
+              "relativeTimePattern-count-other": "pred {0} sobotami"
+            }
           },
           "sat-short": {
             "relative-type--1": "prejšnjo sob.",
             "relative-type-0": "to sob.",
-            "relative-type-1": "naslednjo sob."
+            "relative-type-1": "naslednjo sob.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} soboto",
+              "relativeTimePattern-count-two": "čez {0} soboti",
+              "relativeTimePattern-count-few": "čez {0} sobote",
+              "relativeTimePattern-count-other": "čez {0} sobot"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} soboto",
+              "relativeTimePattern-count-two": "pred {0} sobotama",
+              "relativeTimePattern-count-few": "pred {0} sobotami",
+              "relativeTimePattern-count-other": "pred {0} sobotami"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "prejš. sob.",
             "relative-type-0": "to sob.",
-            "relative-type-1": "nasl. sob."
+            "relative-type-1": "nasl. sob.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "čez {0} soboto",
+              "relativeTimePattern-count-two": "čez {0} soboti",
+              "relativeTimePattern-count-few": "čez {0} sobote",
+              "relativeTimePattern-count-other": "čez {0} sobot"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "pred {0} soboto",
+              "relativeTimePattern-count-two": "pred {0} sobotama",
+              "relativeTimePattern-count-few": "pred {0} sobotami",
+              "relativeTimePattern-count-other": "pred {0} sobotami"
+            }
           },
           "dayperiod": {
-            "displayName": "Čas dneva"
+            "displayName": "dop/pop"
           },
           "hour": {
             "displayName": "ura",
+            "relative-type-0": "v tej uri",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "čez {0} uro",
               "relativeTimePattern-count-two": "čez {0} uri",
@@ -417,6 +673,7 @@
           },
           "hour-short": {
             "displayName": "ura",
+            "relative-type-0": "v tej uri",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "čez {0} uro",
               "relativeTimePattern-count-two": "čez {0} uri",
@@ -432,6 +689,7 @@
           },
           "hour-narrow": {
             "displayName": "h",
+            "relative-type-0": "v tej uri",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "čez {0} h",
               "relativeTimePattern-count-two": "čez {0} h",
@@ -447,6 +705,7 @@
           },
           "minute": {
             "displayName": "minuta",
+            "relative-type-0": "to minuto",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "čez {0} minuto",
               "relativeTimePattern-count-two": "čez {0} minuti",
@@ -462,6 +721,7 @@
           },
           "minute-short": {
             "displayName": "min.",
+            "relative-type-0": "to minuto",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "čez {0} min.",
               "relativeTimePattern-count-two": "čez {0} min.",
@@ -477,6 +737,7 @@
           },
           "minute-narrow": {
             "displayName": "min",
+            "relative-type-0": "to minuto",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "čez {0} min",
               "relativeTimePattern-count-two": "čez {0} min",

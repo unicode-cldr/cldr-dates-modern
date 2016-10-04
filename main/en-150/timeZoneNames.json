@@ -3,8 +3,8 @@
     "en-150": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11976 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "en",
         "territory": "150"
@@ -506,6 +506,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Athens"
               },
@@ -565,6 +568,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbon"
@@ -643,6 +649,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirane"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhhorod"
@@ -867,6 +876,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1043,6 +1055,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -1714,6 +1729,11 @@
                 "generic": "Central European Time",
                 "standard": "Central European Standard Time",
                 "daylight": "Central European Summer Time"
+              },
+              "short": {
+                "generic": "CET",
+                "standard": "CET",
+                "daylight": "CEST"
               }
             },
             "Europe_Eastern": {
@@ -1721,6 +1741,11 @@
                 "generic": "Eastern European Time",
                 "standard": "Eastern European Standard Time",
                 "daylight": "Eastern European Summer Time"
+              },
+              "short": {
+                "generic": "EET",
+                "standard": "EET",
+                "daylight": "EEST"
               }
             },
             "Europe_Further_Eastern": {
@@ -1733,6 +1758,11 @@
                 "generic": "Western European Time",
                 "standard": "Western European Standard Time",
                 "daylight": "Western European Summer Time"
+              },
+              "short": {
+                "generic": "WET",
+                "standard": "WET",
+                "daylight": "WEST"
               }
             },
             "Falkland": {

@@ -3,8 +3,8 @@
     "sr-Cyrl-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -106,51 +106,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "нед",
-                  "mon": "пон",
-                  "tue": "уто",
-                  "wed": "сре",
-                  "thu": "чет",
-                  "fri": "пет",
-                  "sat": "суб"
-                },
-                "narrow": {
-                  "sun": "н",
-                  "mon": "п",
-                  "tue": "у",
-                  "wed": "с",
-                  "thu": "ч",
-                  "fri": "п",
-                  "sat": "с"
-                },
-                "short": {
-                  "sun": "нед",
-                  "mon": "пон",
-                  "tue": "уто",
-                  "wed": "сре",
-                  "thu": "чет",
-                  "fri": "пет",
-                  "sat": "суб"
-                },
-                "wide": {
-                  "sun": "недеља",
-                  "mon": "понедељак",
-                  "tue": "уторак",
-                  "wed": "среда",
-                  "thu": "четвртак",
-                  "fri": "петак",
-                  "sat": "субота"
-                }
-              },
-              "stand-alone": {
-                "abbreviated": {
-                  "sun": "нед",
-                  "mon": "пон",
-                  "tue": "уто",
-                  "wed": "сре",
-                  "thu": "чет",
-                  "fri": "пет",
-                  "sat": "суб"
+                  "sun": "нед.",
+                  "mon": "пон.",
+                  "tue": "ут.",
+                  "wed": "ср.",
+                  "thu": "чет.",
+                  "fri": "пет.",
+                  "sat": "суб."
                 },
                 "narrow": {
                   "sun": "н",
@@ -171,10 +133,48 @@
                   "sat": "су"
                 },
                 "wide": {
-                  "sun": "недеља",
+                  "sun": "недјеља",
                   "mon": "понедељак",
                   "tue": "уторак",
-                  "wed": "среда",
+                  "wed": "сриједа",
+                  "thu": "четвртак",
+                  "fri": "петак",
+                  "sat": "субота"
+                }
+              },
+              "stand-alone": {
+                "abbreviated": {
+                  "sun": "нед.",
+                  "mon": "пон.",
+                  "tue": "ут.",
+                  "wed": "ср.",
+                  "thu": "чет.",
+                  "fri": "пет.",
+                  "sat": "суб."
+                },
+                "narrow": {
+                  "sun": "н",
+                  "mon": "п",
+                  "tue": "у",
+                  "wed": "с",
+                  "thu": "ч",
+                  "fri": "п",
+                  "sat": "с"
+                },
+                "short": {
+                  "sun": "не",
+                  "mon": "по",
+                  "tue": "ут",
+                  "wed": "ср",
+                  "thu": "че",
+                  "fri": "пе",
+                  "sat": "су"
+                },
+                "wide": {
+                  "sun": "недјеља",
+                  "mon": "понедељак",
+                  "tue": "уторак",
+                  "wed": "сриједа",
                   "thu": "четвртак",
                   "fri": "петак",
                   "sat": "субота"
@@ -227,59 +227,59 @@
               "format": {
                 "abbreviated": {
                   "midnight": "поноћ",
-                  "am": "пре подне",
+                  "am": "прије подне",
                   "noon": "подне",
                   "pm": "по подне",
                   "morning1": "јутро",
                   "afternoon1": "по под.",
                   "evening1": "вече",
+                  "night1": "ноћу"
+                },
+                "narrow": {
+                  "midnight": "поноћ",
+                  "am": "a",
+                  "noon": "подне",
+                  "pm": "p",
+                  "morning1": "јутро",
+                  "afternoon1": "по под.",
+                  "evening1": "вече",
+                  "night1": "ноћ"
+                },
+                "wide": {
+                  "midnight": "поноћ",
+                  "am": "прије подне",
+                  "noon": "подне",
+                  "pm": "по подне",
+                  "morning1": "ујутро",
+                  "afternoon1": "по подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
+                }
+              },
+              "stand-alone": {
+                "abbreviated": {
+                  "midnight": "поноћ",
+                  "am": "прије подне",
+                  "noon": "подне",
+                  "pm": "по подне",
+                  "morning1": "јутро",
+                  "afternoon1": "поподне",
+                  "evening1": "вече",
                   "night1": "ноћ"
                 },
                 "narrow": {
-                  "midnight": "у поноћ",
-                  "am": "a",
-                  "noon": "у подне",
+                  "midnight": "поноћ",
+                  "am": "а",
+                  "noon": "подне",
                   "pm": "p",
-                  "morning1": "ујутру",
+                  "morning1": "ујутро",
                   "afternoon1": "по подне",
                   "evening1": "увече",
                   "night1": "ноћу"
                 },
                 "wide": {
                   "midnight": "поноћ",
-                  "am": "пре подне",
-                  "noon": "подне",
-                  "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "поподне",
-                  "evening1": "вече",
-                  "night1": "ноћ"
-                }
-              },
-              "stand-alone": {
-                "abbreviated": {
-                  "midnight": "поноћ",
-                  "am": "пре подне",
-                  "noon": "подне",
-                  "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "поподне",
-                  "evening1": "вече",
-                  "night1": "ноћ"
-                },
-                "narrow": {
-                  "midnight": "поноћ",
-                  "am": "пре подне",
-                  "noon": "подне",
-                  "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "поподне",
-                  "evening1": "вече",
-                  "night1": "ноћ"
-                },
-                "wide": {
-                  "midnight": "поноћ",
-                  "am": "пре подне",
+                  "am": "прије подне",
                   "noon": "подне",
                   "pm": "по подне",
                   "morning1": "јутро",
@@ -304,9 +304,9 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, dd. MMMM y. G",
-              "long": "dd. MMMM y. G",
-              "medium": "dd.MM.y. G",
+              "full": "EEEE, d. MMMM y. G",
+              "long": "d. MMMM y. G",
+              "medium": "d.MM.y. G",
               "short": "d.M.y. GGGGG"
             },
             "timeFormats": {
@@ -339,21 +339,21 @@
                 "hms": "hh.mm.ss a",
                 "Hms": "HH.mm.ss",
                 "M": "L",
-                "Md": "d/M",
-                "MEd": "E, M-d",
+                "Md": "d.M.",
+                "MEd": "E, d.M.",
                 "MMdd": "MM-dd",
                 "MMM": "LLL",
                 "MMMd": "d. MMM",
                 "MMMdd": "dd.MMM",
-                "MMMEd": "E d. MMM",
+                "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
-                "MMMMEd": "E d. MMMM",
+                "MMMMEd": "E, d. MMMM",
                 "ms": "mm.ss",
                 "y": "y. G",
                 "yyyy": "y. G",
-                "yyyyM": "M.y. G",
-                "yyyyMd": "d.M.y. G",
-                "yyyyMEd": "E, d.M.y. G",
+                "yyyyM": "M.y. GGGGG",
+                "yyyyMd": "d.M.y. GGGGG",
+                "yyyyMEd": "E, d.M.y. GGGGG",
                 "yyyyMM": "MM.y. G",
                 "yyyyMMdd": "dd.MM.y. G",
                 "yyyyMMM": "MMM y. G",
@@ -428,12 +428,12 @@
                   "M": "MMM–MMM"
                 },
                 "MMMd": {
-                  "d": "dd – dd. MMM",
-                  "M": "dd. MMM – dd. MMM"
+                  "d": "d – d. MMM",
+                  "M": "d. MMM – d. MMM"
                 },
                 "MMMEd": {
-                  "d": "E, dd. – E, dd. MMM",
-                  "M": "E, dd. MMM – E, dd. MMM"
+                  "d": "E, d. MMM – E, d. MMM",
+                  "M": "E, d. MMM – E, d. MMM"
                 },
                 "y": {
                   "y": "y – y. G"
@@ -444,7 +444,7 @@
                 },
                 "yMd": {
                   "d": "d.M.y – d.M.y. GGGGG",
-                  "M": "d.M.y. – d.M.y.",
+                  "M": "d.M.y. – d.M.y. GGGGG",
                   "y": "d.M.y – d.M.y. GGGGG"
                 },
                 "yMEd": {
@@ -453,22 +453,22 @@
                   "y": "E, d.M.y – E, d.M.y. GGGGG"
                 },
                 "yMMM": {
-                  "M": "MMM–MMM y.",
+                  "M": "MMM – MMM y. G",
                   "y": "MMM y – MMM y. G"
                 },
                 "yMMMd": {
-                  "d": "dd.–dd. MMM y.",
-                  "M": "dd. MMM – dd. MMM y.",
-                  "y": "dd. MMM y. – dd. MMM y."
+                  "d": "d–d. MMM y. G",
+                  "M": "d. MMM – d. MMM y. G",
+                  "y": "d. MMM y. – d. MMM y. G"
                 },
                 "yMMMEd": {
-                  "d": "E, dd. – E, dd. MMM y.",
-                  "M": "E, dd. MMM – E, dd. MMM y.",
-                  "y": "E, dd. MMM y. – E, dd. MMM y."
+                  "d": "E, d. MMM – E, d. MMM y. G",
+                  "M": "E, d. MMM – E, d. MMM y. G",
+                  "y": "E, d. MMM y – E, d. MMM y. G"
                 },
                 "yMMMM": {
-                  "M": "y-MM – MM",
-                  "y": "MMMM y – MMMM y. G"
+                  "M": "MMMM – MMMM y. G",
+                  "y": "MMMM y. – MMMM y. G"
                 }
               }
             }

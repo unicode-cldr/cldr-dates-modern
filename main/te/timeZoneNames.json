@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "te"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "ఎల్ సాల్వడోర్"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ఫోర్ట్ నెల్సన్"
               },
               "Fortaleza": {
                 "exemplarCity": "ఫార్ట్లెజా"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "అండోరా"
               },
+              "Astrakhan": {
+                "exemplarCity": "అస్ట్రఖాన్"
+              },
               "Athens": {
                 "exemplarCity": "ఏథెన్స్"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "కీవ్"
+              },
+              "Kirov": {
+                "exemplarCity": "కిరోవ్"
               },
               "Lisbon": {
                 "exemplarCity": "లిస్బన్"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "టిరేన్"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "ఉల్యనోవ్స్క్"
               },
               "Uzhgorod": {
                 "exemplarCity": "ఉజుగోరోడ్"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "బ్యాంకాక్"
               },
+              "Barnaul": {
+                "exemplarCity": "బార్నాల్"
+              },
               "Beirut": {
                 "exemplarCity": "బీరట్"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "టోక్యో"
+              },
+              "Tomsk": {
+                "exemplarCity": "టామ్స్క్"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "ఉలాన్బాటర్"
@@ -1462,9 +1477,9 @@
             },
             "America_Mountain": {
               "long": {
-                "generic": "మౌంటేన్ సమయం",
-                "standard": "మౌంటేన్ ప్రామాణిక సమయం",
-                "daylight": "మౌంటేన్ పగటి సమయం"
+                "generic": "మౌంటెయిన్ సమయం",
+                "standard": "మౌంటెయిన్ ప్రామాణిక సమయం",
+                "daylight": "మౌంటెయిన్ పగటి సమయం"
               }
             },
             "America_Pacific": {
@@ -2161,6 +2176,11 @@
             "Ponape": {
               "long": {
                 "standard": "పొనేప్ సమయం"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "ప్యోంగాంగ్ సమయం"
               }
             },
             "Qyzylorda": {

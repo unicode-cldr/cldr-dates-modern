@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hy"
       },
@@ -118,17 +118,17 @@
                   "tue": "Ե",
                   "wed": "Չ",
                   "thu": "Հ",
-                  "fri": "Ու",
+                  "fri": "Ո",
                   "sat": "Շ"
                 },
                 "short": {
-                  "sun": "կիր",
-                  "mon": "երկ",
-                  "tue": "երք",
-                  "wed": "չրք",
-                  "thu": "հնգ",
-                  "fri": "ուր",
-                  "sat": "շբթ"
+                  "sun": "կր",
+                  "mon": "եկ",
+                  "tue": "եք",
+                  "wed": "չք",
+                  "thu": "հգ",
+                  "fri": "ու",
+                  "sat": "շբ"
                 },
                 "wide": {
                   "sun": "կիրակի",
@@ -151,22 +151,22 @@
                   "sat": "շբթ"
                 },
                 "narrow": {
-                  "sun": "Կր",
-                  "mon": "Եկ",
-                  "tue": "Եր",
-                  "wed": "Չր",
-                  "thu": "Հգ",
-                  "fri": "Ու",
-                  "sat": "Շբ"
+                  "sun": "Կ",
+                  "mon": "Ե",
+                  "tue": "Ե",
+                  "wed": "Չ",
+                  "thu": "Հ",
+                  "fri": "Ո",
+                  "sat": "Շ"
                 },
                 "short": {
-                  "sun": "կիր",
-                  "mon": "երկ",
-                  "tue": "երք",
-                  "wed": "չրք",
-                  "thu": "հնգ",
-                  "fri": "ուր",
-                  "sat": "շբթ"
+                  "sun": "կր",
+                  "mon": "եկ",
+                  "tue": "եք",
+                  "wed": "չք",
+                  "thu": "հգ",
+                  "fri": "ու",
+                  "sat": "շբ"
                 },
                 "wide": {
                   "sun": "կիրակի",
@@ -224,21 +224,21 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "կգ․",
-                  "am": "AM",
-                  "noon": "կօ․",
-                  "pm": "PM",
-                  "morning1": "առվտ",
-                  "afternoon1": "ցրկ",
-                  "evening1": "երկ",
-                  "night1": "գշր"
+                  "midnight": "կեսգիշեր",
+                  "am": "ԿԱ",
+                  "noon": "կեսօր",
+                  "pm": "ԿՀ",
+                  "morning1": "առավոտյան",
+                  "afternoon1": "ցերեկը",
+                  "evening1": "երեկոյան",
+                  "night1": "գիշերը"
                 },
                 "narrow": {
                   "midnight": "կգ․",
-                  "am": "a",
+                  "am": "ա",
                   "noon": "կօ․",
-                  "pm": "p",
-                  "morning1": "առվտ",
+                  "pm": "հ",
+                  "morning1": "առվ",
                   "afternoon1": "ցրկ",
                   "evening1": "երկ",
                   "night1": "գշր"
@@ -249,27 +249,27 @@
                   "noon": "կեսօր",
                   "pm": "PM",
                   "morning1": "առավոտյան",
-                  "afternoon1": "կեսօրից հետո",
+                  "afternoon1": "ցերեկը",
                   "evening1": "երեկոյան",
                   "night1": "գիշերը"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "կգ․",
-                  "am": "AM",
-                  "noon": "կօ․",
-                  "pm": "PM",
-                  "morning1": "առվտ",
-                  "afternoon1": "ցրկ",
-                  "evening1": "երկ",
-                  "night1": "գշր"
+                  "midnight": "կեսգիշեր",
+                  "am": "ԿԱ",
+                  "noon": "կեսօր",
+                  "pm": "ԿՀ",
+                  "morning1": "առավոտ",
+                  "afternoon1": "ցերեկ",
+                  "evening1": "երեկո",
+                  "night1": "գիշեր"
                 },
                 "narrow": {
                   "midnight": "կեսգիշեր",
-                  "am": "AM",
+                  "am": "ԿԱ",
                   "noon": "կեսօր",
-                  "pm": "PM",
+                  "pm": "ԿՀ",
                   "morning1": "առավոտ",
                   "afternoon1": "ցերեկ",
                   "evening1": "երեկո",
@@ -289,35 +289,35 @@
             },
             "eras": {
               "eraNames": {
-                "0": "մ.թ.ա.",
+                "0": "Քրիստոսից առաջ",
                 "0-alt-variant": "մեր թվարկությունից առաջ",
-                "1": "մ.թ.",
+                "1": "Քրիստոսից հետո",
                 "1-alt-variant": "մեր թվարկության"
               },
               "eraAbbr": {
                 "0": "մ.թ.ա.",
-                "0-alt-variant": "մ.թ.ա",
+                "0-alt-variant": "մ․թ․ա․",
                 "1": "մ.թ.",
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
                 "0": "մ.թ.ա.",
-                "0-alt-variant": "մ.թ.ա",
+                "0-alt-variant": "մ․թ․ա․",
                 "1": "մ.թ.",
                 "1-alt-variant": "CE"
               }
             },
             "dateFormats": {
-              "full": "yթ. MMMM d, EEEE",
-              "long": "dd MMMM, yթ.",
-              "medium": "dd MMM, yթ.",
+              "full": "y թ. MMMM d, EEEE",
+              "long": "dd MMMM, y թ.",
+              "medium": "dd MMM, y թ.",
               "short": "dd.MM.yy"
             },
             "timeFormats": {
-              "full": "H:mm:ss, zzzz",
-              "long": "H:mm:ss, z",
-              "medium": "H:mm:ss",
-              "short": "H:mm"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1}, {0}",
@@ -332,10 +332,10 @@
                 "EHm": "E, HH:mm",
                 "Ehms": "E, h:mm:ss a",
                 "EHms": "E, HH:mm:ss",
-                "Gy": "G yթ.",
-                "GyMMM": "G yթ. LLL",
-                "GyMMMd": "d MMM, yթ.,",
-                "GyMMMEd": "G yթ. MMM d, E",
+                "Gy": "G y թ.",
+                "GyMMM": "G y թ. MMM",
+                "GyMMMd": "d MMM, y թ.",
+                "GyMMMEd": "G y թ. MMM d, E",
                 "h": "h a",
                 "H": "H",
                 "hm": "h:mm a",
@@ -353,17 +353,19 @@
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
                 "yMd": "dd.MM.y",
-                "yMEd": "d.MM.yթ., E",
-                "yMMM": "yթ. LLL",
-                "yMMMd": "d MMM, yթ.",
-                "yMMMEd": "yթ. MMM d, E",
+                "yMEd": "d.MM.y թ., E",
+                "yMMM": "y թ. LLL",
+                "yMMMd": "d MMM, y թ.",
+                "yMMMEd": "y թ. MMM d, E",
                 "yMMMM": "yթ․ MMMM",
                 "yQQQ": "y թ, QQQ",
-                "yQQQQ": "y թ, QQQQ"
+                "yQQQQ": "y թ, QQQQ",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -455,18 +457,18 @@
                   "y": "ccc, dd.MM.y – ccc, dd.MM.y"
                 },
                 "yMMM": {
-                  "M": "MMM–MMM yթ.",
+                  "M": "y թ. MMM – MMM",
                   "y": "y MMM – y MMM"
                 },
                 "yMMMd": {
-                  "d": "dd–dd MMM, yթ.",
-                  "M": "dd MMM – dd MMM, yթ.",
-                  "y": "dd MMM, yթ․ – dd MMM, yթ."
+                  "d": "dd–dd MMM, y թ.",
+                  "M": "dd MMM – dd MMM, y թ.",
+                  "y": "dd MMM, y թ․ – dd MMM, y թ."
                 },
                 "yMMMEd": {
-                  "d": "E, d MMM – E, d MMM, yթ.",
-                  "M": "E, d MMM – E, d MMM, yթ.",
-                  "y": "E, d MMM, y – E, d MMM, yթ."
+                  "d": "E, d MMM – E, d MMM, y թ.",
+                  "M": "E, d MMM – E, d MMM, y թ.",
+                  "y": "E, d MMM, y – E, d MMM, y թ."
                 },
                 "yMMMM": {
                   "M": "yթ. MMM – MMM",

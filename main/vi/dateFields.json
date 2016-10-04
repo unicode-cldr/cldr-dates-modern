@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12312 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "vi"
       },
@@ -131,7 +131,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} tuần trước"
-            }
+            },
+            "relativePeriod": "tuần {0}"
           },
           "week-short": {
             "displayName": "Tuần",
@@ -143,7 +144,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} tuần trước"
-            }
+            },
+            "relativePeriod": "tuần {0}"
           },
           "week-narrow": {
             "displayName": "Tuần",
@@ -155,7 +157,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} tuần trước"
-            }
+            },
+            "relativePeriod": "tuần {0}"
           },
           "day": {
             "displayName": "Ngày",
@@ -205,113 +208,240 @@
           "sun": {
             "relative-type--1": "Chủ Nhật tuần trước",
             "relative-type-0": "Chủ Nhật tuần này",
-            "relative-type-1": "Chủ Nhật tuần sau"
+            "relative-type-1": "Chủ Nhật tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Chủ Nhật nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Chủ Nhật trước"
+            }
           },
           "sun-short": {
             "relative-type--1": "Chủ Nhật tuần trước",
             "relative-type-0": "Chủ Nhật tuần này",
-            "relative-type-1": "Chủ Nhật tuần sau"
+            "relative-type-1": "Chủ Nhật tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Chủ Nhật nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Chủ Nhật trước"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "Chủ Nhật tuần trước",
             "relative-type-0": "Chủ Nhật tuần này",
-            "relative-type-1": "Chủ Nhật tuần sau"
+            "relative-type-1": "Chủ Nhật tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Chủ Nhật nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Chủ Nhật trước"
+            }
           },
           "mon": {
             "relative-type--1": "Thứ Hai tuần trước",
             "relative-type-0": "Thứ Hai tuần này",
-            "relative-type-1": "Thứ Hai tuần sau"
+            "relative-type-1": "Thứ Hai tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Hai nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Hai trước"
+            }
           },
           "mon-short": {
             "relative-type--1": "Thứ Hai tuần trước",
             "relative-type-0": "Thứ Hai tuần này",
-            "relative-type-1": "Thứ Hai tuần sau"
+            "relative-type-1": "Thứ Hai tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Hai nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Hai trước"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "Thứ Hai tuần trước",
             "relative-type-0": "Thứ Hai tuần này",
-            "relative-type-1": "Thứ Hai tuần sau"
+            "relative-type-1": "Thứ Hai tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Hai nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Hai trước"
+            }
           },
           "tue": {
             "relative-type--1": "Thứ Ba tuần trước",
             "relative-type-0": "Thứ Ba tuần này",
-            "relative-type-1": "Thứ Ba tuần sau"
+            "relative-type-1": "Thứ Ba tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Ba nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Ba trước"
+            }
           },
           "tue-short": {
             "relative-type--1": "Thứ Ba tuần trước",
             "relative-type-0": "Thứ Ba tuần này",
-            "relative-type-1": "Thứ Ba tuần sau"
+            "relative-type-1": "Thứ Ba tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Ba nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Ba trước"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "Thứ Ba tuần trước",
             "relative-type-0": "Thứ Ba tuần này",
-            "relative-type-1": "Thứ Ba tuần sau"
+            "relative-type-1": "Thứ Ba tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Ba nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Ba trước"
+            }
           },
           "wed": {
             "relative-type--1": "Thứ Tư tuần trước",
             "relative-type-0": "Thứ Tư tuần này",
-            "relative-type-1": "Thứ Tư tuần sau"
+            "relative-type-1": "Thứ Tư tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Tư nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Tư trước"
+            }
           },
           "wed-short": {
             "relative-type--1": "Thứ Tư tuần trước",
             "relative-type-0": "Thứ Tư tuần này",
-            "relative-type-1": "Thứ Tư tuần sau"
+            "relative-type-1": "Thứ Tư tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Tư nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Tư trước"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "Thứ Tư tuần trước",
             "relative-type-0": "Thứ Tư tuần này",
-            "relative-type-1": "Thứ Tư tuần sau"
+            "relative-type-1": "Thứ Tư tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Tư nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Tư trước"
+            }
           },
           "thu": {
             "relative-type--1": "Thứ Năm tuần trước",
             "relative-type-0": "Thứ Năm tuần này",
-            "relative-type-1": "Thứ Năm tuần sau"
+            "relative-type-1": "Thứ Năm tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Năm nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Năm trước"
+            }
           },
           "thu-short": {
             "relative-type--1": "Thứ Năm tuần trước",
             "relative-type-0": "Thứ Năm tuần này",
-            "relative-type-1": "Thứ Năm tuần sau"
+            "relative-type-1": "Thứ Năm tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Năm nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Năm trước"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "Thứ Năm tuần trước",
             "relative-type-0": "Thứ Năm tuần này",
-            "relative-type-1": "Thứ Năm tuần sau"
+            "relative-type-1": "Thứ Năm tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Năm nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Năm trước"
+            }
           },
           "fri": {
             "relative-type--1": "Thứ Sáu tuần trước",
             "relative-type-0": "Thứ Sáu tuần này",
-            "relative-type-1": "Thứ Sáu tuần sau"
+            "relative-type-1": "Thứ Sáu tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Sáu nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Sáu trước"
+            }
           },
           "fri-short": {
             "relative-type--1": "Thứ Sáu tuần trước",
             "relative-type-0": "Thứ Sáu tuần này",
-            "relative-type-1": "Thứ Sáu tuần sau"
+            "relative-type-1": "Thứ Sáu tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Sáu nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Sáu trước"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "Thứ Sáu tuần trước",
             "relative-type-0": "Thứ Sáu tuần này",
-            "relative-type-1": "Thứ Sáu tuần sau"
+            "relative-type-1": "Thứ Sáu tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Sáu nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Sáu trước"
+            }
           },
           "sat": {
             "relative-type--1": "Thứ Bảy tuần trước",
             "relative-type-0": "Thứ Bảy tuần này",
-            "relative-type-1": "Thứ Bảy tuần sau"
+            "relative-type-1": "Thứ Bảy tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Bảy nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Bảy trước"
+            }
           },
           "sat-short": {
             "relative-type--1": "Thứ Bảy tuần trước",
             "relative-type-0": "Thứ Bảy tuần này",
-            "relative-type-1": "Thứ Bảy tuần sau"
+            "relative-type-1": "Thứ Bảy tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Bảy nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Bảy trước"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "Thứ Bảy tuần trước",
             "relative-type-0": "Thứ Bảy tuần này",
-            "relative-type-1": "Thứ Bảy tuần sau"
+            "relative-type-1": "Thứ Bảy tuần sau",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "sau {0} Thứ Bảy nữa"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} Thứ Bảy trước"
+            }
           },
           "dayperiod": {
             "displayName": "SA/CH"
           },
           "hour": {
             "displayName": "Giờ",
+            "relative-type-0": "giờ này",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "sau {0} giờ nữa"
             },
@@ -321,6 +451,7 @@
           },
           "hour-short": {
             "displayName": "Giờ",
+            "relative-type-0": "giờ này",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "sau {0} giờ nữa"
             },
@@ -330,6 +461,7 @@
           },
           "hour-narrow": {
             "displayName": "Giờ",
+            "relative-type-0": "giờ này",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "sau {0} giờ nữa"
             },
@@ -339,6 +471,7 @@
           },
           "minute": {
             "displayName": "Phút",
+            "relative-type-0": "phút này",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "sau {0} phút nữa"
             },
@@ -348,6 +481,7 @@
           },
           "minute-short": {
             "displayName": "Phút",
+            "relative-type-0": "phút này",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "sau {0} phút nữa"
             },
@@ -357,6 +491,7 @@
           },
           "minute-narrow": {
             "displayName": "Phút",
+            "relative-type-0": "phút này",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "sau {0} phút nữa"
             },

@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "kk"
       },
@@ -225,19 +225,19 @@
               "format": {
                 "abbreviated": {
                   "midnight": "түн жарымы",
-                  "am": "таңғы",
+                  "am": "AM",
                   "noon": "түскі",
-                  "pm": "түскі/кешкі",
+                  "pm": "PM",
                   "morning1": "таңғы",
                   "afternoon1": "түстен кейінгі",
                   "evening1": "кешкі",
                   "night1": "түнгі"
                 },
                 "narrow": {
-                  "midnight": "түн жарымы",
-                  "am": "таңғы",
+                  "midnight": "түнгі",
+                  "am": "AM",
                   "noon": "түскі",
-                  "pm": "түскі/кешкі",
+                  "pm": "PM",
                   "morning1": "таңғы",
                   "afternoon1": "түстен кейінгі",
                   "evening1": "кешкі",
@@ -245,9 +245,9 @@
                 },
                 "wide": {
                   "midnight": "түн жарымы",
-                  "am": "таңғы",
+                  "am": "AM",
                   "noon": "түскі",
-                  "pm": "түскі/кешкі",
+                  "pm": "PM",
                   "morning1": "таңғы",
                   "afternoon1": "түстен кейінгі",
                   "evening1": "кешкі",
@@ -257,9 +257,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "түн жарымы",
-                  "am": "таң",
+                  "am": "AM",
                   "noon": "талтүс",
-                  "pm": "түс/кеш",
+                  "pm": "PM",
                   "morning1": "таң",
                   "afternoon1": "түстен кейін",
                   "evening1": "кеш",
@@ -267,9 +267,9 @@
                 },
                 "narrow": {
                   "midnight": "түн жарымы",
-                  "am": "таң",
+                  "am": "AM",
                   "noon": "талтүс",
-                  "pm": "түс/кеш",
+                  "pm": "PM",
                   "morning1": "таң",
                   "afternoon1": "түстен кейін",
                   "evening1": "кеш",
@@ -277,9 +277,9 @@
                 },
                 "wide": {
                   "midnight": "түн жарымы",
-                  "am": "таң",
+                  "am": "AM",
                   "noon": "талтүс",
-                  "pm": "түс/кеш",
+                  "pm": "PM",
                   "morning1": "таң",
                   "afternoon1": "түстен кейін",
                   "evening1": "кеш",

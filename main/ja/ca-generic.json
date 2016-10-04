@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ja"
       },
@@ -308,7 +308,7 @@
               }
             },
             "dateFormats": {
-              "full": "Gy年M月d日EEEE",
+              "full": "Gy年M月d日(EEEE)",
               "long": "Gy年M月d日",
               "medium": "Gy/MM/dd",
               "short": "Gy/M/d"
@@ -328,7 +328,7 @@
                 "d": "d日",
                 "E": "ccc",
                 "Ed": "d日(E)",
-                "EEEEd": "d日EEEE",
+                "EEEEd": "d日(EEEE)",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
@@ -337,7 +337,7 @@
                 "GyMMM": "Gy年M月",
                 "GyMMMd": "Gy年M月d日",
                 "GyMMMEd": "Gy年M月d日(E)",
-                "GyMMMEEEEd": "Gy年M月d日EEEE",
+                "GyMMMEEEEd": "Gy年M月d日(EEEE)",
                 "h": "aK時",
                 "H": "H時",
                 "hm": "aK:mm",
@@ -347,11 +347,11 @@
                 "M": "M月",
                 "Md": "M/d",
                 "MEd": "M/d(E)",
-                "MEEEEd": "M/dEEEE",
+                "MEEEEd": "M/d(EEEE)",
                 "MMM": "M月",
                 "MMMd": "M月d日",
                 "MMMEd": "M月d日(E)",
-                "MMMEEEEd": "M月d日EEEE",
+                "MMMEEEEd": "M月d日(EEEE)",
                 "MMMMd": "M月d日",
                 "ms": "mm:ss",
                 "y": "Gy年",
@@ -359,14 +359,14 @@
                 "yyyyM": "Gy/M",
                 "yyyyMd": "Gy/M/d",
                 "yyyyMEd": "Gy/M/d(E)",
-                "yyyyMEEEEd": "Gy/M/dEEEE",
+                "yyyyMEEEEd": "Gy/M/d(EEEE)",
                 "yyyyMMM": "Gy年M月",
                 "yyyyMMMd": "Gy年M月d日",
                 "yyyyMMMEd": "Gy年M月d日(E)",
-                "yyyyMMMEEEEd": "Gy年M月d日EEEE",
+                "yyyyMMMEEEEd": "Gy年M月d日(EEEE)",
                 "yyyyMMMM": "Gy年M月",
                 "yyyyQQQ": "Gy/QQQ",
-                "yyyyQQQQ": "GyQQQQ"
+                "yyyyQQQQ": "Gy年QQQQ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

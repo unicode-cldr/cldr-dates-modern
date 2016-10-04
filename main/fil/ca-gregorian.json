@@ -3,8 +3,8 @@
     "fil": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "fil"
       },
@@ -232,7 +232,7 @@
                   "morning2": "madaling-araw",
                   "afternoon1": "tanghali",
                   "evening1": "ng hapon",
-                  "night1": "ng gabi"
+                  "night1": "gabi"
                 },
                 "narrow": {
                   "midnight": "hatinggabi",
@@ -242,7 +242,7 @@
                   "morning1": "umaga",
                   "morning2": "madaling-araw",
                   "afternoon1": "tanghali",
-                  "evening1": "hapon",
+                  "evening1": "ng hapon",
                   "night1": "gabi"
                 },
                 "wide": {
@@ -252,7 +252,7 @@
                   "pm": "PM",
                   "morning1": "nang umaga",
                   "morning2": "madaling-araw",
-                  "afternoon1": "ng tanghali",
+                  "afternoon1": "tanghali",
                   "evening1": "ng hapon",
                   "night1": "ng gabi"
                 }
@@ -360,6 +360,8 @@
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E, MMMM d",
+                "MMMMW": "'ika'-W 'linggo' 'ng' MMM",
+                "MMMMW": "'linggo' W 'ng' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -371,7 +373,9 @@
                 "yMMMEd": "E, MMM d, y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'ika'-w 'linggo' 'ng' y",
+                "yw": "'linggo' w 'ng' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

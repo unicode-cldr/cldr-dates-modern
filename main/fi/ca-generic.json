@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12988 $",
+          "_cldrVersion": "30"
         },
         "language": "fi"
       },
@@ -224,26 +224,26 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "keskiyö",
+                  "midnight": "keskiyöllä",
                   "am": "ap.",
                   "noon": "keskip.",
                   "pm": "ip.",
-                  "morning1": "aamu",
+                  "morning1": "aamulla",
                   "morning2": "aamup.",
                   "afternoon1": "iltap.",
-                  "evening1": "ilta",
-                  "night1": "yö"
+                  "evening1": "illalla",
+                  "night1": "yöllä"
                 },
                 "narrow": {
                   "midnight": "ky.",
                   "am": "ap.",
                   "noon": "kp.",
                   "pm": "ip.",
-                  "morning1": "aamu",
+                  "morning1": "aamulla",
                   "morning2": "ap.",
                   "afternoon1": "ip.",
-                  "evening1": "ilta",
-                  "night1": "yö"
+                  "evening1": "illalla",
+                  "night1": "yöllä"
                 },
                 "wide": {
                   "midnight": "keskiyöllä",

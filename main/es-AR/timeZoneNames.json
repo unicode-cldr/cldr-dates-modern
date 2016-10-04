@@ -3,8 +3,8 @@
     "es-AR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "es",
         "territory": "AR"
@@ -419,10 +419,10 @@
                 "exemplarCity": "San Bartolomé"
               },
               "St_Johns": {
-                "exemplarCity": "St. John’s"
+                "exemplarCity": "San Juan de Terranova"
               },
               "St_Kitts": {
-                "exemplarCity": "St. Kitts"
+                "exemplarCity": "San Cristóbal"
               },
               "St_Lucia": {
                 "exemplarCity": "Santa Lucía"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astracán"
+              },
               "Athens": {
                 "exemplarCity": "Atenas"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kírov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisboa"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uliánovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaúl"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1046,6 +1058,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulán Bator"
@@ -1258,7 +1273,7 @@
                 "exemplarCity": "Chuuk"
               },
               "Wake": {
-                "exemplarCity": "Wake"
+                "exemplarCity": "Isla Wake"
               },
               "Wallis": {
                 "exemplarCity": "Wallis"
@@ -1818,9 +1833,9 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "hora de Hawái-Aleutiano",
-                "standard": "hora estándar de Hawái-Aleutiano",
-                "daylight": "hora de verano de Hawái-Aleutiano"
+                "generic": "hora de Hawái-Aleutianas",
+                "standard": "hora estándar de Hawái-Aleutianas",
+                "daylight": "hora de verano de Hawái-Aleutianas"
               }
             },
             "Hong_Kong": {
@@ -1839,7 +1854,7 @@
             },
             "India": {
               "long": {
-                "standard": "hora estándar de la India"
+                "standard": "hora de India"
               }
             },
             "Indian_Ocean": {
@@ -2162,6 +2177,11 @@
             "Ponape": {
               "long": {
                 "standard": "hora de Pohnpei"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "hora de Pionyang"
               }
             },
             "Qyzylorda": {

@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hy"
       },
@@ -13,9 +13,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "Ժամանակ. {0}",
-          "regionFormat-type-daylight": "{0}, ամառային ժամանակ",
-          "regionFormat-type-standard": "{0}, ստանդ. ժամ.",
+          "regionFormat": "{0}",
+          "regionFormat-type-daylight": "{0} (+1)",
+          "regionFormat-type-standard": "{0} (+0)",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -32,7 +32,7 @@
                 "exemplarCity": "Անտիգուա"
               },
               "Araguaina": {
-                "exemplarCity": "Արագուայնա"
+                "exemplarCity": "Արագուաինա"
               },
               "Argentina": {
                 "Rio_Gallegos": {
@@ -45,7 +45,7 @@
                   "exemplarCity": "Ուշուայա"
                 },
                 "La_Rioja": {
-                  "exemplarCity": "Լա-Ռիոխա"
+                  "exemplarCity": "Լա Ռիոխա"
                 },
                 "San_Luis": {
                   "exemplarCity": "Սան Լուիս"
@@ -64,10 +64,10 @@
                 "exemplarCity": "Ասունսյոն"
               },
               "Bahia": {
-                "exemplarCity": "Բայա"
+                "exemplarCity": "Բաիյա"
               },
               "Bahia_Banderas": {
-                "exemplarCity": "Բայա Բանդերաս"
+                "exemplarCity": "Բաիյա Բանդերաս"
               },
               "Barbados": {
                 "exemplarCity": "Բարբադոս"
@@ -79,10 +79,10 @@
                 "exemplarCity": "Բելիզ"
               },
               "Blanc-Sablon": {
-                "exemplarCity": "Բլան-Սաբլոն"
+                "exemplarCity": "Բլանկ-Սաբլոն"
               },
               "Boa_Vista": {
-                "exemplarCity": "Բոա-Վիստա"
+                "exemplarCity": "Բոա Վիստա"
               },
               "Bogota": {
                 "exemplarCity": "Բոգոտա"
@@ -94,10 +94,10 @@
                 "exemplarCity": "Բուենոս Այրես"
               },
               "Cambridge_Bay": {
-                "exemplarCity": "Քեմբրիջ-Բեյ"
+                "exemplarCity": "Քեմբրիջ Բեյ"
               },
               "Campo_Grande": {
-                "exemplarCity": "Կամպո Գրանգե"
+                "exemplarCity": "Կամպու Գրանդի"
               },
               "Cancun": {
                 "exemplarCity": "Կանկուն"
@@ -145,7 +145,7 @@
                 "exemplarCity": "Դոուսոն"
               },
               "Dawson_Creek": {
-                "exemplarCity": "Դոուսոն Կրիկ"
+                "exemplarCity": "Դոուսոն Քրիք"
               },
               "Denver": {
                 "exemplarCity": "Դենվեր"
@@ -166,7 +166,7 @@
                 "exemplarCity": "Սալվադոր"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "Ֆորտ Նելսոն"
               },
               "Fortaleza": {
                 "exemplarCity": "Ֆորտալեզա"
@@ -181,7 +181,7 @@
                 "exemplarCity": "Գուս Բեյ"
               },
               "Grand_Turk": {
-                "exemplarCity": "Գրանդ Տուրկ"
+                "exemplarCity": "Գրանդ Տյորք"
               },
               "Grenada": {
                 "exemplarCity": "Գրենադա"
@@ -215,7 +215,7 @@
                   "exemplarCity": "Պետերսբուրգ, Ինդիանա"
                 },
                 "Tell_City": {
-                  "exemplarCity": "Թել-Սիթի, Ինդիանա"
+                  "exemplarCity": "Թել Սիթի, Ինդիանա"
                 },
                 "Knox": {
                   "exemplarCity": "Նոքս, Ինդիանա"
@@ -314,13 +314,13 @@
                 "exemplarCity": "Մոնկտոն"
               },
               "Monterrey": {
-                "exemplarCity": "Մոնտերեյ"
+                "exemplarCity": "Մոնտեռեյ"
               },
               "Montevideo": {
                 "exemplarCity": "Մոնտեվիդեո"
               },
               "Montserrat": {
-                "exemplarCity": "Մոնտսեռատ"
+                "exemplarCity": "Մոնսեռատ"
               },
               "Nassau": {
                 "exemplarCity": "Նասաու"
@@ -335,7 +335,7 @@
                 "exemplarCity": "Նոմ"
               },
               "Noronha": {
-                "exemplarCity": "Նորոնխա"
+                "exemplarCity": "Նորոնյա"
               },
               "North_Dakota": {
                 "Beulah": {
@@ -376,10 +376,10 @@
                 "exemplarCity": "Պուերտո Ռիկո"
               },
               "Rainy_River": {
-                "exemplarCity": "Ռեյնի-Ռիվեր"
+                "exemplarCity": "Ռեյնի Ռիվեր"
               },
               "Rankin_Inlet": {
-                "exemplarCity": "Ռանկին-Ինլետ"
+                "exemplarCity": "Ռանկին Ինլեթ"
               },
               "Recife": {
                 "exemplarCity": "Ռեսիֆի"
@@ -391,10 +391,10 @@
                 "exemplarCity": "Ռեզոլյուտ"
               },
               "Rio_Branco": {
-                "exemplarCity": "Ռիո Բրանկու"
+                "exemplarCity": "Ռիու Բրանկու"
               },
               "Santa_Isabel": {
-                "exemplarCity": "Սանտա Իսաբել"
+                "exemplarCity": "Սանտա Իզաբել"
               },
               "Santarem": {
                 "exemplarCity": "Սանտարեմ"
@@ -418,10 +418,10 @@
                 "exemplarCity": "Սեն Բարտելմի"
               },
               "St_Johns": {
-                "exemplarCity": "Սենթ-Ջոնս"
+                "exemplarCity": "Սենթ Ջոնս"
               },
               "St_Kitts": {
-                "exemplarCity": "Սենթ Քիթս"
+                "exemplarCity": "Սենթ Քիտս"
               },
               "St_Lucia": {
                 "exemplarCity": "Սենթ Լյուսիա"
@@ -433,7 +433,7 @@
                 "exemplarCity": "Սենթ Վինսենթ"
               },
               "Swift_Current": {
-                "exemplarCity": "Սվիֆթ-Քարենտ"
+                "exemplarCity": "Սվիֆթ Քարենթ"
               },
               "Tegucigalpa": {
                 "exemplarCity": "Տեգուսիգալպա"
@@ -442,7 +442,7 @@
                 "exemplarCity": "Տուլե"
               },
               "Thunder_Bay": {
-                "exemplarCity": "Տանդեր-Բեյ"
+                "exemplarCity": "Թանդեր Բեյ"
               },
               "Tijuana": {
                 "exemplarCity": "Տիխուանա"
@@ -451,7 +451,7 @@
                 "exemplarCity": "Տորոնտո"
               },
               "Tortola": {
-                "exemplarCity": "Տորտոլա"
+                "exemplarCity": "Թորթոլա"
               },
               "Vancouver": {
                 "exemplarCity": "Վանկուվեր"
@@ -474,7 +474,7 @@
                 "exemplarCity": "Ազորյան կղզիներ"
               },
               "Bermuda": {
-                "exemplarCity": "Բերմուդյան կղզիներ"
+                "exemplarCity": "Բերմուդաներ"
               },
               "Canary": {
                 "exemplarCity": "Կանարյան կղզիներ"
@@ -506,7 +506,10 @@
                 "exemplarCity": "Ամստերդամ"
               },
               "Andorra": {
-                "exemplarCity": "Անդորա"
+                "exemplarCity": "Անդորրա"
+              },
+              "Astrakhan": {
+                "exemplarCity": "Աստրախան"
               },
               "Athens": {
                 "exemplarCity": "Աթենք"
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Կիև"
+              },
+              "Kirov": {
+                "exemplarCity": "Կիրով"
               },
               "Lisbon": {
                 "exemplarCity": "Լիսաբոն"
@@ -638,13 +644,16 @@
                 "exemplarCity": "Սոֆիա"
               },
               "Stockholm": {
-                "exemplarCity": "Ստոքհոլմ"
+                "exemplarCity": "Ստոկհոլմ"
               },
               "Tallinn": {
                 "exemplarCity": "Տալլին"
               },
               "Tirane": {
                 "exemplarCity": "Տիրանա"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ուլյանովսկ"
               },
               "Uzhgorod": {
                 "exemplarCity": "Ուժգորոդ"
@@ -671,7 +680,7 @@
                 "exemplarCity": "Զագրեբ"
               },
               "Zaporozhye": {
-                "exemplarCity": "Զապորոժյե"
+                "exemplarCity": "Զապոռոժյե"
               },
               "Zurich": {
                 "exemplarCity": "Ցյուրիխ"
@@ -682,7 +691,7 @@
                 "exemplarCity": "Աբիջան"
               },
               "Accra": {
-                "exemplarCity": "Ակրա"
+                "exemplarCity": "Աքրա"
               },
               "Addis_Ababa": {
                 "exemplarCity": "Ադիս Աբեբա"
@@ -691,7 +700,7 @@
                 "exemplarCity": "Ալժիր"
               },
               "Asmera": {
-                "exemplarCity": "Ասմարա"
+                "exemplarCity": "Ասմերա"
               },
               "Bamako": {
                 "exemplarCity": "Բամակո"
@@ -727,7 +736,7 @@
                 "exemplarCity": "Կոնակրի"
               },
               "Dakar": {
-                "exemplarCity": "Դակար"
+                "exemplarCity": "Դաքար"
               },
               "Dar_es_Salaam": {
                 "exemplarCity": "Դար-Էս-Սալամ"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Բանգկոկ"
               },
+              "Barnaul": {
+                "exemplarCity": "Բառնաուլ"
+              },
               "Beirut": {
                 "exemplarCity": "Բեյրութ"
               },
@@ -957,7 +969,7 @@
                 "exemplarCity": "Քուվեյթ"
               },
               "Macau": {
-                "exemplarCity": "Մակաո"
+                "exemplarCity": "Մակաու"
               },
               "Magadan": {
                 "exemplarCity": "Մագադան"
@@ -969,7 +981,7 @@
                 "exemplarCity": "Մանիլա"
               },
               "Muscat": {
-                "exemplarCity": "Մուսկատ"
+                "exemplarCity": "Մասկատ"
               },
               "Nicosia": {
                 "exemplarCity": "Նիկոսիա"
@@ -1041,10 +1053,13 @@
                 "exemplarCity": "Թեհրան"
               },
               "Thimphu": {
-                "exemplarCity": "Թիմփու"
+                "exemplarCity": "Տհիմպհու"
               },
               "Tokyo": {
                 "exemplarCity": "Տոկիո"
+              },
+              "Tomsk": {
+                "exemplarCity": "Տոմսկ"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ուլան Բատոր"
@@ -1079,7 +1094,7 @@
                 "exemplarCity": "Չագոս"
               },
               "Christmas": {
-                "exemplarCity": "Ծննդյան կղզի"
+                "exemplarCity": "Սուրբ Ծննդյան կղզի"
               },
               "Cocos": {
                 "exemplarCity": "Կոկոսյան կղզիներ"
@@ -1094,13 +1109,13 @@
                 "exemplarCity": "Մաէ"
               },
               "Maldives": {
-                "exemplarCity": "Մալդիվյան կղզիներ"
+                "exemplarCity": "Մալդիվներ"
               },
               "Mauritius": {
                 "exemplarCity": "Մավրիկիոս"
               },
               "Mayotte": {
-                "exemplarCity": "Մայոտ"
+                "exemplarCity": "Մայոթ"
               },
               "Reunion": {
                 "exemplarCity": "Ռեյունիոն"
@@ -1132,7 +1147,7 @@
                 "exemplarCity": "Լինդեման"
               },
               "Lord_Howe": {
-                "exemplarCity": "Լորդ Հաու"
+                "exemplarCity": "Լորդ Հաու կղզի"
               },
               "Melbourne": {
                 "exemplarCity": "Մելբուրն"
@@ -1149,16 +1164,16 @@
                 "exemplarCity": "Ապիա"
               },
               "Auckland": {
-                "exemplarCity": "Օկլենդ"
+                "exemplarCity": "Օքլենդ"
               },
               "Bougainville": {
-                "exemplarCity": "Bougainville"
+                "exemplarCity": "Բուգենվիլ"
               },
               "Chatham": {
                 "exemplarCity": "Չաթեմ կղզի"
               },
               "Easter": {
-                "exemplarCity": "Զատիկի կղզի"
+                "exemplarCity": "Զատկի կղզի"
               },
               "Efate": {
                 "exemplarCity": "Էֆատե"
@@ -1239,7 +1254,7 @@
                 "exemplarCity": "Պորտ Մորսբի"
               },
               "Rarotonga": {
-                "exemplarCity": "Ռառատոնգա"
+                "exemplarCity": "Ռարոտոնգա"
               },
               "Saipan": {
                 "exemplarCity": "Սայպան"
@@ -1260,7 +1275,7 @@
                 "exemplarCity": "Ուեյք կղզի"
               },
               "Wallis": {
-                "exemplarCity": "Ուոլլիս"
+                "exemplarCity": "Ուոլիս"
               }
             },
             "Arctic": {
@@ -1398,24 +1413,24 @@
             },
             "Africa_Central": {
               "long": {
-                "standard": "Կենտրոնաաֆրիկյան ժամանակ"
+                "standard": "Կենտրոնական Աֆրիկայի ժամանակ"
               }
             },
             "Africa_Eastern": {
               "long": {
-                "standard": "Արևելաաֆրիկյան ժամանակ"
+                "standard": "Արևելյան Աֆրիկայի ժամանակ"
               }
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Հարավաֆրիկյան ժամանակ"
+                "standard": "Հարավային Աֆրիկայի ժամանակ"
               }
             },
             "Africa_Western": {
               "long": {
-                "generic": "Արևմտաաֆրիկյան ժամանակ",
-                "standard": "Արևմտաաֆրիկյան ստանդարտ ժամանակ",
-                "daylight": "Արևմտաաֆրիկյան ամառային ժամանակ"
+                "generic": "Արևմտյան Աֆրիկայի ժամանակ",
+                "standard": "Արևմտյան Աֆրիկայի ստանդարտ ժամանակ",
+                "daylight": "Արևմտյան Աֆրիկայի ամառային ժամանակ"
               }
             },
             "Alaska": {
@@ -1448,16 +1463,16 @@
             },
             "America_Mountain": {
               "long": {
-                "generic": "Լեռնային ժամանակ (Հյուսիսային Ամերիկա)",
-                "standard": "Լեռնային ստանդարտ ժամանակ (Հյուսիսային Ամերիկա)",
-                "daylight": "Լեռնային ամառային ժամանակ (Հյուսիսային Ամերիկա)"
+                "generic": "Լեռնային ժամանակ (ԱՄՆ)",
+                "standard": "Լեռնային ստանդարտ ժամանակ (ԱՄՆ)",
+                "daylight": "Լեռնային ամառային ժամանակ (ԱՄՆ)"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Խաղաղօվկիանոսային ժամանակ (Հյուսիսային Ամերիկա)",
-                "standard": "Խաղաղօվկիանոսային ստանդարտ ժամանակ (Հյուսիսային Ամերիկա)",
-                "daylight": "Խաղաղօվկիանոսային ամառային ժամանակ (Հյուսիսային Ամերիկա)"
+                "generic": "Խաղաղօվկիանոսյան ժամանակ",
+                "standard": "Խաղաղօվկիանոսյան ստանդարտ ժամանակ",
+                "daylight": "Խաղաղօվկիանոսյան ամառային ժամանակ"
               }
             },
             "Apia": {
@@ -1504,30 +1519,30 @@
             },
             "Australia_Central": {
               "long": {
-                "generic": "Կենտրոնաավստրալիական ժամանակ",
-                "standard": "Կենտրոնաավստրալիական ստանդարտ ժամանակ",
-                "daylight": "Կենտրոնաավստրալիական ամառային ժամանակ"
+                "generic": "Կենտրոնական Ավստրալիայի ժամանակ",
+                "standard": "Կենտրոնական Ավստրալիայի ստանդարտ ժամանակ",
+                "daylight": "Կենտրոնական Ավստրալիայի ամառային ժամանակ"
               }
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "Կենտրոնաավստրալիական արևմտյան ժամանակ",
-                "standard": "Կենտրոնաավստրալիական արևմտյան ստանդարտ ժամանակ",
-                "daylight": "Կենտրոնաավստրալիական արևմտյան ամառային ժամանակ"
+                "generic": "Կենտրոնական Ավստրալիայի արևմտյան ժամանակ",
+                "standard": "Կենտրոնական Ավստրալիայի արևմտյան ստանդարտ ժամանակ",
+                "daylight": "Կենտրոնական Ավստրալիայի արևմտյան ամառային ժամանակ"
               }
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "Արևելաավստրալիական ժամանակ",
-                "standard": "Արևելաավստրալիական ստանդարտ ժամանակ",
-                "daylight": "Արևելաավստրալիական ամառային ժամանակ"
+                "generic": "Արևելյան Ավստրալիայի ժամանակ",
+                "standard": "Արևելյան Ավստրալիայի ստանդարտ ժամանակ",
+                "daylight": "Արևելյան Ավստրալիայի ամառային ժամանակ"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "Արևմտաավստրալիական ժամանակ",
-                "standard": "Արևմտաավստրալիական ստանդարտ ժամանակ",
-                "daylight": "Արևմտաավստրալիական ամառային ժամանակ"
+                "generic": "Արևմտյան Ավստրալիայի ժամանակ",
+                "standard": "Արևմտյան Ավստրալիայի ստանդարտ ժամանակ",
+                "daylight": "Արևմտյան Ավստրալիայի ամառային ժամանակ"
               }
             },
             "Azerbaijan": {
@@ -1582,7 +1597,7 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "Չամորոյի ժամանակ"
+                "standard": "Չամոռոյի ժամանակ"
               }
             },
             "Chatham": {
@@ -1615,7 +1630,7 @@
             },
             "Christmas": {
               "long": {
-                "standard": "Ծննդյան կղզու ժամանակ"
+                "standard": "Սուրբ Ծննդյան կղզու ժամանակ"
               }
             },
             "Cocos": {
@@ -1687,7 +1702,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Հեռավոր արևելաևրոպական ժամանակ"
+                "standard": "Մինսկի ժամանակ"
               }
             },
             "Europe_Western": {
@@ -1699,9 +1714,9 @@
             },
             "Falkland": {
               "long": {
-                "generic": "Ֆոլկլենդյան կղզիների ժամանակ",
-                "standard": "Ֆոլկլենդյան կղզիների ստանդարտ ժամանակ",
-                "daylight": "Ֆոլկլենդյան կղզիների ամառային ժամանակ"
+                "generic": "Ֆոլքլենդյան կղզիների ժամանակ",
+                "standard": "Ֆոլքլենդյան կղզիների ստանդարտ ժամանակ",
+                "daylight": "Ֆոլքլենդյան կղզիների ամառային ժամանակ"
               }
             },
             "Fiji": {
@@ -1774,9 +1789,9 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "Հավայան-ալեուտյան ժամանակ",
-                "standard": "Հավայան-ալեուտյան ստանդարտ ժամանակ",
-                "daylight": "Հավայան-ալեուտյան ամառային ժամանակ"
+                "generic": "Հավայան-ալեության ժամանակ",
+                "standard": "Հավայան-ալեության ստանդարտ ժամանակ",
+                "daylight": "Հավայան-ալեության ամառային ժամանակ"
               }
             },
             "Hong_Kong": {
@@ -1825,9 +1840,9 @@
             },
             "Iran": {
               "long": {
-                "generic": "Պարսկաստանի ժամանակ",
-                "standard": "Պարսկաստանի ստանդարտ ժամանակ",
-                "daylight": "Պարսկաստանի ամառային ժամանակ"
+                "generic": "Իրանի ժամանակ",
+                "standard": "Իրանի ստանդարտ ժամանակ",
+                "daylight": "Իրանի ամառային ժամանակ"
               }
             },
             "Irkutsk": {
@@ -1916,7 +1931,7 @@
             },
             "Maldives": {
               "long": {
-                "standard": "Մալդիվյան կղզիների ժամանակ"
+                "standard": "Մալդիվների ժամանակ"
               }
             },
             "Marquesas": {
@@ -1957,9 +1972,9 @@
             },
             "Mongolia": {
               "long": {
-                "generic": "Ուլան-Բատորի ժամանակ",
-                "standard": "Ուլան-Բատորի ստանդարտ ժամանակ",
-                "daylight": "Ուլան-Բատորի ամառային ժամանակ"
+                "generic": "Ուլան Բատորի ժամանակ",
+                "standard": "Ուլան Բատորի ստանդարտ ժամանակ",
+                "daylight": "Ուլան Բատորի ամառային ժամանակ"
               }
             },
             "Moscow": {
@@ -2081,9 +2096,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Սեն Պիեր և Միկելոնի ժամանակ",
-                "standard": "Սեն Պիեր և Միկելոնի ստանդարտ ժամանակ",
-                "daylight": "Սեն Պիեր և Միկելոնի ամառային ժամանակ"
+                "generic": "Սեն Պիեռ և Միքելոնի ժամանակ",
+                "standard": "Սեն Պիեռ և Միքելոնի ստանդարտ ժամանակ",
+                "daylight": "Սեն Պիեռ և Միքելոնի ամառային ժամանակ"
               }
             },
             "Pitcairn": {
@@ -2094,6 +2109,11 @@
             "Ponape": {
               "long": {
                 "standard": "Պոնապե կղզու ժամանակ"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Փխենյանի ժամանակ"
               }
             },
             "Reunion": {
@@ -2132,7 +2152,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "Սողոմոնյան կղզիների ժամանակ"
+                "standard": "Սողոմոնի կղզիների ժամանակ"
               }
             },
             "South_Georgia": {
@@ -2181,7 +2201,7 @@
             },
             "Truk": {
               "long": {
-                "standard": "Չուուկի ժամանակ"
+                "standard": "Տրուկի ժամանակ"
               }
             },
             "Turkmenistan": {

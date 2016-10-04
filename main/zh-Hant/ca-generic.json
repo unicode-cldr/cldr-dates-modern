@@ -3,8 +3,8 @@
     "zh-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12390 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hant"
@@ -377,7 +377,7 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0}至{1}",
+                "intervalFormatFallback": "{0} – {1}",
                 "d": {
                   "d": "d日至d日"
                 },

@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "ka"
       },
@@ -238,10 +238,10 @@
                   "am": "a",
                   "noon": "შუადღ.",
                   "pm": "p",
-                  "morning1": "დილას",
-                  "afternoon1": "ნაშუადღევს",
-                  "evening1": "საღამოს",
-                  "night1": "ღამით"
+                  "morning1": "დილ.",
+                  "afternoon1": "ნაშუადღ.",
+                  "evening1": "საღ.",
+                  "night1": "ღამ."
                 },
                 "wide": {
                   "midnight": "შუაღამეს",
@@ -267,9 +267,9 @@
                 },
                 "narrow": {
                   "midnight": "შუაღამე",
-                  "am": "a",
+                  "am": "AM",
                   "noon": "შუადღე",
-                  "pm": "p",
+                  "pm": "PM",
                   "morning1": "დილა",
                   "afternoon1": "ნაშუადღევი",
                   "evening1": "საღამო",
@@ -277,7 +277,7 @@
                 },
                 "wide": {
                   "midnight": "შუაღამე",
-                  "am": "შუადღემდე",
+                  "am": "AM",
                   "noon": "შუადღე",
                   "pm": "შუადღ. შემდეგ",
                   "morning1": "დილა",
@@ -353,6 +353,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "MMM-ის კვირა W",
+                "MMMMW": "MMM-ის კვირა W",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -363,7 +365,9 @@
                 "yMMMEd": "E, d MMM. y",
                 "yMMMM": "MMMM, y",
                 "yQQQ": "QQQ, y",
-                "yQQQQ": "QQQQ, y"
+                "yQQQQ": "QQQQ, y",
+                "yw": "კვირა w, y",
+                "yw": "კვირა w, y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hu"
       },
@@ -365,6 +365,8 @@
                 "MMMd": "MMM d.",
                 "MMMEd": "MMM d., E",
                 "MMMMd": "MMMM d.",
+                "MMMMW": "MMM W. 'hete'",
+                "MMMMW": "MMM W. 'hete'",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y.",
@@ -376,7 +378,9 @@
                 "yMMMEd": "y. MMM d., E",
                 "yMMMM": "y. MMMM",
                 "yQQQ": "y. QQQ",
-                "yQQQQ": "y. QQQQ"
+                "yQQQQ": "y. QQQQ",
+                "yw": "y w. 'hete'",
+                "yw": "y w. 'hete'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

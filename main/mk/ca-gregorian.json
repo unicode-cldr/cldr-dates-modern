@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12411 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mk"
       },
@@ -124,7 +124,7 @@
                 "short": {
                   "sun": "нед.",
                   "mon": "пон.",
-                  "tue": "вт.",
+                  "tue": "вто.",
                   "wed": "сре.",
                   "thu": "чет.",
                   "fri": "пет.",
@@ -144,7 +144,7 @@
                 "abbreviated": {
                   "sun": "нед.",
                   "mon": "пон.",
-                  "tue": "вт.",
+                  "tue": "вто.",
                   "wed": "сре.",
                   "thu": "чет.",
                   "fri": "пет.",
@@ -225,30 +225,30 @@
               "format": {
                 "abbreviated": {
                   "midnight": "полноќ",
-                  "am": "претпладне",
-                  "noon": "на пладне",
-                  "pm": "попладне",
+                  "am": "претпл.",
+                  "noon": "напладне",
+                  "pm": "попл.",
                   "morning1": "наутро",
-                  "morning2": "претпладне",
-                  "afternoon1": "попладне",
+                  "morning2": "претпл.",
+                  "afternoon1": "попл.",
                   "evening1": "навечер",
                   "night1": "ноќе"
                 },
                 "narrow": {
                   "midnight": "полн.",
-                  "am": "прет.",
+                  "am": "претпл.",
                   "noon": "напл.",
                   "pm": "попл.",
                   "morning1": "утро",
-                  "morning2": "прет.",
+                  "morning2": "претпл.",
                   "afternoon1": "попл.",
                   "evening1": "веч.",
-                  "night1": "полн."
+                  "night1": "ноќе"
                 },
                 "wide": {
                   "midnight": "полноќ",
                   "am": "претпладне",
-                  "noon": "на пладне",
+                  "noon": "напладне",
                   "pm": "попладне",
                   "morning1": "наутро",
                   "morning2": "претпладне",
@@ -260,18 +260,18 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "полноќ",
-                  "am": "претпладне",
-                  "noon": "пладне",
-                  "pm": "попладне",
+                  "am": "претпл.",
+                  "noon": "напладне",
+                  "pm": "попл.",
                   "morning1": "наутро",
-                  "morning2": "претпладне",
-                  "afternoon1": "попладне",
+                  "morning2": "претпл.",
+                  "afternoon1": "попл.",
                   "evening1": "навечер",
                   "night1": "по полноќ"
                 },
                 "narrow": {
                   "midnight": "полноќ",
-                  "am": "прет.",
+                  "am": "претпл.",
                   "noon": "пладне",
                   "pm": "попл.",
                   "morning1": "наутро",
@@ -358,9 +358,11 @@
                 "MEd": "E, d.M",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
-                "MMMEd": "E d MMM",
+                "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMEd": "E d MMMM",
+                "MMMMEd": "E, d MMMM",
+                "MMMMW": "W 'седмица' 'од' MMM",
+                "MMMMW": "W 'седмица' 'од' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -371,7 +373,9 @@
                 "yMMMEd": "E, d MMM y 'г'.",
                 "yMMMM": "MMMM y 'г'.",
                 "yQQQ": "QQQ y 'г'.",
-                "yQQQQ": "QQQQ y 'г'."
+                "yQQQQ": "QQQQ y 'г'.",
+                "yw": "w 'седмица' 'од' y",
+                "yw": "w 'седмица' 'од' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

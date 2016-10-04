@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ga"
       },
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andóra"
               },
+              "Astrakhan": {
+                "exemplarCity": "An Astracáin"
+              },
               "Athens": {
                 "exemplarCity": "An Aithin"
               },
@@ -570,6 +573,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Cív"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Liospóin"
@@ -651,6 +657,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirane"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -875,6 +884,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Béiriút"
               },
@@ -1051,6 +1063,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tóiceo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -2187,6 +2202,11 @@
             "Ponape": {
               "long": {
                 "standard": "Am Phohnpei"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Am Pyongyang"
               }
             },
             "Qyzylorda": {

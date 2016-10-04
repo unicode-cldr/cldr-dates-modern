@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mr"
       },
@@ -238,7 +238,7 @@
                 "narrow": {
                   "midnight": "म.रा.",
                   "am": "स",
-                  "noon": "म",
+                  "noon": "दु",
                   "pm": "सं",
                   "morning1": "प",
                   "morning2": "स",
@@ -283,7 +283,7 @@
                   "afternoon1": "दु",
                   "evening1": "सं",
                   "evening2": "सा",
-                  "night1": "रा"
+                  "night1": "रात्र"
                 },
                 "wide": {
                   "midnight": "मध्यरात्र",
@@ -326,8 +326,8 @@
               "short": "h:mm a"
             },
             "dateTimeFormats": {
-              "full": "{1} वाजता {0}",
-              "long": "{1} वाजता {0}",
+              "full": "{1} {0} वाजता",
+              "long": "{1} {0} वाजता",
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {

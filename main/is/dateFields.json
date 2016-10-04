@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12965 $",
+          "_cldrVersion": "30"
         },
         "language": "is"
       },
@@ -151,7 +151,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "fyrir {0} viku",
               "relativeTimePattern-count-other": "fyrir {0} vikum"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-short": {
             "displayName": "vika",
@@ -165,7 +166,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "fyrir {0} viku",
               "relativeTimePattern-count-other": "fyrir {0} vikum"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "week-narrow": {
             "displayName": "v.",
@@ -179,7 +181,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "-{0} viku",
               "relativeTimePattern-count-other": "-{0} vikur"
-            }
+            },
+            "relativePeriod": "the week of {0}"
           },
           "day": {
             "displayName": "dagur",
@@ -235,113 +238,240 @@
           "sun": {
             "relative-type--1": "síðasta sunnudag",
             "relative-type-0": "sunnudagur í þessari viku",
-            "relative-type-1": "næsta sunnudag"
+            "relative-type-1": "næsta sunnudag",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-short": {
             "relative-type--1": "síðasti sun.",
             "relative-type-0": "þessi sun.",
-            "relative-type-1": "næsta sun."
+            "relative-type-1": "næsta sun.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "síðasti sun.",
             "relative-type-0": "þessi sun.",
-            "relative-type-1": "nk. sun."
+            "relative-type-1": "nk. sun.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Sundays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Sundays"
+            }
           },
           "mon": {
             "relative-type--1": "síðasta mánudag",
             "relative-type-0": "mánudagur í þessari viku",
-            "relative-type-1": "næsta mánudag"
+            "relative-type-1": "næsta mánudag",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-short": {
             "relative-type--1": "síðasta mán.",
             "relative-type-0": "þessi mán.",
-            "relative-type-1": "næsta mán."
+            "relative-type-1": "næsta mán.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "síðasti mán.",
             "relative-type-0": "þessi mán.",
-            "relative-type-1": "nk. mán."
+            "relative-type-1": "nk. mán.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Mondays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Mondays"
+            }
           },
           "tue": {
             "relative-type--1": "síðasta þriðjudag",
             "relative-type-0": "þriðjudagur í þessari viku",
-            "relative-type-1": "næsta þriðjudag"
+            "relative-type-1": "næsta þriðjudag",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-short": {
             "relative-type--1": "síðasti þri.",
             "relative-type-0": "þessi þri.",
-            "relative-type-1": "næstkomandi þri."
+            "relative-type-1": "næstkomandi þri.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "síðasti þri.",
             "relative-type-0": "þessi þri.",
-            "relative-type-1": "nk. þri."
+            "relative-type-1": "nk. þri.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Tuesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Tuesdays"
+            }
           },
           "wed": {
             "relative-type--1": "miðvikudagur í síðustu viku",
             "relative-type-0": "miðvikudagur í þessari viku",
-            "relative-type-1": "miðvikudagur í næstu viku"
+            "relative-type-1": "miðvikudagur í næstu viku",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-short": {
             "relative-type--1": "síðasti mið.",
             "relative-type-0": "þessi mið.",
-            "relative-type-1": "næstkomandi mið."
+            "relative-type-1": "næstkomandi mið.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "síðasti mið.",
             "relative-type-0": "þessi mið.",
-            "relative-type-1": "nk. mið."
+            "relative-type-1": "nk. mið.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Wednesdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Wednesdays"
+            }
           },
           "thu": {
             "relative-type--1": "fimmtudagur í síðustu viku",
             "relative-type-0": "fimmtudagur í þessari viku",
-            "relative-type-1": "fimmtudagur í næstu viku"
+            "relative-type-1": "fimmtudagur í næstu viku",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-short": {
             "relative-type--1": "síðasti fim.",
             "relative-type-0": "þessi fim.",
-            "relative-type-1": "næstkomandi fim."
+            "relative-type-1": "næstkomandi fim.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "síðasti fim.",
             "relative-type-0": "þessi fim.",
-            "relative-type-1": "nk. fim."
+            "relative-type-1": "nk. fim.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Thursdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Thursdays"
+            }
           },
           "fri": {
-            "relative-type--1": "föstudagur í síðustu viku",
-            "relative-type-0": "föstudagur í þessari viku",
-            "relative-type-1": "föstudagur í næstu viku"
+            "relative-type--1": "síðasta föstudag",
+            "relative-type-0": "á föstudaginn",
+            "relative-type-1": "næsta föstudag",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-short": {
-            "relative-type--1": "síðasti fös.",
-            "relative-type-0": "þessi fös.",
-            "relative-type-1": "næstkomandi fös."
+            "relative-type--1": "síðasta fös.",
+            "relative-type-0": "á fös.",
+            "relative-type-1": "næsta fös.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "fri-narrow": {
-            "relative-type--1": "síðasti fös.",
-            "relative-type-0": "þessi fös.",
-            "relative-type-1": "nk. fös."
+            "relative-type--1": "síðasta fös.",
+            "relative-type-0": "á fös.",
+            "relative-type-1": "næsta fös.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Fridays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Fridays"
+            }
           },
           "sat": {
-            "relative-type--1": "laugardagur í síðustu viku",
-            "relative-type-0": "laugardagur í þessari viku",
-            "relative-type-1": "laugardagur í næstu viku"
+            "relative-type--1": "síðasta laugardag",
+            "relative-type-0": "á laugardaginn",
+            "relative-type-1": "næsta laugardag",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-short": {
-            "relative-type--1": "síðasti lau.",
-            "relative-type-0": "þessi lau.",
-            "relative-type-1": "næstkomandi lau."
+            "relative-type--1": "síðasta lau.",
+            "relative-type-0": "á lau.",
+            "relative-type-1": "næsta lau.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "sat-narrow": {
-            "relative-type--1": "síðasti lau.",
-            "relative-type-0": "þessi lau.",
-            "relative-type-1": "nk. lau."
+            "relative-type--1": "síðasta lau.",
+            "relative-type-0": "á lau.",
+            "relative-type-1": "næsta lau.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "+{0} Saturdays"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "-{0} Saturdays"
+            }
           },
           "dayperiod": {
             "displayName": "f.h./e.h."
           },
           "hour": {
             "displayName": "klukkustund",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "eftir {0} klukkustund",
               "relativeTimePattern-count-other": "eftir {0} klukkustundir"
@@ -353,6 +483,7 @@
           },
           "hour-short": {
             "displayName": "klst.",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "eftir {0} klst.",
               "relativeTimePattern-count-other": "eftir {0} klst."
@@ -364,6 +495,7 @@
           },
           "hour-narrow": {
             "displayName": "klst.",
+            "relative-type-0": "this hour",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} klst.",
               "relativeTimePattern-count-other": "+{0} klst."
@@ -375,6 +507,7 @@
           },
           "minute": {
             "displayName": "mínúta",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "eftir {0} mínútu",
               "relativeTimePattern-count-other": "eftir {0} mínútur"
@@ -386,6 +519,7 @@
           },
           "minute-short": {
             "displayName": "mín.",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "eftir {0} mín.",
               "relativeTimePattern-count-other": "eftir {0} mín."
@@ -397,6 +531,7 @@
           },
           "minute-narrow": {
             "displayName": "mín.",
+            "relative-type-0": "this minute",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} mín.",
               "relativeTimePattern-count-other": "+{0} mín."

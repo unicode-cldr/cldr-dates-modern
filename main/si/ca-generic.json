@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12384 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "si"
       },
@@ -274,16 +274,16 @@
                   "night2": "මැදියමට පසු"
                 },
                 "narrow": {
-                  "midnight": "මැ",
-                  "am": "පෙ",
-                  "noon": "ද",
-                  "pm": "ප",
-                  "morning1": "පා",
-                  "morning2": "උ",
-                  "afternoon1": "ද",
-                  "evening1": "හ",
+                  "midnight": "මැදියම",
+                  "am": "පෙ.ව.",
+                  "noon": "මධ්‍යාහ්නය",
+                  "pm": "ප.ව.",
+                  "morning1": "පාන්දර",
+                  "morning2": "උදේ",
+                  "afternoon1": "දවල්",
+                  "evening1": "හවස",
                   "night1": "රෑ",
-                  "night2": "මැ"
+                  "night2": "මැදියමට පසු"
                 },
                 "wide": {
                   "midnight": "මැදියම",

@@ -3,8 +3,8 @@
     "de-LU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "de",
         "territory": "LU"
@@ -237,8 +237,8 @@
                 },
                 "narrow": {
                   "midnight": "Mitternacht",
-                  "am": "vm.",
-                  "pm": "nm.",
+                  "am": "vorm.",
+                  "pm": "nachm.",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -363,6 +363,8 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
+                "MMMMW": "'Woche' W 'im' MMM",
+                "MMMMW": "'Woche' W 'im' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -375,7 +377,9 @@
                 "yMMMEd": "E, d. MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'Woche' w 'des' 'Jahres' y",
+                "yw": "'Woche' w 'des' 'Jahres' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -396,8 +400,8 @@
                   "d": "d.–d."
                 },
                 "h": {
-                  "a": "h a – h a",
-                  "h": "h–h a"
+                  "a": "h 'Uhr' a – h 'Uhr' a",
+                  "h": "h – h 'Uhr' a"
                 },
                 "H": {
                   "H": "HH–HH 'Uhr'"

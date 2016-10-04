@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "th"
       },
@@ -290,10 +290,10 @@
                   "am": "ก่อนเที่ยง",
                   "noon": "เที่ยง",
                   "pm": "หลังเที่ยง",
-                  "morning1": "เช้า",
-                  "afternoon1": "ช่วงเที่ยง",
+                  "morning1": "ในตอนเช้า",
+                  "afternoon1": "ในตอนบ่าย",
                   "afternoon2": "บ่าย",
-                  "evening1": "เย็น",
+                  "evening1": "ในตอนเย็น",
                   "evening2": "ค่ำ",
                   "night1": "กลางคืน"
                 }
@@ -429,7 +429,7 @@
                   "M": "d/M – d/M"
                 },
                 "MEd": {
-                  "d": "E d – E d/M",
+                  "d": "E d/M – E d/M",
                   "M": "E d/M – E d/M"
                 },
                 "MMM": {
@@ -440,7 +440,7 @@
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
-                  "d": "E d – E d MMM",
+                  "d": "E d MMM – E d MMM",
                   "M": "E d MMM – E d MMM"
                 },
                 "MMMEEEEd": {
@@ -455,12 +455,12 @@
                   "y": "M/y – M/y G"
                 },
                 "yMd": {
-                  "d": "d–d/M/y G",
+                  "d": "d/M/y – d/M/y G",
                   "M": "d/M/y – d/M/y G",
                   "y": "d/M/y – d/M/y G"
                 },
                 "yMEd": {
-                  "d": "E d – E d/M/y G",
+                  "d": "E d/M/y – E d/M/y G",
                   "M": "E d/M/y – E d/M/y G",
                   "y": "E d/M/y – E d/M/y G"
                 },
@@ -474,7 +474,7 @@
                   "y": "d MMM G y – d MMM y"
                 },
                 "yMMMEd": {
-                  "d": "E d – E d MMM G y",
+                  "d": "E d MMM – E d MMM G y",
                   "M": "E d MMM – E d MMM G y",
                   "y": "E d MMM G y – E d MMM y"
                 },

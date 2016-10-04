@@ -3,8 +3,8 @@
     "sr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sr"
       },
@@ -122,13 +122,13 @@
                   "sat": "с"
                 },
                 "short": {
-                  "sun": "нед",
-                  "mon": "пон",
-                  "tue": "уто",
-                  "wed": "сре",
-                  "thu": "чет",
-                  "fri": "пет",
-                  "sat": "суб"
+                  "sun": "не",
+                  "mon": "по",
+                  "tue": "ут",
+                  "wed": "ср",
+                  "thu": "че",
+                  "fri": "пе",
+                  "sat": "су"
                 },
                 "wide": {
                   "sun": "недеља",
@@ -228,10 +228,10 @@
                   "am": "пре подне",
                   "noon": "подне",
                   "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "по под.",
-                  "evening1": "вече",
-                  "night1": "ноћ"
+                  "morning1": "ујутро",
+                  "afternoon1": "по подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 },
                 "narrow": {
                   "midnight": "у поноћ",
@@ -248,10 +248,10 @@
                   "am": "пре подне",
                   "noon": "подне",
                   "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "поподне",
-                  "evening1": "вече",
-                  "night1": "ноћ"
+                  "morning1": "ујутро",
+                  "afternoon1": "по подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 }
               },
               "stand-alone": {
@@ -270,10 +270,10 @@
                   "am": "пре подне",
                   "noon": "подне",
                   "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "поподне",
-                  "evening1": "вече",
-                  "night1": "ноћ"
+                  "morning1": "ујутро",
+                  "afternoon1": "по подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 },
                 "wide": {
                   "midnight": "поноћ",
@@ -290,9 +290,9 @@
             "eras": {
               "eraNames": {
                 "0": "пре нове ере",
-                "0-alt-variant": "п. н. е.",
+                "0-alt-variant": "BCE",
                 "1": "нове ере",
-                "1-alt-variant": "н. е."
+                "1-alt-variant": "CE"
               },
               "eraAbbr": {
                 "0": "п. н. е.",
@@ -314,10 +314,10 @@
               "short": "d.M.yy."
             },
             "timeFormats": {
-              "full": "HH.mm.ss zzzz",
-              "long": "HH.mm.ss z",
-              "medium": "HH.mm.ss",
-              "short": "HH.mm"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -328,35 +328,38 @@
                 "d": "d",
                 "E": "E",
                 "Ed": "E d.",
-                "Ehm": "E, h.mm a",
-                "EHm": "E, HH.mm",
-                "Ehms": "E, h.mm.ss a",
-                "EHms": "E, HH.mm.ss",
+                "Ehm": "E h:mm a",
+                "EHm": "E HH:mm",
+                "Ehms": "E h:mm:ss a",
+                "EHms": "E HH:mm:ss",
                 "Gy": "y. G",
                 "GyMMM": "MMM y. G",
                 "GyMMMd": "d. MMM y. G",
                 "GyMMMEd": "E, d. MMM y. G",
                 "h": "h a",
                 "H": "HH",
-                "hm": "hh.mm a",
-                "Hm": "HH.mm",
-                "hms": "hh.mm.ss a",
-                "Hms": "HH.mm.ss",
-                "hmsv": "h.mm.ss a v",
-                "Hmsv": "HH.mm.ss v",
-                "hmv": "h.mm a v",
-                "Hmv": "HH.mm v",
+                "hm": "h:mm a",
+                "Hm": "HH:mm",
+                "hms": "h:mm:ss a",
+                "Hms": "HH:mm:ss",
+                "hmsv": "h:mm:ss a v",
+                "Hmsv": "HH:mm:ss v",
+                "hmv": "h:mm a v",
+                "Hmv": "HH:mm v",
                 "M": "L",
-                "Md": "d/M",
+                "Md": "d.M.",
                 "MEd": "E, d.M.",
-                "MMdd": "MM-dd",
+                "MMdd": "dd.MM.",
                 "MMM": "LLL",
                 "MMMd": "d. MMM",
                 "MMMdd": "dd.MMM",
                 "MMMEd": "E d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "ms": "mm.ss",
+                "MMMMW": "W. 'седмица' 'у' MMM.",
+                "MMMMW": "W. 'седмица' 'у' MMM.",
+                "MMMMW": "W. 'седмица' 'у' MMM.",
+                "ms": "mm:ss",
                 "y": "y.",
                 "yM": "M.y.",
                 "yMd": "d.M.y.",
@@ -367,8 +370,11 @@
                 "yMMMd": "d. MMM y.",
                 "yMMMEd": "E, d. MMM y.",
                 "yMMMM": "MMMM y.",
-                "yQQQ": "QQQ. y",
-                "yQQQQ": "QQQQ. y"
+                "yQQQ": "QQQ y.",
+                "yQQQQ": "QQQQ y.",
+                "yw": "w. 'седмица' 'у' y.",
+                "yw": "w. 'седмица' 'у' y.",
+                "yw": "w. 'седмица' 'у' y."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

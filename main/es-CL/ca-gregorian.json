@@ -3,8 +3,8 @@
     "es-CL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "es",
         "territory": "CL"
@@ -225,9 +225,9 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "del mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "de la madrugada",
                   "morning2": "de la mañana",
                   "evening1": "de la tarde",
@@ -235,17 +235,17 @@
                 },
                 "narrow": {
                   "am": "a. m.",
-                  "noon": "m.",
+                  "noon": "del mediodía",
                   "pm": "p. m.",
-                  "morning1": "madrugada",
-                  "morning2": "mañana",
-                  "evening1": "tarde",
-                  "night1": "noche"
+                  "morning1": "de la madrugada",
+                  "morning2": "de la mañana",
+                  "evening1": "de la tarde",
+                  "night1": "de la noche"
                 },
                 "wide": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "del mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "de la madrugada",
                   "morning2": "de la mañana",
                   "evening1": "de la tarde",
@@ -254,27 +254,27 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
                   "evening1": "tarde",
                   "night1": "noche"
                 },
                 "narrow": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
                   "evening1": "tarde",
                   "night1": "noche"
                 },
                 "wide": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
                   "evening1": "tarde",
@@ -329,7 +329,7 @@
                 "EHms": "E, HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
-                "GyMMMd": "d 'de' MMM 'de' y G",
+                "GyMMMd": "d MMM y G",
                 "GyMMMEd": "E, d MMM y G",
                 "GyMMMM": "MMMM 'de' y G",
                 "GyMMMMd": "d 'de' MMMM 'de' y G",
@@ -357,6 +357,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d 'de' MMMM",
                 "MMMMEd": "E, d 'de' MMMM",
+                "MMMMW": "'semana' W 'de' MMM",
+                "MMMMW": "'semana' W 'de' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM-y",
@@ -370,7 +372,9 @@
                 "yMMMMd": "d 'de' MMMM 'de' y",
                 "yMMMMEd": "EEE, d 'de' MMMM 'de' y",
                 "yQQQ": "QQQ 'de' y",
-                "yQQQQ": "QQQQ 'de' y"
+                "yQQQQ": "QQQQ 'de' y",
+                "yw": "'semana' w 'de' y",
+                "yw": "'semana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

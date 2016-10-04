@@ -3,8 +3,8 @@
     "id": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "id"
       },
@@ -14,7 +14,7 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "Waktu {0}",
-          "regionFormat-type-daylight": "Waktu Terang {0}",
+          "regionFormat-type-daylight": "Waktu Musim Panas {0}",
           "regionFormat-type-standard": "Waktu Standar {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
@@ -103,7 +103,7 @@
                 "exemplarCity": "Cancun"
               },
               "Caracas": {
-                "exemplarCity": "Karakas"
+                "exemplarCity": "Caracas"
               },
               "Catamarca": {
                 "exemplarCity": "Catamarca"
@@ -124,7 +124,7 @@
                 "exemplarCity": "Atikokan"
               },
               "Cordoba": {
-                "exemplarCity": "Kordoba"
+                "exemplarCity": "Cordoba"
               },
               "Costa_Rica": {
                 "exemplarCity": "Kosta Rika"
@@ -240,7 +240,7 @@
                 "exemplarCity": "Iqaluit"
               },
               "Jamaica": {
-                "exemplarCity": "Jamaika"
+                "exemplarCity": "Jamaica"
               },
               "Jujuy": {
                 "exemplarCity": "Jujuy"
@@ -373,7 +373,7 @@
                 "exemplarCity": "Porto Velho"
               },
               "Puerto_Rico": {
-                "exemplarCity": "Puerto Riko"
+                "exemplarCity": "Puerto Rico"
               },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Athena"
               },
@@ -521,10 +524,10 @@
                 "exemplarCity": "Bratislava"
               },
               "Brussels": {
-                "exemplarCity": "Brussel"
+                "exemplarCity": "Brussels"
               },
               "Bucharest": {
-                "exemplarCity": "Bukares"
+                "exemplarCity": "Bucharest"
               },
               "Budapest": {
                 "exemplarCity": "Budapest"
@@ -568,8 +571,11 @@
               "Kiev": {
                 "exemplarCity": "Kiev"
               },
+              "Kirov": {
+                "exemplarCity": "Kirov"
+              },
               "Lisbon": {
-                "exemplarCity": "Lisboa"
+                "exemplarCity": "Lisbon"
               },
               "Ljubljana": {
                 "exemplarCity": "Ljubljana"
@@ -646,6 +652,9 @@
               "Tirane": {
                 "exemplarCity": "Tirane"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
+              },
               "Uzhgorod": {
                 "exemplarCity": "Uzhhorod"
               },
@@ -682,7 +691,7 @@
                 "exemplarCity": "Abidjan"
               },
               "Accra": {
-                "exemplarCity": "Akra"
+                "exemplarCity": "Accra"
               },
               "Addis_Ababa": {
                 "exemplarCity": "Addis Ababa"
@@ -724,7 +733,7 @@
                 "exemplarCity": "Ceuta"
               },
               "Conakry": {
-                "exemplarCity": "Konakri"
+                "exemplarCity": "Conakry"
               },
               "Dakar": {
                 "exemplarCity": "Dakar"
@@ -733,7 +742,7 @@
                 "exemplarCity": "Dar es Salaam"
               },
               "Djibouti": {
-                "exemplarCity": "Jibouti"
+                "exemplarCity": "Djibouti"
               },
               "Douala": {
                 "exemplarCity": "Douala"
@@ -760,7 +769,7 @@
                 "exemplarCity": "Kampala"
               },
               "Khartoum": {
-                "exemplarCity": "Khartum"
+                "exemplarCity": "Khartoum"
               },
               "Kigali": {
                 "exemplarCity": "Kigali"
@@ -858,7 +867,7 @@
                 "exemplarCity": "Ashgabat"
               },
               "Baghdad": {
-                "exemplarCity": "Bagdad"
+                "exemplarCity": "Baghdad"
               },
               "Bahrain": {
                 "exemplarCity": "Bahrain"
@@ -868,6 +877,9 @@
               },
               "Bangkok": {
                 "exemplarCity": "Bangkok"
+              },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
               },
               "Beirut": {
                 "exemplarCity": "Beirut"
@@ -1005,10 +1017,10 @@
                 "exemplarCity": "Rangoon"
               },
               "Riyadh": {
-                "exemplarCity": "Riyad"
+                "exemplarCity": "Riyadh"
               },
               "Saigon": {
-                "exemplarCity": "Kota Ho Chi Minh"
+                "exemplarCity": "Ho Chi Minh"
               },
               "Sakhalin": {
                 "exemplarCity": "Sakhalin"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -1622,7 +1637,7 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "Waktu Chamorro"
+                "standard": "Waktu Standar Chamorro"
               }
             },
             "Chatham": {
@@ -1643,7 +1658,7 @@
               "long": {
                 "generic": "Waktu Tiongkok",
                 "standard": "Waktu Standar Tiongkok",
-                "daylight": "Waktu Terang Tiongkok"
+                "daylight": "Waktu Musim Panas Tiongkok"
               }
             },
             "Choibalsan": {
@@ -1785,7 +1800,7 @@
             },
             "GMT": {
               "long": {
-                "standard": "Waktu Rata-rata Greenwich"
+                "standard": "Greenwich Mean Time"
               }
             },
             "Greenland_Eastern": {
@@ -1809,7 +1824,7 @@
             },
             "Gulf": {
               "long": {
-                "standard": "Waktu Gulf"
+                "standard": "Waktu Standar Teluk"
               }
             },
             "Guyana": {
@@ -2172,6 +2187,11 @@
             "Ponape": {
               "long": {
                 "standard": "Waktu Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Waktu Pyongyang"
               }
             },
             "Qyzylorda": {

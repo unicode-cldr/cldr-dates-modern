@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12922 $",
+          "_cldrVersion": "30"
         },
         "language": "zu"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "i-El Salvador"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "i-Fort Nelson"
               },
               "Fortaleza": {
                 "exemplarCity": "i-Fortaleza"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "i-Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "i-Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "i-Athens"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "i-Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "i-Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "i-Lisbon"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "i-Tirane"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "i-Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "i-Uzhhorod"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "i-Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "i-Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "i-Beirut"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "i-Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "i-Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "i-Ulaanbaatar"
@@ -1393,7 +1408,7 @@
           "metazone": {
             "Afghanistan": {
               "long": {
-                "standard": "esase-Afghanistan Time"
+                "standard": "Isikhathi sase-Afghanistan"
               }
             },
             "Africa_Central": {
@@ -1420,8 +1435,8 @@
             },
             "Alaska": {
               "long": {
-                "generic": "isikhathi sase-Alaska",
-                "standard": "isikhathi sase-Alaska esijwayelekile",
+                "generic": "Isikhathi sase-Alaska",
+                "standard": "Isikhathi sase-Alaska esijwayelekile",
                 "daylight": "Isikhathi sase-Alaska sasemini"
               }
             },
@@ -1434,30 +1449,30 @@
             },
             "America_Central": {
               "long": {
-                "generic": "isikhathi sase-North American Central",
-                "standard": "isikhathi sase-North American Central esijwayelekile",
-                "daylight": "isikhathi sase-North American Central sasemini"
+                "generic": "Isikhathi sase-North American Central",
+                "standard": "Isikhathi sase-North American Central esijwayelekile",
+                "daylight": "Isikhathi sase-North American Central sasemini"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "isikhathi sase-North American East",
-                "standard": "isikhathi sase-North American East esijwayelekile",
-                "daylight": "isikhathi sase-North American East sasemini"
+                "generic": "Isikhathi sase-North American East",
+                "standard": "Isikhathi sase-North American East esijwayelekile",
+                "daylight": "Isikhathi sase-North American East sasemini"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "isikhathi sase-North American Mountain",
-                "standard": "isikhathi sase-North American Mountain esijwayelekile",
-                "daylight": "isikhathi sase-North American Mountain sasemini"
+                "generic": "Isikhathi sase-North American Mountain",
+                "standard": "Isikhathi sase-North American Mountain esijwayelekile",
+                "daylight": "Isikhathi sase-North American Mountain sasemini"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "isikhathi sase-North American Pacific",
-                "standard": "isikhathi sase-North American Pacific esijwayelekile",
-                "daylight": "isikhathi sase-North American Pacific sasemini"
+                "generic": "Isikhathi sase-North American Pacific",
+                "standard": "Isikhathi sase-North American Pacific esijwayelekile",
+                "daylight": "Isikhathi sase-North American Pacific sasemini"
               }
             },
             "Anadyr": {
@@ -1469,9 +1484,9 @@
             },
             "Apia": {
               "long": {
-                "generic": "esase-Apia Time",
-                "standard": "esase-Apia Standard Time",
-                "daylight": "esase-Apia Daylight Time"
+                "generic": "Isikhathi sase-Apia",
+                "standard": "Isikhathi sase-Apia esivamile",
+                "daylight": "Isikhathi sase-Apia sasemini"
               }
             },
             "Arabian": {
@@ -1504,16 +1519,16 @@
             },
             "Atlantic": {
               "long": {
-                "generic": "isikhathi sase-Atlantic",
-                "standard": "isikhathi sase-Atlantic esijwayelekile",
-                "daylight": "isikhathi sase-Atlantic sasemini"
+                "generic": "Isikhathi sase-Atlantic",
+                "standard": "Isikhathi sase-Atlantic esijwayelekile",
+                "daylight": "Isikhathi sase-Atlantic sasemini"
               }
             },
             "Australia_Central": {
               "long": {
-                "generic": "esase-Central Australia Time",
-                "standard": "esase-Austrilian Central Standard Time",
-                "daylight": "esase-Austrilian Central Daylight Time"
+                "generic": "Isikhathi sase-Central Australia",
+                "standard": "Isikhathi sase-Australian Central esivamile",
+                "daylight": "Isikhathi sase-Australian Central sasemini"
               }
             },
             "Australia_CentralWestern": {
@@ -1533,8 +1548,8 @@
             "Australia_Western": {
               "long": {
                 "generic": "Isikhathi sase-Western Australia",
-                "standard": "I-Australian Western Standard Time",
-                "daylight": "I-Australian Western Daylight Time"
+                "standard": "Isikhathi sase-Australian Western esivamile",
+                "daylight": "Isikhathi sase-Australian Western sasemini"
               }
             },
             "Azerbaijan": {
@@ -1553,14 +1568,14 @@
             },
             "Bangladesh": {
               "long": {
-                "generic": "esase-Bangladesh Time",
-                "standard": "esase-Bangladesh Standard Time",
-                "daylight": "esase-Bangladesh Summer Time"
+                "generic": "Isikhathi sase-Bangladesh",
+                "standard": "Isikhathi sase-Bangladesh esivamile",
+                "daylight": "Isikhathi sase-Bangladesh sasehlobo"
               }
             },
             "Bhutan": {
               "long": {
-                "standard": "esase-Bhutan Time"
+                "standard": "Isikhathi sase-Bhutan"
               }
             },
             "Bolivia": {
@@ -1596,7 +1611,7 @@
               "long": {
                 "generic": "Isikhathi sase-Chatham",
                 "standard": "Isikhathi esivamile sase-Chatham",
-                "daylight": "Isikhathi semini sase-Chatham"
+                "daylight": "Isikhathi sasemini sase-Chatham"
               }
             },
             "Chile": {
@@ -1617,7 +1632,7 @@
               "long": {
                 "generic": "Isikhathi sase-Choibalsan",
                 "standard": "Isikhathi Esimisiwe sase-Choibalsan",
-                "daylight": "esase-Choibalsan Summer Time"
+                "daylight": "Isikhathi sehlobo e-Choibalsan"
               }
             },
             "Christmas": {
@@ -1646,9 +1661,9 @@
             },
             "Cuba": {
               "long": {
-                "generic": "isikhathi sase-Cuba",
-                "standard": "isikhathi sase-Cuba esijwayelekile",
-                "daylight": "isikhathi sase-Cuba sasemini"
+                "generic": "Isikhathi sase-Cuba",
+                "standard": "Isikhathi sase-Cuba esijwayelekile",
+                "daylight": "Isikhathi sase-Cuba sasemini"
               }
             },
             "Davis": {
@@ -1725,7 +1740,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "Isikhathi sase-French Southern and Antarctic"
+                "standard": "Isikhathi sase-French Southern nase-Antarctic"
               }
             },
             "Galapagos": {
@@ -1757,16 +1772,16 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "isikhathi sase-East Greenland",
-                "standard": "isikhathi sase-East Greenland esijwayelekile",
-                "daylight": "isikhathi sase-East Greenland sasemini"
+                "generic": "Isikhathi sase-East Greenland",
+                "standard": "Isikhathi sase-East Greenland esijwayelekile",
+                "daylight": "Isikhathi sase-East Greenland sasemini"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "isikhathi sase-West Greenland",
-                "standard": "isikhathi sase-West Greenland esijwayelekile",
-                "daylight": "isikhathi sase-West Greenland sasemini"
+                "generic": "Isikhathi sase-West Greenland",
+                "standard": "Isikhathi sase-West Greenland esijwayelekile",
+                "daylight": "Isikhathi sase-West Greenland sasehlobo"
               }
             },
             "Gulf": {
@@ -1781,9 +1796,9 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "isikhathi sase-Hawaii-Aleutia",
-                "standard": "isikhathi sase-Hawaii-Aleutia esijwayelekile",
-                "daylight": "isikhathi sase-Hawaii-Aleutia sasemini"
+                "generic": "Isikhathi sase-Hawaii-Aleutia",
+                "standard": "Isikhathi sase-Hawaii-Aleutia esijwayelekile",
+                "daylight": "Isikhathi sase-Hawaii-Aleutia sasemini"
               }
             },
             "Hong_Kong": {
@@ -1797,12 +1812,12 @@
               "long": {
                 "generic": "Isikhathi sase-Hovd",
                 "standard": "Isikhathi Esimisiwe sase-Hovd",
-                "daylight": "esase-Hovd Summer Time"
+                "daylight": "Isikhathi sehlobo e-Hovd"
               }
             },
             "India": {
               "long": {
-                "standard": "esase-India Standard Time"
+                "standard": "Isikhathi sase-India esivamile"
               }
             },
             "Indian_Ocean": {
@@ -1832,23 +1847,23 @@
             },
             "Iran": {
               "long": {
-                "generic": "esase-Iran Time",
-                "standard": "esase-Iran Standard Time",
-                "daylight": "esase-Iran Daylight Time"
+                "generic": "Isikhathi sase-Iran",
+                "standard": "Isikhathi sase-Iran esivamile",
+                "daylight": "Isikhathi sase-Iran sasemini"
               }
             },
             "Irkutsk": {
               "long": {
                 "generic": "Isikhathi sase-Irkutsk",
                 "standard": "Isikhathi Esimisiwe sase-Irkutsk",
-                "daylight": "esase-Irkutsk Summer Time"
+                "daylight": "Isikhathi sasehlobo e-Irkutsk"
               }
             },
             "Israel": {
               "long": {
                 "generic": "Isikhathi sase-Israel",
                 "standard": "Isikhathi esivamile sase-Israel",
-                "daylight": "Isikhathi sasemini sase-Israel"
+                "daylight": "Isikhathi sasemini sakwa-Israel"
               }
             },
             "Japan": {
@@ -1891,7 +1906,7 @@
               "long": {
                 "generic": "Isikhathi sase-Krasnoyarsk",
                 "standard": "Isikhathi Esimisiwe sase-Krasnoyarsk",
-                "daylight": "Isikhathi sase-Krasnoyarsk sasehlobo"
+                "daylight": "Isikhathi sasehlobo e-Krasnoyarsk"
               }
             },
             "Kyrgystan": {
@@ -1920,7 +1935,7 @@
               "long": {
                 "generic": "Isikhathi sase-Magadan",
                 "standard": "Isikhathi Esimisiwe sase-Magadan",
-                "daylight": "esase-Magadan Summer Time"
+                "daylight": "Isikhathi sasehlobo e-Magadan"
               }
             },
             "Malaysia": {
@@ -1930,7 +1945,7 @@
             },
             "Maldives": {
               "long": {
-                "standard": "esase-Maldives Time"
+                "standard": "Isikhathi sase-Maldives"
               }
             },
             "Marquesas": {
@@ -1957,30 +1972,30 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "isikhathi sase-Northwest Mexico",
-                "standard": "isikhathi sase-Northwest Mexico esijwayelekile",
-                "daylight": "isikhathi sase-Northwest Mexico sasemini"
+                "generic": "Isikhathi sase-Northwest Mexico",
+                "standard": "Isikhathi sase-Northwest Mexico esijwayelekile",
+                "daylight": "Isikhathi sase-Northwest Mexico sasemini"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "isikhathi sase-Mexican Pacific",
-                "standard": "isikhathi sase-Mexican Pacific esijwayelekile",
-                "daylight": "isikhathi sase-Mexican Pacific sasemini"
+                "generic": "Isikhathi sase-Mexican Pacific",
+                "standard": "Isikhathi sase-Mexican Pacific esijwayelekile",
+                "daylight": "Isikhathi sase-Mexican Pacific sasemini"
               }
             },
             "Mongolia": {
               "long": {
                 "generic": "Isikhathi sase-Ulan Bator",
                 "standard": "Isikhathi Esimisiwe sase-Ulan Bator",
-                "daylight": "esase-Ulan Bator Summer Time"
+                "daylight": "Isikhathi sehlobo e-Ulan Bator"
               }
             },
             "Moscow": {
               "long": {
-                "generic": "esase-Moscow Time",
-                "standard": "esase-Moscow Standard Time",
-                "daylight": "esase-Moscow Summer Time"
+                "generic": "Isikhathi sase-Moscow",
+                "standard": "Isikhathi sase-Moscow esijwayelekile",
+                "daylight": "Isikhathi sasehlobo e-Moscow"
               }
             },
             "Myanmar": {
@@ -1995,7 +2010,7 @@
             },
             "Nepal": {
               "long": {
-                "standard": "esase-Nepal Time"
+                "standard": "Isikhathi sase-Nepal"
               }
             },
             "New_Caledonia": {
@@ -2014,9 +2029,9 @@
             },
             "Newfoundland": {
               "long": {
-                "generic": "isikhathi sase-Newfoundland",
-                "standard": "isikhathi sase-Newfoundland esijwayelekile",
-                "daylight": "isikhathi sase-Newfoundland sasemini"
+                "generic": "Isikhathi sase-Newfoundland",
+                "standard": "Isikhathi sase-Newfoundland esijwayelekile",
+                "daylight": "Isikhathi sase-Newfoundland sasemini"
               }
             },
             "Niue": {
@@ -2040,21 +2055,21 @@
               "long": {
                 "generic": "Isikhathi sase-Novosibirsk",
                 "standard": "Isikhathi Esimisiwe sase-Novosibirsk",
-                "daylight": "esase-Novosibirsk Summer Time"
+                "daylight": "Isikhathi sasehlobo sase-Novosibirsk"
               }
             },
             "Omsk": {
               "long": {
                 "generic": "Isikhathi sase-Omsk",
                 "standard": "Isikhathi Esimisiwe sase-Omsk",
-                "daylight": "esase-Omsk Summer Time"
+                "daylight": "Isikhathi sasehlobo sase-Omsk"
               }
             },
             "Pakistan": {
               "long": {
-                "generic": "esase-Pakistan Time",
-                "standard": "esase-Pakistan Standard Time",
-                "daylight": "esase-Pakistan Summer Time"
+                "generic": "Isikhathi sase-Pakistan",
+                "standard": "Isikhathi sase-Pakistan esivamile",
+                "daylight": "Isikhathi sase-Pakistan sasehlobo"
               }
             },
             "Palau": {
@@ -2095,9 +2110,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "isikhathi sase-Saint Pierre nase-Miquelon",
-                "standard": "isikhathi sase-Saint Pierre nase-Miquelon esijwayelekile",
-                "daylight": "isikhathi sase-Saint Pierre nase-Miquelon sasemini"
+                "generic": "Isikhathi sase-Saint Pierre nase-Miquelon",
+                "standard": "Iikhathi sase-Saint Pierre nase-Miquelon esijwayelekile",
+                "daylight": "Isikhathi sase-Saint Pierre nase-Miquelon sasemini"
               }
             },
             "Pitcairn": {
@@ -2108,6 +2123,11 @@
             "Ponape": {
               "long": {
                 "standard": "Isikhathi sase-Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Isikhathi sase-Pyongyang"
               }
             },
             "Reunion": {
@@ -2124,7 +2144,7 @@
               "long": {
                 "generic": "Isikhathi sase-Sakhalin",
                 "standard": "Isikhathi Esimisiwe sase-Sakhalin",
-                "daylight": "esase-Sakhalin Summer Time"
+                "daylight": "Isikhathi sasehlobo e-Sakhalin"
               }
             },
             "Samara": {
@@ -2247,14 +2267,14 @@
               "long": {
                 "generic": "Isikhathi sase-Vladivostok",
                 "standard": "Isikhathi Esimisiwe sase-Vladivostok",
-                "daylight": "esase-Vladivostok Summer Time"
+                "daylight": "Isikhathi sasehlobo e-Vladivostok"
               }
             },
             "Volgograd": {
               "long": {
                 "generic": "Isikhathi sase-Volgograd",
                 "standard": "Isikhathi Esimisiwe sase-Volgograd",
-                "daylight": "esase-Volgograd Summer Time"
+                "daylight": "Isikhathi sase-Volgograd sasehlobo"
               }
             },
             "Vostok": {
@@ -2269,21 +2289,21 @@
             },
             "Wallis": {
               "long": {
-                "standard": "Isikhathi sase-Wallis and Futuna"
+                "standard": "Isikhathi sase-Wallis nase-Futuna"
               }
             },
             "Yakutsk": {
               "long": {
                 "generic": "Isikhathi sase-Yakutsk",
                 "standard": "Isikhathi Esimisiwe sase-Yakutsk",
-                "daylight": "esase-Yakutsk Summer Time"
+                "daylight": "Isikhathi sasehlobo e-Yakutsk"
               }
             },
             "Yekaterinburg": {
               "long": {
                 "generic": "Isikhathi sase-Yekaterinburg",
                 "standard": "Isikhathi Esimisiwe sase-Yekaterinburg",
-                "daylight": "esase-Yekaterinburg Summer Time"
+                "daylight": "Isikhathi sasehlobo e-Yekaterinburg"
               }
             }
           }

@@ -3,8 +3,8 @@
     "en-ZW": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12765 $",
+          "_cldrVersion": "30"
         },
         "language": "en",
         "territory": "ZW"
@@ -269,10 +269,10 @@
                   "noon": "noon",
                   "pm": "PM",
                   "pm-alt-variant": "pm",
-                  "morning1": "in the morning",
-                  "afternoon1": "in the afternoon",
-                  "evening1": "in the evening",
-                  "night1": "at night"
+                  "morning1": "morning",
+                  "afternoon1": "afternoon",
+                  "evening1": "evening",
+                  "night1": "night"
                 },
                 "narrow": {
                   "midnight": "midnight",
@@ -281,10 +281,10 @@
                   "noon": "noon",
                   "pm": "PM",
                   "pm-alt-variant": "pm",
-                  "morning1": "in the morning",
-                  "afternoon1": "in the afternoon",
-                  "evening1": "in the evening",
-                  "night1": "at night"
+                  "morning1": "morning",
+                  "afternoon1": "afternoon",
+                  "evening1": "evening",
+                  "night1": "night"
                 },
                 "wide": {
                   "midnight": "midnight",
@@ -327,10 +327,10 @@
               "short": "d/M/y"
             },
             "timeFormats": {
-              "full": "h:mm:ss a zzzz",
-              "long": "h:mm:ss a z",
-              "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} 'at' {0}",
@@ -367,6 +367,8 @@
                 "MMMd": "dd MMM",
                 "MMMEd": "E, dd MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -377,7 +379,9 @@
                 "yMMMEd": "E, dd MMM, y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

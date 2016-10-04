@@ -3,8 +3,8 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "bs",
         "script": "Latn"
@@ -229,30 +229,30 @@
                   "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 },
                 "narrow": {
                   "midnight": "ponoć",
                   "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 },
                 "wide": {
                   "midnight": "ponoć",
-                  "am": "prije podne",
+                  "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 }
               },
               "stand-alone": {
@@ -261,30 +261,30 @@
                   "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 },
                 "narrow": {
                   "midnight": "ponoć",
                   "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 },
                 "wide": {
-                  "midnight": "u ponoć",
-                  "am": "prije podne",
+                  "midnight": "ponoć",
+                  "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "veče",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 }
               }
             },
@@ -315,22 +315,22 @@
               "short": "HH:mm"
             },
             "dateTimeFormats": {
-              "full": "{1} u {0}",
-              "long": "{1} u {0}",
+              "full": "{1} 'u' {0}",
+              "long": "{1} 'u' {0}",
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
                 "d": "d",
                 "E": "ccc",
-                "Ed": "E, dd.",
+                "Ed": "E, d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "y. G",
                 "GyMMM": "MMM y. G",
-                "GyMMMd": "dd. MMM y. G",
-                "GyMMMEd": "E, dd. MMM y. G",
+                "GyMMMd": "d. MMM y. G",
+                "GyMMMEd": "E, d. MMM y. G",
                 "h": "h a",
                 "H": "HH",
                 "hm": "hh:mm a",
@@ -338,22 +338,22 @@
                 "hms": "hh:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "L",
-                "Md": "dd.MM.",
-                "MEd": "E, dd.MM.",
+                "Md": "d.M.",
+                "MEd": "E, d.M.",
                 "MMM": "LLL",
-                "MMMd": "dd. MMM",
-                "MMMEd": "E, dd. MMM",
+                "MMMd": "d. MMM",
+                "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
                 "ms": "mm:ss",
                 "y": "y. G",
                 "yyyy": "y. G",
-                "yyyyM": "MM.y. G",
-                "yyyyMd": "dd.MM.y. G",
-                "yyyyMEd": "E, dd.MM.y. G",
+                "yyyyM": "MM/y G",
+                "yyyyMd": "d.M.y. G",
+                "yyyyMEd": "E, d.M.y. G",
                 "yyyyMMM": "MMM y. G",
-                "yyyyMMMd": "dd. MMM y. G",
-                "yyyyMMMEd": "E, dd. MMM y. G",
+                "yyyyMMMd": "d. MMM y. G",
+                "yyyyMMMEd": "E, d. MMM y. G",
                 "yyyyMMMM": "LLLL y. G",
                 "yyyyQQQ": "G y QQQ",
                 "yyyyQQQQ": "G y QQQQ"
@@ -374,7 +374,7 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "d": {
-                  "d": "dd. – dd."
+                  "d": "d. – d."
                 },
                 "h": {
                   "a": "h a – h a",
@@ -409,15 +409,15 @@
                   "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "MM. – MM."
+                  "M": "M. – M."
                 },
                 "Md": {
-                  "d": "dd.MM. – dd.MM.",
-                  "M": "dd.MM. – dd.MM."
+                  "d": "d.M. – d.M.",
+                  "M": "d.M. – d.M."
                 },
                 "MEd": {
-                  "d": "E, dd.MM. – E, dd.MM.",
-                  "M": "E, dd.MM. – E, dd.MM."
+                  "d": "E, d.M. – E, d.M.",
+                  "M": "E, d.M. – E, d.M."
                 },
                 "MMM": {
                   "M": "LLL–LLL"
@@ -434,32 +434,32 @@
                   "y": "y. – y. G"
                 },
                 "yM": {
-                  "M": "MM.y. – MM.y. G",
-                  "y": "MM.y. – MM.y. G"
+                  "M": "MM/y – MM/y G",
+                  "y": "MM/y – MM/y G"
                 },
                 "yMd": {
-                  "d": "dd.MM.y. – dd.MM.y. G",
-                  "M": "dd.MM.y. – dd.MM.y. G",
-                  "y": "dd.MM.y. – dd.MM.y. G"
+                  "d": "d.M.y. – d.M.y. G",
+                  "M": "d.M.y. – d.M.y. G",
+                  "y": "d.M.y. – d.M.y. G"
                 },
                 "yMEd": {
-                  "d": "E, dd.MM.y. – E, dd.MM.y. G",
-                  "M": "E, dd.MM.y. – E, dd.MM.y. G",
-                  "y": "E, dd.MM.y. – E, dd.MM.y. G"
+                  "d": "E, d.M.y. – E, d.M.y. G",
+                  "M": "E, d.M.y. – E, d.M.y. G",
+                  "y": "E, d.M.y. – E, d.M.y. G"
                 },
                 "yMMM": {
                   "M": "LLL–LLL y. G",
                   "y": "LLL y. – LLL y. G"
                 },
                 "yMMMd": {
-                  "d": "dd. – dd. MMM y. G",
-                  "M": "dd. MMM – dd. MMM y. G",
-                  "y": "dd. MMM y. – dd. MMM y. G"
+                  "d": "d. – d. MMM y. G",
+                  "M": "d. MMM – d. MMM y. G",
+                  "y": "G y MMM d – y MMM d"
                 },
                 "yMMMEd": {
                   "d": "E, dd. – E, dd. MMM y. G",
-                  "M": "E, dd. MMM – E, dd. MMM y. G",
-                  "y": "E, dd. MMM y. – E, dd. MMM y. G"
+                  "M": "E, d. MMM – E, d. MMM y. G",
+                  "y": "E, d. MMM y. – E, d. MMM y. G"
                 },
                 "yMMMM": {
                   "M": "LLLL – LLLL y. G",

@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "te"
       },
@@ -47,19 +47,19 @@
             "relative-type-0": "ఈ సంవత్సరం",
             "relative-type-1": "తదుపరి సంవత్సరం",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} సం.",
-              "relativeTimePattern-count-other": "+{0} సం."
+              "relativeTimePattern-count-one": "{0} సం.లో",
+              "relativeTimePattern-count-other": "{0} సం.లో"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} సం.",
-              "relativeTimePattern-count-other": "-{0} సం."
+              "relativeTimePattern-count-one": "{0} సం. క్రితం",
+              "relativeTimePattern-count-other": "{0} సం. క్రితం"
             }
           },
           "quarter": {
             "displayName": "త్రైమాసికం",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "గత త్రైమాసికం",
+            "relative-type-0": "ఈ త్రైమాసికం",
+            "relative-type-1": "తదుపరి త్రైమాసికం",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} త్రైమాసికంలో",
               "relativeTimePattern-count-other": "{0} త్రైమాసికాల్లో"
@@ -71,9 +71,9 @@
           },
           "quarter-short": {
             "displayName": "త్రై.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "గత త్రైమాసికం",
+            "relative-type-0": "ఈ త్రైమాసికం",
+            "relative-type-1": "తదుపరి త్రైమాసికం",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} త్రైమా.లో",
               "relativeTimePattern-count-other": "{0} త్రైమా.ల్లో"
@@ -85,16 +85,16 @@
           },
           "quarter-narrow": {
             "displayName": "త్రై.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "గత త్రైమాసికం",
+            "relative-type-0": "ఈ త్రైమాసికం",
+            "relative-type-1": "తదుపరి త్రైమాసికం",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} త్రై",
-              "relativeTimePattern-count-other": "+{0} త్రై"
+              "relativeTimePattern-count-one": "{0} త్రైమా.లో",
+              "relativeTimePattern-count-other": "{0} త్రైమా.ల్లో"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} త్రై",
-              "relativeTimePattern-count-other": "-{0} త్రై"
+              "relativeTimePattern-count-one": "{0} త్రైమా. క్రితం",
+              "relativeTimePattern-count-other": "{0} త్రైమా. క్రితం"
             }
           },
           "month": {
@@ -131,12 +131,12 @@
             "relative-type-0": "ఈ నెల",
             "relative-type-1": "తదుపరి నెల",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} నెల",
-              "relativeTimePattern-count-other": "+{0} నెలలు"
+              "relativeTimePattern-count-one": "{0} నెలలో",
+              "relativeTimePattern-count-other": "{0} నెలల్లో"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} నెల",
-              "relativeTimePattern-count-other": "-{0} నెలలు"
+              "relativeTimePattern-count-one": "{0} నెల క్రితం",
+              "relativeTimePattern-count-other": "{0} నెలల క్రితం"
             }
           },
           "week": {
@@ -151,7 +151,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} వారం క్రితం",
               "relativeTimePattern-count-other": "{0} వారాల క్రితం"
-            }
+            },
+            "relativePeriod": "{0} రోజు"
           },
           "week-short": {
             "displayName": "వారము",
@@ -165,7 +166,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} వారం క్రితం",
               "relativeTimePattern-count-other": "{0} వారాల క్రితం"
-            }
+            },
+            "relativePeriod": "{0} రోజు"
           },
           "week-narrow": {
             "displayName": "వా",
@@ -173,13 +175,14 @@
             "relative-type-0": "ఈ వారం",
             "relative-type-1": "తదుపరి వారం",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} వా.",
-              "relativeTimePattern-count-other": "+{0} వా."
+              "relativeTimePattern-count-one": "{0} వారంలో",
+              "relativeTimePattern-count-other": "{0} వారాల్లో"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} వా.",
-              "relativeTimePattern-count-other": "-{0} వా."
-            }
+              "relativeTimePattern-count-one": "{0} వారం క్రితం",
+              "relativeTimePattern-count-other": "{0} వారాల క్రితం"
+            },
+            "relativePeriod": "{0} రోజు"
           },
           "day": {
             "displayName": "దినం",
@@ -222,11 +225,11 @@
             "relative-type-2": "ఎల్లుండి",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} రోజు",
-              "relativeTimePattern-count-other": "+{0} రోజులు"
+              "relativeTimePattern-count-other": "{0} రోజుల్లో"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} రోజు",
-              "relativeTimePattern-count-other": "-{0} రోజులు"
+              "relativeTimePattern-count-one": "{0} రోజుల క్రితం",
+              "relativeTimePattern-count-other": "{0} రోజుల క్రితం"
             }
           },
           "weekday": {
@@ -235,113 +238,282 @@
           "sun": {
             "relative-type--1": "గత ఆదివారం",
             "relative-type-0": "ఈ ఆదివారం",
-            "relative-type-1": "తదుపరి ఆదివారం"
+            "relative-type-1": "తదుపరి ఆదివారం",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ఆదివారంలో",
+              "relativeTimePattern-count-other": "{0} ఆదివారాల్లో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ఆదివారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} ఆదివారాల క్రితం"
+            }
           },
           "sun-short": {
             "relative-type--1": "గత ఆది.",
             "relative-type-0": "ఈ ఆది.",
-            "relative-type-1": "తదుపరి ఆది."
+            "relative-type-1": "తదుపరి ఆది.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ఆదివారాల్లో",
+              "relativeTimePattern-count-other": "{0} ఆదివారాల్లో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ఆదివారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} ఆదివారాల క్రితం"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "గత ఆ",
             "relative-type-0": "ఈ ఆ",
-            "relative-type-1": "తదుపరి ఆ"
+            "relative-type-1": "తదుపరి ఆ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ఆదివారాల్లో",
+              "relativeTimePattern-count-other": "{0} ఆదివారాల్లో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ఆదివారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} ఆదివారాల క్రితం"
+            }
           },
           "mon": {
             "relative-type--1": "గత సోమవారం",
             "relative-type-0": "ఈ సోమవారం",
-            "relative-type-1": "తదుపరి సోమవారం"
+            "relative-type-1": "తదుపరి సోమవారం",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} సోమవారంలో",
+              "relativeTimePattern-count-other": "{0} సోమవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} సోమవారం క్రితం",
+              "relativeTimePattern-count-other": "{0} సోమవారాల క్రితం"
+            }
           },
           "mon-short": {
             "relative-type--1": "గత సోమ.",
             "relative-type-0": "ఈ సోమ.",
-            "relative-type-1": "తదుపరి సోమ."
+            "relative-type-1": "తదుపరి సోమ.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} సోమవారాలలో",
+              "relativeTimePattern-count-other": "{0} సోమవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} సోమవారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} సోమవారాల క్రితం"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "గత సో",
             "relative-type-0": "ఈ సో",
-            "relative-type-1": "తదుపరి సో"
+            "relative-type-1": "తదుపరి సో",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} సోమవారాలలో",
+              "relativeTimePattern-count-other": "{0} సోమవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} సోమవారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} సోమవారాల క్రితం"
+            }
           },
           "tue": {
             "relative-type--1": "గత మంగళవారం",
             "relative-type-0": "ఈ మంగళవారం",
-            "relative-type-1": "తదుపరి మంగళవారం"
+            "relative-type-1": "తదుపరి మంగళవారం",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} మంగళవారంలో",
+              "relativeTimePattern-count-other": "{0} మంగళవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} మంగళవారం క్రితం",
+              "relativeTimePattern-count-other": "{0} మంగళవారాల క్రితం"
+            }
           },
           "tue-short": {
             "relative-type--1": "గత మంగళ.",
             "relative-type-0": "ఈ మంగళ.",
-            "relative-type-1": "తదుపరి మంగళ."
+            "relative-type-1": "తదుపరి మంగళ.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} మంగళవారాలలో",
+              "relativeTimePattern-count-other": "{0} మంగళవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} మంగళవారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} మంగళవారాల క్రితం"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "గత మం",
             "relative-type-0": "ఈ మం",
-            "relative-type-1": "తదుపరి మం"
+            "relative-type-1": "తదుపరి మం",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} మంగళవారాలలో",
+              "relativeTimePattern-count-other": "{0} మంగళవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} మంగళవారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} మంగళవారాల క్రితం"
+            }
           },
           "wed": {
             "relative-type--1": "గత బుధవారం",
             "relative-type-0": "ఈ బుధవారం",
-            "relative-type-1": "తదుపరి బుధవారం"
+            "relative-type-1": "తదుపరి బుధవారం",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} బుధవారంలో",
+              "relativeTimePattern-count-other": "{0} బుధవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} బుధవారం క్రితం",
+              "relativeTimePattern-count-other": "{0} బుధవారాల క్రితం"
+            }
           },
           "wed-short": {
             "relative-type--1": "గత బుధ.",
             "relative-type-0": "ఈ బుధ.",
-            "relative-type-1": "తదుపరి బుధ."
+            "relative-type-1": "తదుపరి బుధ.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} బుధవారాలలో",
+              "relativeTimePattern-count-other": "{0} బుధవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} బుధవారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} బుధవారాల క్రితం"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "గత బు",
             "relative-type-0": "ఈ బు",
-            "relative-type-1": "తదుపరి బు"
+            "relative-type-1": "తదుపరి బు",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} బుధవారాలలో",
+              "relativeTimePattern-count-other": "{0} బుధవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} బుధవారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} బుధవారాల క్రితం"
+            }
           },
           "thu": {
             "relative-type--1": "గత గురువారం",
             "relative-type-0": "ఈ గురువారం",
-            "relative-type-1": "తదుపరి గురువారం"
+            "relative-type-1": "తదుపరి గురువారం",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} గురువారంలో",
+              "relativeTimePattern-count-other": "{0} గురువారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} గురువారం క్రితం",
+              "relativeTimePattern-count-other": "{0} గురువారాల క్రితం"
+            }
           },
           "thu-short": {
             "relative-type--1": "గత గురు.",
             "relative-type-0": "ఈ గురు.",
-            "relative-type-1": "తదుపరి గురు."
+            "relative-type-1": "తదుపరి గురు.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} గురువారాలలో",
+              "relativeTimePattern-count-other": "{0} గురువారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} గురువారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} గురువారాల క్రితం"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "గత గు",
             "relative-type-0": "ఈ గు",
-            "relative-type-1": "తదుపరి గు"
+            "relative-type-1": "తదుపరి గు",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} గురువారాలలో",
+              "relativeTimePattern-count-other": "{0} గురువారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} గురువారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} గురువారాల క్రితం"
+            }
           },
           "fri": {
             "relative-type--1": "గత శుక్రవారం",
             "relative-type-0": "ఈ శుక్రవారం",
-            "relative-type-1": "తదుపరి శుక్రవారం"
+            "relative-type-1": "తదుపరి శుక్రవారం",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} శుక్రవారంలో",
+              "relativeTimePattern-count-other": "{0} శుక్రవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} శుక్రవారం క్రితం",
+              "relativeTimePattern-count-other": "{0} శుక్రవారాల క్రితం"
+            }
           },
           "fri-short": {
             "relative-type--1": "గత శుక్ర.",
             "relative-type-0": "ఈ శుక్ర.",
-            "relative-type-1": "తదుపరి శుక్ర."
+            "relative-type-1": "తదుపరి శుక్ర.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} శుక్రవారాలలో",
+              "relativeTimePattern-count-other": "{0} శుక్రవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} శుక్రవారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} శుక్రవారాల క్రితం"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "గత శు",
             "relative-type-0": "ఈ శు",
-            "relative-type-1": "తదుపరి శు"
+            "relative-type-1": "తదుపరి శు",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} శుక్రవారాలలో",
+              "relativeTimePattern-count-other": "{0} శుక్రవారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} శుక్రవారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} శుక్రవారాల క్రితం"
+            }
           },
           "sat": {
             "relative-type--1": "గత శనివారం",
             "relative-type-0": "ఈ శనివారం",
-            "relative-type-1": "తదుపరి శనివారం"
+            "relative-type-1": "తదుపరి శనివారం",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} శనివారంలో",
+              "relativeTimePattern-count-other": "{0} శనివారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} శనివారం క్రితం",
+              "relativeTimePattern-count-other": "{0} శనివారాల క్రితం"
+            }
           },
           "sat-short": {
             "relative-type--1": "గత శని.",
             "relative-type-0": "ఈ శని.",
-            "relative-type-1": "తదుపరి శని."
+            "relative-type-1": "తదుపరి శని.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} శనివారాలలో",
+              "relativeTimePattern-count-other": "{0} శనివారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} శనివారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} శనివారాల క్రితం"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "గత శ",
             "relative-type-0": "ఈ శ",
-            "relative-type-1": "తదుపరి శ"
+            "relative-type-1": "తదుపరి శ",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} శనివారాలలో",
+              "relativeTimePattern-count-other": "{0} శనివారాలలో"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} శనివారాల క్రితం",
+              "relativeTimePattern-count-other": "{0} శనివారాల క్రితం"
+            }
           },
           "dayperiod": {
-            "displayName": "[AM/PM]"
+            "displayName": "AM/PM"
           },
           "hour": {
             "displayName": "గంట",
+            "relative-type-0": "ఈ గంట",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} గంటలో",
               "relativeTimePattern-count-other": "{0} గంటల్లో"
@@ -353,6 +525,7 @@
           },
           "hour-short": {
             "displayName": "గం.",
+            "relative-type-0": "ఈ గంట",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} గం.లో",
               "relativeTimePattern-count-other": "{0} గం.లో"
@@ -364,17 +537,19 @@
           },
           "hour-narrow": {
             "displayName": "గం",
+            "relative-type-0": "ఈ గంట",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} గం",
-              "relativeTimePattern-count-other": "+{0} గం"
+              "relativeTimePattern-count-one": "{0} గం.లో",
+              "relativeTimePattern-count-other": "{0} గం.లో"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} గం",
-              "relativeTimePattern-count-other": "-{0} గం"
+              "relativeTimePattern-count-one": "{0} గంట క్రితం",
+              "relativeTimePattern-count-other": "{0} గం. క్రితం"
             }
           },
           "minute": {
             "displayName": "నిమిషము",
+            "relative-type-0": "ఈ నిమిషం",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} నిమిషంలో",
               "relativeTimePattern-count-other": "{0} నిమిషాల్లో"
@@ -386,6 +561,7 @@
           },
           "minute-short": {
             "displayName": "నిమి.",
+            "relative-type-0": "ఈ నిమిషం",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} నిమి.లో",
               "relativeTimePattern-count-other": "{0} నిమి.లో"
@@ -397,6 +573,7 @@
           },
           "minute-narrow": {
             "displayName": "ని",
+            "relative-type-0": "ఈ నిమిషం",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} ని",
               "relativeTimePattern-count-other": "+{0} ని"
@@ -407,10 +584,10 @@
             }
           },
           "second": {
-            "displayName": "క్షణం",
+            "displayName": "సెకను",
             "relative-type-0": "ప్రస్తుతం",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} సెకన్‌లో",
+              "relativeTimePattern-count-one": "{0} సెకనులో",
               "relativeTimePattern-count-other": "{0} సెకన్లలో"
             },
             "relativeTime-type-past": {
@@ -419,7 +596,7 @@
             }
           },
           "second-short": {
-            "displayName": "క్ష.",
+            "displayName": "సెక.",
             "relative-type-0": "ప్రస్తుతం",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} సెక. లో",
@@ -431,15 +608,15 @@
             }
           },
           "second-narrow": {
-            "displayName": "క్ష",
+            "displayName": "సెక.",
             "relative-type-0": "ప్రస్తుతం",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} సె",
-              "relativeTimePattern-count-other": "+{0} సె"
+              "relativeTimePattern-count-other": "{0} సెక. లో"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} సె క్రితం",
-              "relativeTimePattern-count-other": "-{0} సె క్రితం"
+              "relativeTimePattern-count-one": "{0} సెకను క్రితం",
+              "relativeTimePattern-count-other": "{0} సెక. క్రితం"
             }
           },
           "zone": {

@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pa"
       },
@@ -236,19 +236,19 @@
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਸ.",
                   "pm": "ਸ਼.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪ.",
-                  "evening1": "ਸ਼ਾਮ",
-                  "night1": "ਰਾਤ"
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
+                  "evening1": "ਸ਼ਾਮੀਂ",
+                  "night1": "ਰਾਤੀਂ"
                 },
                 "wide": {
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਪੂ.ਦੁ.",
                   "pm": "ਬਾ.ਦੁ.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪਹਿਰ",
-                  "evening1": "ਸ਼ਾਮ",
-                  "night1": "ਰਾਤ"
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
+                  "evening1": "ਸ਼ਾਮੀਂ",
+                  "night1": "ਰਾਤੀਂ"
                 }
               },
               "stand-alone": {
@@ -256,26 +256,26 @@
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਪੂ.ਦੁ.",
                   "pm": "ਬਾ.ਦੁ.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪਹਿਰ",
-                  "evening1": "ਸ਼ਾਮ",
-                  "night1": "ਰਾਤ"
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
+                  "evening1": "ਸ਼ਾਮੀਂ",
+                  "night1": "ਰਾਤੀਂ"
                 },
                 "narrow": {
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਪੂ.ਦੁ.",
                   "pm": "ਬਾ.ਦੁ.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪਹਿਰ",
-                  "evening1": "ਸ਼ਾਮ",
-                  "night1": "ਰਾਤ"
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
+                  "evening1": "ਸ਼ਾਮੀਂ",
+                  "night1": "ਰਾਤੀਂ"
                 },
                 "wide": {
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਪੂ.ਦੁ.",
                   "pm": "ਬਾ.ਦੁ.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪਹਿਰ",
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
                   "evening1": "ਸ਼ਾਮ",
                   "night1": "ਰਾਤ"
                 }

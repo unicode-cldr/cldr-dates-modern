@@ -3,18 +3,18 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mn"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Эрин"
+            "displayName": "эрин"
           },
           "year": {
-            "displayName": "Жил",
+            "displayName": "жил",
             "relative-type--1": "өнгөрсөн жил",
             "relative-type-0": "энэ жил",
             "relative-type-1": "ирэх жил",
@@ -28,38 +28,38 @@
             }
           },
           "year-short": {
-            "displayName": "жл.",
+            "displayName": "жил",
             "relative-type--1": "өнгөрсөн жил",
             "relative-type-0": "энэ жил",
             "relative-type-1": "ирэх жил",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} жл. дараа",
-              "relativeTimePattern-count-other": "{0} жл. дараа"
+              "relativeTimePattern-count-one": "{0} жилийн дараа",
+              "relativeTimePattern-count-other": "{0} жилийн дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} жл. өмнө",
-              "relativeTimePattern-count-other": "{0} жл. өмнө"
+              "relativeTimePattern-count-one": "{0} жилийн өмнө",
+              "relativeTimePattern-count-other": "{0} жилийн өмнө"
             }
           },
           "year-narrow": {
-            "displayName": "жл.",
+            "displayName": "жил",
             "relative-type--1": "өнгөрсөн жил",
             "relative-type-0": "энэ жил",
             "relative-type-1": "ирэх жил",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} жл.",
-              "relativeTimePattern-count-other": "+{0} жл."
+              "relativeTimePattern-count-one": "+{0} жилд",
+              "relativeTimePattern-count-other": "+{0} жилд"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} жл.",
-              "relativeTimePattern-count-other": "-{0} жл."
+              "relativeTimePattern-count-one": "-{0} жил.н өмнө",
+              "relativeTimePattern-count-other": "-{0} жил.н өмнө"
             }
           },
           "quarter": {
-            "displayName": "Улирал",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "улирал",
+            "relative-type--1": "өнгөрсөн улирал",
+            "relative-type-0": "энэ улирал",
+            "relative-type-1": "дараагийн улирал",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} улирлын дараа",
               "relativeTimePattern-count-other": "{0} улирлын дараа"
@@ -70,35 +70,35 @@
             }
           },
           "quarter-short": {
-            "displayName": "улрл.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "улирал",
+            "relative-type--1": "өнгөрсөн улирал",
+            "relative-type-0": "энэ улирал",
+            "relative-type-1": "дараагийн улирал",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} улрл. дараа",
-              "relativeTimePattern-count-other": "{0} улрл. дараа"
+              "relativeTimePattern-count-one": "{0} улирлын дараа",
+              "relativeTimePattern-count-other": "{0} улирлын дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} улрл. өмнө",
-              "relativeTimePattern-count-other": "{0} улрл. өмнө"
+              "relativeTimePattern-count-one": "{0} улирлын өмнө",
+              "relativeTimePattern-count-other": "{0} улирлын өмнө"
             }
           },
           "quarter-narrow": {
-            "displayName": "улрл.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "улирал",
+            "relative-type--1": "өнгөрсөн улирал",
+            "relative-type-0": "энэ улирал",
+            "relative-type-1": "дараагийн улирал",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} У",
-              "relativeTimePattern-count-other": "+{0} У"
+              "relativeTimePattern-count-one": "{0} улирлын дараа",
+              "relativeTimePattern-count-other": "{0} улирлын дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} У",
-              "relativeTimePattern-count-other": "-{0} У"
+              "relativeTimePattern-count-one": "{0} улирлын өмнө",
+              "relativeTimePattern-count-other": "{0} улирлын өмнө"
             }
           },
           "month": {
-            "displayName": "Сар",
+            "displayName": "сар",
             "relative-type--1": "өнгөрсөн сар",
             "relative-type-0": "энэ сар",
             "relative-type-1": "ирэх сар",
@@ -112,77 +112,80 @@
             }
           },
           "month-short": {
-            "displayName": "ср.",
+            "displayName": "сар",
             "relative-type--1": "өнгөрсөн сар",
             "relative-type-0": "энэ сар",
             "relative-type-1": "ирэх сар",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ср. дараа",
-              "relativeTimePattern-count-other": "{0} ср. дараа"
+              "relativeTimePattern-count-one": "{0} сарын дараа",
+              "relativeTimePattern-count-other": "{0} сарын дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} ср. өмнө",
-              "relativeTimePattern-count-other": "{0} ср. өмнө"
+              "relativeTimePattern-count-one": "{0} сарын өмнө",
+              "relativeTimePattern-count-other": "{0} сарын өмнө"
             }
           },
           "month-narrow": {
-            "displayName": "ср.",
+            "displayName": "сар",
             "relative-type--1": "өнгөрсөн сар",
             "relative-type-0": "энэ сар",
             "relative-type-1": "ирэх сар",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} ср.",
-              "relativeTimePattern-count-other": "+{0} ср."
+              "relativeTimePattern-count-one": "+{0} сард",
+              "relativeTimePattern-count-other": "+{0} сард"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} ср.",
-              "relativeTimePattern-count-other": "-{0} ср."
+              "relativeTimePattern-count-one": "{0} сарын өмнө",
+              "relativeTimePattern-count-other": "{0} сарын өмнө"
             }
           },
           "week": {
-            "displayName": "Долоо хоног",
+            "displayName": "долоо хоног",
             "relative-type--1": "өнгөрсөн долоо хоног",
             "relative-type-0": "энэ долоо хоног",
             "relative-type-1": "ирэх долоо хоног",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} долоо хоногийн дараа",
-              "relativeTimePattern-count-other": "{0} долоо хоногийн дараа"
+              "relativeTimePattern-count-one": "{0} 7х-ийн дараа",
+              "relativeTimePattern-count-other": "{0} 7х-ийн дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} долоо хоногийн өмнө",
-              "relativeTimePattern-count-other": "{0} долоо хоногийн өмнө"
-            }
+              "relativeTimePattern-count-one": "{0} 7х-ийн өмнө",
+              "relativeTimePattern-count-other": "{0} 7х-ийн өмнө"
+            },
+            "relativePeriod": "{0} дэх долоо хоног"
           },
           "week-short": {
-            "displayName": "дх.",
+            "displayName": "7х",
             "relative-type--1": "өнгөрсөн долоо хоног",
             "relative-type-0": "энэ долоо хоног",
             "relative-type-1": "ирэх долоо хоног",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} дх. дараа",
-              "relativeTimePattern-count-other": "{0} дх. дараа"
+              "relativeTimePattern-count-one": "{0} 7х-ийн дараа",
+              "relativeTimePattern-count-other": "{0} 7х-ийн дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} дх. өмнө",
-              "relativeTimePattern-count-other": "{0} дх. өмнө"
-            }
+              "relativeTimePattern-count-one": "{0} 7х-ийн өмнө",
+              "relativeTimePattern-count-other": "{0} 7х-ийн өмнө"
+            },
+            "relativePeriod": "{0} дэх долоо хоног"
           },
           "week-narrow": {
-            "displayName": "дх.",
+            "displayName": "7х",
             "relative-type--1": "өнгөрсөн долоо хоног",
             "relative-type-0": "энэ долоо хоног",
             "relative-type-1": "ирэх долоо хоног",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} дх.",
-              "relativeTimePattern-count-other": "+{0} дх."
+              "relativeTimePattern-count-one": "{0} 7х-ийн дараа",
+              "relativeTimePattern-count-other": "{0} 7х-ийн дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} дх.",
-              "relativeTimePattern-count-other": "-{0} дх."
-            }
+              "relativeTimePattern-count-one": "{0} 7х-ийн өмнө",
+              "relativeTimePattern-count-other": "{0} 7х-ийн өмнө"
+            },
+            "relativePeriod": "{0} дэх долоо хоног"
           },
           "day": {
-            "displayName": "Өдөр",
+            "displayName": "өдөр",
             "relative-type--2": "уржигдар",
             "relative-type--1": "өчигдөр",
             "relative-type-0": "өнөөдөр",
@@ -198,15 +201,15 @@
             }
           },
           "day-short": {
-            "displayName": "Өдөр",
+            "displayName": "өдөр",
             "relative-type--2": "уржигдар",
             "relative-type--1": "өчигдөр",
             "relative-type-0": "өнөөдөр",
             "relative-type-1": "маргааш",
             "relative-type-2": "нөгөөдөр",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} өдрийн дараа",
-              "relativeTimePattern-count-other": "{0} өдрийн дараа"
+              "relativeTimePattern-count-one": "{0} өдөрт",
+              "relativeTimePattern-count-other": "{0} өдөрт"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} өдрийн өмнө",
@@ -214,134 +217,303 @@
             }
           },
           "day-narrow": {
-            "displayName": "Өдөр",
+            "displayName": "өдөр",
             "relative-type--2": "уржигдар",
             "relative-type--1": "өчигдөр",
             "relative-type-0": "өнөөдөр",
             "relative-type-1": "маргааш",
             "relative-type-2": "нөгөөдөр",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} өдөр",
-              "relativeTimePattern-count-other": "+{0} өдөр"
+              "relativeTimePattern-count-one": "{0} өдөрт",
+              "relativeTimePattern-count-other": "{0} өдөрт"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} өдөр",
-              "relativeTimePattern-count-other": "-{0} өдөр"
+              "relativeTimePattern-count-one": "{0} өдрийн өмнө",
+              "relativeTimePattern-count-other": "{0} өдрийн өмнө"
             }
           },
           "weekday": {
-            "displayName": "Гараг"
+            "displayName": "гараг"
           },
           "sun": {
             "relative-type--1": "өнгөрсөн ням гараг",
             "relative-type-0": "энэ ням гараг",
-            "relative-type-1": "ирэх ням гараг"
+            "relative-type-1": "ирэх ням гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ням гарагт",
+              "relativeTimePattern-count-other": "{0} ням гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ням гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} ням гарагийн өмнө"
+            }
           },
           "sun-short": {
             "relative-type--1": "өнгөрсөн ням.",
             "relative-type-0": "энэ ням.",
-            "relative-type-1": "ирэх ням."
+            "relative-type-1": "ирэх ням.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ням гарагт",
+              "relativeTimePattern-count-other": "{0} ням гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ням гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} ням гарагийн өмнө"
+            }
           },
           "sun-narrow": {
-            "relative-type--1": "өнгөрсөн ня",
-            "relative-type-0": "энэ ня",
-            "relative-type-1": "ирэх ня"
+            "relative-type--1": "өнгөрсөн ням.",
+            "relative-type-0": "энэ ням",
+            "relative-type-1": "ирэх ням.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ням гарагт",
+              "relativeTimePattern-count-other": "{0} ням гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} ням гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} ням гарагийн өмнө"
+            }
           },
           "mon": {
             "relative-type--1": "өнгөрсөн даваа гараг",
             "relative-type-0": "энэ даваа гараг",
-            "relative-type-1": "ирэх даваа гараг"
+            "relative-type-1": "ирэх даваа гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} даваа гарагт",
+              "relativeTimePattern-count-other": "{0} даваа гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} даваа гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} даваа гарагийн өмнө"
+            }
           },
           "mon-short": {
-            "relative-type--1": "өнгөрсөн дав.",
-            "relative-type-0": "энэ дав.",
-            "relative-type-1": "ирэх дав."
+            "relative-type--1": "өнгөрсөн даваа",
+            "relative-type-0": "энэ даваа гараг",
+            "relative-type-1": "ирэх даваа гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} даваа гарагт",
+              "relativeTimePattern-count-other": "{0} даваа гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} даваа гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} даваа гарагийн өмнө"
+            }
           },
           "mon-narrow": {
-            "relative-type--1": "өнгөрсөн да",
-            "relative-type-0": "энэ да",
-            "relative-type-1": "ирэх да"
+            "relative-type--1": "өнгөрсөн даваа",
+            "relative-type-0": "энэ даваа",
+            "relative-type-1": "ирэх даваа",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} даваа гарагт",
+              "relativeTimePattern-count-other": "{0} даваа гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} даваа гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} даваа гарагийн өмнө"
+            }
           },
           "tue": {
             "relative-type--1": "өнгөрсөн мягмар гараг",
             "relative-type-0": "энэ мягмар гараг",
-            "relative-type-1": "ирэх мягмар гараг"
+            "relative-type-1": "ирэх мягмар гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} мягмар гарагт",
+              "relativeTimePattern-count-other": "{0} мягмар гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} мягмар гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} мягмар гарагийн өмнө"
+            }
           },
           "tue-short": {
-            "relative-type--1": "өнгөрсөн мяг.",
-            "relative-type-0": "энэ мяг.",
-            "relative-type-1": "ирэх мяг."
+            "relative-type--1": "өнгөрсөн мягмар",
+            "relative-type-0": "энэ мягмар",
+            "relative-type-1": "ирэх мягмар",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} мягмар гарагт",
+              "relativeTimePattern-count-other": "{0} мягмар гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} мягмар гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} мягмар гарагийн өмнө"
+            }
           },
           "tue-narrow": {
-            "relative-type--1": "өнгөрсөн мя",
-            "relative-type-0": "энэ мя",
-            "relative-type-1": "ирэх мя"
+            "relative-type--1": "өнгөрсөн мягмар",
+            "relative-type-0": "энэ мягмар",
+            "relative-type-1": "ирэх мягмар",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} мягмар гарагт",
+              "relativeTimePattern-count-other": "{0} мягмар гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} мягмар гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} мягмар гарагийн өмнө"
+            }
           },
           "wed": {
             "relative-type--1": "өнгөрсөн лхагва гараг",
             "relative-type-0": "энэ лхагва гараг",
-            "relative-type-1": "ирэх лхагва гараг"
+            "relative-type-1": "ирэх лхагва гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} лхагва гарагт",
+              "relativeTimePattern-count-other": "{0} лхагва гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} лхагва гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} лхагва гарагийн өмнө"
+            }
           },
           "wed-short": {
-            "relative-type--1": "өнгөрсөн лха.",
-            "relative-type-0": "энэ лха.",
-            "relative-type-1": "ирэх лха."
+            "relative-type--1": "өнгөрсөн лхагва",
+            "relative-type-0": "энэ лхагва",
+            "relative-type-1": "ирэх лхагва",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} лхагва гарагт",
+              "relativeTimePattern-count-other": "{0} лхагва гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} лхагва гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} лхагва гарагийн өмнө"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "өнгөрсөн лх",
             "relative-type-0": "энэ лх",
-            "relative-type-1": "ирэх лх"
+            "relative-type-1": "ирэх лх",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} лхагва гарагт",
+              "relativeTimePattern-count-other": "{0} лхагва гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} лхагва гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} лхагва гарагийн өмнө"
+            }
           },
           "thu": {
             "relative-type--1": "өнгөрсөн пүрэв гараг",
             "relative-type-0": "энэ пүрэв гараг",
-            "relative-type-1": "ирэх пүрэв гараг"
+            "relative-type-1": "ирэх пүрэв гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} пүрэв гарагт",
+              "relativeTimePattern-count-other": "{0} пүрэв гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} пүрэв гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} пүрэв гарагийн өмнө"
+            }
           },
           "thu-short": {
-            "relative-type--1": "өнгөрсөн пүр.",
-            "relative-type-0": "энэ пүр.",
-            "relative-type-1": "ирэх пүр."
+            "relative-type--1": "өнгөрсөн пүрэв",
+            "relative-type-0": "энэ пүрэв",
+            "relative-type-1": "ирэх пүрэв",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} пүрэв гарагт",
+              "relativeTimePattern-count-other": "{0} пүрэв гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} пүрэв гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} пүрэв гарагийн өмнө"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "өнгөрсөн пү",
             "relative-type-0": "энэ пү",
-            "relative-type-1": "ирэх пү"
+            "relative-type-1": "ирэх пү",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} пүрэв гарагт",
+              "relativeTimePattern-count-other": "{0} пүрэв гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} пүрэв гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} пүрэв гарагийн өмнө"
+            }
           },
           "fri": {
             "relative-type--1": "өнгөрсөн баасан гараг",
             "relative-type-0": "энэ баасан гараг",
-            "relative-type-1": "ирэх баасан гараг"
+            "relative-type-1": "ирэх баасан гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} баасан гарагт",
+              "relativeTimePattern-count-other": "{0} баасан гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} баасан гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} баасан гарагийн өмнө"
+            }
           },
           "fri-short": {
-            "relative-type--1": "өнгөрсөн баа.",
-            "relative-type-0": "энэ баа.",
-            "relative-type-1": "ирэх баа."
+            "relative-type--1": "өнгөрсөн баасан гараг",
+            "relative-type-0": "энэ баасан гараг",
+            "relative-type-1": "ирэх баасан гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} баасан гарагт",
+              "relativeTimePattern-count-other": "{0} баасан гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} баасан гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} баасан гарагийн өмнө"
+            }
           },
           "fri-narrow": {
-            "relative-type--1": "өнгөрсөн ба",
-            "relative-type-0": "энэ ба",
-            "relative-type-1": "ирэх ба"
+            "relative-type--1": "өнгөрсөн баасан гараг",
+            "relative-type-0": "энэ баасан гараг",
+            "relative-type-1": "ирэх баасан гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} баасан гарагт",
+              "relativeTimePattern-count-other": "{0} баасан гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} баасан гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} баасан гарагийн өмнө"
+            }
           },
           "sat": {
             "relative-type--1": "өнгөрсөн бямба гараг",
             "relative-type-0": "энэ бямба гараг",
-            "relative-type-1": "ирэх бямба гараг"
+            "relative-type-1": "ирэх бямба гараг",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} бямба гарагт",
+              "relativeTimePattern-count-other": "{0} бямба гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} бямба гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} бямба гарагийн өмнө"
+            }
           },
           "sat-short": {
-            "relative-type--1": "өнгөрсөн бям.",
-            "relative-type-0": "энэ бям.",
-            "relative-type-1": "ирэх бям."
+            "relative-type--1": "өнгөрсөн бямба",
+            "relative-type-0": "энэ бямба",
+            "relative-type-1": "ирэх бямба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} бямба гарагт",
+              "relativeTimePattern-count-other": "{0} бямба гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} бямба гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} бямба гарагийн өмнө"
+            }
           },
           "sat-narrow": {
-            "relative-type--1": "өнгөрсөн бя",
-            "relative-type-0": "энэ бя",
-            "relative-type-1": "ирэх бя"
+            "relative-type--1": "өнгөрсөн бямба",
+            "relative-type-0": "энэ бямба",
+            "relative-type-1": "ирэх бямба",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} бямба гарагт",
+              "relativeTimePattern-count-other": "{0} бямба гарагт"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} бямба гарагийн өмнө",
+              "relativeTimePattern-count-other": "{0} бямба гарагийн өмнө"
+            }
           },
           "dayperiod": {
-            "displayName": "ҮӨ/ҮХ"
+            "displayName": "ү.ө./ү.х."
           },
           "hour": {
-            "displayName": "Цаг",
+            "displayName": "цаг",
+            "relative-type-0": "энэ цаг",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} цагийн дараа",
               "relativeTimePattern-count-other": "{0} цагийн дараа"
@@ -353,6 +525,7 @@
           },
           "hour-short": {
             "displayName": "ц.",
+            "relative-type-0": "энэ цаг",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ц. дараа",
               "relativeTimePattern-count-other": "{0} ц. дараа"
@@ -364,17 +537,19 @@
           },
           "hour-narrow": {
             "displayName": "ц.",
+            "relative-type-0": "энэ цаг",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} ц",
-              "relativeTimePattern-count-other": "+{0} ц"
+              "relativeTimePattern-count-one": "{0} ц. дараа",
+              "relativeTimePattern-count-other": "{0} ц. дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} ц",
-              "relativeTimePattern-count-other": "-{0} ц"
+              "relativeTimePattern-count-one": "{0} ц. өмнө",
+              "relativeTimePattern-count-other": "{0} ц. өмнө"
             }
           },
           "minute": {
-            "displayName": "Минут",
+            "displayName": "минут",
+            "relative-type-0": "энэ минут",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} минутын дараа",
               "relativeTimePattern-count-other": "{0} минутын дараа"
@@ -386,6 +561,7 @@
           },
           "minute-short": {
             "displayName": "мин.",
+            "relative-type-0": "энэ минут",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} мин. дараа",
               "relativeTimePattern-count-other": "{0} мин. дараа"
@@ -396,19 +572,20 @@
             }
           },
           "minute-narrow": {
-            "displayName": "м",
+            "displayName": "мин.",
+            "relative-type-0": "энэ минут",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} м",
-              "relativeTimePattern-count-other": "+{0} м"
+              "relativeTimePattern-count-one": "{0} мин. дараа",
+              "relativeTimePattern-count-other": "{0} мин. дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} м",
-              "relativeTimePattern-count-other": "-{0} м"
+              "relativeTimePattern-count-one": "{0} мин. өмнө",
+              "relativeTimePattern-count-other": "{0} мин. өмнө"
             }
           },
           "second": {
-            "displayName": "Секунд",
-            "relative-type-0": "Одоо",
+            "displayName": "секунд",
+            "relative-type-0": "одоо",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} секундын дараа",
               "relativeTimePattern-count-other": "{0} секундын дараа"
@@ -420,7 +597,7 @@
           },
           "second-short": {
             "displayName": "сек.",
-            "relative-type-0": "Одоо",
+            "relative-type-0": "одоо",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} сек. дараа",
               "relativeTimePattern-count-other": "{0} сек. дараа"
@@ -431,19 +608,19 @@
             }
           },
           "second-narrow": {
-            "displayName": "с",
-            "relative-type-0": "Одоо",
+            "displayName": "сек.",
+            "relative-type-0": "одоо",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} с",
-              "relativeTimePattern-count-other": "+{0} с"
+              "relativeTimePattern-count-one": "{0} сек. дараа",
+              "relativeTimePattern-count-other": "{0} сек. дараа"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} с",
-              "relativeTimePattern-count-other": "-{0} с"
+              "relativeTimePattern-count-one": "{0} сек. өмнө",
+              "relativeTimePattern-count-other": "{0} сек. өмнө"
             }
           },
           "zone": {
-            "displayName": "Цагийн бүс"
+            "displayName": "цагийн бүс"
           }
         }
       }

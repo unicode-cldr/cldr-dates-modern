@@ -3,8 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "fo"
       },
@@ -317,6 +317,8 @@
                 "MMMd": "d. MMM",
                 "MMMEd": "E d. MMM",
                 "MMMMd": "d. MMMM",
+                "MMMMW": "W. 'vika' 'í' MMM",
+                "MMMMW": "W. 'vika' 'í' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -327,7 +329,9 @@
                 "yMMMEd": "E d. MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ 'í' y",
-                "yQQQQ": "QQQQ 'í' y"
+                "yQQQQ": "QQQQ 'í' y",
+                "yw": "w. 'vika' 'í' y",
+                "yw": "w. 'vika' 'í' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

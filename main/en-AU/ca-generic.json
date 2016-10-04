@@ -3,8 +3,8 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12413 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12954 $",
+          "_cldrVersion": "30"
         },
         "language": "en",
         "territory": "AU"
@@ -255,19 +255,19 @@
                   "noon": "midday",
                   "pm": "pm",
                   "pm-alt-variant": "pm",
-                  "morning1": "morning",
-                  "afternoon1": "afternoon",
-                  "evening1": "evening",
-                  "night1": "night"
+                  "morning1": "in the morning",
+                  "afternoon1": "in the afternoon",
+                  "evening1": "in the evening",
+                  "night1": "at night"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "midnight",
-                  "am": "am",
+                  "am": "AM",
                   "am-alt-variant": "am",
                   "noon": "midday",
-                  "pm": "pm",
+                  "pm": "PM",
                   "pm-alt-variant": "pm",
                   "morning1": "morning",
                   "afternoon1": "afternoon",

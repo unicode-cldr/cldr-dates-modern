@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pl"
       },
@@ -489,7 +489,7 @@
                 "exemplarCity": "Madera"
               },
               "Reykjavik": {
-                "exemplarCity": "Rejkiawik"
+                "exemplarCity": "Reykjavik"
               },
               "South_Georgia": {
                 "exemplarCity": "Georgia Południowa"
@@ -507,6 +507,9 @@
               },
               "Andorra": {
                 "exemplarCity": "Andora"
+              },
+              "Astrakhan": {
+                "exemplarCity": "Astrachań"
               },
               "Athens": {
                 "exemplarCity": "Ateny"
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kijów"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirow"
               },
               "Lisbon": {
                 "exemplarCity": "Lizbona"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanowsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Użgorod"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnauł"
+              },
               "Beirut": {
                 "exemplarCity": "Bejrut"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ułan Bator"
@@ -1230,7 +1245,7 @@
                 "exemplarCity": "Palau"
               },
               "Pitcairn": {
-                "exemplarCity": "Wyspy Pitcairn"
+                "exemplarCity": "Pitcairn"
               },
               "Ponape": {
                 "exemplarCity": "Pohnpei"
@@ -1270,10 +1285,10 @@
             },
             "Antarctica": {
               "Casey": {
-                "exemplarCity": "Stacja Casey"
+                "exemplarCity": "Casey"
               },
               "Davis": {
-                "exemplarCity": "Stacja Davis"
+                "exemplarCity": "Davis"
               },
               "DumontDUrville": {
                 "exemplarCity": "Dumont d’Urville"
@@ -1282,19 +1297,19 @@
                 "exemplarCity": "Macquarie"
               },
               "Mawson": {
-                "exemplarCity": "Wybrzeże Mawsona"
+                "exemplarCity": "Mawson"
               },
               "McMurdo": {
-                "exemplarCity": "Mc Murdo"
+                "exemplarCity": "McMurdo"
               },
               "Palmer": {
-                "exemplarCity": "Archipelag Palmera"
+                "exemplarCity": "Palmer"
               },
               "Rothera": {
-                "exemplarCity": "Stacja Naukowa Rothera"
+                "exemplarCity": "Rothera"
               },
               "Syowa": {
-                "exemplarCity": "Stacja Syowa"
+                "exemplarCity": "Syowa"
               },
               "Troll": {
                 "exemplarCity": "Troll"
@@ -1386,7 +1401,7 @@
                 "exemplarCity": "GMT-9"
               },
               "Unknown": {
-                "exemplarCity": "Nieznane"
+                "exemplarCity": "Nieznane miasto"
               }
             }
           },
@@ -1420,7 +1435,7 @@
             },
             "Alaska": {
               "long": {
-                "generic": "Czas Alaska",
+                "generic": "Alaska",
                 "standard": "Alaska (czas standardowy)",
                 "daylight": "Alaska (czas letni)"
               }
@@ -1483,7 +1498,7 @@
             },
             "Argentina": {
               "long": {
-                "generic": "Czas argentyński",
+                "generic": "Argentyna",
                 "standard": "Argentyna (czas standardowy)",
                 "daylight": "Argentyna (czas letni)"
               }
@@ -1505,7 +1520,7 @@
             "Atlantic": {
               "long": {
                 "generic": "Czas atlantycki",
-                "standard": "Czas standardowy atlantycki",
+                "standard": "Czas atlantycki standardowy",
                 "daylight": "Czas atlantycki letni"
               }
             },
@@ -1525,9 +1540,9 @@
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "Czas wschodnioaustraliski",
-                "standard": "Czas standardowy wschodnioaustraliski",
-                "daylight": "Czas wschodnioaustraliski letni"
+                "generic": "Czas wschodnioaustralijski",
+                "standard": "Czas wschodnioaustralijski standardowy",
+                "daylight": "Czas wschodnioaustralijski letni"
               }
             },
             "Australia_Western": {
@@ -1582,9 +1597,9 @@
             },
             "Cape_Verde": {
               "long": {
-                "generic": "Republika Zielonego Przylądka",
-                "standard": "Republika Zielonego Przylądka (czas standardowy)",
-                "daylight": "Republika Zielonego Przylądka (czas letni)"
+                "generic": "Wyspy Zielonego Przylądka",
+                "standard": "Wyspy Zielonego Przylądka (czas standardowy)",
+                "daylight": "Wyspy Zielonego Przylądka (czas letni)"
               }
             },
             "Chamorro": {
@@ -2029,7 +2044,7 @@
             },
             "Newfoundland": {
               "long": {
-                "generic": "Czas nowofunlandzki",
+                "generic": "Nowa Fundlandia",
                 "standard": "Nowa Fundlandia (czas standardowy)",
                 "daylight": "Nowa Fundlandia (czas letni)"
               }
@@ -2123,6 +2138,11 @@
             "Ponape": {
               "long": {
                 "standard": "Pohnpei"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pjongjang"
               }
             },
             "Reunion": {

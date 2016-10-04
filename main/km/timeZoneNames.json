@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "km"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "អែលសាល់វ៉ាឌ័រ"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ហ្វតណេលសាន់"
               },
               "Fortaleza": {
                 "exemplarCity": "ហ្វ័រតាឡេហ្សារ"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "អង់ដូរ៉ា"
               },
+              "Astrakhan": {
+                "exemplarCity": "អាស្ត្រាខាន់"
+              },
               "Athens": {
                 "exemplarCity": "អាថែន"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "កៀវ"
+              },
+              "Kirov": {
+                "exemplarCity": "គីរ៉ូវ"
               },
               "Lisbon": {
                 "exemplarCity": "លីសបោន"
@@ -646,6 +652,9 @@
               "Tirane": {
                 "exemplarCity": "ទីរ៉ាណេ"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "អុលយ៉ានូវស៍"
+              },
               "Uzhgorod": {
                 "exemplarCity": "អ៊ុយហ្គោរ៉ូដ"
               },
@@ -674,7 +683,7 @@
                 "exemplarCity": "ហ្សាប៉ូរ៉ូហ្ស៊ីយ៉េ"
               },
               "Zurich": {
-                "exemplarCity": "សូរីច"
+                "exemplarCity": "ហ៊្សូរីច"
               }
             },
             "Africa": {
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "បាងកក"
               },
+              "Barnaul": {
+                "exemplarCity": "បានូល"
+              },
               "Beirut": {
                 "exemplarCity": "បេរូត"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "តូក្យូ"
+              },
+              "Tomsk": {
+                "exemplarCity": "ថមស៍"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "អ៊ូឡង់បាទ័រ"
@@ -2094,6 +2109,11 @@
             "Ponape": {
               "long": {
                 "standard": "ម៉ោង​នៅ​ប៉ូណាប់"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "ម៉ោងនៅព្យុងយ៉ាង"
               }
             },
             "Reunion": {

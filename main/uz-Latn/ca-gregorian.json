@@ -3,8 +3,8 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "uz",
         "script": "Latn"
@@ -51,25 +51,25 @@
                   "6": "iyun",
                   "7": "iyul",
                   "8": "avgust",
-                  "9": "Sentabr",
-                  "10": "Oktabr",
+                  "9": "sentabr",
+                  "10": "oktabr",
                   "11": "noyabr",
                   "12": "dekabr"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Yanv",
+                  "1": "Yan",
                   "2": "Fev",
                   "3": "Mar",
                   "4": "Apr",
                   "5": "May",
-                  "6": "Iyun",
-                  "7": "Iyul",
+                  "6": "Iyn",
+                  "7": "Iyl",
                   "8": "Avg",
                   "9": "Sen",
                   "10": "Okt",
-                  "11": "Noya",
+                  "11": "Noy",
                   "12": "Dek"
                 },
                 "narrow": {
@@ -105,13 +105,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Ya",
-                  "mon": "Du",
-                  "tue": "Se",
-                  "wed": "Ch",
-                  "thu": "Pa",
-                  "fri": "Ju",
-                  "sat": "Sh"
+                  "sun": "Yak",
+                  "mon": "Dush",
+                  "tue": "Sesh",
+                  "wed": "Chor",
+                  "thu": "Pay",
+                  "fri": "Jum",
+                  "sat": "Shan"
                 },
                 "narrow": {
                   "sun": "Y",
@@ -143,13 +143,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Ya",
-                  "mon": "Du",
-                  "tue": "Se",
-                  "wed": "Ch",
-                  "thu": "Pa",
-                  "fri": "Ju",
-                  "sat": "Sh"
+                  "sun": "Yak",
+                  "mon": "Dush",
+                  "tue": "Sesh",
+                  "wed": "Chor",
+                  "thu": "Pay",
+                  "fri": "Jum",
+                  "sat": "Shan"
                 },
                 "narrow": {
                   "sun": "Y",
@@ -225,7 +225,7 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -235,7 +235,7 @@
                   "night1": "kechasi"
                 },
                 "narrow": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -245,7 +245,7 @@
                   "night1": "kechasi"
                 },
                 "wide": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -257,7 +257,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -267,7 +267,7 @@
                   "night1": "kechasi"
                 },
                 "narrow": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -277,7 +277,7 @@
                   "night1": "kechasi"
                 },
                 "wide": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -309,7 +309,7 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, y MMMM dd",
+              "full": "EEEE, d-MMMM, y",
               "long": "d-MMMM, y",
               "medium": "d-MMM, y",
               "short": "dd/MM/yy"
@@ -343,9 +343,9 @@
                 "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
-                "hmsv": "h:mm:ss (v)",
+                "hmsv": "h:mm:ss a (v)",
                 "Hmsv": "HH:mm:ss (v)",
-                "hmv": "h:mm (v)",
+                "hmv": "h:mm a (v)",
                 "Hmv": "HH:mm (v)",
                 "M": "LL",
                 "Md": "dd/MM",
@@ -354,6 +354,8 @@
                 "MMMd": "d-MMM",
                 "MMMEd": "E, d-MMM",
                 "MMMMd": "d-MMMM",
+                "MMMMW": "MMM, W-'hafta'",
+                "MMMMW": "MMM, W-'hafta'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -364,7 +366,9 @@
                 "yMMMEd": "E, d-MMM, y",
                 "yMMMM": "MMMM, y",
                 "yQQQ": "y, QQQ",
-                "yQQQQ": "y, QQQQ"
+                "yQQQQ": "y, QQQQ",
+                "yw": "y, w-'hafta'",
+                "yw": "y, w-'hafta'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -401,20 +405,20 @@
                   "m": "HH:mm–HH:mm"
                 },
                 "hmv": {
-                  "a": "h:mm a – h:mm a v",
-                  "h": "h:mm–h:mm a v",
-                  "m": "h:mm–h:mm a v"
+                  "a": "h:mm a – h:mm a (v)",
+                  "h": "h:mm–h:mm a (v)",
+                  "m": "h:mm–h:mm a (v)"
                 },
                 "Hmv": {
-                  "H": "HH:mm–HH:mm v",
-                  "m": "HH:mm–HH:mm v"
+                  "H": "HH:mm–HH:mm (v)",
+                  "m": "HH:mm–HH:mm (v)"
                 },
                 "hv": {
-                  "a": "h a – h a v",
-                  "h": "h–h a v"
+                  "a": "h a – h a (v)",
+                  "h": "h–h a (v)"
                 },
                 "Hv": {
-                  "H": "HH–HH v"
+                  "H": "HH–HH (v)"
                 },
                 "M": {
                   "M": "M–M"

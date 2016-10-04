@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "th"
       },
@@ -51,9 +51,9 @@
           },
           "quarter": {
             "displayName": "ไตรมาส",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "ไตรมาสที่แล้ว",
+            "relative-type-0": "ไตรมาสนี้",
+            "relative-type-1": "ไตรมาสหน้า",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ในอีก {0} ไตรมาส"
             },
@@ -63,9 +63,9 @@
           },
           "quarter-short": {
             "displayName": "ไตรมาส",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "ไตรมาสที่แล้ว",
+            "relative-type-0": "ไตรมาสนี้",
+            "relative-type-1": "ไตรมาสหน้า",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ใน {0} ไตรมาส"
             },
@@ -75,9 +75,9 @@
           },
           "quarter-narrow": {
             "displayName": "ไตรมาส",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "ไตรมาสที่แล้ว",
+            "relative-type-0": "ไตรมาสนี้",
+            "relative-type-1": "ไตรมาสหน้า",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ใน {0} ไตรมาส"
             },
@@ -131,7 +131,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} สัปดาห์ที่ผ่านมา"
-            }
+            },
+            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่"
           },
           "week-short": {
             "displayName": "สัปดาห์",
@@ -143,7 +144,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} สัปดาห์ที่แล้ว"
-            }
+            },
+            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่"
           },
           "week-narrow": {
             "displayName": "สัปดาห์",
@@ -155,7 +157,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} สัปดาห์ที่แล้ว"
-            }
+            },
+            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่"
           },
           "day": {
             "displayName": "วัน",
@@ -203,115 +206,242 @@
             "displayName": "วันในสัปดาห์"
           },
           "sun": {
-            "relative-type--1": "อาทิตย์ที่แล้ว",
-            "relative-type-0": "อาทิตย์นี้",
-            "relative-type-1": "อาทิตย์หน้า"
+            "relative-type--1": "วันอาทิตย์ที่แล้ว",
+            "relative-type-0": "วันอาทิตย์นี้",
+            "relative-type-1": "วันอาทิตย์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "วันอาทิตย์ในอีก {0} สัปดาห์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "วันอาทิตย์เมื่อ {0} สัปดาห์ที่แล้ว"
+            }
           },
           "sun-short": {
-            "relative-type--1": "อาทิตย์ที่แล้ว",
-            "relative-type-0": "อาทิตย์นี้",
-            "relative-type-1": "อาทิตย์หน้า"
+            "relative-type--1": "วันอาทิตย์ที่แล้ว",
+            "relative-type-0": "วันอาทิตย์นี้",
+            "relative-type-1": "วันอาทิตย์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "วันอาทิตย์ในอีก {0} สัปดาห์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "วันอาทิตย์เมื่อ {0} สัปดาห์ที่แล้ว"
+            }
           },
           "sun-narrow": {
-            "relative-type--1": "อาทิตย์ที่แล้ว",
-            "relative-type-0": "อาทิตย์นี้",
-            "relative-type-1": "อาทิตย์หน้า"
+            "relative-type--1": "วันอาทิตย์ที่แล้ว",
+            "relative-type-0": "วันอาทิตย์นี้",
+            "relative-type-1": "วันอาทิตย์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "วันอาทิตย์ในอีก {0} สัปดาห์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "วันอาทิตย์เมื่อ {0} สัปดาห์ที่แล้ว"
+            }
           },
           "mon": {
             "relative-type--1": "จันทร์ที่แล้ว",
             "relative-type-0": "จันทร์นี้",
-            "relative-type-1": "จันทร์หน้า"
+            "relative-type-1": "จันทร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "ในอีก {0} จันทร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} จันทร์ที่แล้ว"
+            }
           },
           "mon-short": {
             "relative-type--1": "จันทร์ที่แล้ว",
             "relative-type-0": "จันทร์นี้",
-            "relative-type-1": "จันทร์หน้า"
+            "relative-type-1": "จันทร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} จันทร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} จันทร์ที่แล้ว"
+            }
           },
           "mon-narrow": {
-            "relative-type--1": "จันทร์ที่แล้ว",
+            "relative-type--1": "จันทร์ที่ผ่านมา",
             "relative-type-0": "จันทร์นี้",
-            "relative-type-1": "จันทร์หน้า"
+            "relative-type-1": "จันทร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} จันทร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} จันทร์ที่แล้ว"
+            }
           },
           "tue": {
             "relative-type--1": "อังคารที่แล้ว",
             "relative-type-0": "อังคารนี้",
-            "relative-type-1": "อังคารหน้า"
+            "relative-type-1": "อังคารหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "ในอีก {0} อังคาร"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} อังคารที่แล้ว"
+            }
           },
           "tue-short": {
             "relative-type--1": "อังคารที่แล้ว",
             "relative-type-0": "อังคารนี้",
-            "relative-type-1": "อังคารหน้า"
+            "relative-type-1": "อังคารหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} อังคาร"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} อังคารที่แล้ว"
+            }
           },
           "tue-narrow": {
-            "relative-type--1": "อังคารที่แล้ว",
+            "relative-type--1": "อังคารที่ผ่านมา",
             "relative-type-0": "อังคารนี้",
-            "relative-type-1": "อังคารหน้า"
+            "relative-type-1": "อังคารหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} อังคาร"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} อังคารที่แล้ว"
+            }
           },
           "wed": {
             "relative-type--1": "พุธที่แล้ว",
             "relative-type-0": "พุธนี้",
-            "relative-type-1": "พุธหน้า"
+            "relative-type-1": "พุธหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "ในอีก {0} พุธ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} พุธที่แล้ว"
+            }
           },
           "wed-short": {
             "relative-type--1": "พุธที่แล้ว",
             "relative-type-0": "พุธนี้",
-            "relative-type-1": "พุธหน้า"
+            "relative-type-1": "พุธหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} พุธ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} พุธที่แล้ว"
+            }
           },
           "wed-narrow": {
-            "relative-type--1": "พุธที่แล้ว",
+            "relative-type--1": "พุธที่ผ่านมา",
             "relative-type-0": "พุธนี้",
-            "relative-type-1": "พุธหน้า"
+            "relative-type-1": "พุธหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "ในอีก {0} พุธ"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} พุธที่แล้ว"
+            }
           },
           "thu": {
             "relative-type--1": "พฤหัสที่แล้ว",
             "relative-type-0": "พฤหัสนี้",
-            "relative-type-1": "พฤหัสหน้า"
+            "relative-type-1": "พฤหัสหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "ในอีก {0} พฤหัส"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} พฤหัสที่แล้ว"
+            }
           },
           "thu-short": {
             "relative-type--1": "พฤหัสที่แล้ว",
             "relative-type-0": "พฤหัสนี้",
-            "relative-type-1": "พฤหัสหน้า"
+            "relative-type-1": "พฤหัสหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} พฤหัส"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} พฤหัสที่แล้ว"
+            }
           },
           "thu-narrow": {
-            "relative-type--1": "พฤหัสที่แล้ว",
+            "relative-type--1": "พฤหัสที่ผ่านมา",
             "relative-type-0": "พฤหัสนี้",
-            "relative-type-1": "พฤหัสหน้า"
+            "relative-type-1": "พฤหัสหน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} พฤหัส"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} พฤหัสที่แล้ว"
+            }
           },
           "fri": {
             "relative-type--1": "ศุกร์ที่แล้ว",
             "relative-type-0": "ศุกร์นี้",
-            "relative-type-1": "ศุกร์หน้า"
+            "relative-type-1": "ศุกร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "ในอีก {0} ศุกร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} ศุกร์ที่แล้ว"
+            }
           },
           "fri-short": {
             "relative-type--1": "ศุกร์ที่แล้ว",
             "relative-type-0": "ศุกร์นี้",
-            "relative-type-1": "ศุกร์หน้า"
+            "relative-type-1": "ศุกร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} ศุกร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} ศุกร์ที่แล้ว"
+            }
           },
           "fri-narrow": {
-            "relative-type--1": "ศุกร์ที่แล้ว",
+            "relative-type--1": "ศุกร์ที่ผ่านมา",
             "relative-type-0": "ศุกร์นี้",
-            "relative-type-1": "ศุกร์หน้า"
+            "relative-type-1": "ศุกร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} ศุกร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} ศุกร์ที่แล้ว"
+            }
           },
           "sat": {
             "relative-type--1": "เสาร์ที่แล้ว",
             "relative-type-0": "เสาร์นี้",
-            "relative-type-1": "เสาร์หน้า"
+            "relative-type-1": "เสาร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "ในอีก {0} เสาร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} เสาร์ที่แล้ว"
+            }
           },
           "sat-short": {
             "relative-type--1": "เสาร์ที่แล้ว",
             "relative-type-0": "เสาร์นี้",
-            "relative-type-1": "เสาร์หน้า"
+            "relative-type-1": "เสาร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} เสาร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} เสาร์ที่แล้ว"
+            }
           },
           "sat-narrow": {
-            "relative-type--1": "เสาร์ที่แล้ว",
+            "relative-type--1": "เสาร์ที่ผ่านมา",
             "relative-type-0": "เสาร์นี้",
-            "relative-type-1": "เสาร์หน้า"
+            "relative-type-1": "เสาร์หน้า",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "อีก {0} เสาร์"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} เสาร์ที่แล้ว"
+            }
           },
           "dayperiod": {
             "displayName": "ช่วงวัน"
           },
           "hour": {
             "displayName": "ชั่วโมง",
+            "relative-type-0": "ชั่วโมงนี้",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ในอีก {0} ชั่วโมง"
             },
@@ -321,6 +451,7 @@
           },
           "hour-short": {
             "displayName": "ชม.",
+            "relative-type-0": "ชั่วโมงนี้",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ใน {0} ชม."
             },
@@ -330,6 +461,7 @@
           },
           "hour-narrow": {
             "displayName": "ชม.",
+            "relative-type-0": "ชั่วโมงนี้",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ใน {0} ชม."
             },
@@ -339,6 +471,7 @@
           },
           "minute": {
             "displayName": "นาที",
+            "relative-type-0": "นาทีนี้",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ในอีก {0} นาที"
             },
@@ -348,6 +481,7 @@
           },
           "minute-short": {
             "displayName": "น.",
+            "relative-type-0": "นาทีนี้",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ใน {0} นาที"
             },
@@ -357,6 +491,7 @@
           },
           "minute-narrow": {
             "displayName": "น.",
+            "relative-type-0": "นาทีนี้",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ใน {0} นาที"
             },

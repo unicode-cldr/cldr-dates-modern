@@ -3,8 +3,8 @@
     "de-LU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "de",
         "territory": "LU"
@@ -237,8 +237,8 @@
                 },
                 "narrow": {
                   "midnight": "Mitternacht",
-                  "am": "vm.",
-                  "pm": "nm.",
+                  "am": "vorm.",
+                  "pm": "nachm.",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",

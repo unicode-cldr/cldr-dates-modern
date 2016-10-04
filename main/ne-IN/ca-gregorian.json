@@ -3,8 +3,8 @@
     "ne-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ne",
         "territory": "IN"
@@ -109,7 +109,7 @@
                   "mon": "सोम",
                   "tue": "मङ्गल",
                   "wed": "बुध",
-                  "thu": "बिही",
+                  "thu": "बिहि",
                   "fri": "शुक्र",
                   "sat": "शनि"
                 },
@@ -127,7 +127,7 @@
                   "mon": "सोम",
                   "tue": "मङ्गल",
                   "wed": "बुध",
-                  "thu": "बिही",
+                  "thu": "बिहि",
                   "fri": "शुक्र",
                   "sat": "शनि"
                 },
@@ -147,7 +147,7 @@
                   "mon": "सोम",
                   "tue": "मङ्गल",
                   "wed": "बुध",
-                  "thu": "बिही",
+                  "thu": "बिहि",
                   "fri": "शुक्र",
                   "sat": "शनि"
                 },
@@ -165,7 +165,7 @@
                   "mon": "सोम",
                   "tue": "मङ्गल",
                   "wed": "बुध",
-                  "thu": "बिही",
+                  "thu": "बिहि",
                   "fri": "शुक्र",
                   "sat": "शनि"
                 },
@@ -231,43 +231,8 @@
                   "pm": "अपराह्न",
                   "morning1": "बिहान",
                   "afternoon1": "अपरान्ह",
-                  "afternoon2": "बेलुका",
-                  "evening1": "साँझ",
-                  "night1": "रात"
-                },
-                "narrow": {
-                  "midnight": "मध्यरात",
-                  "am": "a",
-                  "noon": "n",
-                  "pm": "p",
-                  "morning1": "बिहान",
-                  "afternoon1": "अपरान्ह",
-                  "afternoon2": "बेलुका",
-                  "evening1": "साँझ",
-                  "night1": "रात"
-                },
-                "wide": {
-                  "midnight": "मध्यरात",
-                  "am": "पूर्वाह्न",
-                  "noon": "मध्यान्ह",
-                  "pm": "अपराह्न",
-                  "morning1": "बिहान",
-                  "afternoon1": "अपरान्ह",
-                  "afternoon2": "बेलुका",
-                  "evening1": "साँझ",
-                  "night1": "रात"
-                }
-              },
-              "stand-alone": {
-                "abbreviated": {
-                  "midnight": "मध्यरात",
-                  "am": "पूर्वाह्न",
-                  "noon": "मध्यान्ह",
-                  "pm": "अपराह्न",
-                  "morning1": "बिहान",
-                  "afternoon1": "अपरान्ह",
-                  "afternoon2": "बेलुका",
-                  "evening1": "साँझ",
+                  "afternoon2": "साँझ",
+                  "evening1": "बेलुका",
                   "night1": "रात"
                 },
                 "narrow": {
@@ -286,7 +251,42 @@
                   "am": "पूर्वाह्न",
                   "noon": "मध्यान्ह",
                   "pm": "अपराह्न",
-                  "morning1": "विहान",
+                  "morning1": "बिहान",
+                  "afternoon1": "अपरान्ह",
+                  "afternoon2": "साँझ",
+                  "evening1": "बेलुका",
+                  "night1": "रात"
+                }
+              },
+              "stand-alone": {
+                "abbreviated": {
+                  "midnight": "मध्यरात",
+                  "am": "पूर्वाह्न",
+                  "noon": "मध्यान्ह",
+                  "pm": "अपराह्न",
+                  "morning1": "बिहान",
+                  "afternoon1": "अपरान्ह",
+                  "afternoon2": "साँझ",
+                  "evening1": "बेलुका",
+                  "night1": "रात"
+                },
+                "narrow": {
+                  "midnight": "मध्यरात",
+                  "am": "पूर्वाह्न",
+                  "noon": "मध्यान्ह",
+                  "pm": "अपराह्न",
+                  "morning1": "बिहान",
+                  "afternoon1": "अपरान्ह",
+                  "afternoon2": "साँझ",
+                  "evening1": "बेलुका",
+                  "night1": "रात"
+                },
+                "wide": {
+                  "midnight": "मध्यरात",
+                  "am": "पूर्वाह्न",
+                  "noon": "मध्यान्ह",
+                  "pm": "अपराह्न",
+                  "morning1": "बिहान",
                   "afternoon1": "अपरान्ह",
                   "afternoon2": "साँझ",
                   "evening1": "बेलुका",
@@ -299,19 +299,19 @@
                 "0": "ईसा पूर्व",
                 "0-alt-variant": "इस्वीपूर्व",
                 "1": "सन्",
-                "1-alt-variant": "सिइ"
+                "1-alt-variant": "ईसा काल"
               },
               "eraAbbr": {
                 "0": "ईसा पूर्व",
                 "0-alt-variant": "इस्वीपूर्व",
                 "1": "सन्",
-                "1-alt-variant": "सिइ"
+                "1-alt-variant": "ईसा काल"
               },
               "eraNarrow": {
                 "0": "ईसा पूर्व",
                 "0-alt-variant": "इस्वीपूर्व",
                 "1": "सन्",
-                "1-alt-variant": "सिइ"
+                "1-alt-variant": "ईसा काल"
               }
             },
             "dateFormats": {
@@ -360,6 +360,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
+                "MMMMW": "'week' W 'of' MMM",
+                "MMMMW": "'week' W 'of' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -370,7 +372,9 @@
                 "yMMMEd": "y MMM d, E",
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
-                "yQQQQ": "y QQQQ"
+                "yQQQQ": "y QQQQ",
+                "yw": "'week' w 'of' y",
+                "yw": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

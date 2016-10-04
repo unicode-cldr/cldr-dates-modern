@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "ne"
       },
@@ -15,7 +15,7 @@
           },
           "year": {
             "displayName": "वर्ष",
-            "relative-type--1": "पहिलो वर्ष",
+            "relative-type--1": "गत वर्ष",
             "relative-type-0": "यो वर्ष",
             "relative-type-1": "अर्को वर्ष",
             "relativeTime-type-future": {
@@ -29,7 +29,7 @@
           },
           "year-short": {
             "displayName": "बर्ष",
-            "relative-type--1": "पहिलो वर्ष",
+            "relative-type--1": "गत वर्ष",
             "relative-type-0": "यो वर्ष",
             "relative-type-1": "अर्को वर्ष",
             "relativeTime-type-future": {
@@ -43,7 +43,7 @@
           },
           "year-narrow": {
             "displayName": "बर्ष",
-            "relative-type--1": "पहिलो वर्ष",
+            "relative-type--1": "गत वर्ष",
             "relative-type-0": "यो वर्ष",
             "relative-type-1": "अर्को वर्ष",
             "relativeTime-type-future": {
@@ -57,9 +57,9 @@
           },
           "quarter": {
             "displayName": "सत्र",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "अघिल्लो सत्र",
+            "relative-type-0": "यो सत्र",
+            "relative-type-1": "अर्को सत्र",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} सत्रमा",
               "relativeTimePattern-count-other": "{0}सत्रमा"
@@ -71,9 +71,9 @@
           },
           "quarter-short": {
             "displayName": "सत्र",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "अघिल्लो सत्र",
+            "relative-type-0": "यो सत्र",
+            "relative-type-1": "अर्को सत्र",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0}सत्रमा",
               "relativeTimePattern-count-other": "{0}सत्रमा"
@@ -85,9 +85,9 @@
           },
           "quarter-narrow": {
             "displayName": "सत्र",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "अघिल्लो सत्र",
+            "relative-type-0": "यो सत्र",
+            "relative-type-1": "अर्को सत्र",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0}सत्रमा",
               "relativeTimePattern-count-other": "{0}सत्रमा"
@@ -99,7 +99,7 @@
           },
           "month": {
             "displayName": "महिना",
-            "relative-type--1": "गएको महिना",
+            "relative-type--1": "गत महिना",
             "relative-type-0": "यो महिना",
             "relative-type-1": "अर्को महिना",
             "relativeTime-type-future": {
@@ -113,7 +113,7 @@
           },
           "month-short": {
             "displayName": "महिना",
-            "relative-type--1": "गएको महिना",
+            "relative-type--1": "गत महिना",
             "relative-type-0": "यो महिना",
             "relative-type-1": "अर्को महिना",
             "relativeTime-type-future": {
@@ -127,7 +127,7 @@
           },
           "month-narrow": {
             "displayName": "महिना",
-            "relative-type--1": "गएको महिना",
+            "relative-type--1": "गत महिना",
             "relative-type-0": "यो महिना",
             "relative-type-1": "अर्को महिना",
             "relativeTime-type-future": {
@@ -141,7 +141,7 @@
           },
           "week": {
             "displayName": "हप्ता",
-            "relative-type--1": "गएको हप्ता",
+            "relative-type--1": "गत हप्ता",
             "relative-type-0": "यो हप्ता",
             "relative-type-1": "आउने हप्ता",
             "relativeTime-type-future": {
@@ -151,11 +151,12 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} हप्ता पहिले",
               "relativeTimePattern-count-other": "{0} हप्ता पहिले"
-            }
+            },
+            "relativePeriod": "{0}को हप्ता"
           },
           "week-short": {
             "displayName": "हप्ता",
-            "relative-type--1": "गएको हप्ता",
+            "relative-type--1": "गत हप्ता",
             "relative-type-0": "यो हप्ता",
             "relative-type-1": "आउने हप्ता",
             "relativeTime-type-future": {
@@ -165,11 +166,12 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} हप्ता पहिले",
               "relativeTimePattern-count-other": "{0} हप्ता पहिले"
-            }
+            },
+            "relativePeriod": "{0} को हप्ता"
           },
           "week-narrow": {
             "displayName": "हप्ता",
-            "relative-type--1": "गएको हप्ता",
+            "relative-type--1": "गत हप्ता",
             "relative-type-0": "यो हप्ता",
             "relative-type-1": "आउने हप्ता",
             "relativeTime-type-future": {
@@ -179,7 +181,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} हप्ता पहिले",
               "relativeTimePattern-count-other": "{0} हप्ता पहिले"
-            }
+            },
+            "relativePeriod": "{0} को हप्ता"
           },
           "day": {
             "displayName": "बार",
@@ -235,113 +238,282 @@
           "sun": {
             "relative-type--1": "गत आइतबार",
             "relative-type-0": "यो आइतबार",
-            "relative-type-1": "अर्को आइतबार"
+            "relative-type-1": "अर्को आइतबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} आइतबारमा",
+              "relativeTimePattern-count-other": "{0} आइतबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}आइतबार पहिले",
+              "relativeTimePattern-count-other": "{0} आइतबारहरू पहिले"
+            }
           },
           "sun-short": {
             "relative-type--1": "गत आइतबार",
             "relative-type-0": "यो आइतबार",
-            "relative-type-1": "अर्को आइतबार"
+            "relative-type-1": "अर्को आइतबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} आइतबारहरूमा",
+              "relativeTimePattern-count-other": "{0} आइतबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} आइतबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0} आइतबारहरू पहिले"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "गत आइतबार",
             "relative-type-0": "यो आइतबार",
-            "relative-type-1": "अर्को आइतबार"
+            "relative-type-1": "अर्को आइतबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} आइतबारहरूमा",
+              "relativeTimePattern-count-other": "{0} आइतबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} आइतबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0} आइतबारहरू पहिले"
+            }
           },
           "mon": {
             "relative-type--1": "गत सोमबार",
             "relative-type-0": "यो सोमबार",
-            "relative-type-1": "अर्को सोमबार"
+            "relative-type-1": "अर्को सोमबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} सोमबारहरूमा",
+              "relativeTimePattern-count-other": "{0}सोमबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}सोमबारहरूमा",
+              "relativeTimePattern-count-other": "{0}सोमबारहरूमा"
+            }
           },
           "mon-short": {
             "relative-type--1": "गत सोमबार",
             "relative-type-0": "यो सोमबार",
-            "relative-type-1": "अर्को सोमबार"
+            "relative-type-1": "अर्को सोमबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}सोमबारहरूमा",
+              "relativeTimePattern-count-other": "{0}सोमबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}सोमबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}सोमबारहरू पहिले"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "गत सोमबार",
             "relative-type-0": "यो सोमबार",
-            "relative-type-1": "अर्को सोमबार"
+            "relative-type-1": "अर्को सोमबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}सोमबारहरूमा",
+              "relativeTimePattern-count-other": "{0}सोमबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}सोमबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}सोमबारहरू पहिले"
+            }
           },
           "tue": {
             "relative-type--1": "गत मंगलबार",
             "relative-type-0": "यो मंगलबार",
-            "relative-type-1": "अर्को मंगलबार"
+            "relative-type-1": "अर्को मंगलबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}मंगलबारमा",
+              "relativeTimePattern-count-other": "{0} मंगलबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}मंगलबार पहिले",
+              "relativeTimePattern-count-other": "{0} मंगलबार पहिले"
+            }
           },
           "tue-short": {
             "relative-type--1": "गत मंगलबार",
             "relative-type-0": "यो मंगलबार",
-            "relative-type-1": "अर्को मंगलबार"
+            "relative-type-1": "अर्को मंगलबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} मंगलबारहरूमा",
+              "relativeTimePattern-count-other": "{0} मंगलबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} मंगलबार पहिले",
+              "relativeTimePattern-count-other": "{0} मंगलबारहरू पहिले"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "गत मंगलबार",
             "relative-type-0": "यो मंगलबार",
-            "relative-type-1": "अर्को मंगलबार"
+            "relative-type-1": "अर्को मंगलबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} मंगलबारहरूमा",
+              "relativeTimePattern-count-other": "{0} मंगलबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} मंगलबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0} मंगलबारहरू पहिले"
+            }
           },
           "wed": {
             "relative-type--1": "गत बुधबार",
             "relative-type-0": "यो बुधबार",
-            "relative-type-1": "अर्को बुधबार"
+            "relative-type-1": "अर्को बुधबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} बुधबारमा",
+              "relativeTimePattern-count-other": "{0} बुधबारमाहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}बुधबार पहिले",
+              "relativeTimePattern-count-other": "{0}बुधबारहरू पहिले"
+            }
           },
           "wed-short": {
             "relative-type--1": "गत बुधबार",
             "relative-type-0": "यो बुधबार",
-            "relative-type-1": "अर्को बुधबार"
+            "relative-type-1": "अर्को बुधबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} बुधबारहरूमा",
+              "relativeTimePattern-count-other": "{0}बुधबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}बुधबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}बुधबारहरू पहिले"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "गत बुधबार",
             "relative-type-0": "यो बुधबार",
-            "relative-type-1": "अर्को बुधबार"
+            "relative-type-1": "अर्को बुधबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}बुधबारहरूमा",
+              "relativeTimePattern-count-other": "{0}बुधबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}बुधबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}बुधबारहरू पहिले"
+            }
           },
           "thu": {
             "relative-type--1": "गत बिहिबार",
             "relative-type-0": "यो बिहिबार",
-            "relative-type-1": "अर्को बिहिबार"
+            "relative-type-1": "अर्को बिहिबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}बिहिबारहरूमा",
+              "relativeTimePattern-count-other": "{0}बिहिबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}बिहिबार पहिले",
+              "relativeTimePattern-count-other": "{0}बिहिबारहरू पहिले"
+            }
           },
           "thu-short": {
             "relative-type--1": "गत बिहिबार",
             "relative-type-0": "यो बिहिबार",
-            "relative-type-1": "अर्को बिहिबार"
+            "relative-type-1": "अर्को बिहिबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}बिहिबारहरूमा",
+              "relativeTimePattern-count-other": "{0}बिहिबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}बिहिबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}बिहिबारहरू पहिले"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "गत बिहिबार",
             "relative-type-0": "यो बिहिबार",
-            "relative-type-1": "अर्को बिहिबार"
+            "relative-type-1": "अर्को बिहिबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}बिहिबारहरूमा",
+              "relativeTimePattern-count-other": "{0}बिहिबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}बिहिबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}बिहिबारहरू पहिले"
+            }
           },
           "fri": {
             "relative-type--1": "गत शुक्रबार",
             "relative-type-0": "यो शुक्रबार",
-            "relative-type-1": "अर्को शुक्रबार"
+            "relative-type-1": "अर्को शुक्रबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}शुक्रबारमा",
+              "relativeTimePattern-count-other": "{0}शुक्रबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}शुक्रबार पहिले",
+              "relativeTimePattern-count-other": "{0}शुक्रबारहरू पहिले"
+            }
           },
           "fri-short": {
             "relative-type--1": "गत शुक्रबार",
             "relative-type-0": "यो शुक्रबार",
-            "relative-type-1": "अर्को शुक्रबार"
+            "relative-type-1": "अर्को शुक्रबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}शुक्रबारहरूमा",
+              "relativeTimePattern-count-other": "{0}शुक्रबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}शुक्रबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}शुक्रबारहरू पहिले"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "गत शुक्रबार",
             "relative-type-0": "यो शुक्रबार",
-            "relative-type-1": "अर्को शुक्रबार"
+            "relative-type-1": "अर्को शुक्रबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}शुक्रबारहरूमा",
+              "relativeTimePattern-count-other": "{0}शुक्रबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}शुक्रबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}शुक्रबारहरू पहिले"
+            }
           },
           "sat": {
             "relative-type--1": "गत शनिबार",
             "relative-type-0": "यो शनिबार",
-            "relative-type-1": "अर्को शनिबार"
+            "relative-type-1": "अर्को शनिबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}शनिबारमा",
+              "relativeTimePattern-count-other": "{0}शनिबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}शनिबार पहिले",
+              "relativeTimePattern-count-other": "{0}शनिबारहरू पहिले"
+            }
           },
           "sat-short": {
             "relative-type--1": "गत शनिबार",
             "relative-type-0": "यो शनिबार",
-            "relative-type-1": "अर्को शनिबार"
+            "relative-type-1": "अर्को शनिबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}शनिबारहरूमा",
+              "relativeTimePattern-count-other": "{0}शनिबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}शनिबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}शनिबारहरू पहिले"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "गत शनिबार",
             "relative-type-0": "यो शनिबार",
-            "relative-type-1": "अर्को शनिबार"
+            "relative-type-1": "अर्को शनिबार",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0}शनिबारहरूमा",
+              "relativeTimePattern-count-other": "{0}शनिबारहरूमा"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0}शनिबारहरू पहिले",
+              "relativeTimePattern-count-other": "{0}शनिबारहरू पहिले"
+            }
           },
           "dayperiod": {
             "displayName": "पूर्वाह्न / अपराह्न"
           },
           "hour": {
             "displayName": "घण्टा",
+            "relative-type-0": "यो घडीमा",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} घण्टामा",
               "relativeTimePattern-count-other": "{0} घण्टामा"
@@ -353,6 +525,7 @@
           },
           "hour-short": {
             "displayName": "घण्टा",
+            "relative-type-0": "यो घडीमा",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} घण्टामा",
               "relativeTimePattern-count-other": "{0} घण्टामा"
@@ -364,6 +537,7 @@
           },
           "hour-narrow": {
             "displayName": "घण्टा",
+            "relative-type-0": "यो घडीमा",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} घण्टामा",
               "relativeTimePattern-count-other": "{0} घण्टामा"
@@ -375,6 +549,7 @@
           },
           "minute": {
             "displayName": "मिनेट",
+            "relative-type-0": "यही मिनेटमा",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} मिनेटमा",
               "relativeTimePattern-count-other": "{0} मिनेटमा"
@@ -386,6 +561,7 @@
           },
           "minute-short": {
             "displayName": "मिनेट",
+            "relative-type-0": "यही मिनेटमा",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} मिनेटमा",
               "relativeTimePattern-count-other": "{0} मिनेटमा"
@@ -397,6 +573,7 @@
           },
           "minute-narrow": {
             "displayName": "मिनेट",
+            "relative-type-0": "यही मिनेटमा",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} मिनेटमा",
               "relativeTimePattern-count-other": "{0} मिनेटमा"

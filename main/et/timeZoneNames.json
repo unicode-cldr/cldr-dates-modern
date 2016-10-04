@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "et"
       },
@@ -339,13 +339,13 @@
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Beulah, North Dakota"
+                  "exemplarCity": "Beulah, Põhja-Dakota"
                 },
                 "New_Salem": {
-                  "exemplarCity": "New Salem, North Dakota"
+                  "exemplarCity": "New Salem, Põhja-Dakota"
                 },
                 "Center": {
-                  "exemplarCity": "Center, North Dakota"
+                  "exemplarCity": "Center, Põhja-Dakota"
                 }
               },
               "Ojinaga": {
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrahan"
+              },
               "Athens": {
                 "exemplarCity": "Ateena"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lissabon"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užgorod"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tōkyō"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -1939,9 +1954,9 @@
             },
             "Lord_Howe": {
               "long": {
-                "generic": "Lord Howe aeg",
-                "standard": "Lord Howe standardaeg",
-                "daylight": "Lord Howe suveaeg"
+                "generic": "Lord Howe’i aeg",
+                "standard": "Lord Howe’i standardaeg",
+                "daylight": "Lord Howe’i suveaeg"
               }
             },
             "Macquarie": {
@@ -2141,6 +2156,11 @@
             "Ponape": {
               "long": {
                 "standard": "Pohnpei aeg"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pyongyangi aeg"
               }
             },
             "Qyzylorda": {

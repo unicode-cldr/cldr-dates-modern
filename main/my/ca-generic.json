@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12384 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "my"
       },
@@ -224,34 +224,34 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "ညသန်းခေါင်ယံ",
+                  "midnight": "သန်းခေါင်ယံ",
                   "am": "နံနက်",
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
-                  "morning1": "မနက်တွင်",
-                  "afternoon1": "နေ့လည်ခင်းတွင်",
-                  "evening1": "ညနေခင်းတွင်",
-                  "night1": "ညတွင်"
+                  "morning1": "နံနက်",
+                  "afternoon1": "နေ့လယ်",
+                  "evening1": "ညနေ",
+                  "night1": "ည"
                 },
                 "narrow": {
-                  "midnight": "ညသန်းခေါင်ယံ",
+                  "midnight": "သန်းခေါင်ယံ",
                   "am": "နံနက်",
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
-                  "morning1": "မနက်၁",
-                  "afternoon1": "နေ့လည်ခင်း၁",
-                  "evening1": "ညနေခင်း၁",
-                  "night1": "ည၁"
+                  "morning1": "နံနက်",
+                  "afternoon1": "နေ့လယ်",
+                  "evening1": "ညနေ",
+                  "night1": "ည"
                 },
                 "wide": {
-                  "midnight": "ညသန်းခေါင်ယံ",
+                  "midnight": "သန်းခေါင်ယံ",
                   "am": "နံနက်",
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
-                  "morning1": "မနက်တွင်",
-                  "afternoon1": "နေ့လည်ခင်းတွင်",
-                  "evening1": "ညနေခင်းတွင်",
-                  "night1": "ညတွင်"
+                  "morning1": "နံနက်",
+                  "afternoon1": "နေ့လယ်",
+                  "evening1": "ညနေ",
+                  "night1": "ည"
                 }
               },
               "stand-alone": {
@@ -261,7 +261,7 @@
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
                   "morning1": "နံနက်",
-                  "afternoon1": "နေ့လည်",
+                  "afternoon1": "နေ့လယ်",
                   "evening1": "ညနေ",
                   "night1": "ည"
                 },
@@ -271,7 +271,7 @@
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
                   "morning1": "နံနက်",
-                  "afternoon1": "နေ့လည်",
+                  "afternoon1": "နေ့လယ်",
                   "evening1": "ညနေ",
                   "night1": "ည"
                 },
@@ -281,7 +281,7 @@
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
                   "morning1": "နံနက်",
-                  "afternoon1": "နေ့လည်",
+                  "afternoon1": "နေ့လယ်",
                   "evening1": "ညနေ",
                   "night1": "ည"
                 }
@@ -302,26 +302,26 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE၊ G dd MMMM y",
+              "full": "EEEE G dd MMMM y",
               "long": "G dd MMMM y",
               "medium": "G d MMM y",
               "short": "GGGGG dd-MM-yy"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
+              "full": "zzzz HH:mm:ss",
+              "long": "z HH:mm:ss",
               "medium": "HH:mm:ss",
               "short": "HH:mm"
             },
             "dateTimeFormats": {
-              "full": "{1} {0}တွင်",
-              "long": "{1} {0}တွင်",
+              "full": "{1} {0}",
+              "long": "{1} {0}",
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
                 "d": "d",
                 "E": "ccc",
-                "Ed": "E၊ d",
+                "Ed": "d Eနေ့",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
@@ -329,7 +329,7 @@
                 "Gy": "G y",
                 "GyMMM": "G MMM y",
                 "GyMMMd": "G d MMM y",
-                "GyMMMEd": "E၊ G d MMM y",
+                "GyMMMEd": "G d MMM y Eနေ့",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -338,24 +338,24 @@
                 "Hms": "HH:mm:ss",
                 "M": "L",
                 "Md": "d/M",
-                "MEd": "E၊ d/M",
+                "MEd": "d/M Eနေ့",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
-                "MMMEd": "E၊ d MMM",
+                "MMMEd": "MMM d Eနေ့",
                 "MMMMd": "d MMMM",
-                "MMMMEd": "E၊ d MMMM",
+                "MMMMEd": "MMMM d Eနေ့",
                 "ms": "mm:ss",
                 "y": "G y",
                 "yyyy": "G y",
                 "yyyyM": "G M/y",
-                "yyyyMd": "GGGGG dd-MM-y",
-                "yyyyMEd": "E၊ G d/M/y",
+                "yyyyMd": "GGGGG dd/MM/Y",
+                "yyyyMEd": "GGGGG dd/MM/y Eနေ့",
                 "yyyyMMM": "G MMM y",
                 "yyyyMMMd": "G d MMM y",
-                "yyyyMMMEd": "E၊ G d MMM y",
+                "yyyyMMMEd": "G d MMM y Eနေ့",
                 "yyyyMMMM": "G MMMM y",
-                "yyyyQQQ": "G QQQ y",
-                "yyyyQQQQ": "G QQQQ y"
+                "yyyyQQQ": "G y QQQ",
+                "yyyyQQQQ": "G y QQQQ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -373,7 +373,7 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "d": {
-                  "d": "d–d"
+                  "d": "d – d"
                 },
                 "h": {
                   "a": "h a – h a",
@@ -408,61 +408,61 @@
                   "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "M–M"
+                  "M": "M – M"
                 },
                 "Md": {
                   "d": "d/M – d/M",
                   "M": "d/M – d/M"
                 },
                 "MEd": {
-                  "d": "EEEE၊ d/M – EEEE၊ d/M",
-                  "M": "EEEE၊ d/M – EEEE၊ d/M"
+                  "d": "d/M Eနေ့ – d/M Eနေ့",
+                  "M": "d/M Eနေ့ – d/M Eနေ့"
                 },
                 "MMM": {
-                  "M": "MMM – MMM"
+                  "M": "MMMM – MMMM"
                 },
                 "MMMd": {
-                  "d": "d–d MMM",
+                  "d": "d –d MMM",
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
-                  "d": "d MMM၊ EEEE – d MMM၊ EEEE",
-                  "M": "d MMM၊ EEEE – d MMM၊ EEEE"
+                  "d": "d MMM Eနေ့ – d MMM Eနေ့",
+                  "M": "d MMM Eနေ့ – d MMM Eနေ့"
                 },
                 "y": {
-                  "y": "G y–y"
+                  "y": "G y – y"
                 },
                 "yM": {
-                  "M": "G M/y – M/y",
-                  "y": "G M/y – M/y"
+                  "M": "GGGGG M/y – M/y",
+                  "y": "GGGGG M/y – M/y"
                 },
                 "yMd": {
-                  "d": "G d/M/y – d/M/y",
-                  "M": "G d/M/y – d/M/y",
-                  "y": "G d/M/y – d/M/y"
+                  "d": "GGGGG d/M/y – d/M/y",
+                  "M": "GGGGG d/M/y – d/M/y",
+                  "y": "GGGGG d/M/y – d/M/y"
                 },
                 "yMEd": {
-                  "d": "EEEE၊ G d/M/y – EEEE၊ d/M/y",
-                  "M": "EEEE၊ G d/M/y – EEEE၊ d/M/y",
-                  "y": "EEEE၊ G d/M/y – EEEE၊ d/M/y"
+                  "d": "GGGGG d/M/y Eနေ့ – d/M/y Eနေ့",
+                  "M": "GGGGG d/M/y Eနေ့ – d/M/y Eနေ့",
+                  "y": "GGGGG d/M/y Eနေ့ – d/M/y Eနေ့"
                 },
                 "yMMM": {
                   "M": "G MMM y – MMM y",
                   "y": "G MMM y – MMM y"
                 },
                 "yMMMd": {
-                  "d": "G d–d MMM y",
-                  "M": "G d MMM – d MMM၊ y",
-                  "y": "G d MMM y – d MMM y"
+                  "d": "G d – d MMM y",
+                  "M": "G y MMM d – MMM d",
+                  "y": "G y MMM d – y MMM d"
                 },
                 "yMMMEd": {
-                  "d": "d MMM၊ EEEE – d MMM၊ y ၊ EEEE",
-                  "M": "d MMM၊ EEEE – d MMM၊ y ၊ EEEE",
-                  "y": "d MMM၊ EEEE – y၊ d MMM၊ y ၊EEEE"
+                  "d": "G y MMM d E – y MMM d E",
+                  "M": "G y MMM d E – y MMM d E",
+                  "y": "G y MMM d E – y MMM d E"
                 },
                 "yMMMM": {
-                  "M": "G MMMM–MMMM y",
-                  "y": "G MMMM y – MMMM y"
+                  "M": "G y MMMM – MMMM",
+                  "y": "G y MMMM – y MMMM"
                 }
               }
             }

@@ -3,8 +3,8 @@
     "es-IC": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "es",
         "territory": "IC"
@@ -356,6 +356,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d 'de' MMMM",
                 "MMMMEd": "E, d 'de' MMMM",
+                "MMMMW": "'semana' W 'de' MMM",
+                "MMMMW": "'semana' W 'de' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -369,7 +371,9 @@
                 "yMMMMd": "d 'de' MMMM 'de' y",
                 "yMMMMEd": "EEE, d 'de' MMMM 'de' y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ 'de' y"
+                "yQQQQ": "QQQQ 'de' y",
+                "yw": "'semana' w 'de' y",
+                "yw": "'semana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

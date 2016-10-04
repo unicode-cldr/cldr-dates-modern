@@ -3,8 +3,8 @@
     "es-CO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "es",
         "territory": "CO"
@@ -114,13 +114,13 @@
                   "sat": "sáb."
                 },
                 "narrow": {
-                  "sun": "d",
-                  "mon": "l",
-                  "tue": "m",
-                  "wed": "m",
-                  "thu": "j",
-                  "fri": "v",
-                  "sat": "s"
+                  "sun": "D",
+                  "mon": "L",
+                  "tue": "M",
+                  "wed": "M",
+                  "thu": "J",
+                  "fri": "V",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "DO",
@@ -225,13 +225,42 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "a.m.",
-                  "noon": "del mediodía",
-                  "pm": "p.m.",
+                  "am": "a. m.",
+                  "noon": "m.",
+                  "pm": "p. m.",
                   "morning1": "de la madrugada",
                   "morning2": "de la mañana",
                   "evening1": "de la tarde",
                   "night1": "de la noche"
+                },
+                "narrow": {
+                  "am": "a. m.",
+                  "noon": "del mediodía",
+                  "pm": "p. m.",
+                  "morning1": "de la madrugada",
+                  "morning2": "de la mañana",
+                  "evening1": "de la tarde",
+                  "night1": "de la noche"
+                },
+                "wide": {
+                  "am": "a. m.",
+                  "noon": "del mediodía",
+                  "pm": "p. m.",
+                  "morning1": "de la madrugada",
+                  "morning2": "de la mañana",
+                  "evening1": "de la tarde",
+                  "night1": "de la noche"
+                }
+              },
+              "stand-alone": {
+                "abbreviated": {
+                  "am": "a. m.",
+                  "noon": "m.",
+                  "pm": "p. m.",
+                  "morning1": "madrugada",
+                  "morning2": "mañana",
+                  "evening1": "tarde",
+                  "night1": "noche"
                 },
                 "narrow": {
                   "am": "a. m.",
@@ -243,38 +272,9 @@
                   "night1": "noche"
                 },
                 "wide": {
-                  "am": "a.m.",
-                  "noon": "del mediodía",
-                  "pm": "p.m.",
-                  "morning1": "de la madrugada",
-                  "morning2": "de la mañana",
-                  "evening1": "de la tarde",
-                  "night1": "de la noche"
-                }
-              },
-              "stand-alone": {
-                "abbreviated": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "mediodía",
-                  "pm": "p.m.",
-                  "morning1": "madrugada",
-                  "morning2": "mañana",
-                  "evening1": "tarde",
-                  "night1": "noche"
-                },
-                "narrow": {
-                  "am": "a.m.",
-                  "noon": "mediodía",
-                  "pm": "p.m.",
-                  "morning1": "madrugada",
-                  "morning2": "mañana",
-                  "evening1": "tarde",
-                  "night1": "noche"
-                },
-                "wide": {
-                  "am": "a.m.",
-                  "noon": "mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
                   "evening1": "tarde",

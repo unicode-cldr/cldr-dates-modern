@@ -3,8 +3,8 @@
     "bn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12306 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "bn"
       },
@@ -15,7 +15,7 @@
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} সময়",
           "regionFormat-type-daylight": "{0} দিবালোক সময়",
-          "regionFormat-type-standard": "{0} প্রমাণ সময়",
+          "regionFormat-type-standard": "{0} মানক সময়",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -166,7 +166,7 @@
                 "exemplarCity": "এল সালভাদোর"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ফোর্ট নেলসন"
               },
               "Fortaleza": {
                 "exemplarCity": "ফোর্টালেজা"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "অ্যান্ডোরা"
               },
+              "Astrakhan": {
+                "exemplarCity": "আসট্রাখান"
+              },
               "Athens": {
                 "exemplarCity": "এথেন্স"
               },
@@ -540,7 +543,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "আইরিশ গ্রীষ্মকালীন সময়"
+                  "daylight": "আইরিশ মানক সময়"
                 },
                 "exemplarCity": "ডাবলিন"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "কিয়েভ"
+              },
+              "Kirov": {
+                "exemplarCity": "কিরোভ"
               },
               "Lisbon": {
                 "exemplarCity": "লিসবন"
@@ -646,6 +652,9 @@
               "Tirane": {
                 "exemplarCity": "তিরানা"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "উলিয়ানোভস্ক"
+              },
               "Uzhgorod": {
                 "exemplarCity": "উঝগোরোড"
               },
@@ -671,7 +680,7 @@
                 "exemplarCity": "জাগ্রেব"
               },
               "Zaporozhye": {
-                "exemplarCity": "জাপোরোঝা"
+                "exemplarCity": "জেপোরোজাইয়াই"
               },
               "Zurich": {
                 "exemplarCity": "জুরিখ"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "ব্যাংকক"
               },
+              "Barnaul": {
+                "exemplarCity": "বার্নৌল"
+              },
               "Beirut": {
                 "exemplarCity": "বেইরুট"
               },
@@ -918,7 +930,7 @@
                 "exemplarCity": "হোভ্ড"
               },
               "Irkutsk": {
-                "exemplarCity": "ইর্কুট্স্ক"
+                "exemplarCity": "ইরকুটস্ক"
               },
               "Jakarta": {
                 "exemplarCity": "জাকার্তা"
@@ -1017,7 +1029,7 @@
                 "exemplarCity": "সমরখন্দ"
               },
               "Seoul": {
-                "exemplarCity": "সোল"
+                "exemplarCity": "সিওল"
               },
               "Shanghai": {
                 "exemplarCity": "সাংঘাই"
@@ -1046,6 +1058,9 @@
               "Tokyo": {
                 "exemplarCity": "টোকিও"
               },
+              "Tomsk": {
+                "exemplarCity": "তোমস্ক"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "উলানবাতার"
               },
@@ -1062,7 +1077,7 @@
                 "exemplarCity": "ভ্লাদিভস্তোক"
               },
               "Yakutsk": {
-                "exemplarCity": "ইয়াকুট্স্ক"
+                "exemplarCity": "য়াকুতস্ক"
               },
               "Yekaterinburg": {
                 "exemplarCity": "ইয়েকাটেরিনবার্গ"
@@ -1456,7 +1471,7 @@
             "America_Pacific": {
               "long": {
                 "generic": "প্রশান্ত মহাসাগরীয় অঞ্চলের সময়",
-                "standard": "প্রশান্ত মহাসাগরীয় অঞ্চলের প্রমাণ সময়",
+                "standard": "প্রশান্ত মহাসাগরীয় অঞ্চলের মানক সময়",
                 "daylight": "প্রশান্ত মহাসাগরীয় অঞ্চলের দিনের সময়"
               }
             },
@@ -1485,7 +1500,7 @@
               "long": {
                 "generic": "আর্জেনটিনা সময়",
                 "standard": "আর্জেনটিনা মানক সময়",
-                "daylight": "আর্জেনটিনা গৃষ্মকালীন সময়"
+                "daylight": "আর্জেনটিনা গ্রীষ্মকালীন সময়"
               }
             },
             "Argentina_Western": {
@@ -1533,7 +1548,7 @@
             "Australia_Western": {
               "long": {
                 "generic": "পশ্চিমি অস্ট্রেলীয় সময়",
-                "standard": "অস্ট্রেলিয়ান পশ্চিমি মানক সময়",
+                "standard": "অস্ট্রেলীয় পশ্চিমি মানক সময়",
                 "daylight": "অস্ট্রেলীয় পশ্চিমি দিবালোক সময়"
               }
             },
@@ -1572,7 +1587,7 @@
               "long": {
                 "generic": "ব্রাসিলিয়া সময়",
                 "standard": "ব্রাসিলিয়া মানক সময়",
-                "daylight": "ব্রাসিলিয়া গৃষ্মকালীন সময়"
+                "daylight": "ব্রাসিলিয়া গ্রীষ্মকালীন সময়"
               }
             },
             "Brunei": {
@@ -1681,14 +1696,14 @@
             "Europe_Central": {
               "long": {
                 "generic": "মধ্য ইউরোপের সময়",
-                "standard": "মধ্য ইউরোপের প্রমাণ সময়",
+                "standard": "মধ্য ইউরোপের মানক সময়",
                 "daylight": "মধ্য ইউরোপের গ্রীষ্মকালীন সময়"
               }
             },
             "Europe_Eastern": {
               "long": {
                 "generic": "পূর্ব ইউরোপের সময়",
-                "standard": "পূর্ব ইউরোপের প্রমাণ সময়",
+                "standard": "পূর্ব ইউরোপের মানক সময়",
                 "daylight": "পূর্ব ইউরোপের গ্রীষ্মকালীন সময়"
               }
             },
@@ -1700,7 +1715,7 @@
             "Europe_Western": {
               "long": {
                 "generic": "পশ্চিম ইউরোপের সময়",
-                "standard": "পশ্চিম ইউরোপের প্রমাণ সময়",
+                "standard": "পশ্চিম ইউরোপের মানক সময়",
                 "daylight": "পশ্চিম ইউরোপের গ্রীষ্মকালীন সময়"
               }
             },
@@ -1842,9 +1857,9 @@
             },
             "Irkutsk": {
               "long": {
-                "generic": "য়াকুটস্ক সময়",
-                "standard": "য়াকুটস্ক মানক সময়",
-                "daylight": "য়াকুটস্ক গ্রীষ্মকালীন সময়"
+                "generic": "ইরকুটস্ক সময়",
+                "standard": "ইরকুটস্ক মানক সময়",
+                "daylight": "ইরকুটস্ক গ্রীষ্মকালীন সময়"
               }
             },
             "Israel": {
@@ -1969,7 +1984,7 @@
               "long": {
                 "generic": "মেক্সিকান প্রশান্ত মহাসাগরীয় সময়",
                 "standard": "মেক্সিকান প্রশান্ত মহসাগরীয় মানক সময়",
-                "daylight": "মেক্সিকান প্রশান্ত মহাসাগরীয় দিনের সময়"
+                "daylight": "মেক্সিকান প্রশান্ত মহাসাগরীয় দিবালোক সময়"
               }
             },
             "Mongolia": {
@@ -2034,9 +2049,9 @@
             },
             "Noronha": {
               "long": {
-                "generic": "নোরোনহা সময়",
-                "standard": "ফারন্যান্ডো ডে নোরোনহা সময়",
-                "daylight": "ফারন্যান্ডো ডে নোরোনহা গৃষ্মকালীন সময়"
+                "generic": "ফার্নান্দো ডি নোরোনহা সময়",
+                "standard": "ফার্নান্দো ডি নোরোনহা মানক সময়",
+                "daylight": "ফার্নান্দো ডি নোরোনহা গ্রীষ্মকালীন সময়"
               }
             },
             "Novosibirsk": {
@@ -2111,6 +2126,11 @@
             "Ponape": {
               "long": {
                 "standard": "পোনাপে সময়"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "পিয়ংইয়াং সময়"
               }
             },
             "Reunion": {

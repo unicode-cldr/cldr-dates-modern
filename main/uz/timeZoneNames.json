@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "uz"
       },
@@ -13,9 +13,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0} vaqti",
-          "regionFormat-type-daylight": "{0} yozgi vaqti",
-          "regionFormat-type-standard": "{0} standart vaqti",
+          "regionFormat": "{0}",
+          "regionFormat-type-daylight": "{0} (+1)",
+          "regionFormat-type-standard": "{0} (+0)",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -36,7 +36,7 @@
               },
               "Argentina": {
                 "Rio_Gallegos": {
-                  "exemplarCity": "Rio-Gallegos"
+                  "exemplarCity": "Rio-Galyegos"
                 },
                 "San_Juan": {
                   "exemplarCity": "San-Xuan"
@@ -64,7 +64,7 @@
                 "exemplarCity": "Asunson"
               },
               "Bahia": {
-                "exemplarCity": "Bahiya"
+                "exemplarCity": "Baiya"
               },
               "Bahia_Banderas": {
                 "exemplarCity": "Bahiya-Banderas"
@@ -212,7 +212,7 @@
                   "exemplarCity": "Vinsens, Indiana"
                 },
                 "Petersburg": {
-                  "exemplarCity": "Peterburg, Indiana"
+                  "exemplarCity": "Pitersberg, Indiana"
                 },
                 "Tell_City": {
                   "exemplarCity": "Tell-Siti, Indiana"
@@ -335,7 +335,7 @@
                 "exemplarCity": "Nom"
               },
               "Noronha": {
-                "exemplarCity": "Noronxa"
+                "exemplarCity": "Noronya"
               },
               "North_Dakota": {
                 "Beulah": {
@@ -409,13 +409,13 @@
                 "exemplarCity": "San-Paulu"
               },
               "Scoresbysund": {
-                "exemplarCity": "Skorsbisunn"
+                "exemplarCity": "Ittokkortoormiut"
               },
               "Sitka": {
                 "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
-                "exemplarCity": "Sen-Bartelmi"
+                "exemplarCity": "Sen-Bartelemi"
               },
               "St_Johns": {
                 "exemplarCity": "Sent-Jons"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astraxan"
+              },
               "Athens": {
                 "exemplarCity": "Afina"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiyev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lissabon"
@@ -646,11 +652,14 @@
               "Tirane": {
                 "exemplarCity": "Tirana"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
+              },
               "Uzhgorod": {
                 "exemplarCity": "Ujgorod"
               },
               "Vaduz": {
-                "exemplarCity": "Vaduz"
+                "exemplarCity": "Vaduts"
               },
               "Vatican": {
                 "exemplarCity": "Vatikan"
@@ -739,7 +748,7 @@
                 "exemplarCity": "Duala"
               },
               "El_Aaiun": {
-                "exemplarCity": "El-Ayun"
+                "exemplarCity": "Al-Ayun"
               },
               "Freetown": {
                 "exemplarCity": "Fritaun"
@@ -814,7 +823,7 @@
                 "exemplarCity": "Niamey"
               },
               "Nouakchott": {
-                "exemplarCity": "Nuakshot"
+                "exemplarCity": "Nouakchott"
               },
               "Ouagadougou": {
                 "exemplarCity": "Uagadugu"
@@ -837,13 +846,13 @@
             },
             "Asia": {
               "Aden": {
-                "exemplarCity": "Aden"
+                "exemplarCity": "Adan"
               },
               "Almaty": {
-                "exemplarCity": "Olma-Ota"
+                "exemplarCity": "Almati"
               },
               "Amman": {
-                "exemplarCity": "Amman"
+                "exemplarCity": "Ammon"
               },
               "Anadyr": {
                 "exemplarCity": "Anadir"
@@ -852,7 +861,7 @@
                 "exemplarCity": "Oqtov"
               },
               "Aqtobe": {
-                "exemplarCity": "Aktobe"
+                "exemplarCity": "Oqto‘ba"
               },
               "Ashgabat": {
                 "exemplarCity": "Ashxobod"
@@ -868,6 +877,9 @@
               },
               "Bangkok": {
                 "exemplarCity": "Bangkok"
+              },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
               },
               "Beirut": {
                 "exemplarCity": "Bayrut"
@@ -927,10 +939,10 @@
                 "exemplarCity": "Jaypur"
               },
               "Jerusalem": {
-                "exemplarCity": "Ierusalim"
+                "exemplarCity": "Quddus"
               },
               "Kabul": {
-                "exemplarCity": "Qobul"
+                "exemplarCity": "Kobul"
               },
               "Kamchatka": {
                 "exemplarCity": "Kamchatka"
@@ -954,7 +966,7 @@
                 "exemplarCity": "Kuching"
               },
               "Kuwait": {
-                "exemplarCity": "Quvayt"
+                "exemplarCity": "Kuvayt"
               },
               "Macau": {
                 "exemplarCity": "Makao"
@@ -984,7 +996,7 @@
                 "exemplarCity": "Omsk"
               },
               "Oral": {
-                "exemplarCity": "Oral"
+                "exemplarCity": "Uralsk"
               },
               "Phnom_Penh": {
                 "exemplarCity": "Pnompen"
@@ -1041,10 +1053,13 @@
                 "exemplarCity": "Tehron"
               },
               "Thimphu": {
-                "exemplarCity": "Timpu"
+                "exemplarCity": "Thimphu"
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan-Bator"
@@ -1091,7 +1106,7 @@
                 "exemplarCity": "Kergelen"
               },
               "Mahe": {
-                "exemplarCity": "Mahe"
+                "exemplarCity": "Mae"
               },
               "Maldives": {
                 "exemplarCity": "Maldiv orollari"
@@ -1123,7 +1138,7 @@
                 "exemplarCity": "Darvin"
               },
               "Eucla": {
-                "exemplarCity": "Yukla"
+                "exemplarCity": "Evkla"
               },
               "Hobart": {
                 "exemplarCity": "Xobart"
@@ -1233,7 +1248,7 @@
                 "exemplarCity": "Pitkern"
               },
               "Ponape": {
-                "exemplarCity": "Ponape oroli"
+                "exemplarCity": "Ponpei oroli"
               },
               "Port_Moresby": {
                 "exemplarCity": "Port-Morsbi"
@@ -1386,7 +1401,7 @@
                 "exemplarCity": "GMT-9"
               },
               "Unknown": {
-                "exemplarCity": "Noma’lum shahar"
+                "exemplarCity": "noma’lum shahar"
               }
             }
           },
@@ -1448,16 +1463,16 @@
             },
             "America_Mountain": {
               "long": {
-                "generic": "Shimoliy Amerika togʻ vaqti",
-                "standard": "Shimoliy Amerika togʻ standart vaqti",
-                "daylight": "Shimoliy Amerika togʻ yozgi vaqti"
+                "generic": "Tog‘ vaqti (AQSH)",
+                "standard": "Tog‘ standart vaqti (AQSH)",
+                "daylight": "Tog‘ yozgi vaqti (AQSH)"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Shimoliy Amerika Tinch okeani vaqti",
-                "standard": "Shimoliy Amerika Tinch okeani standart vaqti",
-                "daylight": "Shimoliy Amerika Tinch okeani yozgi vaqti"
+                "generic": "Tinch okeani vaqti",
+                "standard": "Tinch okeani standart vaqti",
+                "daylight": "Tinch okeani yozgi vaqti"
               }
             },
             "Apia": {
@@ -1718,7 +1733,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "Fransuz Janubiy va Antarktika vaqti"
+                "standard": "Fransuz Janubiy hududlari va Antarktika vaqti"
               }
             },
             "Galapagos": {
@@ -1757,9 +1772,9 @@
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Gʻarbiy Grenlandiya vaqti",
-                "standard": "Gʻarbiy Grenlandiya standart vaqti",
-                "daylight": "Gʻarbiy Grenlandiya yozgi vaqti"
+                "generic": "G‘arbiy Grenlandiya vaqti",
+                "standard": "G‘arbiy Grenlandiya standart vaqti",
+                "daylight": "G‘arbiy Grenlandiya yozgi vaqti"
               }
             },
             "Gulf": {
@@ -2096,6 +2111,11 @@
                 "standard": "Ponape vaqti"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pxenyan vaqti"
+              }
+            },
             "Reunion": {
               "long": {
                 "standard": "Reyunion vaqti"
@@ -2205,9 +2225,9 @@
             },
             "Uzbekistan": {
               "long": {
-                "generic": "Oʻzbekiston vaqti",
-                "standard": "Oʻzbekiston standart vaqti",
-                "daylight": "Oʻzbekiston yozgi vaqti"
+                "generic": "O‘zbekiston vaqti",
+                "standard": "O‘zbekiston standart vaqti",
+                "daylight": "O‘zbekiston yozgi vaqti"
               }
             },
             "Vanuatu": {

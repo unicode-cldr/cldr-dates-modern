@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mn"
       },
@@ -113,13 +113,13 @@
                   "sat": "Бя"
                 },
                 "narrow": {
-                  "sun": "1",
-                  "mon": "2",
-                  "tue": "3",
-                  "wed": "4",
-                  "thu": "5",
-                  "fri": "6",
-                  "sat": "7"
+                  "sun": "Ня",
+                  "mon": "Да",
+                  "tue": "Мя",
+                  "wed": "Лх",
+                  "thu": "Пү",
+                  "fri": "Ба",
+                  "sat": "Бя"
                 },
                 "short": {
                   "sun": "Ня",
@@ -151,13 +151,13 @@
                   "sat": "Бя"
                 },
                 "narrow": {
-                  "sun": "1",
-                  "mon": "2",
-                  "tue": "3",
-                  "wed": "4",
-                  "thu": "5",
-                  "fri": "6",
-                  "sat": "7"
+                  "sun": "Ня",
+                  "mon": "Да",
+                  "tue": "Мя",
+                  "wed": "Лх",
+                  "thu": "Пү",
+                  "fri": "Ба",
+                  "sat": "Бя"
                 },
                 "short": {
                   "sun": "Ня",
@@ -245,9 +245,9 @@
                 },
                 "wide": {
                   "midnight": "шөнө дунд",
-                  "am": "ҮӨ",
+                  "am": "ү.ө",
                   "noon": "үд дунд",
-                  "pm": "ҮХ",
+                  "pm": "ү.х",
                   "morning1": "өглөө",
                   "afternoon1": "өдөр",
                   "evening1": "орой",
@@ -302,10 +302,10 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, G y 'оны' MM 'сарын' dd",
-              "long": "G y 'оны' MM 'сарын' d",
-              "medium": "G y MM d",
-              "short": "GGGGG y-MM-dd"
+              "full": "EEEE, y 'оны' MM 'сарын' dd",
+              "long": "y 'оны' MM 'сарын' dd",
+              "medium": "y MM d",
+              "short": "y-MM-dd"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -326,10 +326,10 @@
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
-                "Gy": "G y",
-                "GyMMM": "G y MM",
-                "GyMMMd": "G y MMM d",
-                "GyMMMEd": "E, G y MMM d",
+                "Gy": "y",
+                "GyMMM": "y MM",
+                "GyMMMd": "y MMM d",
+                "GyMMMEd": "E, y MM d",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -340,15 +340,15 @@
                 "Md": "M-d",
                 "MEd": "E, M-d",
                 "MMM": "LLL",
-                "MMMd": "MMM d",
-                "MMMEd": "E MMM d",
+                "MMMd": "MM d",
+                "MMMEd": "E MM d",
                 "MMMMd": "MMMM d",
                 "ms": "mm:ss",
                 "y": "G y",
                 "yyyy": "G y",
                 "yyyyM": "G y-M",
                 "yyyyMd": "G y-M-d",
-                "yyyyMEd": "E, G y-M-d",
+                "yyyyMEd": "E, y-M-d",
                 "yyyyMMM": "G y MMM",
                 "yyyyMMMd": "G y MMM d",
                 "yyyyMMMEd": "E, G y MMM d",
@@ -372,7 +372,7 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "d": {
-                  "d": "d–d"
+                  "d": "d – d"
                 },
                 "h": {
                   "a": "h a – h a",
@@ -407,7 +407,7 @@
                   "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "M–M"
+                  "M": "M – M"
                 },
                 "Md": {
                   "d": "MM/dd–MM/dd",
@@ -418,7 +418,7 @@
                   "M": "E, MM/dd – E, MM/dd"
                 },
                 "MMM": {
-                  "M": "LLL–LLL"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
                   "d": "MM/d–d",

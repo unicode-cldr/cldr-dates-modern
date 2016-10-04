@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ro"
       },
@@ -126,7 +126,7 @@
                   "mon": "lu.",
                   "tue": "ma.",
                   "wed": "mi.",
-                  "thu": "jo.",
+                  "thu": "joi",
                   "fri": "vi.",
                   "sat": "sâ."
                 },
@@ -160,13 +160,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "du",
-                  "mon": "lu",
-                  "tue": "ma",
-                  "wed": "mi",
-                  "thu": "jo",
-                  "fri": "vi",
-                  "sat": "sâ"
+                  "sun": "du.",
+                  "mon": "lu.",
+                  "tue": "ma.",
+                  "wed": "mi.",
+                  "thu": "joi",
+                  "fri": "vi.",
+                  "sat": "sâ."
                 },
                 "wide": {
                   "sun": "duminică",
@@ -188,10 +188,10 @@
                   "4": "trim. IV"
                 },
                 "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4"
+                  "1": "I",
+                  "2": "II",
+                  "3": "III",
+                  "4": "IV"
                 },
                 "wide": {
                   "1": "trimestrul I",
@@ -202,22 +202,22 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Trim. I",
-                  "2": "Trim. II",
-                  "3": "Trim. III",
-                  "4": "Trim. IV"
+                  "1": "trim. I",
+                  "2": "trim. II",
+                  "3": "trim. III",
+                  "4": "trim. IV"
                 },
                 "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4"
+                  "1": "I",
+                  "2": "II",
+                  "3": "III",
+                  "4": "IV"
                 },
                 "wide": {
-                  "1": "Trimestrul I",
-                  "2": "Trimestrul al II-lea",
-                  "3": "Trimestrul al III-lea",
-                  "4": "Trimestrul al IV-lea"
+                  "1": "trimestrul I",
+                  "2": "trimestrul al II-lea",
+                  "3": "trimestrul al III-lea",
+                  "4": "trimestrul al IV-lea"
                 }
               }
             },
@@ -236,12 +236,12 @@
                 "narrow": {
                   "midnight": "miezul nopții",
                   "am": "a.m.",
-                  "noon": "prânz",
+                  "noon": "amiază",
                   "pm": "p.m.",
                   "morning1": "dimineață",
                   "afternoon1": "după-amiază",
-                  "evening1": "seară",
-                  "night1": "noapte"
+                  "evening1": "seara",
+                  "night1": "noaptea"
                 },
                 "wide": {
                   "midnight": "la miezul nopții",
@@ -280,10 +280,10 @@
                   "am": "a.m.",
                   "noon": "la amiază",
                   "pm": "p.m.",
-                  "morning1": "dimineață",
-                  "afternoon1": "după-amiază",
-                  "evening1": "seară",
-                  "night1": "noapte"
+                  "morning1": "dimineața",
+                  "afternoon1": "după-amiaza",
+                  "evening1": "seara",
+                  "night1": "noaptea"
                 }
               }
             },

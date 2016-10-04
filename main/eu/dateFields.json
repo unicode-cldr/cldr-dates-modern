@@ -3,18 +3,18 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "eu"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Aroa"
+            "displayName": "aroa"
           },
           "year": {
-            "displayName": "Urtea",
+            "displayName": "urtea",
             "relative-type--1": "aurreko urtea",
             "relative-type-0": "aurten",
             "relative-type-1": "hurrengo urtea",
@@ -56,10 +56,10 @@
             }
           },
           "quarter": {
-            "displayName": "Hiruhilekoa",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "displayName": "hiruhilekoa",
+            "relative-type--1": "aurreko hiruhilekoa",
+            "relative-type-0": "hiruhileko hau",
+            "relative-type-1": "hurrengo hiruhilekoa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} hiruhileko barru",
               "relativeTimePattern-count-other": "{0} hiruhileko barru"
@@ -71,9 +71,9 @@
           },
           "quarter-short": {
             "displayName": "hiruhil.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "aurreko hiruhilekoa",
+            "relative-type-0": "hiruhileko hau",
+            "relative-type-1": "hurrengo hiruhilekoa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} hiruhileko barru",
               "relativeTimePattern-count-other": "{0} hiruhileko barru"
@@ -85,9 +85,9 @@
           },
           "quarter-narrow": {
             "displayName": "hiruhil.",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "aurreko hiruhilekoa",
+            "relative-type-0": "hiruhileko hau",
+            "relative-type-1": "hurrengo hiruhilekoa",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} hiruhileko barru",
               "relativeTimePattern-count-other": "{0} hiruhileko barru"
@@ -98,7 +98,7 @@
             }
           },
           "month": {
-            "displayName": "Hilabetea",
+            "displayName": "hilabetea",
             "relative-type--1": "aurreko hilabetea",
             "relative-type-0": "hilabete hau",
             "relative-type-1": "hurrengo hilabetea",
@@ -140,7 +140,7 @@
             }
           },
           "week": {
-            "displayName": "Astea",
+            "displayName": "astea",
             "relative-type--1": "aurreko astea",
             "relative-type-0": "aste hau",
             "relative-type-1": "hurrengo astea",
@@ -151,7 +151,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "Duela {0} aste",
               "relativeTimePattern-count-other": "Duela {0} aste"
-            }
+            },
+            "relativePeriod": "{0} astea"
           },
           "week-short": {
             "displayName": "ast.",
@@ -165,7 +166,8 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "Duela {0} aste",
               "relativeTimePattern-count-other": "Duela {0} aste"
-            }
+            },
+            "relativePeriod": "{0} astea"
           },
           "week-narrow": {
             "displayName": "ast.",
@@ -179,10 +181,11 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "Duela {0} aste",
               "relativeTimePattern-count-other": "Duela {0} aste"
-            }
+            },
+            "relativePeriod": "{0} astea"
           },
           "day": {
-            "displayName": "Eguna",
+            "displayName": "eguna",
             "relative-type--2": "herenegun",
             "relative-type--1": "atzo",
             "relative-type-0": "gaur",
@@ -230,118 +233,287 @@
             }
           },
           "weekday": {
-            "displayName": "Asteguna"
+            "displayName": "asteguna"
           },
           "sun": {
             "relative-type--1": "aurreko igandea",
             "relative-type-0": "igande hau",
-            "relative-type-1": "hurrengo igandea"
+            "relative-type-1": "hurrengo igandea",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} igande barru",
+              "relativeTimePattern-count-other": "{0} igande barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} igande",
+              "relativeTimePattern-count-other": "Duela {0} igande"
+            }
           },
           "sun-short": {
             "relative-type--1": "aurreko igandea",
             "relative-type-0": "igande hau",
-            "relative-type-1": "hurrengo igandea"
+            "relative-type-1": "hurrengo igandea",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} igande barru",
+              "relativeTimePattern-count-other": "{0} igande barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} igande",
+              "relativeTimePattern-count-other": "Duela {0} igande"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "aurreko igandea",
             "relative-type-0": "igande hau",
-            "relative-type-1": "hurrengo igandea"
+            "relative-type-1": "hurrengo igandea",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} igande barru",
+              "relativeTimePattern-count-other": "{0} igande barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} igande",
+              "relativeTimePattern-count-other": "Duela {0} igande"
+            }
           },
           "mon": {
             "relative-type--1": "aurreko astelehena",
             "relative-type-0": "astelehen hau",
-            "relative-type-1": "hurrengo astelehena"
+            "relative-type-1": "hurrengo astelehena",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} astelehen barru",
+              "relativeTimePattern-count-other": "{0} astelehen barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} astelehen",
+              "relativeTimePattern-count-other": "Duela {0} astelehen"
+            }
           },
           "mon-short": {
             "relative-type--1": "aurreko astelehena",
             "relative-type-0": "astelehen hau",
-            "relative-type-1": "hurrengo astelehena"
+            "relative-type-1": "hurrengo astelehena",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} astelehen barru",
+              "relativeTimePattern-count-other": "{0} astelehen barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} astelehen",
+              "relativeTimePattern-count-other": "Duela {0} astelehen"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "aurreko astelehena",
             "relative-type-0": "astelehen hau",
-            "relative-type-1": "hurrengo astelehena"
+            "relative-type-1": "hurrengo astelehena",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} astelehen barru",
+              "relativeTimePattern-count-other": "{0} astelehen barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} astelehen",
+              "relativeTimePattern-count-other": "Duela {0} astelehen"
+            }
           },
           "tue": {
             "relative-type--1": "aurreko asteartea",
             "relative-type-0": "astearte hau",
-            "relative-type-1": "hurrengo asteartea"
+            "relative-type-1": "hurrengo asteartea",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} astearte barru",
+              "relativeTimePattern-count-other": "{0} astearte barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} astearte",
+              "relativeTimePattern-count-other": "Duela {0} astearte"
+            }
           },
           "tue-short": {
             "relative-type--1": "aurreko asteartea",
             "relative-type-0": "astearte hau",
-            "relative-type-1": "hurrengo asteartea"
+            "relative-type-1": "hurrengo asteartea",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} astearte barru",
+              "relativeTimePattern-count-other": "{0} astearte barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} astearte",
+              "relativeTimePattern-count-other": "Duela {0} astearte"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "aurreko asteartea",
             "relative-type-0": "astearte hau",
-            "relative-type-1": "hurrengo asteartea"
+            "relative-type-1": "hurrengo asteartea",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} astearte barru",
+              "relativeTimePattern-count-other": "{0} astearte barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} astearte",
+              "relativeTimePattern-count-other": "Duela {0} astearte"
+            }
           },
           "wed": {
             "relative-type--1": "aurreko asteazkena",
             "relative-type-0": "asteazken hau",
-            "relative-type-1": "hurrengo asteazkena"
+            "relative-type-1": "hurrengo asteazkena",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} asteazken barru",
+              "relativeTimePattern-count-other": "{0} asteazken barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} asteazken",
+              "relativeTimePattern-count-other": "Duela {0} asteazken"
+            }
           },
           "wed-short": {
             "relative-type--1": "aurreko asteazkena",
             "relative-type-0": "asteazken hau",
-            "relative-type-1": "hurrengo asteazkena"
+            "relative-type-1": "hurrengo asteazkena",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} asteazken barru",
+              "relativeTimePattern-count-other": "{0} asteazken barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} asteazken",
+              "relativeTimePattern-count-other": "Duela {0} asteazken"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "aurreko asteazkena",
             "relative-type-0": "asteazken hau",
-            "relative-type-1": "hurrengo asteazkena"
+            "relative-type-1": "hurrengo asteazkena",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} asteazken barru",
+              "relativeTimePattern-count-other": "{0} asteazken barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} asteazken",
+              "relativeTimePattern-count-other": "Duela {0} asteazken"
+            }
           },
           "thu": {
             "relative-type--1": "aurreko osteguna",
             "relative-type-0": "ostegun hau",
-            "relative-type-1": "hurrengo osteguna"
+            "relative-type-1": "hurrengo osteguna",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ostegun barru",
+              "relativeTimePattern-count-other": "{0} ostegun barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} ostegun",
+              "relativeTimePattern-count-other": "Duela {0} ostegun"
+            }
           },
           "thu-short": {
             "relative-type--1": "aurreko osteguna",
             "relative-type-0": "ostegun hau",
-            "relative-type-1": "hurrengo osteguna"
+            "relative-type-1": "hurrengo osteguna",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ostegun barru",
+              "relativeTimePattern-count-other": "{0} ostegun barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} ostegun",
+              "relativeTimePattern-count-other": "Duela {0} ostegun"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "aurreko osteguna",
             "relative-type-0": "ostegun hau",
-            "relative-type-1": "hurrengo osteguna"
+            "relative-type-1": "hurrengo osteguna",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ostegun barru",
+              "relativeTimePattern-count-other": "{0} ostegun barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} ostegun",
+              "relativeTimePattern-count-other": "Duela {0} ostegun"
+            }
           },
           "fri": {
             "relative-type--1": "aurreko ostirala",
             "relative-type-0": "ostiral hau",
-            "relative-type-1": "hurrengo ostirala"
+            "relative-type-1": "hurrengo ostirala",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ostiral barru",
+              "relativeTimePattern-count-other": "{0} ostiral barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} ostiral",
+              "relativeTimePattern-count-other": "Duela {0} ostiral"
+            }
           },
           "fri-short": {
             "relative-type--1": "aurreko ostirala",
             "relative-type-0": "ostiral hau",
-            "relative-type-1": "hurrengo ostirala"
+            "relative-type-1": "hurrengo ostirala",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ostiral barru",
+              "relativeTimePattern-count-other": "{0} ostiral barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} ostiral",
+              "relativeTimePattern-count-other": "Duela {0} ostiral"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "aurreko ostirala",
             "relative-type-0": "ostiral hau",
-            "relative-type-1": "hurrengo ostirala"
+            "relative-type-1": "hurrengo ostirala",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} ostiral barru",
+              "relativeTimePattern-count-other": "{0} ostiral barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} ostiral",
+              "relativeTimePattern-count-other": "Duela {0} ostiral"
+            }
           },
           "sat": {
             "relative-type--1": "aurreko larunbata",
             "relative-type-0": "larunbat hau",
-            "relative-type-1": "hurrengo larunbata"
+            "relative-type-1": "hurrengo larunbata",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} larunbat barru",
+              "relativeTimePattern-count-other": "{0} larunbat barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} larunbat",
+              "relativeTimePattern-count-other": "Duela {0} larunbat"
+            }
           },
           "sat-short": {
             "relative-type--1": "aurreko larunbata",
             "relative-type-0": "larunbat hau",
-            "relative-type-1": "hurrengo larunbata"
+            "relative-type-1": "hurrengo larunbata",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} larunbat barru",
+              "relativeTimePattern-count-other": "{0} larunbat barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} larunbat",
+              "relativeTimePattern-count-other": "Duela {0} larunbat"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "aurreko larunbata",
             "relative-type-0": "larunbat hau",
-            "relative-type-1": "hurrengo larunbata"
+            "relative-type-1": "hurrengo larunbata",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} larunbat barru",
+              "relativeTimePattern-count-other": "{0} larunbat barru"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Duela {0} larunbat",
+              "relativeTimePattern-count-other": "Duela {0} larunbat"
+            }
           },
           "dayperiod": {
             "displayName": "AM//PM"
           },
           "hour": {
-            "displayName": "Ordua",
+            "displayName": "ordua",
+            "relative-type-0": "ordu honetan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ordu barru",
               "relativeTimePattern-count-other": "{0} ordu barru"
@@ -353,6 +525,7 @@
           },
           "hour-short": {
             "displayName": "h",
+            "relative-type-0": "ordu honetan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ordu barru",
               "relativeTimePattern-count-other": "{0} ordu barru"
@@ -364,6 +537,7 @@
           },
           "hour-narrow": {
             "displayName": "h",
+            "relative-type-0": "ordu honetan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ordu barru",
               "relativeTimePattern-count-other": "{0} ordu barru"
@@ -374,7 +548,8 @@
             }
           },
           "minute": {
-            "displayName": "Minutua",
+            "displayName": "minutua",
+            "relative-type-0": "minutu honetan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} minutu barru",
               "relativeTimePattern-count-other": "{0} minutu barru"
@@ -386,6 +561,7 @@
           },
           "minute-short": {
             "displayName": "min",
+            "relative-type-0": "minutu honetan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} minutu barru",
               "relativeTimePattern-count-other": "{0} minutu barru"
@@ -397,6 +573,7 @@
           },
           "minute-narrow": {
             "displayName": "min",
+            "relative-type-0": "minutu honetan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} minutu barru",
               "relativeTimePattern-count-other": "{0} minutu barru"
@@ -407,7 +584,7 @@
             }
           },
           "second": {
-            "displayName": "Segundoa",
+            "displayName": "segundoa",
             "relative-type-0": "orain",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} segundo barru",
@@ -443,7 +620,7 @@
             }
           },
           "zone": {
-            "displayName": "Ordu-zona"
+            "displayName": "ordu-zona"
           }
         }
       }

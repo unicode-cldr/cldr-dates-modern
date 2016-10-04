@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sl"
       },
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "ned",
-                  "mon": "pon",
-                  "tue": "tor",
-                  "wed": "sre",
-                  "thu": "čet",
-                  "fri": "pet",
-                  "sat": "sob"
+                  "sun": "ned.",
+                  "mon": "pon.",
+                  "tue": "tor.",
+                  "wed": "sre.",
+                  "thu": "čet.",
+                  "fri": "pet.",
+                  "sat": "sob."
                 },
                 "narrow": {
                   "sun": "n",
@@ -224,9 +224,9 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "poln.",
+                  "midnight": "opoln.",
                   "am": "dop.",
-                  "noon": "pold.",
+                  "noon": "opold.",
                   "pm": "pop.",
                   "morning1": "zjut.",
                   "morning2": "dop.",
@@ -246,15 +246,15 @@
                   "night1": "po"
                 },
                 "wide": {
-                  "midnight": "polnoč",
+                  "midnight": "opolnoči",
                   "am": "dop.",
-                  "noon": "poldne",
+                  "noon": "opoldne",
                   "pm": "pop.",
-                  "morning1": "jutro",
+                  "morning1": "zjutraj",
                   "morning2": "dopoldan",
                   "afternoon1": "popoldan",
-                  "evening1": "večer",
-                  "night1": "noč"
+                  "evening1": "zvečer",
+                  "night1": "ponoči"
                 }
               },
               "stand-alone": {
@@ -263,33 +263,33 @@
                   "am": "dop.",
                   "noon": "pold.",
                   "pm": "pop.",
-                  "morning1": "zjut.",
+                  "morning1": "jut.",
                   "morning2": "dop.",
                   "afternoon1": "pop.",
                   "evening1": "zveč.",
-                  "night1": "pon."
+                  "night1": "noč"
                 },
                 "narrow": {
-                  "midnight": "polnoč",
-                  "am": "dop.",
-                  "noon": "poldne",
-                  "pm": "pop.",
-                  "morning1": "zjutraj",
-                  "morning2": "dopoldne",
-                  "afternoon1": "popoldne",
-                  "evening1": "zvečer",
-                  "night1": "ponoči"
+                  "midnight": "24.00",
+                  "am": "d",
+                  "noon": "12.00",
+                  "pm": "p",
+                  "morning1": "j",
+                  "morning2": "d",
+                  "afternoon1": "p",
+                  "evening1": "v",
+                  "night1": "n"
                 },
                 "wide": {
                   "midnight": "polnoč",
                   "am": "dopoldne",
                   "noon": "poldne",
                   "pm": "popoldne",
-                  "morning1": "zjutraj",
+                  "morning1": "jutro",
                   "morning2": "dopoldne",
                   "afternoon1": "popoldne",
-                  "evening1": "zvečer",
-                  "night1": "ponoči"
+                  "evening1": "večer",
+                  "night1": "noč"
                 }
               }
             },
@@ -349,7 +349,7 @@
                 "MMM": "LLL",
                 "MMMd": "d. MMM",
                 "MMMEd": "E, d. MMM",
-                "MMMMd": "d MMMM",
+                "MMMMd": "d. MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yyyy": "y G",
@@ -377,7 +377,7 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0} – {1}",
+                "intervalFormatFallback": "{0}–{1}",
                 "d": {
                   "d": "d.–d."
                 },

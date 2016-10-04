@@ -3,8 +3,8 @@
     "pt-PT": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12413 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12954 $",
+          "_cldrVersion": "30"
         },
         "language": "pt",
         "territory": "PT"
@@ -356,6 +356,8 @@
                 "MMMEd": "E, d/MM",
                 "MMMMd": "d 'de' MMMM",
                 "MMMMEd": "ccc, d 'de' MMMM",
+                "MMMMW": "W.'ª' 'semana' 'de' MMM",
+                "MMMMW": "W.'ª' 'semana' 'de' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -370,7 +372,9 @@
                 "yMMMMd": "d 'de' MMMM 'de' y",
                 "yMMMMEd": "ccc, d 'de' MMMM 'de' y",
                 "yQQQ": "QQQQ 'de' y",
-                "yQQQQ": "QQQQ 'de' y"
+                "yQQQQ": "QQQQ 'de' y",
+                "yw": "w.'ª' 'semana' 'de' y",
+                "yw": "w.'ª' 'semana' 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -476,8 +480,8 @@
                 },
                 "yMMMEd": {
                   "d": "E, dd/MM – E, dd/MM/y",
-                  "M": "E, dd/MM – E, dd/MM/y",
-                  "y": "E, dd/MM/y – E, dd/MM/y"
+                  "M": "E, d 'de' MMM – E, d 'de' MMM 'de' y",
+                  "y": "E, d 'de' MMM 'de' y – E, d 'de' MMM 'de' y"
                 },
                 "yMMMM": {
                   "M": "MMMM – MMMM 'de' y",

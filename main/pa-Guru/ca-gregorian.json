@@ -3,8 +3,8 @@
     "pa-Guru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "pa",
         "script": "Guru"
@@ -237,19 +237,19 @@
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਸ.",
                   "pm": "ਸ਼.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪ.",
-                  "evening1": "ਸ਼ਾਮ",
-                  "night1": "ਰਾਤ"
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
+                  "evening1": "ਸ਼ਾਮੀਂ",
+                  "night1": "ਰਾਤੀਂ"
                 },
                 "wide": {
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਪੂ.ਦੁ.",
                   "pm": "ਬਾ.ਦੁ.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪਹਿਰ",
-                  "evening1": "ਸ਼ਾਮ",
-                  "night1": "ਰਾਤ"
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
+                  "evening1": "ਸ਼ਾਮੀਂ",
+                  "night1": "ਰਾਤੀਂ"
                 }
               },
               "stand-alone": {
@@ -257,26 +257,26 @@
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਪੂ.ਦੁ.",
                   "pm": "ਬਾ.ਦੁ.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪਹਿਰ",
-                  "evening1": "ਸ਼ਾਮ",
-                  "night1": "ਰਾਤ"
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
+                  "evening1": "ਸ਼ਾਮੀਂ",
+                  "night1": "ਰਾਤੀਂ"
                 },
                 "narrow": {
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਪੂ.ਦੁ.",
                   "pm": "ਬਾ.ਦੁ.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪਹਿਰ",
-                  "evening1": "ਸ਼ਾਮ",
-                  "night1": "ਰਾਤ"
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
+                  "evening1": "ਸ਼ਾਮੀਂ",
+                  "night1": "ਰਾਤੀਂ"
                 },
                 "wide": {
                   "midnight": "ਅੱਧੀ ਰਾਤ",
                   "am": "ਪੂ.ਦੁ.",
                   "pm": "ਬਾ.ਦੁ.",
-                  "morning1": "ਸਵੇਰ",
-                  "afternoon1": "ਦੁਪਹਿਰ",
+                  "morning1": "ਸਵੇਰੇ",
+                  "afternoon1": "ਦੁਪਹਿਰੇ",
                   "evening1": "ਸ਼ਾਮ",
                   "night1": "ਰਾਤ"
                 }
@@ -296,10 +296,10 @@
                 "1-alt-variant": "ਈ. ਸੰ."
               },
               "eraNarrow": {
-                "0": "ਈ. ਪੂ.",
-                "0-alt-variant": "ਈ. ਪੂ. ਸੰ.",
+                "0": "ਈ.ਪੂ.",
+                "0-alt-variant": "ਈ.ਪੂ.ਸੰ.",
                 "1": "ਸੰਨ",
-                "1-alt-variant": "ਈ. ਸੰ."
+                "1-alt-variant": "ਈ.ਸੰ."
               }
             },
             "dateFormats": {
@@ -348,6 +348,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "MMMM d",
+                "MMMMW": "MMM ਦਾ W ਹਫ਼ਤਾ",
+                "MMMMW": "MMM ਦਾ W ਹਫ਼ਤਾ",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -359,7 +361,9 @@
                 "yMMMEd": "E, d MMM y",
                 "yMMMM": "y MMMM",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "y ਦਾ w ਹਫ਼ਤਾ",
+                "yw": "y ਦਾ w ਹਫ਼ਤਾ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

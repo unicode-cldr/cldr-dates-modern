@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12922 $",
+          "_cldrVersion": "30"
         },
         "language": "ko"
       },
@@ -54,7 +54,7 @@
                   "exemplarCity": "살타"
                 },
                 "Tucuman": {
-                  "exemplarCity": "뚜꾸만"
+                  "exemplarCity": "투쿠만"
                 }
               },
               "Aruba": {
@@ -166,7 +166,7 @@
                 "exemplarCity": "엘살바도르"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "포트 넬슨"
               },
               "Fortaleza": {
                 "exemplarCity": "포르탈레자"
@@ -370,7 +370,7 @@
                 "exemplarCity": "포트오브스페인"
               },
               "Porto_Velho": {
-                "exemplarCity": "포르투벨류"
+                "exemplarCity": "포르토벨료"
               },
               "Puerto_Rico": {
                 "exemplarCity": "푸에르토리코"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "안도라"
               },
+              "Astrakhan": {
+                "exemplarCity": "아스트라한"
+              },
               "Athens": {
                 "exemplarCity": "아테네"
               },
@@ -540,7 +543,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "아일랜드 시간"
+                  "daylight": "아일랜드 표준시"
                 },
                 "exemplarCity": "더블린"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "키예프"
+              },
+              "Kirov": {
+                "exemplarCity": "키로프"
               },
               "Lisbon": {
                 "exemplarCity": "리스본"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "티라나"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "울리야노프스크"
               },
               "Uzhgorod": {
                 "exemplarCity": "우주고로트"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "방콕"
               },
+              "Barnaul": {
+                "exemplarCity": "바르나울"
+              },
               "Beirut": {
                 "exemplarCity": "베이루트"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "도쿄"
+              },
+              "Tomsk": {
+                "exemplarCity": "톰스크"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "울란바토르"
@@ -2148,6 +2163,11 @@
             "Ponape": {
               "long": {
                 "standard": "포나페 시간"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "평양 시간"
               }
             },
             "Qyzylorda": {

@@ -3,8 +3,8 @@
     "it-SM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "it",
         "territory": "SM"
@@ -87,18 +87,18 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "Gennaio",
-                  "2": "Febbraio",
-                  "3": "Marzo",
-                  "4": "Aprile",
-                  "5": "Maggio",
-                  "6": "Giugno",
-                  "7": "Luglio",
-                  "8": "Agosto",
-                  "9": "Settembre",
-                  "10": "Ottobre",
-                  "11": "Novembre",
-                  "12": "Dicembre"
+                  "1": "gennaio",
+                  "2": "febbraio",
+                  "3": "marzo",
+                  "4": "aprile",
+                  "5": "maggio",
+                  "6": "giugno",
+                  "7": "luglio",
+                  "8": "agosto",
+                  "9": "settembre",
+                  "10": "ottobre",
+                  "11": "novembre",
+                  "12": "dicembre"
                 }
               }
             },
@@ -170,13 +170,13 @@
                   "sat": "sab"
                 },
                 "wide": {
-                  "sun": "Domenica",
-                  "mon": "Lunedì",
-                  "tue": "Martedì",
-                  "wed": "Mercoledì",
-                  "thu": "Giovedì",
-                  "fri": "Venerdì",
-                  "sat": "Sabato"
+                  "sun": "domenica",
+                  "mon": "lunedì",
+                  "tue": "martedì",
+                  "wed": "mercoledì",
+                  "thu": "giovedì",
+                  "fri": "venerdì",
+                  "sat": "sabato"
                 }
               }
             },
@@ -229,10 +229,10 @@
                   "am": "AM",
                   "noon": "mezzogiorno",
                   "pm": "PM",
-                  "morning1": "mattina",
-                  "afternoon1": "pomeriggio",
-                  "evening1": "sera",
-                  "night1": "notte"
+                  "morning1": "di mattina",
+                  "afternoon1": "del pomeriggio",
+                  "evening1": "di sera",
+                  "night1": "di notte"
                 },
                 "narrow": {
                   "midnight": "mezzanotte",
@@ -249,10 +249,10 @@
                   "am": "AM",
                   "noon": "mezzogiorno",
                   "pm": "PM",
-                  "morning1": "mattina",
-                  "afternoon1": "pomeriggio",
-                  "evening1": "sera",
-                  "night1": "notte"
+                  "morning1": "di mattina",
+                  "afternoon1": "del pomeriggio",
+                  "evening1": "di sera",
+                  "night1": "di notte"
                 }
               },
               "stand-alone": {
@@ -290,9 +290,9 @@
             },
             "eras": {
               "eraNames": {
-                "0": "a.C.",
+                "0": "avanti Cristo",
                 "0-alt-variant": "avanti Era Volgare",
-                "1": "d.C.",
+                "1": "dopo Cristo",
                 "1-alt-variant": "Era Volgare"
               },
               "eraAbbr": {
@@ -354,6 +354,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "'settimana' W 'di' MMM",
+                "MMMMW": "'settimana' W 'di' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -364,7 +366,9 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'settimana' w 'del' y",
+                "yw": "'settimana' w 'del' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

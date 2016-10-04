@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "cs"
       },
@@ -362,6 +362,10 @@
                 "MMMEd": "E d. M.",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E d. MMMM",
+                "MMMMW": "W. 'týden' MMMM",
+                "MMMMW": "W. 'týden' MMMM",
+                "MMMMW": "W. 'týden' MMMM",
+                "MMMMW": "W. 'týden' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -374,7 +378,11 @@
                 "yMMMMd": "d. MMMM y",
                 "yMMMMEd": "E d. MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "w. 'týden' 'roku' y",
+                "yw": "w. 'týden' 'roku' y",
+                "yw": "w. 'týden' 'roku' y",
+                "yw": "w. 'týden' 'roku' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

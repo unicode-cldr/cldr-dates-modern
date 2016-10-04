@@ -3,8 +3,8 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ms",
         "territory": "BN"
@@ -227,7 +227,7 @@
                 "abbreviated": {
                   "am": "PG",
                   "pm": "PTG",
-                  "morning1": "tengah malam",
+                  "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",
@@ -236,7 +236,7 @@
                 "narrow": {
                   "am": "a",
                   "pm": "p",
-                  "morning1": "tengah malam",
+                  "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",
@@ -245,7 +245,7 @@
                 "wide": {
                   "am": "PG",
                   "pm": "PTG",
-                  "morning1": "tengah malam",
+                  "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",
@@ -265,7 +265,7 @@
                 "narrow": {
                   "am": "a",
                   "pm": "p",
-                  "morning1": "tengah malam",
+                  "morning1": "pagi",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",

@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pt"
       },
@@ -234,10 +234,10 @@
                   "night1": "da madrugada"
                 },
                 "narrow": {
-                  "midnight": "m",
-                  "am": "a",
-                  "noon": "m",
-                  "pm": "p",
+                  "midnight": "meia-noite",
+                  "am": "AM",
+                  "noon": "meio-dia",
+                  "pm": "PM",
                   "morning1": "da manhã",
                   "afternoon1": "da tarde",
                   "evening1": "da noite",
@@ -305,7 +305,7 @@
               "full": "EEEE, d 'de' MMMM 'de' y G",
               "long": "d 'de' MMMM 'de' y G",
               "medium": "dd/MM/y G",
-              "short": "dd/MM/yy GGGGG"
+              "short": "dd/MM/y GGGGG"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",

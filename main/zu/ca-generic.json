@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12922 $",
+          "_cldrVersion": "30"
         },
         "language": "zu"
       },
@@ -226,27 +226,27 @@
                 "abbreviated": {
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "ekuseni",
+                  "morning1": "entathakusa",
                   "morning2": "ekuseni",
-                  "afternoon1": "ntambama",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "narrow": {
                   "am": "a",
                   "pm": "p",
-                  "morning1": "ekuseni",
+                  "morning1": "entathakusa",
                   "morning2": "ekuseni",
-                  "afternoon1": "ntambama",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "wide": {
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "ekuseni",
-                  "morning2": "ekuseni2",
-                  "afternoon1": "ntambama",
+                  "morning1": "entathakusa",
+                  "morning2": "ekuseni",
+                  "afternoon1": "emini",
                   "evening1": "ntambama",
                   "night1": "ebusuku"
                 }
@@ -258,7 +258,7 @@
                   "morning1": "entathakusa",
                   "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "narrow": {
@@ -267,16 +267,16 @@
                   "morning1": "entathakusa",
                   "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 },
                 "wide": {
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "entathakusa",
-                  "morning2": "ekuseni2",
+                  "morning2": "ekuseni",
                   "afternoon1": "emini",
-                  "evening1": "ebusuku1",
+                  "evening1": "ntambama",
                   "night1": "ebusuku"
                 }
               }
@@ -302,10 +302,10 @@
               "short": "GGGGG y-MM-dd"
             },
             "timeFormats": {
-              "full": "h:mm:ss a zzzz",
-              "long": "h:mm:ss a z",
-              "medium": "h:mm:ss a",
-              "short": "h:mm a"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -423,7 +423,7 @@
                   "M": "MMM–MMM"
                 },
                 "MMMd": {
-                  "d": "MMM d–d",
+                  "d": "MMM d – d",
                   "M": "MMM d – MMM d"
                 },
                 "MMMEd": {
@@ -448,11 +448,11 @@
                   "y": "E, M/d/y – E, M/d/y"
                 },
                 "yMMM": {
-                  "M": "MMM–MMM y",
+                  "M": "MMM – MMM y G",
                   "y": "MMM y – MMM y"
                 },
                 "yMMMd": {
-                  "d": "MMM d–d, y",
+                  "d": "MMM d – d, y G",
                   "M": "MMM d – MMM d, y",
                   "y": "MMM d, y – MMM d, y"
                 },
@@ -462,7 +462,7 @@
                   "y": "E, MMM d, y – E, MMM d, y"
                 },
                 "yMMMM": {
-                  "M": "MMMM–MMMM y",
+                  "M": "MMMM – MMMM y G",
                   "y": "MMMM y – MMMM y"
                 }
               }

@@ -3,8 +3,8 @@
     "sv-AX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "sv",
         "territory": "AX"
@@ -361,6 +361,8 @@
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E d MMMM",
+                "MMMMW": "'vecka' W 'i' MMM",
+                "MMMMW": "'vecka' W 'i' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -372,7 +374,9 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'vecka' w, y",
+                "yw": "'vecka' w, y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

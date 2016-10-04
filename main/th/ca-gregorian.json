@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "th"
       },
@@ -290,10 +290,10 @@
                   "am": "ก่อนเที่ยง",
                   "noon": "เที่ยง",
                   "pm": "หลังเที่ยง",
-                  "morning1": "เช้า",
-                  "afternoon1": "ช่วงเที่ยง",
+                  "morning1": "ในตอนเช้า",
+                  "afternoon1": "ในตอนบ่าย",
                   "afternoon2": "บ่าย",
-                  "evening1": "เย็น",
+                  "evening1": "ในตอนเย็น",
                   "evening2": "ค่ำ",
                   "night1": "กลางคืน"
                 }
@@ -369,6 +369,7 @@
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E d MMMM",
                 "MMMMEEEEd": "EEEEที่ d MMMM",
+                "MMMMW": "สัปดาห์ที่ W ของ MMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -384,7 +385,8 @@
                 "yMMMMEd": "E d MMMM G y",
                 "yMMMMEEEEd": "EEEEที่ d MMMM G y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ G y"
+                "yQQQQ": "QQQQ G y",
+                "yw": "สัปดาห์ที่ w ของ y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -444,14 +446,14 @@
                   "M": "d/M – d/M"
                 },
                 "MEd": {
-                  "d": "E d – E d/M",
+                  "d": "E d/M – E d/M/",
                   "M": "E d/M – E d/M"
                 },
                 "MMM": {
-                  "M": "LLL–LLL"
+                  "M": "MMM – MMM"
                 },
                 "MMMd": {
-                  "d": "d – d MMM",
+                  "d": "MMM d–d",
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
@@ -470,12 +472,12 @@
                   "y": "M/y – M/y"
                 },
                 "yMd": {
-                  "d": "d–d/M/y",
+                  "d": "d/M/y – d/M/y",
                   "M": "d/M/y – d/M/y",
                   "y": "d/M/y – d/M/y"
                 },
                 "yMEd": {
-                  "d": "E d – E d/M/y",
+                  "d": "E d/M/y – E d/M/y",
                   "M": "E d/M/y – E d/M/y",
                   "y": "E d/M/y – E d/M/y"
                 },
@@ -489,7 +491,7 @@
                   "y": "d MMM y – d MMM y"
                 },
                 "yMMMEd": {
-                  "d": "E d – E d MMM y",
+                  "d": "E d MMM – E d MMM y",
                   "M": "E d MMM – E d MMM y",
                   "y": "E d MMM y – E d MMM y"
                 },
@@ -499,8 +501,8 @@
                   "y": "EEEEที่ d MMM y – EEEEที่ d MMM y"
                 },
                 "yMMMM": {
-                  "M": "MMMM–MMMM G y",
-                  "y": "MMMM G y – MMMM y"
+                  "M": "MMMM – MMMM y",
+                  "y": "MMMM y – MMMM y"
                 },
                 "yMMMMd": {
                   "d": "d–d MMMM G y",

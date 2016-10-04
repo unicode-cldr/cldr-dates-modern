@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "hi"
       },
@@ -39,7 +39,7 @@
                   "exemplarCity": "रियो गालेगोस"
                 },
                 "San_Juan": {
-                  "exemplarCity": "सान जुआन"
+                  "exemplarCity": "सैन ह्वान"
                 },
                 "Ushuaia": {
                   "exemplarCity": "उशुआइया"
@@ -48,7 +48,7 @@
                   "exemplarCity": "ला रिओजा"
                 },
                 "San_Luis": {
-                  "exemplarCity": "सान लुईस"
+                  "exemplarCity": "सैन लूई"
                 },
                 "Salta": {
                   "exemplarCity": "साल्टा"
@@ -166,19 +166,19 @@
                 "exemplarCity": "अल सल्वाडोर"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "फ़ोर्ट नेल्सन"
               },
               "Fortaleza": {
                 "exemplarCity": "फ़ोर्टालेज़ा"
               },
               "Glace_Bay": {
-                "exemplarCity": "ग्लेस खा़ड़ी"
+                "exemplarCity": "ग्लेस खाड़ी"
               },
               "Godthab": {
                 "exemplarCity": "नुक"
               },
               "Goose_Bay": {
-                "exemplarCity": "गूस खा़ड़ी"
+                "exemplarCity": "गूस खाड़ी"
               },
               "Grand_Turk": {
                 "exemplarCity": "ग्रांड टर्क"
@@ -409,7 +409,7 @@
                 "exemplarCity": "साओ पाउलो"
               },
               "Scoresbysund": {
-                "exemplarCity": "इटोकोर्टोरमियाट"
+                "exemplarCity": "इटोकोर्टोरमिट"
               },
               "Sitka": {
                 "exemplarCity": "सिट्का"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "अंडोरा"
               },
+              "Astrakhan": {
+                "exemplarCity": "आस्ट्राखान"
+              },
               "Athens": {
                 "exemplarCity": "एथेंस"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "कीव"
+              },
+              "Kirov": {
+                "exemplarCity": "किरोव"
               },
               "Lisbon": {
                 "exemplarCity": "लिस्बन"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "टाइरेन"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "अज़्गोरोद"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "बैंकॉक"
               },
+              "Barnaul": {
+                "exemplarCity": "बर्नोल"
+              },
               "Beirut": {
                 "exemplarCity": "बेरुत"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "टोक्यो"
+              },
+              "Tomsk": {
+                "exemplarCity": "तोम्स्क"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "उलानबातर"
@@ -1577,7 +1592,7 @@
             },
             "Brunei": {
               "long": {
-                "standard": "ब्रूनेई दारूस्सलाम समय"
+                "standard": "ब्रूनेई दारूस्सलम समय"
               }
             },
             "Cape_Verde": {
@@ -2111,6 +2126,11 @@
             "Ponape": {
               "long": {
                 "standard": "पोनापे समय"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "प्योंगयांग समय"
               }
             },
             "Reunion": {

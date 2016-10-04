@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12779 $",
+          "_cldrVersion": "30"
         },
         "language": "ur",
         "territory": "IN"
@@ -106,7 +106,7 @@
               "format": {
                 "abbreviated": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -124,7 +124,7 @@
                 },
                 "short": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -133,7 +133,7 @@
                 },
                 "wide": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -144,7 +144,7 @@
               "stand-alone": {
                 "abbreviated": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -162,7 +162,7 @@
                 },
                 "short": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -171,7 +171,7 @@
                 },
                 "wide": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -246,8 +246,8 @@
                 },
                 "wide": {
                   "midnight": "آدھی رات",
-                  "am": "قبل دوپہر",
-                  "pm": "بعد دوپہر",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "صبح",
                   "afternoon1": "دوپہر",
                   "afternoon2": "سہ پہر",
@@ -268,8 +268,8 @@
                 },
                 "narrow": {
                   "midnight": "آدھی رات",
-                  "am": "a",
-                  "pm": "p",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "صبح",
                   "afternoon1": "دوپہر",
                   "afternoon2": "سہ پہر",
@@ -306,7 +306,7 @@
               "full": "EEEE، d MMMM، y G",
               "long": "d MMMM، y G",
               "medium": "d MMM، y G",
-              "short": "d/M/yy GGGGG"
+              "short": "d/M/y GGGGG"
             },
             "timeFormats": {
               "full": "h:mm:ss a zzzz",

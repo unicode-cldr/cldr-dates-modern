@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "kk"
       },
@@ -166,7 +166,7 @@
                 "exemplarCity": "Сальвадор"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "Форт-Нельсон"
               },
               "Fortaleza": {
                 "exemplarCity": "Форталеза"
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Андорра"
               },
+              "Astrakhan": {
+                "exemplarCity": "Астрахан"
+              },
               "Athens": {
                 "exemplarCity": "Афина"
               },
@@ -557,7 +560,7 @@
                 "exemplarCity": "Мэн аралы"
               },
               "Istanbul": {
-                "exemplarCity": "Ыстамбұл"
+                "exemplarCity": "Стамбұл"
               },
               "Jersey": {
                 "exemplarCity": "Джерси"
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Киев"
+              },
+              "Kirov": {
+                "exemplarCity": "Киров"
               },
               "Lisbon": {
                 "exemplarCity": "Лиссабон"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Тирана"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ульяновск"
               },
               "Uzhgorod": {
                 "exemplarCity": "Ужгород"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Бангкок"
               },
+              "Barnaul": {
+                "exemplarCity": "Барнаул"
+              },
               "Beirut": {
                 "exemplarCity": "Бейрут"
               },
@@ -1046,6 +1058,9 @@
               "Tokyo": {
                 "exemplarCity": "Токио"
               },
+              "Tomsk": {
+                "exemplarCity": "Томск"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "Улан-Батор"
               },
@@ -1079,7 +1094,7 @@
                 "exemplarCity": "Чагос"
               },
               "Christmas": {
-                "exemplarCity": "Кристмас"
+                "exemplarCity": "Рождество"
               },
               "Cocos": {
                 "exemplarCity": "Кокос аралдары"
@@ -1094,7 +1109,7 @@
                 "exemplarCity": "Маэ"
               },
               "Maldives": {
-                "exemplarCity": "Мальдив"
+                "exemplarCity": "Мальдив аралдары"
               },
               "Mauritius": {
                 "exemplarCity": "Маврикий"
@@ -1504,7 +1519,7 @@
             },
             "Australia_Central": {
               "long": {
-                "generic": "Орталық Австралия уақыты",
+                "generic": "Австралия орталық уақыты",
                 "standard": "Австралия стандартты орталық уақыты",
                 "daylight": "Австралия жазғы орталық уақыты"
               }
@@ -1615,12 +1630,12 @@
             },
             "Christmas": {
               "long": {
-                "standard": "Кристмас аралы уақыты"
+                "standard": "Рождество аралының уақыты"
               }
             },
             "Cocos": {
               "long": {
-                "standard": "Кокос аралдары уақыты"
+                "standard": "Кокос аралдарының уақыты"
               }
             },
             "Colombia": {
@@ -1632,9 +1647,9 @@
             },
             "Cook": {
               "long": {
-                "generic": "Кук аралдары уақыты",
-                "standard": "Кук аралдары стандартты уақыты",
-                "daylight": "Кук аралдары жартылай жазғы уақыты"
+                "generic": "Кук аралдарының уақыты",
+                "standard": "Кук аралдарының стандартты уақыты",
+                "daylight": "Кук аралдарының жартылай жазғы уақыты"
               }
             },
             "Cuba": {
@@ -1745,7 +1760,7 @@
             },
             "Gilbert_Islands": {
               "long": {
-                "standard": "Гилберт аралдары уақыты"
+                "standard": "Гилберт аралдарының уақыты"
               }
             },
             "GMT": {
@@ -1805,7 +1820,7 @@
             },
             "Indian_Ocean": {
               "long": {
-                "standard": "Үнді мұхиты уақыты"
+                "standard": "Үнді мұхитының уақыты"
               }
             },
             "Indochina": {
@@ -1892,7 +1907,7 @@
             },
             "Line_Islands": {
               "long": {
-                "standard": "Лайн аралдары уақыты"
+                "standard": "Лайн аралдарының уақыты"
               }
             },
             "Lord_Howe": {
@@ -1921,17 +1936,17 @@
             },
             "Maldives": {
               "long": {
-                "standard": "Мальдив уақыты"
+                "standard": "Мальдив аралдарының уақыты"
               }
             },
             "Marquesas": {
               "long": {
-                "standard": "Маркиз аралдары уақыты"
+                "standard": "Маркиз аралдарының уақыты"
               }
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "Маршалл аралдары уақыты"
+                "standard": "Маршалл аралдарының уақыты"
               }
             },
             "Mauritius": {
@@ -1948,9 +1963,9 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Солтүстік Мексика уақыты",
-                "standard": "Солтүстік Мексика стандартты уақыты",
-                "daylight": "Солтүстік Мексика жазғы уақыты"
+                "generic": "Солтүстік-Батыс Мексика уақыты",
+                "standard": "Солтүстік-Батыс Мексика стандартты уақыты",
+                "daylight": "Солтүстік-Батыс Мексика жазғы уақыты"
               }
             },
             "Mexico_Pacific": {
@@ -2081,7 +2096,7 @@
             },
             "Phoenix_Islands": {
               "long": {
-                "standard": "Феникс аралдары уақыты"
+                "standard": "Феникс аралдарының уақыты"
               }
             },
             "Pierre_Miquelon": {
@@ -2099,6 +2114,11 @@
             "Ponape": {
               "long": {
                 "standard": "Понапе уақыты"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Пхеньян уақыты"
               }
             },
             "Reunion": {
@@ -2132,12 +2152,12 @@
             },
             "Singapore": {
               "long": {
-                "standard": "Сингапур уақыты"
+                "standard": "Сингапур стандартты уақыты"
               }
             },
             "Solomon": {
               "long": {
-                "standard": "Соломон аралдары уақыты"
+                "standard": "Соломон аралдарының уақыты"
               }
             },
             "South_Georgia": {
@@ -2248,7 +2268,7 @@
             },
             "Wake": {
               "long": {
-                "standard": "Уэйк аралы уақыты"
+                "standard": "Уэйк аралының уақыты"
               }
             },
             "Wallis": {

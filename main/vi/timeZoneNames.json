@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12312 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "vi"
       },
@@ -14,7 +14,7 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "Giờ {0}",
-          "regionFormat-type-daylight": "Giờ ban ngày {0}",
+          "regionFormat-type-daylight": "Giờ mùa hè {0}",
           "regionFormat-type-standard": "Giờ chuẩn {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Athens"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbon"
@@ -646,8 +652,11 @@
               "Tirane": {
                 "exemplarCity": "Tirane"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
+              },
               "Uzhgorod": {
-                "exemplarCity": "Uzhgorod"
+                "exemplarCity": "Uzhhorod"
               },
               "Vaduz": {
                 "exemplarCity": "Vaduz"
@@ -656,7 +665,7 @@
                 "exemplarCity": "Vatican"
               },
               "Vienna": {
-                "exemplarCity": "Viên"
+                "exemplarCity": "Vienna"
               },
               "Vilnius": {
                 "exemplarCity": "Vilnius"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1046,6 +1058,9 @@
               "Tokyo": {
                 "exemplarCity": "Tokyo"
               },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
               },
@@ -1103,7 +1118,7 @@
                 "exemplarCity": "Mayotte"
               },
               "Reunion": {
-                "exemplarCity": "Reunion"
+                "exemplarCity": "Réunion"
               }
             },
             "Australia": {
@@ -1450,28 +1465,28 @@
               "long": {
                 "generic": "Giờ miền trung",
                 "standard": "Giờ chuẩn miền trung",
-                "daylight": "Giờ ban ngày miền trung"
+                "daylight": "Giờ mùa hè miền trung"
               }
             },
             "America_Eastern": {
               "long": {
                 "generic": "Giờ miền đông",
                 "standard": "Giờ chuẩn miền đông",
-                "daylight": "Giờ ban ngày miền đông"
+                "daylight": "Giờ mùa hè miền đông"
               }
             },
             "America_Mountain": {
               "long": {
                 "generic": "Giờ miền núi",
                 "standard": "Giờ chuẩn miền núi",
-                "daylight": "Giờ ban ngày miền núi"
+                "daylight": "Giờ mùa hè miền núi"
               }
             },
             "America_Pacific": {
               "long": {
                 "generic": "Giờ Thái Bình Dương",
                 "standard": "Giờ chuẩn Thái Bình Dương",
-                "daylight": "Giờ ban ngày Thái Bình Dương"
+                "daylight": "Giờ Mùa hè Thái Bình Dương"
               }
             },
             "Anadyr": {
@@ -1485,7 +1500,7 @@
               "long": {
                 "generic": "Giờ Apia",
                 "standard": "Giờ Chuẩn Apia",
-                "daylight": "Giờ Ban ngày Apia"
+                "daylight": "Giờ Mùa Hè Apia"
               }
             },
             "Aqtau": {
@@ -1768,9 +1783,9 @@
             },
             "Georgia": {
               "long": {
-                "generic": "Giờ Georgia",
-                "standard": "Giờ Chuẩn Georgia",
-                "daylight": "Giờ Mùa Hè Georgia"
+                "generic": "Giờ Gruzia",
+                "standard": "Giờ Chuẩn Gruzia",
+                "daylight": "Giờ Mùa Hè Gruzia"
               }
             },
             "Gilbert_Islands": {
@@ -2158,6 +2173,11 @@
             "Ponape": {
               "long": {
                 "standard": "Giờ Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Giờ Bình Nhưỡng"
               }
             },
             "Qyzylorda": {

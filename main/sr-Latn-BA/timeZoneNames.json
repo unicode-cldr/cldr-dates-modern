@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12417 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12933 $",
+          "_cldrVersion": "30"
         },
         "language": "sr",
         "script": "Latn",
@@ -12,10 +12,10 @@
       },
       "dates": {
         "timeZoneNames": {
-          "hourFormat": "+HHmm;-HHmm",
+          "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "Vreme u zemlji: {0}",
+          "regionFormat": "{0}",
           "regionFormat-type-daylight": "{0}, letnje vreme",
           "regionFormat-type-standard": "{0}, standardno vreme",
           "fallbackFormat": "{1} ({0})",
@@ -38,7 +38,7 @@
               },
               "Argentina": {
                 "Rio_Gallegos": {
-                  "exemplarCity": "Rio Gelegos"
+                  "exemplarCity": "Rio Galjegos"
                 },
                 "San_Juan": {
                   "exemplarCity": "San Huan"
@@ -510,6 +510,9 @@
               "Andorra": {
                 "exemplarCity": "Andora"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakan"
+              },
               "Athens": {
                 "exemplarCity": "Atina"
               },
@@ -569,6 +572,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kijev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisabon"
@@ -647,6 +653,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užgorod"
@@ -869,7 +878,10 @@
                 "exemplarCity": "Baku"
               },
               "Bangkok": {
-                "exemplarCity": "Bankok"
+                "exemplarCity": "Bangkok"
+              },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
               },
               "Beirut": {
                 "exemplarCity": "Bejrut"
@@ -878,7 +890,7 @@
                 "exemplarCity": "Biškek"
               },
               "Brunei": {
-                "exemplarCity": "Bruneji"
+                "exemplarCity": "Brunej"
               },
               "Calcutta": {
                 "exemplarCity": "Kalkuta"
@@ -914,7 +926,7 @@
                 "exemplarCity": "Hebron"
               },
               "Hong_Kong": {
-                "exemplarCity": "Hong Kong"
+                "exemplarCity": "Hongkong"
               },
               "Hovd": {
                 "exemplarCity": "Hovd"
@@ -1047,6 +1059,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -1450,30 +1465,30 @@
             },
             "America_Central": {
               "long": {
-                "generic": "Severnoamerički Centralno vreme",
-                "standard": "Severnoamerički Centralno standardno vreme",
-                "daylight": "Severnoamerički Centralno letnje računanje vremena"
+                "generic": "Severnoameričko centralno vreme",
+                "standard": "Severnoameričko centralno standardno vreme",
+                "daylight": "Severnoameričko centralno letnje vreme"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Severnoamerički Istočno vreme",
-                "standard": "Severnoamerički Istočno standardno vreme",
-                "daylight": "Severnoamerički Istočno letnje računanje vremena"
+                "generic": "Severnoameričko istočno vreme",
+                "standard": "Severnoameričko istočno standardno vreme",
+                "daylight": "Severnoameričko istočno letnje vreme"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Severnoamerički Planinsko vreme",
-                "standard": "Severnoamerički Planinsko standardno vreme",
-                "daylight": "Severnoamerički Planinsko letnje računanje vremena"
+                "generic": "Severnoameričko planinsko vreme",
+                "standard": "Severnoameričko planinsko standardno vreme",
+                "daylight": "Severnoameričko planinsko letnje vreme"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Severnoamerički Pacifičko vreme",
-                "standard": "Severnoamerički Pacifičko standardno vreme",
-                "daylight": "Severnoamerički Pacifičko letnje računanje vremena"
+                "generic": "Severnoameričko pacifičko vreme",
+                "standard": "Severnoameričko pacifičko standardno vreme",
+                "daylight": "Severnoameričko pacifičko letnje vreme"
               }
             },
             "Anadyr": {
@@ -1534,9 +1549,9 @@
             },
             "Atlantic": {
               "long": {
-                "generic": "Atlansko vreme",
-                "standard": "Atlansko standardno vreme",
-                "daylight": "Atlansko ltnje računanje vremena"
+                "generic": "Atlantsko vreme",
+                "standard": "Atlantsko standardno vreme",
+                "daylight": "Atlantsko letnje računanje vremena"
               }
             },
             "Australia_Central": {
@@ -1949,7 +1964,7 @@
             },
             "Kyrgystan": {
               "long": {
-                "standard": "Kirgizstan vreme"
+                "standard": "Kirgistan vreme"
               }
             },
             "Lanka": {
@@ -2022,7 +2037,7 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Severni Meksiko",
+                "generic": "Severozapadni Meksiko",
                 "standard": "Severozapadni Meksiko standardno vreme",
                 "daylight": "Severozapadni Meksiko letnje računanje vremena"
               }
@@ -2180,6 +2195,11 @@
                 "standard": "Ponpej vreme"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "Pjongjanško vreme"
+              }
+            },
             "Qyzylorda": {
               "long": {
                 "generic": "Kizilorda vreme",
@@ -2255,9 +2275,9 @@
             },
             "Taipei": {
               "long": {
-                "generic": "Taipei vreme",
-                "standard": "Taipei standardno vreme",
-                "daylight": "Taipei letnje računanje vremena"
+                "generic": "Tajpej vreme",
+                "standard": "Tajpej standardno vreme",
+                "daylight": "Tajpej letnje vreme"
               }
             },
             "Tajikistan": {

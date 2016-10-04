@@ -3,8 +3,8 @@
     "tr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12373 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "tr"
       },
@@ -346,7 +346,7 @@
                 "EHms": "E HH:mm:ss",
                 "Gy": "G y",
                 "GyMMM": "G MMM y",
-                "GyMMMd": "G dd MMM y",
+                "GyMMMd": "G d MMM y",
                 "GyMMMEd": "G d MMM y E",
                 "h": "a h",
                 "H": "HH",
@@ -359,26 +359,30 @@
                 "hmv": "a h:mm v",
                 "Hmv": "HH:mm v",
                 "M": "L",
-                "Md": "dd/MM",
-                "MEd": "dd/MM E",
+                "Md": "d/M",
+                "MEd": "d/MM E",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
                 "MMMEd": "d MMMM E",
-                "MMMMd": "dd MMMM",
-                "MMMMEd": "dd MMMM E",
+                "MMMMd": "d MMMM",
+                "MMMMEd": "d MMMM E",
+                "MMMMW": "MMMM 'ayının' W. 'haftası'",
+                "MMMMW": "MMMM 'ayının' W. 'haftası'",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
                 "yMd": "dd.MM.y",
-                "yMEd": "dd.MM.y E",
+                "yMEd": "d.M.y E",
                 "yMM": "MM.y",
                 "yMMM": "MMM y",
-                "yMMMd": "dd MMM y",
+                "yMMMd": "d MMM y",
                 "yMMMEd": "d MMM y E",
                 "yMMMM": "MMMM y",
-                "yQQQ": "y/QQQ",
-                "yQQQQ": "y/QQQQ"
+                "yQQQ": "y QQQ",
+                "yQQQQ": "y QQQQ",
+                "yw": "y 'yılının' w. 'haftası'",
+                "yw": "y 'yılının' w. 'haftası'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

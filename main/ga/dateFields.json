@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ga"
       },
@@ -211,7 +211,8 @@
               "relativeTimePattern-count-few": "{0} seachtaine ó shin",
               "relativeTimePattern-count-many": "{0} seachtaine ó shin",
               "relativeTimePattern-count-other": "{0} seachtain ó shin"
-            }
+            },
+            "relativePeriod": "seachtain {0}"
           },
           "week-short": {
             "displayName": "scht.",
@@ -231,7 +232,8 @@
               "relativeTimePattern-count-few": "{0} scht. ó shin",
               "relativeTimePattern-count-many": "{0} scht. ó shin",
               "relativeTimePattern-count-other": "{0} scht. ó shin"
-            }
+            },
+            "relativePeriod": "seachtain {0}"
           },
           "week-narrow": {
             "displayName": "scht.",
@@ -251,7 +253,8 @@
               "relativeTimePattern-count-few": "-{0} scht.",
               "relativeTimePattern-count-many": "-{0} scht.",
               "relativeTimePattern-count-other": "-{0} scht."
-            }
+            },
+            "relativePeriod": "seachtain {0}"
           },
           "day": {
             "displayName": "Lá",
@@ -325,113 +328,408 @@
           "sun": {
             "relative-type--1": "an Domhnach seo caite",
             "relative-type-0": "an Domhnach seo",
-            "relative-type-1": "an Domhnach seo chugainn"
+            "relative-type-1": "an Domhnach seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Domhnach",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Domhnach",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Domhnach",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Domhnach",
+              "relativeTimePattern-count-other": "{0} seachtain ón Domhnach"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Domhnaigh {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Domhnaigh {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Domhnaigh {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Domhnaigh {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Domhnaigh {0} seachtain ó shin"
+            }
           },
           "sun-short": {
             "relative-type--1": "an Domh. seo caite",
             "relative-type-0": "an Domh. seo",
-            "relative-type-1": "an Domh. seo chugainn"
+            "relative-type-1": "an Domh. seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Domh.",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Domh.",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Domh.",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Domh.",
+              "relativeTimePattern-count-other": "{0} seachtain ón Domh."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Domh. {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Domh. {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Domh. {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Domh. {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Domh. {0} seachtain ó shin"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "an Domh seo caite",
             "relative-type-0": "an Domh seo",
-            "relative-type-1": "an Domh seo chug."
+            "relative-type-1": "an Domh seo chug.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "+{0} Domh.",
+              "relativeTimePattern-count-two": "+{0} Dhomh.",
+              "relativeTimePattern-count-few": "+{0} Dhomh.",
+              "relativeTimePattern-count-many": "+{0} nDomh.",
+              "relativeTimePattern-count-other": "+{0} Domh."
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} Domh. ó shin",
+              "relativeTimePattern-count-two": "{0} Dhomh. ó shin",
+              "relativeTimePattern-count-few": "{0} Dhomh. ó shin",
+              "relativeTimePattern-count-many": "{0} nDomh. ó shin",
+              "relativeTimePattern-count-other": "{0} Domh. ó shin"
+            }
           },
           "mon": {
             "relative-type--1": "an Luan seo caite",
             "relative-type-0": "an Luan seo",
-            "relative-type-1": "an Luan seo chugainn"
+            "relative-type-1": "an Luan seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Luan",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Luan",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Luan",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Luan",
+              "relativeTimePattern-count-other": "{0} seachtain ón Luan"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Luain {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Luain {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Luain {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Luain {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Luain {0} seachtain ó shin"
+            }
           },
           "mon-short": {
             "relative-type--1": "an Luan seo caite",
             "relative-type-0": "an Luan seo",
-            "relative-type-1": "an Luan seo chugainn"
+            "relative-type-1": "an Luan seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Luan",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Luan",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Luan",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Luan",
+              "relativeTimePattern-count-other": "{0} seachtain ón Luan"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Luain {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Luain {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Luain {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Luain {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Luain {0} seachtain ó shin"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "an Luan seo caite",
             "relative-type-0": "an Luan seo",
-            "relative-type-1": "an Luan seo chug."
+            "relative-type-1": "an Luan seo chug.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "+{0} Luan",
+              "relativeTimePattern-count-two": "+{0} Luan",
+              "relativeTimePattern-count-few": "+{0} Luan",
+              "relativeTimePattern-count-many": "+{0} Luan",
+              "relativeTimePattern-count-other": "+{0} Luan"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} Luan ó shin",
+              "relativeTimePattern-count-two": "{0} Luan ó shin",
+              "relativeTimePattern-count-few": "{0} Luan ó shin",
+              "relativeTimePattern-count-many": "{0} Luan ó shin",
+              "relativeTimePattern-count-other": "{0} Luan ó shin"
+            }
           },
           "tue": {
             "relative-type--1": "an Mháirt seo caite",
             "relative-type-0": "an Mháirt seo",
-            "relative-type-1": "an Mháirt seo chugainn"
+            "relative-type-1": "an Mháirt seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Máirt",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Máirt",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Máirt",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Máirt",
+              "relativeTimePattern-count-other": "{0} seachtain ón Máirt"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Máirt {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Máirt {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Máirt {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Máirt {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Máirt {0} seachtain ó shin"
+            }
           },
           "tue-short": {
             "relative-type--1": "an Mháirt seo caite",
             "relative-type-0": "an Mháirt seo",
-            "relative-type-1": "an Mháirt seo chugainn"
+            "relative-type-1": "an Mháirt seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Máirt",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Máirt",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Máirt",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Máirt",
+              "relativeTimePattern-count-other": "{0} seachtain ón Máirt"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Máirt {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Máirt {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Máirt {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Máirt {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Máirt {0} seachtain ó shin"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "an Mháirt seo caite",
             "relative-type-0": "an Mháirt seo",
-            "relative-type-1": "an Mháirt seo chug."
+            "relative-type-1": "an Mháirt seo chug.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "+{0} Mháirt",
+              "relativeTimePattern-count-two": "+{0} Mháirt",
+              "relativeTimePattern-count-few": "+{0} Mháirt",
+              "relativeTimePattern-count-many": "+{0} Máirt",
+              "relativeTimePattern-count-other": "+{0} Máirt"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} Mháirt ó shin",
+              "relativeTimePattern-count-two": "{0} Mháirt ó shin",
+              "relativeTimePattern-count-few": "{0} Mháirt ó shin",
+              "relativeTimePattern-count-many": "{0} Máirt ó shin",
+              "relativeTimePattern-count-other": "{0} Máirt ó shin"
+            }
           },
           "wed": {
             "relative-type--1": "an Chéadaoin seo caite",
             "relative-type-0": "an Chéadaoin seo",
-            "relative-type-1": "an Chéadaoin seo chugainn"
+            "relative-type-1": "an Chéadaoin seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Chéadaoin",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Chéadaoin",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Chéadaoin",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Chéadaoin",
+              "relativeTimePattern-count-other": "{0} seachtain ón Chéadaoin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Céadaoin {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Céadaoin {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Céadaoin {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Céadaoin {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Céadaoin {0} seachtain ó shin"
+            }
           },
           "wed-short": {
             "relative-type--1": "an Chéad. seo caite",
             "relative-type-0": "an Chéad. seo",
-            "relative-type-1": "an Chéad. seo chugainn"
+            "relative-type-1": "an Chéad. seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Chéadaoin",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Chéadaoin",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Chéadaoin",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Chéadaoin",
+              "relativeTimePattern-count-other": "{0} seachtain ón Chéadaoin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Céadaoin {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Céadaoin {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Céadaoin {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Céadaoin {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Céadaoin {0} seachtain ó shin"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "an Chéad. seo caite",
             "relative-type-0": "an Chéad. seo",
-            "relative-type-1": "an Chéad seo chug."
+            "relative-type-1": "an Chéad seo chug.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "+{0} Chéadaoin",
+              "relativeTimePattern-count-two": "+{0} Chéadaoin",
+              "relativeTimePattern-count-few": "+{0} Chéadaoin",
+              "relativeTimePattern-count-many": "+{0} gCéadaoin",
+              "relativeTimePattern-count-other": "+{0} Céadaoin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} Chéadaoin ó shin",
+              "relativeTimePattern-count-two": "{0} Chéadaoin ó shin",
+              "relativeTimePattern-count-few": "{0} Chéadaoin ó shin",
+              "relativeTimePattern-count-many": "{0} gCéadaoin ó shin",
+              "relativeTimePattern-count-other": "{0} Céadaoin ó shin"
+            }
           },
           "thu": {
             "relative-type--1": "an Déardaoin seo caite",
             "relative-type-0": "an Déardaoin seo",
-            "relative-type-1": "an Déardaoin seo chugainn"
+            "relative-type-1": "an Déardaoin seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Déardaoin",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Déardaoin",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Déardaoin",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Déardaoin",
+              "relativeTimePattern-count-other": "{0} seachtain ón Déardaoin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Déardaoin {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Déardaoin {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Déardaoin {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Déardaoin {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Déardaoin {0} seachtain ó shin"
+            }
           },
           "thu-short": {
             "relative-type--1": "an Déar. seo caite",
             "relative-type-0": "an Déar. seo",
-            "relative-type-1": "an Déar. seo chugainn"
+            "relative-type-1": "an Déar. seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Déardaoin",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Déardaoin",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Déardaoin",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Déardaoin",
+              "relativeTimePattern-count-other": "{0} seachtain ón Déardaoin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Déardaoin {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Déardaoin {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Déardaoin {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Déardaoin {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Déardaoin {0} seachtain ó shin"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "an Déar. seo caite",
             "relative-type-0": "an Déar. seo",
-            "relative-type-1": "an Déar. seo chug."
+            "relative-type-1": "an Déar. seo chug.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "+{0} Déardaoin",
+              "relativeTimePattern-count-two": "+{0} Dhéardaoin",
+              "relativeTimePattern-count-few": "+{0} Dhéardaoin",
+              "relativeTimePattern-count-many": "+{0} nDéardaoin",
+              "relativeTimePattern-count-other": "+{0} Déardaoin"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} Déardaoin ó shin",
+              "relativeTimePattern-count-two": "{0} Dhéardaoin ó shin",
+              "relativeTimePattern-count-few": "{0} Dhéardaoin ó shin",
+              "relativeTimePattern-count-many": "{0} nDéardaoin ó shin",
+              "relativeTimePattern-count-other": "{0} Déardaoin ó shin"
+            }
           },
           "fri": {
             "relative-type--1": "an Aoine seo caite",
             "relative-type-0": "an Aoine seo",
-            "relative-type-1": "an Aoine seo chugainn"
+            "relative-type-1": "an Aoine seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Aoine",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Aoine",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Aoine",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Aoine",
+              "relativeTimePattern-count-other": "{0} seachtain ón Aoine"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé hAoine {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé hAoine {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé hAoine {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé hAoine {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé hAoine {0} seachtain ó shin"
+            }
           },
           "fri-short": {
             "relative-type--1": "an Aoine seo caite",
             "relative-type-0": "an Aoine seo",
-            "relative-type-1": "an Aoine seo chugainn"
+            "relative-type-1": "an Aoine seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Aoine",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Aoine",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Aoine",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Aoine",
+              "relativeTimePattern-count-other": "{0} seachtain ón Aoine"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé hAoine {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé hAoine {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé hAoine {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé hAoine {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé hAoine {0} seachtain ó shin"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "an Aoine seo caite",
             "relative-type-0": "an Aoine seo",
-            "relative-type-1": "an Aoine seo chug."
+            "relative-type-1": "an Aoine seo chug.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "+{0} Aoine",
+              "relativeTimePattern-count-two": "+{0} Aoine",
+              "relativeTimePattern-count-few": "+{0} Aoine",
+              "relativeTimePattern-count-many": "+{0} Aoine",
+              "relativeTimePattern-count-other": "+{0} Aoine"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} Aoine ó shin",
+              "relativeTimePattern-count-two": "{0} Aoine ó shin",
+              "relativeTimePattern-count-few": "{0} Aoine ó shin",
+              "relativeTimePattern-count-many": "{0} Aoine ó shin",
+              "relativeTimePattern-count-other": "{0} Aoine ó shin"
+            }
           },
           "sat": {
             "relative-type--1": "an Satharn seo caite",
             "relative-type-0": "an Satharn seo",
-            "relative-type-1": "an Satharn seo chugainn"
+            "relative-type-1": "an Satharn seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Satharn",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Satharn",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Satharn",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Satharn",
+              "relativeTimePattern-count-other": "{0} seachtain ón Satharn"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Sathairn {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Sathairn {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Sathairn {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Sathairn {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Sathairn {0} seachtain ó shin"
+            }
           },
           "sat-short": {
             "relative-type--1": "an Sath. seo caite",
             "relative-type-0": "an Sath. seo",
-            "relative-type-1": "an Sath. seo chugainn"
+            "relative-type-1": "an Sath. seo chugainn",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "{0} seachtain ón Satharn",
+              "relativeTimePattern-count-two": "{0} sheachtain ón Satharn",
+              "relativeTimePattern-count-few": "{0} seachtaine ón Satharn",
+              "relativeTimePattern-count-many": "{0} seachtaine ón Satharn",
+              "relativeTimePattern-count-other": "{0} seachtain ón Satharn"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "Dé Sathairn {0} seachtain ó shin",
+              "relativeTimePattern-count-two": "Dé Sathairn {0} sheachtain ó shin",
+              "relativeTimePattern-count-few": "Dé Sathairn {0} seachtaine ó shin",
+              "relativeTimePattern-count-many": "Dé Sathairn {0} seachtaine ó shin",
+              "relativeTimePattern-count-other": "Dé Sathairn {0} seachtain ó shin"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "an Sath seo caite",
             "relative-type-0": "an Sath seo",
-            "relative-type-1": "an Sath seo chug."
+            "relative-type-1": "an Sath seo chug.",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-one": "+{0} Satharn",
+              "relativeTimePattern-count-two": "+{0} Shatharn",
+              "relativeTimePattern-count-few": "+{0} Shatharn",
+              "relativeTimePattern-count-many": "+{0} Satharn",
+              "relativeTimePattern-count-other": "+{0} Satharn"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-one": "{0} Satharn ó shin",
+              "relativeTimePattern-count-two": "{0} Shatharn ó shin",
+              "relativeTimePattern-count-few": "{0} Shatharn ó shin",
+              "relativeTimePattern-count-many": "{0} Satharn ó shin",
+              "relativeTimePattern-count-other": "{0} Satharn ó shin"
+            }
           },
           "dayperiod": {
             "displayName": "a.m./p.m."
           },
           "hour": {
             "displayName": "Uair",
+            "relative-type-0": "an uair seo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} uair an chloig",
               "relativeTimePattern-count-two": "i gceann {0} uair an chloig",
@@ -449,6 +747,7 @@
           },
           "hour-short": {
             "displayName": "uair",
+            "relative-type-0": "an uair seo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} uair",
               "relativeTimePattern-count-two": "i gceann {0} uair",
@@ -466,6 +765,7 @@
           },
           "hour-narrow": {
             "displayName": "u",
+            "relative-type-0": "an uair seo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} u",
               "relativeTimePattern-count-two": "+{0} u",
@@ -483,6 +783,7 @@
           },
           "minute": {
             "displayName": "Nóiméad",
+            "relative-type-0": "an nóiméad seo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} nóiméad",
               "relativeTimePattern-count-two": "i gceann {0} nóiméad",
@@ -500,6 +801,7 @@
           },
           "minute-short": {
             "displayName": "nóim.",
+            "relative-type-0": "an nóiméad seo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} nóim.",
               "relativeTimePattern-count-two": "i gceann {0} nóim.",
@@ -517,6 +819,7 @@
           },
           "minute-narrow": {
             "displayName": "n",
+            "relative-type-0": "an nóiméad seo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} n",
               "relativeTimePattern-count-two": "+{0} n",

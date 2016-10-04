@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ja"
       },
@@ -43,17 +43,17 @@
             "relative-type-0": "今年",
             "relative-type-1": "翌年",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} 年後"
+              "relativeTimePattern-count-other": "{0}年後"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} 年前"
+              "relativeTimePattern-count-other": "{0}年前"
             }
           },
           "quarter": {
             "displayName": "四半期",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "前四半期",
+            "relative-type-0": "今四半期",
+            "relative-type-1": "翌四半期",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 四半期後"
             },
@@ -63,9 +63,9 @@
           },
           "quarter-short": {
             "displayName": "四半期",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "前四半期",
+            "relative-type-0": "今四半期",
+            "relative-type-1": "翌四半期",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 四半期後"
             },
@@ -75,14 +75,14 @@
           },
           "quarter-narrow": {
             "displayName": "四半期",
-            "relative-type--1": "last quarter",
-            "relative-type-0": "this quarter",
-            "relative-type-1": "next quarter",
+            "relative-type--1": "前四半期",
+            "relative-type-0": "今四半期",
+            "relative-type-1": "翌四半期",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} 四半期後"
+              "relativeTimePattern-count-other": "{0}四半期後"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} 四半期前"
+              "relativeTimePattern-count-other": "{0}四半期前"
             }
           },
           "month": {
@@ -115,10 +115,10 @@
             "relative-type-0": "今月",
             "relative-type-1": "翌月",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} か月後"
+              "relativeTimePattern-count-other": "{0}か月後"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} か月前"
+              "relativeTimePattern-count-other": "{0}か月前"
             }
           },
           "week": {
@@ -131,7 +131,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} 週間前"
-            }
+            },
+            "relativePeriod": "{0} 日の週"
           },
           "week-short": {
             "displayName": "週",
@@ -143,7 +144,8 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} 週間前"
-            }
+            },
+            "relativePeriod": "{0} 日の週"
           },
           "week-narrow": {
             "displayName": "週",
@@ -151,11 +153,12 @@
             "relative-type-0": "今週",
             "relative-type-1": "翌週",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} 週間後"
+              "relativeTimePattern-count-other": "{0}週間後"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} 週間前"
-            }
+              "relativeTimePattern-count-other": "{0}週間前"
+            },
+            "relativePeriod": "{0}日の週"
           },
           "day": {
             "displayName": "日",
@@ -193,10 +196,10 @@
             "relative-type-1": "明日",
             "relative-type-2": "明後日",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} 日後"
+              "relativeTimePattern-count-other": "{0}日後"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} 日前"
+              "relativeTimePattern-count-other": "{0}日前"
             }
           },
           "weekday": {
@@ -205,113 +208,240 @@
           "sun": {
             "relative-type--1": "先週の日曜日",
             "relative-type-0": "今週の日曜日",
-            "relative-type-1": "来週の日曜日"
+            "relative-type-1": "来週の日曜日",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の日曜日"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の日曜日"
+            }
           },
           "sun-short": {
             "relative-type--1": "先週の日曜",
             "relative-type-0": "今週の日曜",
-            "relative-type-1": "来週の日曜"
+            "relative-type-1": "来週の日曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の日曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の日曜"
+            }
           },
           "sun-narrow": {
             "relative-type--1": "先週の日曜",
             "relative-type-0": "今週の日曜",
-            "relative-type-1": "来週の日曜"
+            "relative-type-1": "来週の日曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}個後の日曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}個前の日曜"
+            }
           },
           "mon": {
             "relative-type--1": "先週の月曜日",
             "relative-type-0": "今週の月曜日",
-            "relative-type-1": "来週の月曜日"
+            "relative-type-1": "来週の月曜日",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の月曜日"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の月曜日"
+            }
           },
           "mon-short": {
             "relative-type--1": "先週の月曜",
             "relative-type-0": "今週の月曜",
-            "relative-type-1": "来週の月曜"
+            "relative-type-1": "来週の月曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の月曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の月曜"
+            }
           },
           "mon-narrow": {
             "relative-type--1": "先週の月曜",
             "relative-type-0": "今週の月曜",
-            "relative-type-1": "来週の月曜"
+            "relative-type-1": "来週の月曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}個後の月曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}個前の月曜"
+            }
           },
           "tue": {
             "relative-type--1": "先週の火曜日",
             "relative-type-0": "今週の火曜日",
-            "relative-type-1": "来週の火曜日"
+            "relative-type-1": "来週の火曜日",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の火曜日"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の火曜日"
+            }
           },
           "tue-short": {
             "relative-type--1": "先週の火曜",
             "relative-type-0": "今週の火曜",
-            "relative-type-1": "来週の火曜"
+            "relative-type-1": "来週の火曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の火曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の火曜"
+            }
           },
           "tue-narrow": {
             "relative-type--1": "先週の火曜",
             "relative-type-0": "今週の火曜",
-            "relative-type-1": "来週の火曜"
+            "relative-type-1": "来週の火曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}個後の火曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}個前の火曜"
+            }
           },
           "wed": {
             "relative-type--1": "先週の水曜日",
             "relative-type-0": "今週の水曜日",
-            "relative-type-1": "来週の水曜日"
+            "relative-type-1": "来週の水曜日",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の水曜日"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の水曜日"
+            }
           },
           "wed-short": {
             "relative-type--1": "先週の水曜",
             "relative-type-0": "今週の水曜",
-            "relative-type-1": "来週の水曜"
+            "relative-type-1": "来週の水曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の水曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の水曜"
+            }
           },
           "wed-narrow": {
             "relative-type--1": "先週の水曜",
             "relative-type-0": "今週の水曜",
-            "relative-type-1": "来週の水曜"
+            "relative-type-1": "来週の水曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}個後の水曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}個前の水曜"
+            }
           },
           "thu": {
             "relative-type--1": "先週の木曜日",
             "relative-type-0": "今週の木曜日",
-            "relative-type-1": "来週の木曜日"
+            "relative-type-1": "来週の木曜日",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の木曜日"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の木曜日"
+            }
           },
           "thu-short": {
             "relative-type--1": "先週の木曜",
             "relative-type-0": "今週の木曜",
-            "relative-type-1": "来週の木曜"
+            "relative-type-1": "来週の木曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の木曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の木曜"
+            }
           },
           "thu-narrow": {
             "relative-type--1": "先週の木曜",
             "relative-type-0": "今週の木曜",
-            "relative-type-1": "来週の木曜"
+            "relative-type-1": "来週の木曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}個後の木曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}個前の木曜"
+            }
           },
           "fri": {
             "relative-type--1": "先週の金曜日",
             "relative-type-0": "今週の金曜日",
-            "relative-type-1": "来週の金曜日"
+            "relative-type-1": "来週の金曜日",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の金曜日"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の金曜日"
+            }
           },
           "fri-short": {
             "relative-type--1": "先週の金曜",
             "relative-type-0": "今週の金曜",
-            "relative-type-1": "来週の金曜"
+            "relative-type-1": "来週の金曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の金曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の金曜"
+            }
           },
           "fri-narrow": {
             "relative-type--1": "先週の金曜",
             "relative-type-0": "今週の金曜",
-            "relative-type-1": "来週の金曜"
+            "relative-type-1": "来週の金曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}個後の金曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}個前の金曜"
+            }
           },
           "sat": {
             "relative-type--1": "先週の土曜日",
             "relative-type-0": "今週の土曜日",
-            "relative-type-1": "来週の土曜日"
+            "relative-type-1": "来週の土曜日",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の土曜日"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の土曜日"
+            }
           },
           "sat-short": {
             "relative-type--1": "先週の土曜",
             "relative-type-0": "今週の土曜",
-            "relative-type-1": "来週の土曜"
+            "relative-type-1": "来週の土曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0} 個後の土曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0} 個前の土曜"
+            }
           },
           "sat-narrow": {
             "relative-type--1": "先週の土曜",
             "relative-type-0": "今週の土曜",
-            "relative-type-1": "来週の土曜"
+            "relative-type-1": "来週の土曜",
+            "relativeTime-type-future": {
+              "relativeTimePattern-count-other": "{0}個後の土曜"
+            },
+            "relativeTime-type-past": {
+              "relativeTimePattern-count-other": "{0}個前の土曜"
+            }
           },
           "dayperiod": {
             "displayName": "午前/午後"
           },
           "hour": {
             "displayName": "時",
+            "relative-type-0": "1 時間以内",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 時間後"
             },
@@ -321,6 +451,7 @@
           },
           "hour-short": {
             "displayName": "時",
+            "relative-type-0": "1 時間以内",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 時間後"
             },
@@ -330,15 +461,17 @@
           },
           "hour-narrow": {
             "displayName": "時",
+            "relative-type-0": "1 時間以内",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} 時間後"
+              "relativeTimePattern-count-other": "{0}時間後"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} 時間前"
+              "relativeTimePattern-count-other": "{0}時間前"
             }
           },
           "minute": {
             "displayName": "分",
+            "relative-type-0": "1 分以内",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 分後"
             },
@@ -348,6 +481,7 @@
           },
           "minute-short": {
             "displayName": "分",
+            "relative-type-0": "1 分以内",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 分後"
             },
@@ -357,16 +491,17 @@
           },
           "minute-narrow": {
             "displayName": "分",
+            "relative-type-0": "1 分以内",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} 分後"
+              "relativeTimePattern-count-other": "{0}分後"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} 分前"
+              "relativeTimePattern-count-other": "{0}分前"
             }
           },
           "second": {
             "displayName": "秒",
-            "relative-type-0": "今すぐ",
+            "relative-type-0": "今",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 秒後"
             },
@@ -376,7 +511,7 @@
           },
           "second-short": {
             "displayName": "秒",
-            "relative-type-0": "今すぐ",
+            "relative-type-0": "今",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 秒後"
             },
@@ -386,12 +521,12 @@
           },
           "second-narrow": {
             "displayName": "秒",
-            "relative-type-0": "今すぐ",
+            "relative-type-0": "今",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} 秒後"
+              "relativeTimePattern-count-other": "{0}秒後"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} 秒前"
+              "relativeTimePattern-count-other": "{0}秒前"
             }
           },
           "zone": {

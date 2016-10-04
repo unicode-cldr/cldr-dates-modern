@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12217 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hant",
@@ -168,7 +168,7 @@
                 "exemplarCity": "薩爾瓦多"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "納爾遜堡"
               },
               "Fortaleza": {
                 "exemplarCity": "福塔萊薩"
@@ -510,6 +510,9 @@
               "Andorra": {
                 "exemplarCity": "安道爾"
               },
+              "Astrakhan": {
+                "exemplarCity": "阿斯特拉罕"
+              },
               "Athens": {
                 "exemplarCity": "雅典"
               },
@@ -569,6 +572,9 @@
               },
               "Kiev": {
                 "exemplarCity": "基輔"
+              },
+              "Kirov": {
+                "exemplarCity": "基洛夫"
               },
               "Lisbon": {
                 "exemplarCity": "里斯本"
@@ -647,6 +653,9 @@
               },
               "Tirane": {
                 "exemplarCity": "地拉那"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "烏里揚諾夫斯克"
               },
               "Uzhgorod": {
                 "exemplarCity": "烏日哥羅德"
@@ -871,6 +880,9 @@
               "Bangkok": {
                 "exemplarCity": "曼谷"
               },
+              "Barnaul": {
+                "exemplarCity": "巴爾瑙爾"
+              },
               "Beirut": {
                 "exemplarCity": "貝魯特"
               },
@@ -1047,6 +1059,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "東京"
+              },
+              "Tomsk": {
+                "exemplarCity": "托木斯克"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "烏蘭巴托"
@@ -2165,6 +2180,11 @@
             "Ponape": {
               "long": {
                 "standard": "波納佩時間"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "平壤時間"
               }
             },
             "Qyzylorda": {

@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13006 $",
+          "_cldrVersion": "30"
         },
         "language": "cy"
       },
@@ -477,7 +477,7 @@
                 "exemplarCity": "Bermuda"
               },
               "Canary": {
-                "exemplarCity": "yr Ynysoedd Dedwydd"
+                "exemplarCity": "Yr Ynysoedd Dedwydd"
               },
               "Cape_Verde": {
                 "exemplarCity": "Cabo Verde"
@@ -507,6 +507,9 @@
               },
               "Andorra": {
                 "exemplarCity": "Andorra"
+              },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
               },
               "Athens": {
                 "exemplarCity": "Athen"
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbon"
@@ -646,6 +652,9 @@
               "Tirane": {
                 "exemplarCity": "Tirane"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
+              },
               "Uzhgorod": {
                 "exemplarCity": "Uzhhorod"
               },
@@ -653,7 +662,7 @@
                 "exemplarCity": "Vaduz"
               },
               "Vatican": {
-                "exemplarCity": "y Fatican"
+                "exemplarCity": "Y Fatican"
               },
               "Vienna": {
                 "exemplarCity": "Fienna"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -2112,6 +2127,11 @@
             "Ponape": {
               "long": {
                 "standard": "Amser Pohnpei"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Amser Pyongyang"
               }
             },
             "Reunion": {

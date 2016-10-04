@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "pt"
       },
@@ -489,7 +489,7 @@
                 "exemplarCity": "Madeira"
               },
               "Reykjavik": {
-                "exemplarCity": "Reykjavik"
+                "exemplarCity": "Reykjavík"
               },
               "South_Georgia": {
                 "exemplarCity": "Geórgia do Sul"
@@ -507,6 +507,9 @@
               },
               "Andorra": {
                 "exemplarCity": "Andorra"
+              },
+              "Astrakhan": {
+                "exemplarCity": "Astracã"
               },
               "Athens": {
                 "exemplarCity": "Atenas"
@@ -568,6 +571,9 @@
               "Kiev": {
                 "exemplarCity": "Kiev"
               },
+              "Kirov": {
+                "exemplarCity": "Kirov"
+              },
               "Lisbon": {
                 "exemplarCity": "Lisboa"
               },
@@ -608,7 +614,7 @@
                 "exemplarCity": "Paris"
               },
               "Podgorica": {
-                "exemplarCity": "Podgóritza"
+                "exemplarCity": "Podgorica"
               },
               "Prague": {
                 "exemplarCity": "Praga"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulianovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -861,13 +870,16 @@
                 "exemplarCity": "Bagdá"
               },
               "Bahrain": {
-                "exemplarCity": "Barein"
+                "exemplarCity": "Bahrein"
               },
               "Baku": {
                 "exemplarCity": "Baku"
               },
               "Bangkok": {
                 "exemplarCity": "Bangkok"
+              },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
               },
               "Beirut": {
                 "exemplarCity": "Beirute"
@@ -909,7 +921,7 @@
                 "exemplarCity": "Gaza"
               },
               "Hebron": {
-                "exemplarCity": "Hebron"
+                "exemplarCity": "Hebrom"
               },
               "Hong_Kong": {
                 "exemplarCity": "Hong Kong"
@@ -963,7 +975,7 @@
                 "exemplarCity": "Magadan"
               },
               "Makassar": {
-                "exemplarCity": "Macassar"
+                "exemplarCity": "Macáçar"
               },
               "Manila": {
                 "exemplarCity": "Manila"
@@ -1005,7 +1017,7 @@
                 "exemplarCity": "Yangon"
               },
               "Riyadh": {
-                "exemplarCity": "Riadi"
+                "exemplarCity": "Riade"
               },
               "Saigon": {
                 "exemplarCity": "Ho Chi Minh"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tóquio"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulan Bator"
@@ -1665,7 +1680,7 @@
             },
             "Christmas": {
               "long": {
-                "standard": "Horário das Ilhas Natal"
+                "standard": "Horário da Ilha Christmas"
               }
             },
             "Cocos": {
@@ -1737,7 +1752,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Horário de Kaliningrado"
+                "standard": "Horário do Extremo Leste Europeu"
               }
             },
             "Europe_Western": {
@@ -2173,6 +2188,11 @@
             "Ponape": {
               "long": {
                 "standard": "Horário de Ponape"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "Horário de Pyongyang"
               }
             },
             "Qyzylorda": {

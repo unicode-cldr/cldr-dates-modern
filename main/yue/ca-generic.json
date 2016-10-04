@@ -3,8 +3,8 @@
     "yue": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12347 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "yue"
       },
@@ -182,10 +182,10 @@
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "1季",
-                  "2": "2季",
-                  "3": "3季",
-                  "4": "4季"
+                  "1": "第1季",
+                  "2": "第2季",
+                  "3": "第3季",
+                  "4": "第4季"
                 },
                 "narrow": {
                   "1": "1",
@@ -202,10 +202,10 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "1季",
-                  "2": "2季",
-                  "3": "3季",
-                  "4": "4季"
+                  "1": "第1季",
+                  "2": "第2季",
+                  "3": "第3季",
+                  "4": "第4季"
                 },
                 "narrow": {
                   "1": "1",
@@ -236,8 +236,8 @@
                 },
                 "narrow": {
                   "midnight": "午夜",
-                  "am": "朝早",
-                  "pm": "下晝",
+                  "am": "上午",
+                  "pm": "下午",
                   "morning1": "清晨",
                   "morning2": "朝早",
                   "afternoon1": "中午",
@@ -270,10 +270,10 @@
                   "night1": "凌晨"
                 },
                 "narrow": {
-                  "midnight": "下晝",
-                  "am": "朝早",
+                  "midnight": "午夜",
+                  "am": "上午",
                   "pm": "下午",
-                  "morning1": "夜晚",
+                  "morning1": "清晨",
                   "morning2": "朝早",
                   "afternoon1": "中午",
                   "afternoon2": "下晝",

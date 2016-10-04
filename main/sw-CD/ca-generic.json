@@ -3,8 +3,8 @@
     "sw-CD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12197 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "sw",
         "territory": "CD"
@@ -105,13 +105,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "yen",
-                  "mon": "kwa",
-                  "tue": "pil",
-                  "wed": "tat",
-                  "thu": "ine",
-                  "fri": "tan",
-                  "sat": "sit"
+                  "sun": "Jumapili",
+                  "mon": "Jumatatu",
+                  "tue": "Jumanne",
+                  "wed": "Jumatano",
+                  "thu": "Alhamisi",
+                  "fri": "Ijumaa",
+                  "sat": "Jumamosi"
                 },
                 "narrow": {
                   "sun": "S",
@@ -132,13 +132,13 @@
                   "sat": "Jumamosi"
                 },
                 "wide": {
-                  "sun": "siku ya yenga",
-                  "mon": "siku ya kwanza",
-                  "tue": "siku ya pili",
-                  "wed": "siku ya tatu",
-                  "thu": "siku ya ine",
-                  "fri": "siku ya tanu",
-                  "sat": "siku ya sita"
+                  "sun": "Jumapili",
+                  "mon": "Jumatatu",
+                  "tue": "Jumanne",
+                  "wed": "Jumatano",
+                  "thu": "Alhamisi",
+                  "fri": "Ijumaa",
+                  "sat": "Jumamosi"
                 }
               },
               "stand-alone": {
@@ -152,13 +152,13 @@
                   "sat": "Jumamosi"
                 },
                 "narrow": {
-                  "sun": "y",
-                  "mon": "k",
-                  "tue": "p",
-                  "wed": "t",
-                  "thu": "i",
-                  "fri": "t",
-                  "sat": "s"
+                  "sun": "S",
+                  "mon": "M",
+                  "tue": "T",
+                  "wed": "W",
+                  "thu": "T",
+                  "fri": "F",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "Jumapili",
@@ -248,9 +248,9 @@
                 },
                 "wide": {
                   "midnight": "saa sita za usiku",
-                  "am": "ya asubuyi",
+                  "am": "Asubuhi",
                   "noon": "saa sita za mchana",
-                  "pm": "ya muchana",
+                  "pm": "Mchana",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
                   "afternoon1": "mchana",
@@ -309,10 +309,10 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE d MMMM y G",
+              "full": "EEEE, d MMMM y G",
               "long": "d MMMM y G",
               "medium": "d MMM y G",
-              "short": "d/M/y GGGGG"
+              "short": "dd/MM/y GGGGG"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -344,23 +344,15 @@
                 "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "L",
-                "Md": "d/M",
-                "MEd": "E d/M",
+                "Md": "d-M",
+                "MEd": "E, d/M",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
                 "ms": "m:ss",
-                "y": "y",
-                "yM": "M/y",
-                "yMd": "d/M/y",
-                "yMEd": "E d/M/y",
-                "yMMM": "MMM y",
-                "yMMMd": "d MMM y",
-                "yMMMEd": "E d MMM y",
-                "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y",
+                "y": "y G",
                 "yyyy": "y G",
                 "yyyyM": "M/y G",
                 "yyyyMd": "d/M/y G",

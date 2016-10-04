@@ -3,8 +3,8 @@
     "sq-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "sq",
         "territory": "XK"
@@ -15,32 +15,32 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "Jan",
-                  "2": "Shk",
-                  "3": "Mar",
-                  "4": "Pri",
-                  "5": "Maj",
-                  "6": "Qer",
-                  "7": "Kor",
-                  "8": "Gsh",
-                  "9": "Sht",
-                  "10": "Tet",
-                  "11": "Nën",
-                  "12": "Dhj"
+                  "1": "jan",
+                  "2": "shk",
+                  "3": "mar",
+                  "4": "pri",
+                  "5": "maj",
+                  "6": "qer",
+                  "7": "kor",
+                  "8": "gsh",
+                  "9": "sht",
+                  "10": "tet",
+                  "11": "nën",
+                  "12": "dhj"
                 },
                 "narrow": {
-                  "1": "J",
-                  "2": "S",
-                  "3": "M",
-                  "4": "P",
-                  "5": "M",
-                  "6": "Q",
-                  "7": "K",
-                  "8": "G",
-                  "9": "S",
-                  "10": "T",
-                  "11": "N",
-                  "12": "D"
+                  "1": "j",
+                  "2": "s",
+                  "3": "m",
+                  "4": "p",
+                  "5": "m",
+                  "6": "q",
+                  "7": "k",
+                  "8": "g",
+                  "9": "s",
+                  "10": "t",
+                  "11": "n",
+                  "12": "d"
                 },
                 "wide": {
                   "1": "janar",
@@ -225,37 +225,37 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "mesnatë",
+                  "midnight": "e mesnatës",
                   "am": "e paradites",
-                  "noon": "mesditë",
+                  "noon": "e mesditës",
                   "pm": "e pasdites",
-                  "morning1": "mëngjes",
+                  "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
-                  "evening1": "mbrëmje",
-                  "night1": "natë"
+                  "evening1": "e mbrëmjes",
+                  "night1": "e natës"
                 },
                 "narrow": {
-                  "midnight": "mesnatë",
+                  "midnight": "e mesnatës",
                   "am": "e paradites",
-                  "noon": "mesditë",
+                  "noon": "e mesditës",
                   "pm": "e pasdites",
-                  "morning1": "mëngjes",
+                  "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
-                  "evening1": "mbrëmje",
-                  "night1": "natë"
+                  "evening1": "e mbrëmjes",
+                  "night1": "e natës"
                 },
                 "wide": {
-                  "midnight": "mesnatë",
+                  "midnight": "e mesnatës",
                   "am": "e paradites",
-                  "noon": "mesditë",
+                  "noon": "e mesditës",
                   "pm": "e pasdites",
-                  "morning1": "mëngjes",
+                  "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
-                  "evening1": "mbrëmje",
-                  "night1": "natë"
+                  "evening1": "e mbrëmjes",
+                  "night1": "e natës"
                 }
               },
               "stand-alone": {
@@ -296,21 +296,21 @@
             },
             "eras": {
               "eraNames": {
-                "0": "para erës së re",
+                "0": "para Krishtit",
                 "0-alt-variant": "para erës sonë",
-                "1": "erës së re",
+                "1": "mbas Krishtit",
                 "1-alt-variant": "erës sonë"
               },
               "eraAbbr": {
-                "0": "p.e.r.",
+                "0": "p.K.",
                 "0-alt-variant": "p.e.s.",
-                "1": "e.r.",
+                "1": "mb.K.",
                 "1-alt-variant": "e.s."
               },
               "eraNarrow": {
-                "0": "p.e.r.",
+                "0": "p.K.",
                 "0-alt-variant": "p.e.s.",
-                "1": "e.r.",
+                "1": "mb.K.",
                 "1-alt-variant": "e.s."
               }
             },
@@ -362,6 +362,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
+                "MMMMW": "'java' W 'e' MMM",
+                "MMMMW": "'java' W 'e' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -372,7 +374,9 @@
                 "yMMMEd": "E, d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ, y",
-                "yQQQQ": "QQQQ, y"
+                "yQQQQ": "QQQQ, y",
+                "yw": "'java' w 'e' y",
+                "yw": "'java' w 'e' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "ta": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12316 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "ta"
       },
@@ -36,7 +36,7 @@
               },
               "Argentina": {
                 "Rio_Gallegos": {
-                  "exemplarCity": "ரியோ கேலிகாஸ்"
+                  "exemplarCity": "ரியோ கேலெகோஸ்"
                 },
                 "San_Juan": {
                   "exemplarCity": "சான் ஜுவான்"
@@ -103,7 +103,7 @@
                 "exemplarCity": "கன்குன்"
               },
               "Caracas": {
-                "exemplarCity": "கேராகஸ்"
+                "exemplarCity": "கரகாஸ்"
               },
               "Catamarca": {
                 "exemplarCity": "கடமார்கா"
@@ -166,7 +166,7 @@
                 "exemplarCity": "எல் சால்வடோர்"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "ஃபோர்ட் நெல்சன்"
               },
               "Fortaleza": {
                 "exemplarCity": "ஃபோர்டாலெசா"
@@ -181,7 +181,7 @@
                 "exemplarCity": "கூஸ் பே"
               },
               "Grand_Turk": {
-                "exemplarCity": "கிராண்ட் துர்க்"
+                "exemplarCity": "கிராண்ட் டர்க்"
               },
               "Grenada": {
                 "exemplarCity": "கிரனடா"
@@ -250,7 +250,7 @@
               },
               "Kentucky": {
                 "Monticello": {
-                  "exemplarCity": "மான்டிசெல்லோ, கென்டக்கி"
+                  "exemplarCity": "மான்டிசெல்லோ, கென்டகி"
                 }
               },
               "Kralendijk": {
@@ -364,7 +364,7 @@
                 "exemplarCity": "ஃபோனிக்ஸ்"
               },
               "Port-au-Prince": {
-                "exemplarCity": "போர்ட்-வ்-பிரின்ஸ்"
+                "exemplarCity": "போர்ட்-அவ்-பிரின்ஸ்"
               },
               "Port_of_Spain": {
                 "exemplarCity": "போர்ட் ஆஃப் ஸ்பெயின்"
@@ -424,13 +424,13 @@
                 "exemplarCity": "செயின்ட் கீட்ஸ்"
               },
               "St_Lucia": {
-                "exemplarCity": "செயிண்ட் லூசியா"
+                "exemplarCity": "செயின்ட் லூசியா"
               },
               "St_Thomas": {
                 "exemplarCity": "செயின்ட் தாமஸ்"
               },
               "St_Vincent": {
-                "exemplarCity": "செயிண்ட் வின்சென்ட்"
+                "exemplarCity": "செயின்ட் வின்சென்ட்"
               },
               "Swift_Current": {
                 "exemplarCity": "ஸ்விஃப்ட் கரண்ட்"
@@ -503,16 +503,19 @@
             },
             "Europe": {
               "Amsterdam": {
-                "exemplarCity": "ஆம்ஸ்டர்டம்"
+                "exemplarCity": "ஆம்ஸ்ட்ரடாம்"
               },
               "Andorra": {
                 "exemplarCity": "அண்டோரா"
               },
+              "Astrakhan": {
+                "exemplarCity": "அஸ்ட்ராகான்"
+              },
               "Athens": {
-                "exemplarCity": "ஏதேன்ஸ்"
+                "exemplarCity": "ஏதன்ஸ்"
               },
               "Belgrade": {
-                "exemplarCity": "பெல்க்ரேடு"
+                "exemplarCity": "பெல்கிரேட்"
               },
               "Berlin": {
                 "exemplarCity": "பெர்லின்"
@@ -521,7 +524,7 @@
                 "exemplarCity": "பிரடிஸ்லாவா"
               },
               "Brussels": {
-                "exemplarCity": "புருசேல்ஸ்"
+                "exemplarCity": "புரூசல்ஸ்"
               },
               "Bucharest": {
                 "exemplarCity": "புசாரெஸ்ட்"
@@ -563,10 +566,13 @@
                 "exemplarCity": "ஜெர்சி"
               },
               "Kaliningrad": {
-                "exemplarCity": "கலினின்கிராடு"
+                "exemplarCity": "கலினின்கிராட்"
               },
               "Kiev": {
                 "exemplarCity": "கீவ்"
+              },
+              "Kirov": {
+                "exemplarCity": "கிரோவ்"
               },
               "Lisbon": {
                 "exemplarCity": "லிஸ்பன்"
@@ -584,13 +590,13 @@
                 "exemplarCity": "லக்சம்பர்க்"
               },
               "Madrid": {
-                "exemplarCity": "மாட்ரிட்"
+                "exemplarCity": "மேட்ரிட்"
               },
               "Malta": {
                 "exemplarCity": "மால்டா"
               },
               "Mariehamn": {
-                "exemplarCity": "மரிஹமன்"
+                "exemplarCity": "மரிஹம்"
               },
               "Minsk": {
                 "exemplarCity": "மின்ஸ்க்"
@@ -623,10 +629,10 @@
                 "exemplarCity": "சமாரா"
               },
               "San_Marino": {
-                "exemplarCity": "சான் மாரினோ"
+                "exemplarCity": "சான் மரினோ"
               },
               "Sarajevo": {
-                "exemplarCity": "சராஜேவோ"
+                "exemplarCity": "சரயேவோ"
               },
               "Simferopol": {
                 "exemplarCity": "சிம்ஃபெரோபோல்"
@@ -646,8 +652,11 @@
               "Tirane": {
                 "exemplarCity": "திரானே"
               },
+              "Ulyanovsk": {
+                "exemplarCity": "உல்யானோஸ்க்"
+              },
               "Uzhgorod": {
-                "exemplarCity": "உஜ்கோரோட்"
+                "exemplarCity": "உஷோரோட்"
               },
               "Vaduz": {
                 "exemplarCity": "வதுஸ்"
@@ -733,7 +742,7 @@
                 "exemplarCity": "தார் எஸ் சலாம்"
               },
               "Djibouti": {
-                "exemplarCity": "டிஜிபவ்டி"
+                "exemplarCity": "ஜிபௌட்டி"
               },
               "Douala": {
                 "exemplarCity": "தவுலா"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "பாங்காக்"
               },
+              "Barnaul": {
+                "exemplarCity": "பார்னால்"
+              },
               "Beirut": {
                 "exemplarCity": "பெய்ரூட்"
               },
@@ -957,7 +969,7 @@
                 "exemplarCity": "குவைத்"
               },
               "Macau": {
-                "exemplarCity": "மகவ்"
+                "exemplarCity": "மகாவு"
               },
               "Magadan": {
                 "exemplarCity": "மகதன்"
@@ -993,7 +1005,7 @@
                 "exemplarCity": "போன்டியானாக்"
               },
               "Pyongyang": {
-                "exemplarCity": "பியோங்கியாங்"
+                "exemplarCity": "பியாங்யாங்"
               },
               "Qatar": {
                 "exemplarCity": "கத்தார்"
@@ -1029,7 +1041,7 @@
                 "exemplarCity": "ஸ்ரெட்நிகோலிம்ஸ்க்"
               },
               "Taipei": {
-                "exemplarCity": "தைபே"
+                "exemplarCity": "தாய்பே"
               },
               "Tashkent": {
                 "exemplarCity": "தாஷ்கண்ட்"
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "டோக்கியோ"
+              },
+              "Tomsk": {
+                "exemplarCity": "டாம்ஸ்க்"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "உலான்பாட்டர்"
@@ -1132,7 +1147,7 @@
                 "exemplarCity": "லின்டெமன்"
               },
               "Lord_Howe": {
-                "exemplarCity": "லார்டு ஹோவே"
+                "exemplarCity": "லார்ட் ஹோவே"
               },
               "Melbourne": {
                 "exemplarCity": "மெல்போர்ன்"
@@ -1182,7 +1197,7 @@
                 "exemplarCity": "கேம்பியர்"
               },
               "Guadalcanal": {
-                "exemplarCity": "கவுடால்கேனல்"
+                "exemplarCity": "க்வாடால்கேனல்"
               },
               "Guam": {
                 "exemplarCity": "குவாம்"
@@ -1194,7 +1209,7 @@
                 "exemplarCity": "ஜோன்ஸ்டன்"
               },
               "Kiritimati": {
-                "exemplarCity": "கிரிடிமடி"
+                "exemplarCity": "கிரிடிமாட்டி"
               },
               "Kosrae": {
                 "exemplarCity": "கோஸ்ரே"
@@ -1221,7 +1236,7 @@
                 "exemplarCity": "நார்ஃபோக்"
               },
               "Noumea": {
-                "exemplarCity": "நவுமியா"
+                "exemplarCity": "நோவுமியா"
               },
               "Pago_Pago": {
                 "exemplarCity": "பேகோ பேகோ"
@@ -1422,7 +1437,7 @@
               "long": {
                 "generic": "மேற்கு ஆப்பிரிக்க நேரம்",
                 "standard": "மேற்கு ஆப்பிரிக்க நிலையான நேரம்",
-                "daylight": "மேற்கு ஆப்பிரிக்கா கோடை நேரம்"
+                "daylight": "மேற்கு ஆப்பிரிக்க கோடை நேரம்"
               }
             },
             "Alaska": {
@@ -1753,7 +1768,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "ஃபிரஞ்சு தெற்கத்திய & அண்டார்டிக் நேரம்"
+                "standard": "பிரெஞ்சு தெற்கத்திய & அண்டார்டிக் நேரம்"
               }
             },
             "Galapagos": {
@@ -1853,17 +1868,17 @@
             },
             "Indonesia_Central": {
               "long": {
-                "standard": "மத்திய இந்தோனேசியா நேரம்"
+                "standard": "மத்திய இந்தோனேசிய நேரம்"
               }
             },
             "Indonesia_Eastern": {
               "long": {
-                "standard": "கிழக்கத்திய இந்தோனேசியா நேரம்"
+                "standard": "கிழக்கத்திய இந்தோனேசிய நேரம்"
               }
             },
             "Indonesia_Western": {
               "long": {
-                "standard": "மேற்கத்திய இந்தோனேசியா நேரம்"
+                "standard": "மேற்கத்திய இந்தோனேசிய நேரம்"
               }
             },
             "Iran": {
@@ -2043,7 +2058,7 @@
             },
             "Nepal": {
               "long": {
-                "standard": "நேபாள் நேரம்"
+                "standard": "நேபாள நேரம்"
               }
             },
             "New_Caledonia": {
@@ -2074,7 +2089,7 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "நோர்ஃபோக் தீவுகள் நேரம்"
+                "standard": "நார்ஃபோக் தீவு நேரம்"
               }
             },
             "Noronha": {
@@ -2163,6 +2178,11 @@
                 "standard": "போனாபே நேரம்"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "பியாங்யாங் நேரம்"
+              }
+            },
             "Qyzylorda": {
               "long": {
                 "generic": "கைஜைலோர்டா நேரம்",
@@ -2238,9 +2258,9 @@
             },
             "Taipei": {
               "long": {
-                "generic": "தைபே நேரம்",
-                "standard": "தைபே நிலையான நேரம்",
-                "daylight": "தைபே பகலொளி நேரம்"
+                "generic": "தாய்பே நேரம்",
+                "standard": "தாய்பே நிலையான நேரம்",
+                "daylight": "தாய்பே பகலொளி நேரம்"
               }
             },
             "Tajikistan": {

@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lv"
       },
@@ -58,18 +58,18 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Janv.",
-                  "2": "Febr.",
-                  "3": "Marts",
-                  "4": "Apr.",
-                  "5": "Maijs",
-                  "6": "Jūn.",
-                  "7": "Jūl.",
-                  "8": "Aug.",
-                  "9": "Sept.",
-                  "10": "Okt.",
-                  "11": "Nov.",
-                  "12": "Dec."
+                  "1": "janv.",
+                  "2": "febr.",
+                  "3": "marts",
+                  "4": "apr.",
+                  "5": "maijs",
+                  "6": "jūn.",
+                  "7": "jūl.",
+                  "8": "aug.",
+                  "9": "sept.",
+                  "10": "okt.",
+                  "11": "nov.",
+                  "12": "dec."
                 },
                 "narrow": {
                   "1": "J",
@@ -86,31 +86,31 @@
                   "12": "D"
                 },
                 "wide": {
-                  "1": "Janvāris",
-                  "2": "Februāris",
-                  "3": "Marts",
-                  "4": "Aprīlis",
-                  "5": "Maijs",
-                  "6": "Jūnijs",
-                  "7": "Jūlijs",
-                  "8": "Augusts",
-                  "9": "Septembris",
-                  "10": "Oktobris",
-                  "11": "Novembris",
-                  "12": "Decembris"
+                  "1": "janvāris",
+                  "2": "februāris",
+                  "3": "marts",
+                  "4": "aprīlis",
+                  "5": "maijs",
+                  "6": "jūnijs",
+                  "7": "jūlijs",
+                  "8": "augusts",
+                  "9": "septembris",
+                  "10": "oktobris",
+                  "11": "novembris",
+                  "12": "decembris"
                 }
               }
             },
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Sv",
-                  "mon": "Pr",
-                  "tue": "Ot",
-                  "wed": "Tr",
-                  "thu": "Ce",
-                  "fri": "Pk",
-                  "sat": "Se"
+                  "sun": "svētd.",
+                  "mon": "pirmd.",
+                  "tue": "otrd.",
+                  "wed": "trešd.",
+                  "thu": "ceturtd.",
+                  "fri": "piektd.",
+                  "sat": "sestd."
                 },
                 "narrow": {
                   "sun": "S",
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Sv",
-                  "mon": "Pr",
-                  "tue": "Ot",
-                  "wed": "Tr",
-                  "thu": "Ce",
-                  "fri": "Pk",
-                  "sat": "Se"
+                  "sun": "Svētd.",
+                  "mon": "Pirmd.",
+                  "tue": "Otrd.",
+                  "wed": "Trešd.",
+                  "thu": "Ceturtd.",
+                  "fri": "Piektd.",
+                  "sat": "Sestd."
                 },
                 "narrow": {
                   "sun": "S",
@@ -271,13 +271,13 @@
                   "noon": "pusd.",
                   "pm": "pēcp.",
                   "morning1": "rīts",
-                  "afternoon1": "pēcpusdiena",
+                  "afternoon1": "pēcpusd.",
                   "evening1": "vakars",
                   "night1": "nakts"
                 },
                 "wide": {
                   "midnight": "pusnakts",
-                  "am": "priekšpusdienā",
+                  "am": "priekšpusdiena",
                   "noon": "pusdienlaiks",
                   "pm": "pēcpusdiena",
                   "morning1": "rīts",
@@ -354,18 +354,24 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
+                "MMMMW": "MMM W. 'nedēļa'",
+                "MMMMW": "MMM W. 'nedēļa'",
+                "MMMMW": "MMM W. 'nedēļa'",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y. 'g'.",
                 "yM": "MM.y.",
-                "yMd": "d.M.y.",
+                "yMd": "y.MM.d.",
                 "yMEd": "E, d.M.y.",
                 "yMMM": "y. 'g'. MMM",
                 "yMMMd": "y. 'g'. d. MMM",
                 "yMMMEd": "E, y. 'g'. d. MMM",
                 "yMMMM": "y. 'g'. MMMM",
                 "yQQQ": "y. 'g'. QQQ",
-                "yQQQQ": "y. 'g'. QQQQ"
+                "yQQQQ": "y. 'g'. QQQQ",
+                "yw": "y. 'g'. w. 'nedēļa'",
+                "yw": "y. 'g'. w. 'nedēļa'",
+                "yw": "y. 'g'. w. 'nedēļa'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -471,7 +477,7 @@
                   "y": "E, y. 'gada' d. MMM – E, y. 'gada' d. MMM"
                 },
                 "yMMMM": {
-                  "M": "y. 'gada' MMMM–MMMM",
+                  "M": "y. 'gada' MMMM – MMMM",
                   "y": "y. 'gada' MMMM – y. 'gada' MMMM"
                 }
               }

@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 13006 $",
+          "_cldrVersion": "30"
         },
         "language": "cy"
       },
@@ -224,30 +224,30 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "yb",
+                  "pm": "yh"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "b",
+                  "pm": "h"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "yb",
+                  "pm": "yh"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "yb",
+                  "pm": "yh"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "yb",
+                  "pm": "yh"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "yb",
+                  "pm": "yh"
                 }
               }
             },

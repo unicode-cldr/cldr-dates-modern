@@ -3,8 +3,8 @@
     "sq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sq"
       },
@@ -224,37 +224,37 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "mesnatë",
+                  "midnight": "e mesnatës",
                   "am": "e paradites",
-                  "noon": "mesditë",
+                  "noon": "e mesditës",
                   "pm": "e pasdites",
-                  "morning1": "mëngjes",
+                  "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
-                  "evening1": "mbrëmje",
-                  "night1": "natë"
+                  "evening1": "e mbrëmjes",
+                  "night1": "e natës"
                 },
                 "narrow": {
-                  "midnight": "mesnatë",
+                  "midnight": "e mesnatës",
                   "am": "e paradites",
-                  "noon": "mesditë",
+                  "noon": "e mesditës",
                   "pm": "e pasdites",
-                  "morning1": "mëngjes",
+                  "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
-                  "evening1": "mbrëmje",
-                  "night1": "natë"
+                  "evening1": "e mbrëmjes",
+                  "night1": "e natës"
                 },
                 "wide": {
-                  "midnight": "mesnatë",
+                  "midnight": "e mesnatës",
                   "am": "e paradites",
-                  "noon": "mesditë",
+                  "noon": "e mesditës",
                   "pm": "e pasdites",
-                  "morning1": "mëngjes",
+                  "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
-                  "evening1": "mbrëmje",
-                  "night1": "natë"
+                  "evening1": "e mbrëmjes",
+                  "night1": "e natës"
                 }
               },
               "stand-alone": {

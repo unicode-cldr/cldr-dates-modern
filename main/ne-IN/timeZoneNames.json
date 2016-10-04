@@ -3,8 +3,8 @@
     "ne-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "ne",
         "territory": "IN"
@@ -116,7 +116,7 @@
                 "exemplarCity": "केम्यान"
               },
               "Chicago": {
-                "exemplarCity": "चिकागो"
+                "exemplarCity": "शिकागो"
               },
               "Chihuahua": {
                 "exemplarCity": "चिहुआहुआ"
@@ -167,7 +167,7 @@
                 "exemplarCity": "एल् साल्भाडोर"
               },
               "Fort_Nelson": {
-                "exemplarCity": "Fort Nelson"
+                "exemplarCity": "फोर्ट नेल्सन"
               },
               "Fortaleza": {
                 "exemplarCity": "फोर्टालेजा"
@@ -200,7 +200,7 @@
                 "exemplarCity": "गुयाना"
               },
               "Halifax": {
-                "exemplarCity": "हालेफाक्स"
+                "exemplarCity": "ह्यालिफ्याक्स"
               },
               "Havana": {
                 "exemplarCity": "हवाना"
@@ -509,6 +509,9 @@
               "Andorra": {
                 "exemplarCity": "आन्डोर्रा"
               },
+              "Astrakhan": {
+                "exemplarCity": "अस्त्रखान"
+              },
               "Athens": {
                 "exemplarCity": "एथेन्स"
               },
@@ -568,6 +571,9 @@
               },
               "Kiev": {
                 "exemplarCity": "किभ"
+              },
+              "Kirov": {
+                "exemplarCity": "किरोभ"
               },
               "Lisbon": {
                 "exemplarCity": "लिस्बोन"
@@ -646,6 +652,9 @@
               },
               "Tirane": {
                 "exemplarCity": "टिराने"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "उल्यानोभ्स्क"
               },
               "Uzhgorod": {
                 "exemplarCity": "उझगोरद"
@@ -870,6 +879,9 @@
               "Bangkok": {
                 "exemplarCity": "बैंकक"
               },
+              "Barnaul": {
+                "exemplarCity": "बरनौल"
+              },
               "Beirut": {
                 "exemplarCity": "बेईरुट"
               },
@@ -913,7 +925,7 @@
                 "exemplarCity": "हिब्रोन"
               },
               "Hong_Kong": {
-                "exemplarCity": "हंकग"
+                "exemplarCity": "हङकङ"
               },
               "Hovd": {
                 "exemplarCity": "होभ्ड"
@@ -994,7 +1006,7 @@
                 "exemplarCity": "पोन्टिआनाक"
               },
               "Pyongyang": {
-                "exemplarCity": "प्योग्ङाग"
+                "exemplarCity": "प्योङयाङ"
               },
               "Qatar": {
                 "exemplarCity": "कतार"
@@ -1018,7 +1030,7 @@
                 "exemplarCity": "समारकण्ड"
               },
               "Seoul": {
-                "exemplarCity": "स्योल"
+                "exemplarCity": "सिओल"
               },
               "Shanghai": {
                 "exemplarCity": "सान्घाई"
@@ -1047,6 +1059,9 @@
               "Tokyo": {
                 "exemplarCity": "टोकियो"
               },
+              "Tomsk": {
+                "exemplarCity": "टोम्स्क"
+              },
               "Ulaanbaatar": {
                 "exemplarCity": "उलानबटार"
               },
@@ -1057,7 +1072,7 @@
                 "exemplarCity": "उस्ट-नेरा"
               },
               "Vientiane": {
-                "exemplarCity": "भेतनाम"
+                "exemplarCity": "भियन्तिन"
               },
               "Vladivostok": {
                 "exemplarCity": "भ्लाडिभास्टोक"
@@ -1150,7 +1165,7 @@
                 "exemplarCity": "अपिया"
               },
               "Auckland": {
-                "exemplarCity": "अक्कल्यान्ड"
+                "exemplarCity": "अकल्यान्ड"
               },
               "Bougainville": {
                 "exemplarCity": "बुगेनभिल्ले"
@@ -1421,9 +1436,9 @@
             },
             "Alaska": {
               "long": {
-                "generic": "अलास्का समय",
-                "standard": "अलास्का मानक समय",
-                "daylight": "अलस्का दिवा समय"
+                "generic": "अलस्काको समय",
+                "standard": "अलस्काको मानक समय",
+                "daylight": "अलस्काको दिवा समय"
               }
             },
             "Amazon": {
@@ -1640,9 +1655,9 @@
             },
             "Cuba": {
               "long": {
-                "generic": "क्यूबा समय",
-                "standard": "क्यूबा मानक समय",
-                "daylight": "क्यूबा दिवा समय"
+                "generic": "क्यूबाको समय",
+                "standard": "क्यूबाको मानक समय",
+                "daylight": "क्यूबाको दिवा समय"
               }
             },
             "Davis": {
@@ -1751,16 +1766,16 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "पूर्वी ग्रीनल्याड समय",
-                "standard": "पूर्वी ग्रीनल्याण्ड मानक समय",
-                "daylight": "पूर्वी ग्रीनल्याड ग्रीष्मकालीन समय"
+                "generic": "पूर्वी ग्रीनल्यान्डको समय",
+                "standard": "पूर्वी ग्रीनल्यान्डको मानक समय",
+                "daylight": "पूर्वी ग्रीनल्यान्डको ग्रीष्मकालीन समय"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "पश्चिमी ग्रीनल्याण्ड समय",
-                "standard": "पश्चिमी ग्रीनल्याण्ड मानक समय",
-                "daylight": "पश्चिमी ग्रीनल्याण्ड ग्रीष्मकालीन समय"
+                "generic": "पश्चिमी ग्रीनल्यान्डको समय",
+                "standard": "पश्चिमी ग्रीनल्यान्डको मानक समय",
+                "daylight": "पश्चिमी ग्रीनल्यान्डको ग्रीष्मकालीन समय"
               }
             },
             "Gulf": {
@@ -1948,8 +1963,8 @@
             "Mexico_Northwest": {
               "long": {
                 "generic": "उत्तर पश्चिम मेक्सिको समय",
-                "standard": "उत्तर पश्चिम मेक्सिको मानक समय",
-                "daylight": "उत्तर पश्चिम दिवा समय"
+                "standard": "उत्तर पश्चिम मेक्सिकोको मानक समय",
+                "daylight": "उत्तर पश्चिम मेक्सिकोको दिवा समय"
               }
             },
             "Mexico_Pacific": {
@@ -2004,9 +2019,9 @@
             },
             "Newfoundland": {
               "long": {
-                "generic": "न्यूफाउन्डल्याण्ड समय",
-                "standard": "न्यूफाउन्डल्याण्ड मानक समय",
-                "daylight": "न्यूफाउन्ल्याण्ड दिवा समय"
+                "generic": "न्यूफाउन्डल्यान्डको समय",
+                "standard": "न्यूफाउनडल्यान्डको मानक समय",
+                "daylight": "न्यूफाउनल्यान्डको दिवा समय"
               }
             },
             "Niue": {
@@ -2085,9 +2100,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "साय्ट पेईरि र मिक्यूलोन समय",
-                "standard": "साय्ट पेईरि र मिक्यूलोन मानक समय",
-                "daylight": "साय्ट पेईरि र मिक्यूलोन दिवा समय"
+                "generic": "सेन्ट पियर्रे र मिक्युलोनको समय",
+                "standard": "सेन्ट पियर्रे र मिक्युलोनको मानक समय",
+                "daylight": "सेन्ट पियर्रे र मिक्युलोनको दिवा समय"
               }
             },
             "Pitcairn": {
@@ -2098,6 +2113,11 @@
             "Ponape": {
               "long": {
                 "standard": "पोनापे समय"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "प्योङयाङ समय"
               }
             },
             "Reunion": {

@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12938 $",
+          "_cldrVersion": "30"
         },
         "language": "uk"
       },
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Нд",
-                  "mon": "Пн",
-                  "tue": "Вт",
-                  "wed": "Ср",
-                  "thu": "Чт",
-                  "fri": "Пт",
-                  "sat": "Сб"
+                  "sun": "нд",
+                  "mon": "пн",
+                  "tue": "вт",
+                  "wed": "ср",
+                  "thu": "чт",
+                  "fri": "пт",
+                  "sat": "сб"
                 },
                 "narrow": {
                   "sun": "Н",
@@ -122,13 +122,13 @@
                   "sat": "С"
                 },
                 "short": {
-                  "sun": "Нд",
-                  "mon": "Пн",
-                  "tue": "Вт",
-                  "wed": "Ср",
-                  "thu": "Чт",
-                  "fri": "Пт",
-                  "sat": "Сб"
+                  "sun": "нд",
+                  "mon": "пн",
+                  "tue": "вт",
+                  "wed": "ср",
+                  "thu": "чт",
+                  "fri": "пт",
+                  "sat": "сб"
                 },
                 "wide": {
                   "sun": "неділя",
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Нд",
-                  "mon": "Пн",
-                  "tue": "Вт",
-                  "wed": "Ср",
-                  "thu": "Чт",
-                  "fri": "Пт",
-                  "sat": "Сб"
+                  "sun": "нд",
+                  "mon": "пн",
+                  "tue": "вт",
+                  "wed": "ср",
+                  "thu": "чт",
+                  "fri": "пт",
+                  "sat": "сб"
                 },
                 "narrow": {
                   "sun": "Н",
@@ -160,13 +160,13 @@
                   "sat": "С"
                 },
                 "short": {
-                  "sun": "Нд",
-                  "mon": "Пн",
-                  "tue": "Вт",
-                  "wed": "Ср",
-                  "thu": "Чт",
-                  "fri": "Пт",
-                  "sat": "Сб"
+                  "sun": "нд",
+                  "mon": "пн",
+                  "tue": "вт",
+                  "wed": "ср",
+                  "thu": "чт",
+                  "fri": "пт",
+                  "sat": "сб"
                 },
                 "wide": {
                   "sun": "неділя",
@@ -224,7 +224,7 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "північ",
+                  "midnight": "опівночі",
                   "am": "дп",
                   "noon": "пополудні",
                   "pm": "пп",
@@ -244,7 +244,7 @@
                   "night1": "ночі"
                 },
                 "wide": {
-                  "midnight": "північ",
+                  "midnight": "опівночі",
                   "am": "дп",
                   "noon": "пополудні",
                   "pm": "пп",

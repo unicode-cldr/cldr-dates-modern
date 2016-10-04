@@ -3,8 +3,8 @@
     "fr-SN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12763 $",
+          "_cldrVersion": "30"
         },
         "language": "fr",
         "territory": "SN"
@@ -354,6 +354,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
+                "MMMMW": "'semaine' W 'de' MMM",
+                "MMMMW": "'semaine' W 'de' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -364,7 +366,9 @@
                 "yMMMEd": "E d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y"
+                "yQQQQ": "QQQQ y",
+                "yw": "'semaine' w 'de' y",
+                "yw": "'semaine' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

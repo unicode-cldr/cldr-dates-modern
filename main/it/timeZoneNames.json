@@ -3,8 +3,8 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "it"
       },
@@ -508,6 +508,9 @@
               "Andorra": {
                 "exemplarCity": "Andorra"
               },
+              "Astrakhan": {
+                "exemplarCity": "Astrakhan"
+              },
               "Athens": {
                 "exemplarCity": "Atene"
               },
@@ -567,6 +570,9 @@
               },
               "Kiev": {
                 "exemplarCity": "Kiev"
+              },
+              "Kirov": {
+                "exemplarCity": "Kirov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisbona"
@@ -645,6 +651,9 @@
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
+              },
+              "Ulyanovsk": {
+                "exemplarCity": "Ulyanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Užhorod"
@@ -869,6 +878,9 @@
               "Bangkok": {
                 "exemplarCity": "Bangkok"
               },
+              "Barnaul": {
+                "exemplarCity": "Barnaul"
+              },
               "Beirut": {
                 "exemplarCity": "Beirut"
               },
@@ -1045,6 +1057,9 @@
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
+              },
+              "Tomsk": {
+                "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "Ulaanbaatar"
@@ -1589,7 +1604,7 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "Ora Chamorro"
+                "standard": "Ora di Chamorro"
               }
             },
             "Chatham": {
@@ -2125,6 +2140,11 @@
                 "standard": "Ora di Pohnpei"
               }
             },
+            "Pyongyang": {
+              "long": {
+                "standard": "Ora di Pyongyang"
+              }
+            },
             "Reunion": {
               "long": {
                 "standard": "Ora di Riunione"
@@ -2163,7 +2183,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "Ora Singapore"
+                "standard": "Ora di Singapore"
               }
             },
             "Solomon": {
