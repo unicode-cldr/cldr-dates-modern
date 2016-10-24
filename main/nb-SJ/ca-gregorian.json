@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "nb",
         "territory": "SJ"
@@ -359,8 +359,8 @@
                 "MMMd": "d. MMM",
                 "MMMEd": "E d. MMM",
                 "MMMMd": "d. MMMM",
-                "MMMMW": "W. 'uke' 'i' MMM",
-                "MMMMW": "W. 'uke' 'i' MMM",
+                "MMMMW-count-one": "W. 'uke' 'i' MMM",
+                "MMMMW-count-other": "W. 'uke' 'i' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -373,8 +373,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'uke' w 'i' y",
-                "yw": "'uke' w 'i' y"
+                "yw-count-one": "'uke' w 'i' y",
+                "yw-count-other": "'uke' w 'i' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

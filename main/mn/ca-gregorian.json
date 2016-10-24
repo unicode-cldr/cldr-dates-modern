@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "mn"
       },
@@ -353,8 +353,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "E MMM d",
                 "MMMMd": "MMMM d",
-                "MMMMW": "MMM-'ын' W 'долоо' 'хоног'",
-                "MMMMW": "MMM-'ын' W 'долоо' 'хоног'",
+                "MMMMW-count-one": "MMM-'ын' W 'долоо' 'хоног'",
+                "MMMMW-count-other": "MMM-'ын' W 'долоо' 'хоног'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-M",
@@ -366,8 +366,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y 'оны' QQQQ",
-                "yw": "y'жилийн' w 'долоо' 'хоног'",
-                "yw": "y 'жилийн' w 'долоо' 'хоног'"
+                "yw-count-one": "y'жилийн' w 'долоо' 'хоног'",
+                "yw-count-other": "y 'жилийн' w 'долоо' 'хоног'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

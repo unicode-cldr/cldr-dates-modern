@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "te"
       },
@@ -348,8 +348,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW": "MMM Wవ వారం",
-                "MMMMW": "MMM Wవ వారం",
+                "MMMMW-count-one": "MMM Wవ వారం",
+                "MMMMW-count-other": "MMM Wవ వారం",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -362,8 +362,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "y wవ వారం",
-                "yw": "y wవ వారం"
+                "yw-count-one": "y wవ వారం",
+                "yw-count-other": "y wవ వారం"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

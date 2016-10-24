@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "ta",
         "territory": "LK"
@@ -373,8 +373,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "d MMMM",
-                "MMMMW": "MMM W -ஆம் வாரம்",
-                "MMMMW": "MMM W -ஆம் வாரம்",
+                "MMMMW-count-one": "MMM W -ஆம் வாரம்",
+                "MMMMW-count-other": "MMM W -ஆம் வாரம்",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -387,8 +387,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "y ஆம் ஆண்டின் w -ஆம் வாரம்",
-                "yw": "y ஆம் ஆண்டின் w -ஆம் வாரம்"
+                "yw-count-one": "y ஆம் ஆண்டின் w -ஆம் வாரம்",
+                "yw-count-other": "y ஆம் ஆண்டின் w -ஆம் வாரம்"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

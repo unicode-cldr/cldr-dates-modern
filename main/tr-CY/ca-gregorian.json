@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "tr",
         "territory": "CY"
@@ -367,8 +367,8 @@
                 "MMMEd": "d MMMM E",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "d MMMM E",
-                "MMMMW": "MMMM 'ayının' W. 'haftası'",
-                "MMMMW": "MMMM 'ayının' W. 'haftası'",
+                "MMMMW-count-one": "MMMM 'ayının' W. 'haftası'",
+                "MMMMW-count-other": "MMMM 'ayının' W. 'haftası'",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -382,8 +382,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "y 'yılının' w. 'haftası'",
-                "yw": "y 'yılının' w. 'haftası'"
+                "yw-count-one": "y 'yılının' w. 'haftası'",
+                "yw-count-other": "y 'yılının' w. 'haftası'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

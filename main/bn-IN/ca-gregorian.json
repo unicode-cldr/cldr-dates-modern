@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12954 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "bn",
         "territory": "IN"
@@ -356,8 +356,8 @@
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E d MMMM",
-                "MMMMW": "MMM এর Wয় সপ্তাহ",
-                "MMMMW": "MMM এর Wয় সপ্তাহ",
+                "MMMMW-count-one": "MMM এর Wয় সপ্তাহ",
+                "MMMMW-count-other": "MMM এর Wয় সপ্তাহ",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -370,8 +370,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "y এর wতম সপ্তাহ",
-                "yw": "y এর wতম সপ্তাহ"
+                "yw-count-one": "y এর wতম সপ্তাহ",
+                "yw-count-other": "y এর wতম সপ্তাহ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

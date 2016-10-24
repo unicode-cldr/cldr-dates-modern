@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12938 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "uk"
       },
@@ -354,10 +354,10 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW": "W-'й' 'тиж'. MMMM",
-                "MMMMW": "W-'й' 'тиж'. MMMM",
-                "MMMMW": "W-'й' 'тиж'. MMMM",
-                "MMMMW": "W-'й' 'тиж'. MMMM",
+                "MMMMW-count-one": "W-'й' 'тиж'. MMMM",
+                "MMMMW-count-few": "W-'й' 'тиж'. MMMM",
+                "MMMMW-count-many": "W-'й' 'тиж'. MMMM",
+                "MMMMW-count-other": "W-'й' 'тиж'. MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -369,10 +369,10 @@
                 "yMMMM": "LLLL y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y 'р'.",
-                "yw": "w-'й' 'тиж'. y 'р'.",
-                "yw": "w-'й' 'тиж'. y 'р'.",
-                "yw": "w-'й' 'тиж'. y 'р'.",
-                "yw": "w-'й' 'тиж'. y 'р'."
+                "yw-count-one": "w-'й' 'тиж'. y 'р'.",
+                "yw-count-few": "w-'й' 'тиж'. y 'р'.",
+                "yw-count-many": "w-'й' 'тиж'. y 'р'.",
+                "yw-count-other": "w-'й' 'тиж'. y 'р'."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

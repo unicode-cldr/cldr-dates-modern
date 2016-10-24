@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "pa",
         "script": "Guru"
@@ -348,8 +348,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW": "MMM ਦਾ W ਹਫ਼ਤਾ",
-                "MMMMW": "MMM ਦਾ W ਹਫ਼ਤਾ",
+                "MMMMW-count-one": "MMM ਦਾ W ਹਫ਼ਤਾ",
+                "MMMMW-count-other": "MMM ਦਾ W ਹਫ਼ਤਾ",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -362,8 +362,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "y ਦਾ w ਹਫ਼ਤਾ",
-                "yw": "y ਦਾ w ਹਫ਼ਤਾ"
+                "yw-count-one": "y ਦਾ w ਹਫ਼ਤਾ",
+                "yw-count-other": "y ਦਾ w ਹਫ਼ਤਾ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

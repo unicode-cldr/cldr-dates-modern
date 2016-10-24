@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "sk"
       },
@@ -361,10 +361,10 @@
                 "MMMEd": "E d. M.",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E d. MMMM",
-                "MMMMW": "W. 'týždeň' 'v' MMM",
-                "MMMMW": "W. 'týždeň' 'v' MMM",
-                "MMMMW": "W. 'týždeň' 'v' MMM",
-                "MMMMW": "W. 'týždeň' 'v' MMM",
+                "MMMMW-count-one": "W. 'týždeň' 'v' MMM",
+                "MMMMW-count-few": "W. 'týždeň' 'v' MMM",
+                "MMMMW-count-many": "W. 'týždeň' 'v' MMM",
+                "MMMMW-count-other": "W. 'týždeň' 'v' MMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -378,10 +378,10 @@
                 "yMMMMd": "d. MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "w. 'týždeň' 'v' 'roku' y",
-                "yw": "w. 'týždeň' 'v' 'roku' y",
-                "yw": "w. 'týždeň' 'v' 'roku' y",
-                "yw": "w. 'týždeň' 'v' 'roku' y"
+                "yw-count-one": "w. 'týždeň' 'v' 'roku' y",
+                "yw-count-few": "w. 'týždeň' 'v' 'roku' y",
+                "yw-count-many": "w. 'týždeň' 'v' 'roku' y",
+                "yw-count-other": "w. 'týždeň' 'v' 'roku' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

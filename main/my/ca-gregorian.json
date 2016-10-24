@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30"
+          "_number": "$Revision: 13050 $",
+          "_cldrVersion": "30.0.2"
         },
         "language": "my"
       },
@@ -354,7 +354,7 @@
                 "MMMEd": "MMM d ရက် Eနေ့",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "MMMM d ရက် Eနေ့",
-                "MMMMW": "MMM လ W ပတ်မြောက်",
+                "MMMMW-count-other": "MMM လ W ပတ်မြောက်",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -366,7 +366,7 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "y ခု w ပတ်မြောက်"
+                "yw-count-other": "y ခု w ပတ်မြောက်"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

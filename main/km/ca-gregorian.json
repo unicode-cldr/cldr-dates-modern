@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "km"
       },
@@ -353,7 +353,7 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW": "សប្តាហ៍ទី W នៃខែ MMM",
+                "MMMMW-count-other": "សប្តាហ៍ទី W នៃខែ MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -365,7 +365,7 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "សប្តាហ៍ទី w នៃឆ្នាំ y"
+                "yw-count-other": "សប្តាហ៍ទី w នៃឆ្នាំ y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

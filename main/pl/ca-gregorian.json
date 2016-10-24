@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "pl"
       },
@@ -363,10 +363,10 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW": "MMM, 'tydz'. W",
-                "MMMMW": "MMM, 'tydz'. W",
-                "MMMMW": "MMM, 'tydz'. W",
-                "MMMMW": "MMM, 'tydz'. W",
+                "MMMMW-count-one": "MMM, 'tydz'. W",
+                "MMMMW-count-few": "MMM, 'tydz'. W",
+                "MMMMW-count-many": "MMM, 'tydz'. W",
+                "MMMMW-count-other": "MMM, 'tydz'. W",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -380,10 +380,10 @@
                 "yMMMMEd": "E, d MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "y, 'tydz'. w",
-                "yw": "y, 'tydz'. w",
-                "yw": "y, 'tydz'. w",
-                "yw": "y, 'tydz'. w"
+                "yw-count-one": "y, 'tydz'. w",
+                "yw-count-few": "y, 'tydz'. w",
+                "yw-count-many": "y, 'tydz'. w",
+                "yw-count-other": "y, 'tydz'. w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

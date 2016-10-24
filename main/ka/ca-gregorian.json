@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "ka"
       },
@@ -353,8 +353,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW": "MMM-ის კვირა W",
-                "MMMMW": "MMM-ის კვირა W",
+                "MMMMW-count-one": "MMM-ის კვირა W",
+                "MMMMW-count-other": "MMM-ის კვირა W",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -366,8 +366,8 @@
                 "yMMMM": "MMMM, y",
                 "yQQQ": "QQQ, y",
                 "yQQQQ": "QQQQ, y",
-                "yw": "კვირა w, y",
-                "yw": "კვირა w, y"
+                "yw-count-one": "კვირა w, y",
+                "yw-count-other": "კვირა w, y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

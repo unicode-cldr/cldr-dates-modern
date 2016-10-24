@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30"
+          "_cldrVersion": "30.0.2"
         },
         "language": "ca",
         "territory": "ES",
@@ -365,8 +365,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW": "'setmana' W MMMM",
-                "MMMMW": "'setmana' W MMMM",
+                "MMMMW-count-one": "'setmana' W MMMM",
+                "MMMMW-count-other": "'setmana' W MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -380,8 +380,8 @@
                 "yMMMMEd": "E, d MMMM 'de' y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'setmana' w 'de' y",
-                "yw": "'setmana' w 'de' y"
+                "yw-count-one": "'setmana' w 'de' y",
+                "yw-count-other": "'setmana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
