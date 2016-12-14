@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "hi"
       },
@@ -349,8 +349,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW-count-one": "MMM का सप्ताह W",
-                "MMMMW-count-other": "MMM का सप्ताह W",
+                "MMMMW": "MMM का सप्ताह W",
+                "MMMMW": "MMM का सप्ताह W",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -364,8 +364,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "y का सप्ताह w",
-                "yw-count-other": "y का सप्ताह w"
+                "yw": "y का सप्ताह w",
+                "yw": "y का सप्ताह w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

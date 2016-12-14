@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "cs"
       },
@@ -362,10 +362,10 @@
                 "MMMEd": "E d. M.",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E d. MMMM",
-                "MMMMW-count-one": "W. 'týden' MMMM",
-                "MMMMW-count-few": "W. 'týden' MMMM",
-                "MMMMW-count-many": "W. 'týden' MMMM",
-                "MMMMW-count-other": "W. 'týden' MMMM",
+                "MMMMW": "W. 'týden' MMMM",
+                "MMMMW": "W. 'týden' MMMM",
+                "MMMMW": "W. 'týden' MMMM",
+                "MMMMW": "W. 'týden' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -379,10 +379,10 @@
                 "yMMMMEd": "E d. MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "w. 'týden' 'roku' y",
-                "yw-count-few": "w. 'týden' 'roku' y",
-                "yw-count-many": "w. 'týden' 'roku' y",
-                "yw-count-other": "w. 'týden' 'roku' y"
+                "yw": "w. 'týden' 'roku' y",
+                "yw": "w. 'týden' 'roku' y",
+                "yw": "w. 'týden' 'roku' y",
+                "yw": "w. 'týden' 'roku' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

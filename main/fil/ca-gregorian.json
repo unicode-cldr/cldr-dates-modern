@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "fil"
       },
@@ -360,8 +360,8 @@
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E, MMMM d",
-                "MMMMW-count-one": "'ika'-W 'linggo' 'ng' MMM",
-                "MMMMW-count-other": "'linggo' W 'ng' MMM",
+                "MMMMW": "'ika'-W 'linggo' 'ng' MMM",
+                "MMMMW": "'linggo' W 'ng' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -374,8 +374,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'ika'-w 'linggo' 'ng' y",
-                "yw-count-other": "'linggo' w 'ng' y"
+                "yw": "'ika'-w 'linggo' 'ng' y",
+                "yw": "'linggo' w 'ng' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

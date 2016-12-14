@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12927 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "he"
       },
@@ -359,10 +359,10 @@
                 "MMMd": "d בMMM",
                 "MMMEd": "E, d בMMM",
                 "MMMMd": "d בMMMM",
-                "MMMMW-count-one": "שבוע W בMMM",
-                "MMMMW-count-two": "שבוע W בMMM",
-                "MMMMW-count-many": "שבוע W בMMM",
-                "MMMMW-count-other": "שבוע W בMMM",
+                "MMMMW": "שבוע W בMMM",
+                "MMMMW": "שבוע W בMMM",
+                "MMMMW": "שבוע W בMMM",
+                "MMMMW": "שבוע W בMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -375,10 +375,10 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "שבוע w בשנת y",
-                "yw-count-two": "שבוע w בשנת y",
-                "yw-count-many": "שבוע w בשנת y",
-                "yw-count-other": "שבוע w בשנת y"
+                "yw": "שבוע w בשנת y",
+                "yw": "שבוע w בשנת y",
+                "yw": "שבוע w בשנת y",
+                "yw": "שבוע w בשנת y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

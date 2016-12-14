@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "id"
       },
@@ -354,7 +354,7 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW-count-other": "'minggu' 'ke'-W MMM",
+                "MMMMW": "'minggu' 'ke'-W MMM",
                 "ms": "mm.ss",
                 "y": "y",
                 "yM": "M/y",
@@ -366,7 +366,7 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-other": "'minggu' 'ke'-w y"
+                "yw": "'minggu' 'ke'-w y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

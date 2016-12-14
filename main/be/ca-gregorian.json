@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12966 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "be"
       },
@@ -318,10 +318,10 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW-count-one": "W 'тыдзень' MMM",
-                "MMMMW-count-few": "W 'тыдзень' MMM",
-                "MMMMW-count-many": "W 'тыдзень' MMM",
-                "MMMMW-count-other": "W 'тыдзень' MMM",
+                "MMMMW": "W 'тыдзень' MMM",
+                "MMMMW": "W 'тыдзень' MMM",
+                "MMMMW": "W 'тыдзень' MMM",
+                "MMMMW": "W 'тыдзень' MMM",
                 "ms": "mm.ss",
                 "y": "y",
                 "yM": "M.y",
@@ -333,10 +333,10 @@
                 "yMMMM": "LLLL y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "w 'тыдзень' y",
-                "yw-count-few": "w 'тыдзень' y",
-                "yw-count-many": "w 'тыдзень' y",
-                "yw-count-other": "w 'тыдзень' y"
+                "yw": "w 'тыдзень' y",
+                "yw": "w 'тыдзень' y",
+                "yw": "w 'тыдзень' y",
+                "yw": "w 'тыдзень' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13006 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "cy"
       },
@@ -317,12 +317,12 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-zero": "'wythnos' W 'o' MMM",
-                "MMMMW-count-one": "'wythnos' W 'o' MMM",
-                "MMMMW-count-two": "'wythnos' W 'o' MMM",
-                "MMMMW-count-few": "'wythnos' W 'o' MMM",
-                "MMMMW-count-many": "'wythnos' W 'o' MMM",
-                "MMMMW-count-other": "'wythnos' W 'o' MMM",
+                "MMMMW": "'wythnos' W 'o' MMM",
+                "MMMMW": "'wythnos' W 'o' MMM",
+                "MMMMW": "'wythnos' W 'o' MMM",
+                "MMMMW": "'wythnos' W 'o' MMM",
+                "MMMMW": "'wythnos' W 'o' MMM",
+                "MMMMW": "'wythnos' W 'o' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -335,12 +335,12 @@
                 "yQ": "Q y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-zero": "'wythnos' w 'of' y",
-                "yw-count-one": "'wythnos' w 'of' y",
-                "yw-count-two": "'wythnos' w 'of' y",
-                "yw-count-few": "'wythnos' w 'of' y",
-                "yw-count-many": "'wythnos' w 'of' y",
-                "yw-count-other": "'wythnos' w 'of' y"
+                "yw": "'wythnos' w 'of' y",
+                "yw": "'wythnos' w 'of' y",
+                "yw": "'wythnos' w 'of' y",
+                "yw": "'wythnos' w 'of' y",
+                "yw": "'wythnos' w 'of' y",
+                "yw": "'wythnos' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

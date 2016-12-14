@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "el"
       },
@@ -342,8 +342,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW-count-one": "εβδομάδα W του MMM",
-                "MMMMW-count-other": "εβδομάδα W του MMM",
+                "MMMMW": "εβδομάδα W του MMM",
+                "MMMMW": "εβδομάδα W του MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -355,8 +355,8 @@
                 "yMMMM": "LLLL y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "εβδομάδα w του y",
-                "yw-count-other": "εβδομάδα w του y"
+                "yw": "εβδομάδα w του y",
+                "yw": "εβδομάδα w του y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

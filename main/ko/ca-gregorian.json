@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12922 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "ko"
       },
@@ -364,7 +364,7 @@
                 "MMMEd": "MMM d일 (E)",
                 "MMMEEEEd": "MMM d일 EEEE",
                 "MMMMd": "MMMM d일",
-                "MMMMW-count-other": "MMM W번째 주",
+                "MMMMW": "MMM W번째 주",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y년",
@@ -380,7 +380,7 @@
                 "yMMMM": "y년 MMMM",
                 "yQQQ": "y년 QQQ",
                 "yQQQQ": "y년 QQQQ",
-                "yw-count-other": "y년 w번째 주"
+                "yw": "y년 w번째 주"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

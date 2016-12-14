@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13006 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "bg"
       },
@@ -359,8 +359,8 @@
                 "MMMMd": "d MMMM",
                 "MMMMdd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW-count-one": "'седмица' W 'от' MMM",
-                "MMMMW-count-other": "'седмица' W 'от' MMM",
+                "MMMMW": "'седмица' W 'от' MMM",
+                "MMMMW": "'седмица' W 'от' MMM",
                 "ms": "m:ss",
                 "y": "y 'г'.",
                 "yM": "MM.y 'г'.",
@@ -374,8 +374,8 @@
                 "yMMMMEd": "E, d MMMM y 'г'.",
                 "yQQQ": "QQQ y 'г'.",
                 "yQQQQ": "QQQQ y 'г'.",
-                "yw-count-one": "'седмица' w 'от' y 'г'.",
-                "yw-count-other": "'седмица' w 'от' y 'г'."
+                "yw": "'седмица' w 'от' y 'г'.",
+                "yw": "'седмица' w 'от' y 'г'."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

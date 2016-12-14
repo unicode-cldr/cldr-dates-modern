@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "kk"
       },
@@ -353,8 +353,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "MMM 'айының' W-'аптасы'",
-                "MMMMW-count-other": "MMM 'айының' W-'аптасы'",
+                "MMMMW": "MMM 'айының' W-'аптасы'",
+                "MMMMW": "MMM 'айының' W-'аптасы'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -366,8 +366,8 @@
                 "yMMMM": "y 'ж'. MMMM",
                 "yQQQ": "y 'ж'. QQQ",
                 "yQQQQ": "y 'ж'. QQQQ",
-                "yw-count-one": "y 'жылдың' w-'аптасы'",
-                "yw-count-other": "y 'жылдың' w-'аптасы'"
+                "yw": "y 'жылдың' w-'аптасы'",
+                "yw": "y 'жылдың' w-'аптасы'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

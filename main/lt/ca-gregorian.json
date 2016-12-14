@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.2"
+          "_cldrVersion": "30.0.3"
         },
         "language": "lt"
       },
@@ -359,10 +359,10 @@
                 "MMMM": "LLLL",
                 "MMMMd": "MMMM d 'd'.",
                 "MMMMEd": "MMMM d 'd'., E",
-                "MMMMW-count-one": "MMM W 'sav'.",
-                "MMMMW-count-few": "MMM W 'sav'.",
-                "MMMMW-count-many": "MMM W 'sav'.",
-                "MMMMW-count-other": "MMM W 'sav'.",
+                "MMMMW": "MMM W 'sav'.",
+                "MMMMW": "MMM W 'sav'.",
+                "MMMMW": "MMM W 'sav'.",
+                "MMMMW": "MMM W 'sav'.",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -376,10 +376,10 @@
                 "yMMMMEd": "y 'm'. MMMM d 'd'., E",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "y w 'sav'.",
-                "yw-count-few": "y w 'sav'.",
-                "yw-count-many": "y w 'sav'.",
-                "yw-count-other": "y w 'sav'."
+                "yw": "y w 'sav'.",
+                "yw": "y w 'sav'.",
+                "yw": "y w 'sav'.",
+                "yw": "y w 'sav'."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
