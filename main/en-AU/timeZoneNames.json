@@ -3,8 +3,8 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13050 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13262 $",
+          "_cldrVersion": "31"
         },
         "language": "en",
         "territory": "AU"
@@ -1397,6 +1397,15 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "long": {
+                  "standard": "Coordinated Universal Time"
+                },
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "Unknown City"

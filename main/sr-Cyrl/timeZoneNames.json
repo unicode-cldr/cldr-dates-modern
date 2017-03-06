@@ -3,8 +3,8 @@
     "sr-Cyrl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "sr",
         "script": "Cyrl"
@@ -1400,6 +1400,15 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "long": {
+                  "standard": "Координисано универзално време"
+                },
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "Непознат град"

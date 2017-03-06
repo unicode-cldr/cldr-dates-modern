@@ -3,8 +3,8 @@
     "sq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "sq"
       },
@@ -361,8 +361,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW": "'java' W 'e' MMM",
-                "MMMMW": "'java' W 'e' MMM",
+                "MMMMW-count-one": "'java' W 'e' MMM",
+                "MMMMW-count-other": "'java' W 'e' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -374,8 +374,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ, y",
                 "yQQQQ": "QQQQ, y",
-                "yw": "'java' w 'e' y",
-                "yw": "'java' w 'e' y"
+                "yw-count-one": "'java' w 'e' y",
+                "yw-count-other": "'java' w 'e' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

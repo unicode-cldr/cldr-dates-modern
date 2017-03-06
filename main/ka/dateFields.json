@@ -3,14 +3,20 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ka"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ეპოქა"
+          },
+          "era-short": {
+            "displayName": "ეპოქა"
+          },
+          "era-narrow": {
             "displayName": "ეპოქა"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "{0}-ის კვირაში"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "დღე",
             "relative-type--2": "გუშინწინ",
@@ -232,8 +247,32 @@
               "relativeTimePattern-count-other": "{0} დღის წინ"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "კვირის დღე"
+          },
+          "weekday-short": {
+            "displayName": "კვირის დღე"
+          },
+          "weekday-narrow": {
+            "displayName": "კვირის დღე"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "გასულ კვირას",
@@ -508,7 +547,13 @@
               "relativeTimePattern-count-other": "{0} შაბათის წინ"
             }
           },
+          "dayperiod-short": {
+            "displayName": "დღის ნახევარი"
+          },
           "dayperiod": {
+            "displayName": "დღის ნახევარი"
+          },
+          "dayperiod-narrow": {
             "displayName": "დღის ნახევარი"
           },
           "hour": {
@@ -620,6 +665,12 @@
             }
           },
           "zone": {
+            "displayName": "დროის სარტყელი"
+          },
+          "zone-short": {
+            "displayName": "დროის სარტყელი"
+          },
+          "zone-narrow": {
             "displayName": "დროის სარტყელი"
           }
         }

@@ -3,14 +3,20 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12965 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "is"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "tímabil"
+          },
+          "era-short": {
+            "displayName": "tímabil"
+          },
+          "era-narrow": {
             "displayName": "tímabil"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "dagur",
             "relative-type--2": "í fyrradag",
@@ -232,8 +247,32 @@
               "relativeTimePattern-count-other": "-{0} dögum"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "vikudagur"
+          },
+          "weekday-short": {
+            "displayName": "vikudagur"
+          },
+          "weekday-narrow": {
+            "displayName": "vikudagur"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "síðasta sunnudag",
@@ -466,7 +505,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "f.h./e.h."
+          },
           "dayperiod": {
+            "displayName": "f.h./e.h."
+          },
+          "dayperiod-narrow": {
             "displayName": "f.h./e.h."
           },
           "hour": {
@@ -578,6 +623,12 @@
             }
           },
           "zone": {
+            "displayName": "tímabelti"
+          },
+          "zone-short": {
+            "displayName": "tímabelti"
+          },
+          "zone-narrow": {
             "displayName": "tímabelti"
           }
         }

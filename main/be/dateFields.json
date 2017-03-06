@@ -3,14 +3,20 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12966 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "be"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "эра"
+          },
+          "era-short": {
+            "displayName": "эра"
+          },
+          "era-narrow": {
             "displayName": "эра"
           },
           "year": {
@@ -232,6 +238,15 @@
             },
             "relativePeriod": "тыдзень {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "дзень",
             "relative-type--2": "пазаўчора",
@@ -292,8 +307,32 @@
               "relativeTimePattern-count-other": "{0} д. таму"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "дзень тыдня"
+          },
+          "weekday-short": {
+            "displayName": "дзень тыдня"
+          },
+          "weekday-narrow": {
+            "displayName": "дзень тыдня"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "у мінулую нядзелю",
@@ -652,7 +691,13 @@
               "relativeTimePattern-count-other": "{0} суботы таму"
             }
           },
+          "dayperiod-short": {
+            "displayName": "AM/PM"
+          },
           "dayperiod": {
+            "displayName": "AM/PM"
+          },
+          "dayperiod-narrow": {
             "displayName": "AM/PM"
           },
           "hour": {
@@ -800,6 +845,12 @@
             }
           },
           "zone": {
+            "displayName": "часавы пояс"
+          },
+          "zone-short": {
+            "displayName": "часавы пояс"
+          },
+          "zone-narrow": {
             "displayName": "часавы пояс"
           }
         }

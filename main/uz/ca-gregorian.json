@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12944 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13260 $",
+          "_cldrVersion": "31"
         },
         "language": "uz"
       },
@@ -353,8 +353,8 @@
                 "MMMd": "d-MMM",
                 "MMMEd": "E, d-MMM",
                 "MMMMd": "d-MMMM",
-                "MMMMW": "MMM, W-'hafta'",
-                "MMMMW": "MMM, W-'hafta'",
+                "MMMMW-count-one": "MMM, W-'hafta'",
+                "MMMMW-count-other": "MMM, W-'hafta'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -366,8 +366,8 @@
                 "yMMMM": "MMMM, y",
                 "yQQQ": "y, QQQ",
                 "yQQQQ": "y, QQQQ",
-                "yw": "y, w-'hafta'",
-                "yw": "y, w-'hafta'"
+                "yw-count-one": "y, w-'hafta'",
+                "yw-count-other": "y, w-'hafta'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

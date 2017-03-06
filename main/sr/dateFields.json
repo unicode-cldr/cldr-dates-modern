@@ -3,14 +3,20 @@
     "sr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13273 $",
+          "_cldrVersion": "31"
         },
         "language": "sr"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ера"
+          },
+          "era-short": {
+            "displayName": "ера"
+          },
+          "era-narrow": {
             "displayName": "ера"
           },
           "year": {
@@ -208,6 +214,15 @@
             },
             "relativePeriod": "недеља која почиње {0}."
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "дан",
             "relative-type--2": "прекјуче",
@@ -262,8 +277,32 @@
               "relativeTimePattern-count-other": "пре {0} д."
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "дан у недељи"
+          },
+          "weekday-short": {
+            "displayName": "дан у недељи"
+          },
+          "weekday-narrow": {
+            "displayName": "дан у недељи"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "прошле недеље",
@@ -580,7 +619,13 @@
               "relativeTimePattern-count-other": "пре {0} субота"
             }
           },
+          "dayperiod-short": {
+            "displayName": "пре подне/по подне"
+          },
           "dayperiod": {
+            "displayName": "пре подне/по подне"
+          },
+          "dayperiod-narrow": {
             "displayName": "пре подне/по подне"
           },
           "hour": {
@@ -710,6 +755,12 @@
             }
           },
           "zone": {
+            "displayName": "временска зона"
+          },
+          "zone-short": {
+            "displayName": "временска зона"
+          },
+          "zone-narrow": {
             "displayName": "временска зона"
           }
         }

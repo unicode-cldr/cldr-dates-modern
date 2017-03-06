@@ -3,8 +3,8 @@
     "uz-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "uz",
         "script": "Latn"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "era"
+          },
+          "era-short": {
+            "displayName": "era"
+          },
+          "era-narrow": {
             "displayName": "era"
           },
           "year": {
@@ -185,6 +191,15 @@
             },
             "relativePeriod": "{0}-hafta"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "kun",
             "relative-type--1": "kecha",
@@ -227,8 +242,32 @@
               "relativeTimePattern-count-other": "{0} kun oldin"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "hafta kuni"
+          },
+          "weekday-short": {
+            "displayName": "hafta kuni"
+          },
+          "weekday-narrow": {
+            "displayName": "hafta kuni"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "o‘tgan yakshanba",
@@ -503,7 +542,13 @@
               "relativeTimePattern-count-other": "{0} ta shanba oldin"
             }
           },
+          "dayperiod-short": {
+            "displayName": "TO/TK"
+          },
           "dayperiod": {
+            "displayName": "TO/TK"
+          },
+          "dayperiod-narrow": {
             "displayName": "TO/TK"
           },
           "hour": {
@@ -615,6 +660,12 @@
             }
           },
           "zone": {
+            "displayName": "vaqt mintaqasi"
+          },
+          "zone-short": {
+            "displayName": "vaqt mintaqasi"
+          },
+          "zone-narrow": {
             "displayName": "vaqt mintaqasi"
           }
         }

@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "lo"
       },
@@ -352,7 +352,7 @@
                 "yyyyMMM": "G MMM y",
                 "yyyyMMMd": "G d MMM y",
                 "yyyyMMMEd": "E, G d MMM y",
-                "yyyyMMMM": "G y MMMM",
+                "yyyyMMMM": "G MMMM y",
                 "yyyyQQQ": "G QQQ y",
                 "yyyyQQQQ": "G y QQQQ"
               },

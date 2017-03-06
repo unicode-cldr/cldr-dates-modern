@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "lo"
       },
@@ -353,7 +353,7 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW": "ອາທິດທີ່ W ຂອງເດືອນ M",
+                "MMMMW-count-other": "ອາທິດທີ່ W ຂອງເດືອນ M",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -362,10 +362,10 @@
                 "yMMM": "MMM y",
                 "yMMMd": "d MMM y",
                 "yMMMEd": "E, d MMM y",
-                "yMMMM": "y MMMM",
+                "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "ອາທິດທີ່ w ຂອງປີ y"
+                "yw-count-other": "ອາທິດທີ່ w ຂອງປີ y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

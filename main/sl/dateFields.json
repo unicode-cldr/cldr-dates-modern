@@ -3,14 +3,20 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "sl"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "doba"
+          },
+          "era-short": {
+            "displayName": "doba"
+          },
+          "era-narrow": {
             "displayName": "doba"
           },
           "year": {
@@ -232,6 +238,15 @@
             },
             "relativePeriod": "v tednu {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "dan",
             "relative-type--2": "predvčerajšnjim",
@@ -292,8 +307,32 @@
               "relativeTimePattern-count-other": "pred {0} dnevi"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "dan v tednu"
+          },
+          "weekday-short": {
+            "displayName": "dan v tednu"
+          },
+          "weekday-narrow": {
+            "displayName": "dan v tednu"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "prejšnjo nedeljo",
@@ -652,7 +691,13 @@
               "relativeTimePattern-count-other": "pred {0} sobotami"
             }
           },
+          "dayperiod-short": {
+            "displayName": "dop/pop"
+          },
           "dayperiod": {
+            "displayName": "dop/pop"
+          },
+          "dayperiod-narrow": {
             "displayName": "dop/pop"
           },
           "hour": {
@@ -800,6 +845,12 @@
             }
           },
           "zone": {
+            "displayName": "časovni pas"
+          },
+          "zone-short": {
+            "displayName": "časovni pas"
+          },
+          "zone-narrow": {
             "displayName": "časovni pas"
           }
         }

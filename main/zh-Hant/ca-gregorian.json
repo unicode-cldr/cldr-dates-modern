@@ -3,8 +3,8 @@
     "zh-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "zh",
         "script": "Hant"
@@ -361,7 +361,7 @@
                 "MMMd": "M月d日",
                 "MMMEd": "M月d日 E",
                 "MMMMd": "M月d日",
-                "MMMMW": "MMM的第W週",
+                "MMMMW-count-other": "MMM的第W週",
                 "ms": "mm:ss",
                 "y": "y年",
                 "yM": "y/M",
@@ -374,7 +374,7 @@
                 "yMMMM": "y年M月",
                 "yQQQ": "y年QQQ",
                 "yQQQQ": "y年QQQQ",
-                "yw": "y年的第w週"
+                "yw-count-other": "y年的第w週"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

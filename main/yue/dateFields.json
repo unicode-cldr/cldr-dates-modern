@@ -3,14 +3,20 @@
     "yue": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "yue"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "年代"
+          },
+          "era-short": {
+            "displayName": "年代"
+          },
+          "era-narrow": {
             "displayName": "年代"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "{0}嘅星期"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "日",
             "relative-type--2": "前天",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "{0} 日前"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "週天"
+          },
+          "weekday-short": {
+            "displayName": "週天"
+          },
+          "weekday-narrow": {
+            "displayName": "週天"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "上星期日",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "{0} 個星期六前"
             }
           },
+          "dayperiod-short": {
+            "displayName": "上午/下午"
+          },
           "dayperiod": {
+            "displayName": "上午/下午"
+          },
+          "dayperiod-narrow": {
             "displayName": "上午/下午"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "時區"
+          },
+          "zone-short": {
+            "displayName": "時區"
+          },
+          "zone-narrow": {
             "displayName": "時區"
           }
         }

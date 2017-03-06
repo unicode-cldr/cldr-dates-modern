@@ -3,8 +3,8 @@
     "fo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12876 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "fo"
       },
@@ -1399,6 +1399,12 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "ókendur býur"

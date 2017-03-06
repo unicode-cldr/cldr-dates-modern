@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "da",
         "territory": "GL"
@@ -356,8 +356,8 @@
                 "MMMEd": "E d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E d. MMMM",
-                "MMMMW": "'uge' W 'i' MMM",
-                "MMMMW": "'uge' W 'i' MMM",
+                "MMMMW-count-one": "'uge' W 'i' MMM",
+                "MMMMW-count-other": "'uge' W 'i' MMM",
                 "ms": "mm.ss",
                 "y": "y",
                 "yM": "M/y",
@@ -370,8 +370,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'uge' w 'i' y",
-                "yw": "'uge' w 'i' y"
+                "yw-count-one": "'uge' w 'i' y",
+                "yw-count-other": "'uge' w 'i' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

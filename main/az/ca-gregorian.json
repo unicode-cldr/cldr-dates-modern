@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "az"
       },
@@ -365,8 +365,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
                 "MMMMd": "MMMM d",
-                "MMMMW": "MMM, W 'həftə'",
-                "MMMMW": "MMM, W 'həftə'",
+                "MMMMW-count-one": "MMM, W 'həftə'",
+                "MMMMW-count-other": "MMM, W 'həftə'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -375,11 +375,11 @@
                 "yMMM": "MMM y",
                 "yMMMd": "d MMM y",
                 "yMMMEd": "d MMM y, E",
-                "yMMMM": "y MMMM",
+                "yMMMM": "MMMM y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "y, w 'həftə'",
-                "yw": "y, w 'həftə'"
+                "yw-count-one": "y, w 'həftə'",
+                "yw-count-other": "y, w 'həftə'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

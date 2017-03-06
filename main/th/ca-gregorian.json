@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "th"
       },
@@ -369,7 +369,7 @@
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E d MMMM",
                 "MMMMEEEEd": "EEEEที่ d MMMM",
-                "MMMMW": "สัปดาห์ที่ W ของ MMM",
+                "MMMMW-count-other": "สัปดาห์ที่ W ของ MMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -386,7 +386,7 @@
                 "yMMMMEEEEd": "EEEEที่ d MMMM G y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ G y",
-                "yw": "สัปดาห์ที่ w ของ y"
+                "yw-count-other": "สัปดาห์ที่ w ของ y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

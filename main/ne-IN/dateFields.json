@@ -3,8 +3,8 @@
     "ne-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ne",
         "territory": "IN"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "काल"
+          },
+          "era-short": {
+            "displayName": "काल"
+          },
+          "era-narrow": {
             "displayName": "काल"
           },
           "year": {
@@ -185,6 +191,15 @@
             },
             "relativePeriod": "{0} को हप्ता"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "बार",
             "relative-type--2": "अस्ति",
@@ -233,8 +248,32 @@
               "relativeTimePattern-count-other": "{0} दिन पहिले"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "हप्ताको बार"
+          },
+          "weekday-short": {
+            "displayName": "हप्ताको बार"
+          },
+          "weekday-narrow": {
+            "displayName": "हप्ताको बार"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "गत आइतबार",
@@ -509,7 +548,13 @@
               "relativeTimePattern-count-other": "{0}शनिबारहरू पहिले"
             }
           },
+          "dayperiod-short": {
+            "displayName": "पूर्वाह्न / अपराह्न"
+          },
           "dayperiod": {
+            "displayName": "पूर्वाह्न / अपराह्न"
+          },
+          "dayperiod-narrow": {
             "displayName": "पूर्वाह्न / अपराह्न"
           },
           "hour": {
@@ -621,6 +666,12 @@
             }
           },
           "zone": {
+            "displayName": "समय क्षेत्र"
+          },
+          "zone-short": {
+            "displayName": "समय क्षेत्र"
+          },
+          "zone-narrow": {
             "displayName": "समय क्षेत्र"
           }
         }

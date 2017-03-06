@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12920 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "eu"
       },
@@ -227,33 +227,33 @@
                   "midnight": "gauerdia",
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "goizeko",
-                  "morning2": "goiza",
-                  "afternoon1": "arratsaldeko",
-                  "afternoon2": "arratsaldea",
-                  "evening1": "arratsaldeko",
-                  "night1": "gaueko"
+                  "morning1": "goiz.",
+                  "morning2": "goizeko",
+                  "afternoon1": "eguerd.",
+                  "afternoon2": "arrats.",
+                  "evening1": "iluntz.",
+                  "night1": "gau."
                 },
                 "narrow": {
                   "midnight": "gauerdia",
-                  "am": "g",
-                  "pm": "a",
-                  "morning1": "goizeko",
-                  "morning2": "goiza",
-                  "afternoon1": "arratsaldeko",
-                  "afternoon2": "arratsaldea",
-                  "evening1": "arratsaldeko",
-                  "night1": "gauean"
+                  "am": "AM",
+                  "pm": "PM",
+                  "morning1": "goiz.",
+                  "morning2": "goizeko",
+                  "afternoon1": "eguerd.",
+                  "afternoon2": "arrats.",
+                  "evening1": "iluntz.",
+                  "night1": "gau."
                 },
                 "wide": {
                   "midnight": "gauerdia",
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "goizeko",
-                  "morning2": "goiza",
-                  "afternoon1": "arratsaldeko",
-                  "afternoon2": "arratsaldea",
-                  "evening1": "arratsaldeko",
+                  "morning1": "goizaldeko",
+                  "morning2": "goizeko",
+                  "afternoon1": "eguerdiko",
+                  "afternoon2": "arratsaldeko",
+                  "evening1": "iluntzeko",
                   "night1": "gaueko"
                 }
               },
@@ -262,23 +262,23 @@
                   "midnight": "gauerdia",
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "goizaldea",
+                  "morning1": "goiz.",
                   "morning2": "goiza",
-                  "afternoon1": "eguerdia",
-                  "afternoon2": "arratsaldea",
+                  "afternoon1": "eguerd.",
+                  "afternoon2": "arrats.",
                   "evening1": "iluntz.",
-                  "night1": "gau."
+                  "night1": "gaua"
                 },
                 "narrow": {
                   "midnight": "gauerdia",
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "goizaldea",
+                  "morning1": "goiz.",
                   "morning2": "goiza",
-                  "afternoon1": "eguerdia",
-                  "afternoon2": "arratsaldea",
+                  "afternoon1": "eguerd.",
+                  "afternoon2": "arrats.",
                   "evening1": "iluntz.",
-                  "night1": "gau."
+                  "night1": "gaua"
                 },
                 "wide": {
                   "midnight": "gauerdia",

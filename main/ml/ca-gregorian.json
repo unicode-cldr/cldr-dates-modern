@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ml"
       },
@@ -373,8 +373,8 @@
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "MMMM d, E",
-                "MMMMW": "MMM - ആഴ്ച W",
-                "MMMMW": "MMM - ആഴ്ച W",
+                "MMMMW-count-one": "MMM - ആഴ്ച W",
+                "MMMMW-count-other": "MMM - ആഴ്ച W",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -387,8 +387,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "y-ലെ ആഴ്ച w",
-                "yw": "y-ലെ ആഴ്ച w"
+                "yw-count-one": "y-ലെ ആഴ്ച w",
+                "yw-count-other": "y-ലെ ആഴ്ച w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

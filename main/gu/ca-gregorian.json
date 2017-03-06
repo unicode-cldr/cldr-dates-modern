@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "gu"
       },
@@ -348,8 +348,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW": "MMM ના W અઠવાડિયા",
-                "MMMMW": "MMM ના W અઠવાડિયા",
+                "MMMMW-count-one": "MMM ના W અઠવાડિયા",
+                "MMMMW-count-other": "MMM ના W અઠવાડિયા",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -362,8 +362,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "y ના w અઠવાડિયા",
-                "yw": "y ના w અઠવાડિયા"
+                "yw-count-one": "y ના w અઠવાડિયા",
+                "yw-count-other": "y ના w અઠવાડિયા"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

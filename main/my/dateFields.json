@@ -3,14 +3,20 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13050 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13260 $",
+          "_cldrVersion": "31"
         },
         "language": "my"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ခေတ်"
+          },
+          "era-short": {
+            "displayName": "ခေတ်"
+          },
+          "era-narrow": {
             "displayName": "ခေတ်"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "{0} ပတ်မြောက် သီတင်းပတ်"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ရက်",
             "relative-type--2": "တစ်နေ့က",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "ပြီးခဲ့သည့် {0} ရက်"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "နေ့"
+          },
+          "weekday-short": {
+            "displayName": "နေ့"
+          },
+          "weekday-narrow": {
+            "displayName": "နေ့"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ပြီးခဲ့သည့် တနင်္ဂနွေနေ့",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "ပြီးခဲ့သည့် စနေ {0} ပတ်အတွင်း"
             }
           },
+          "dayperiod-short": {
+            "displayName": "နံနက်/ညနေ"
+          },
           "dayperiod": {
+            "displayName": "နံနက်/ညနေ"
+          },
+          "dayperiod-narrow": {
             "displayName": "နံနက်/ညနေ"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "ဇုန်"
+          },
+          "zone-short": {
+            "displayName": "ဇုန်"
+          },
+          "zone-narrow": {
             "displayName": "ဇုန်"
           }
         }

@@ -3,8 +3,8 @@
     "en": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13050 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "en"
       },
@@ -365,8 +365,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
-                "MMMMW": "'week' W 'of' MMMM",
-                "MMMMW": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "'week' W 'of' MMMM",
+                "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -378,8 +378,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'week' w 'of' y",
-                "yw": "'week' w 'of' y"
+                "yw-count-one": "'week' w 'of' y",
+                "yw-count-other": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

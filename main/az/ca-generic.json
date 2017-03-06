@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "az"
       },
@@ -364,7 +364,7 @@
                 "yyyyMMM": "G MMM y",
                 "yyyyMMMd": "G d MMM y",
                 "yyyyMMMEd": "G d MMM y, E",
-                "yyyyMMMM": "G y MMMM",
+                "yyyyMMMM": "G MMMM y",
                 "yyyyQQQ": "G y QQQ",
                 "yyyyQQQQ": "G y QQQQ"
               },

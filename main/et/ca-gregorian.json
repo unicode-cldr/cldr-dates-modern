@@ -3,8 +3,8 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "et"
       },
@@ -354,8 +354,8 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "MMMMW": "MMM (W. 'nädal')",
-                "MMMMW": "MMM (W. 'nädal')",
+                "MMMMW-count-one": "MMM (W. 'nädal')",
+                "MMMMW-count-other": "MMM (W. 'nädal')",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -368,8 +368,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "y (w. 'nädal')",
-                "yw": "y (w. 'nädal')"
+                "yw-count-one": "y (w. 'nädal')",
+                "yw-count-other": "y (w. 'nädal')"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

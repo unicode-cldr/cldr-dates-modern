@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12988 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "fi"
       },
@@ -359,8 +359,8 @@
                 "MMMd": "d. MMM",
                 "MMMEd": "ccc d. MMM",
                 "MMMMd": "d. MMMM",
-                "MMMMW": "LLLL'n' W. 'viikko'",
-                "MMMMW": "LLLL'n' W. 'viikko'",
+                "MMMMW-count-one": "LLLL'n' W. 'viikko'",
+                "MMMMW-count-other": "LLLL'n' W. 'viikko'",
                 "ms": "m.ss",
                 "y": "y",
                 "yM": "L.y",
@@ -374,8 +374,8 @@
                 "yMMMMccccd": "cccc d. MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'vuoden' y 'viikko' w",
-                "yw": "'vuoden' y 'viikko' w"
+                "yw-count-one": "'vuoden' y 'viikko' w",
+                "yw-count-other": "'vuoden' y 'viikko' w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

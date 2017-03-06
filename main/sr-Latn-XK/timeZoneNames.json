@@ -3,8 +3,8 @@
     "sr-Latn-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12933 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "sr",
         "script": "Latn",
@@ -1401,6 +1401,15 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "long": {
+                  "standard": "Koordinisano univerzalno vreme"
+                },
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "Nepoznat grad"

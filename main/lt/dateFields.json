@@ -3,14 +3,20 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "lt"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "era"
+          },
+          "era-short": {
+            "displayName": "era"
+          },
+          "era-narrow": {
             "displayName": "era"
           },
           "year": {
@@ -232,6 +238,15 @@
             },
             "relativePeriod": "{0} savaitę"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "diena",
             "relative-type--2": "užvakar",
@@ -292,8 +307,32 @@
               "relativeTimePattern-count-other": "prieš {0} d."
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "savaitės diena"
+          },
+          "weekday-short": {
+            "displayName": "savaitės diena"
+          },
+          "weekday-narrow": {
+            "displayName": "savaitės diena"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "praėjusį sekmadienį",
@@ -652,7 +691,13 @@
               "relativeTimePattern-count-other": "prieš {0} šeštadienių"
             }
           },
+          "dayperiod-short": {
+            "displayName": "iki pietų / po pietų"
+          },
           "dayperiod": {
+            "displayName": "iki pietų / po pietų"
+          },
+          "dayperiod-narrow": {
             "displayName": "iki pietų / po pietų"
           },
           "hour": {
@@ -800,6 +845,12 @@
             }
           },
           "zone": {
+            "displayName": "laiko juosta"
+          },
+          "zone-short": {
+            "displayName": "laiko juosta"
+          },
+          "zone-narrow": {
             "displayName": "laiko juosta"
           }
         }

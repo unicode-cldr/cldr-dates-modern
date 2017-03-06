@@ -3,14 +3,20 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "lo"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ສະໄໝ"
+          },
+          "era-short": {
+            "displayName": "ສະໄໝ"
+          },
+          "era-narrow": {
             "displayName": "ສະໄໝ"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "ອາທິດທີ {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ມື້",
             "relative-type--2": "ມື້ກ່ອນ",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "{0} ມື້ກ່ອນ"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ມື້ຂອງອາທິດ"
+          },
+          "weekday-short": {
+            "displayName": "ມື້ຂອງອາທິດ"
+          },
+          "weekday-narrow": {
+            "displayName": "ມື້ຂອງອາທິດ"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ວັນອາທິດແລ້ວ",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "{0} ວັນເສົາກ່ອນ"
             }
           },
+          "dayperiod-short": {
+            "displayName": "ກ່ອນທ່ຽງ/ຫຼັງທ່ຽງ"
+          },
           "dayperiod": {
+            "displayName": "ກ່ອນທ່ຽງ/ຫຼັງທ່ຽງ"
+          },
+          "dayperiod-narrow": {
             "displayName": "ກ່ອນທ່ຽງ/ຫຼັງທ່ຽງ"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "ເຂດເວລາ"
+          },
+          "zone-short": {
+            "displayName": "ເຂດເວລາ"
+          },
+          "zone-narrow": {
             "displayName": "ເຂດເວລາ"
           }
         }

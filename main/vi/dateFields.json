@@ -3,14 +3,20 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "vi"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Thời đại"
+          },
+          "era-short": {
+            "displayName": "Thời đại"
+          },
+          "era-narrow": {
             "displayName": "Thời đại"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "tuần {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Ngày",
             "relative-type--2": "Hôm kia",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "{0} ngày trước"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Ngày trong tuần"
+          },
+          "weekday-short": {
+            "displayName": "Ngày trong tuần"
+          },
+          "weekday-narrow": {
+            "displayName": "Ngày trong tuần"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "Chủ Nhật tuần trước",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "{0} Thứ Bảy trước"
             }
           },
+          "dayperiod-short": {
+            "displayName": "SA/CH"
+          },
           "dayperiod": {
+            "displayName": "SA/CH"
+          },
+          "dayperiod-narrow": {
             "displayName": "SA/CH"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "Múi giờ"
+          },
+          "zone-short": {
+            "displayName": "Múi giờ"
+          },
+          "zone-narrow": {
             "displayName": "Múi giờ"
           }
         }

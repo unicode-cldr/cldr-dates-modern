@@ -3,8 +3,8 @@
     "ru-BY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13005 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ru",
         "territory": "BY"
@@ -1400,6 +1400,15 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "long": {
+                  "standard": "Всемирное координированное время"
+                },
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "Неизвестный город"

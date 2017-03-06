@@ -3,14 +3,20 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12938 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13260 $",
+          "_cldrVersion": "31"
         },
         "language": "uk"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ера"
+          },
+          "era-short": {
+            "displayName": "ера"
+          },
+          "era-narrow": {
             "displayName": "ера"
           },
           "year": {
@@ -232,6 +238,15 @@
             },
             "relativePeriod": "тиждень з {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "день",
             "relative-type--2": "позавчора",
@@ -292,8 +307,32 @@
               "relativeTimePattern-count-other": "-{0} дн."
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "день тижня"
+          },
+          "weekday-short": {
+            "displayName": "день тижня"
+          },
+          "weekday-narrow": {
+            "displayName": "день тижня"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "минулої неділі",
@@ -652,7 +691,13 @@
               "relativeTimePattern-count-other": "{0} суботи тому"
             }
           },
+          "dayperiod-short": {
+            "displayName": "частина доби"
+          },
           "dayperiod": {
+            "displayName": "частина доби"
+          },
+          "dayperiod-narrow": {
             "displayName": "частина доби"
           },
           "hour": {
@@ -800,6 +845,12 @@
             }
           },
           "zone": {
+            "displayName": "часовий пояс"
+          },
+          "zone-short": {
+            "displayName": "часовий пояс"
+          },
+          "zone-narrow": {
             "displayName": "часовий пояс"
           }
         }

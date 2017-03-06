@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12779 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ur",
         "territory": "IN"
@@ -353,7 +353,7 @@
                 "yyyyMMM": "MMM y G",
                 "yyyyMMMd": "d MMM، y G",
                 "yyyyMMMEd": "E، d MMM، y G",
-                "yyyyMMMM": "G y MMMM",
+                "yyyyMMMM": "MMMM y G",
                 "yyyyQQQ": "QQQ y G",
                 "yyyyQQQQ": "QQQQ y G"
               },

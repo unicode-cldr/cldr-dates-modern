@@ -3,8 +3,8 @@
     "ar": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13286 $",
+          "_cldrVersion": "31"
         },
         "language": "ar"
       },
@@ -1399,6 +1399,15 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "long": {
+                  "standard": "التوقيت العالمي المنسق"
+                },
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "مدينة غير معروفة"

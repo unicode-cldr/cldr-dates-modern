@@ -3,14 +3,20 @@
     "en": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13050 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "en"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "era"
+          },
+          "era-short": {
+            "displayName": "era"
+          },
+          "era-narrow": {
             "displayName": "era"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "week of month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "wk. of mo."
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "wk. of mo."
+          },
           "day": {
             "displayName": "day",
             "relative-type--1": "yesterday",
@@ -226,8 +241,32 @@
               "relativeTimePattern-count-other": "{0} days ago"
             }
           },
+          "dayOfYear": {
+            "displayName": "day of year"
+          },
+          "dayOfYear-short": {
+            "displayName": "day of yr."
+          },
+          "dayOfYear-narrow": {
+            "displayName": "day of yr."
+          },
           "weekday": {
             "displayName": "day of the week"
+          },
+          "weekday-short": {
+            "displayName": "day of wk."
+          },
+          "weekday-narrow": {
+            "displayName": "day of wk."
+          },
+          "weekdayOfMonth": {
+            "displayName": "weekday of the month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "wkday. of mo."
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "wkday. of mo."
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -502,7 +541,15 @@
               "relativeTimePattern-count-other": "{0} Sa ago"
             }
           },
+          "dayperiod-short": {
+            "displayName": "AM/PM",
+            "displayName-alt-variant": "am/pm"
+          },
           "dayperiod": {
+            "displayName": "AM/PM",
+            "displayName-alt-variant": "am/pm"
+          },
+          "dayperiod-narrow": {
             "displayName": "AM/PM",
             "displayName-alt-variant": "am/pm"
           },
@@ -616,6 +663,12 @@
           },
           "zone": {
             "displayName": "time zone"
+          },
+          "zone-short": {
+            "displayName": "zone"
+          },
+          "zone-narrow": {
+            "displayName": "zone"
           }
         }
       }

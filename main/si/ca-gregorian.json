@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13196 $",
+          "_cldrVersion": "31"
         },
         "language": "si"
       },
@@ -365,8 +365,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d E",
                 "MMMMd": "MMMM d",
-                "MMMMW": "MMM සතිය W",
-                "MMMMW": "MMM සතිය W",
+                "MMMMW-count-one": "MMM සතිය W",
+                "MMMMW-count-other": "MMM සතිය W",
                 "ms": "mm.ss",
                 "y": "y",
                 "yM": "y-M",
@@ -378,8 +378,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "y සතිය w",
-                "yw": "y සතිය w"
+                "yw-count-one": "y සතිය w",
+                "yw-count-other": "y සතිය w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

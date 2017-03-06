@@ -3,14 +3,20 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13007 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "nb"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "tidsalder"
+          },
+          "era-short": {
+            "displayName": "tidsalder"
+          },
+          "era-narrow": {
             "displayName": "tidsalder"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "u. {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "dag",
             "relative-type--2": "i forgårs",
@@ -232,8 +247,32 @@
               "relativeTimePattern-count-other": "-{0} d."
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ukedag"
+          },
+          "weekday-short": {
+            "displayName": "ukedag"
+          },
+          "weekday-narrow": {
+            "displayName": "ukedag"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "søndag sist uke",
@@ -508,7 +547,13 @@
               "relativeTimePattern-count-other": "for {0} lø. siden"
             }
           },
+          "dayperiod-short": {
+            "displayName": "a.m./p.m."
+          },
           "dayperiod": {
+            "displayName": "a.m./p.m."
+          },
+          "dayperiod-narrow": {
             "displayName": "a.m./p.m."
           },
           "hour": {
@@ -620,6 +665,12 @@
             }
           },
           "zone": {
+            "displayName": "tidssone"
+          },
+          "zone-short": {
+            "displayName": "tidssone"
+          },
+          "zone-narrow": {
             "displayName": "tidssone"
           }
         }

@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "pa"
       },
@@ -347,8 +347,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW": "MMM ਦਾ W ਹਫ਼ਤਾ",
-                "MMMMW": "MMM ਦਾ W ਹਫ਼ਤਾ",
+                "MMMMW-count-one": "MMM ਦਾ W ਹਫ਼ਤਾ",
+                "MMMMW-count-other": "MMM ਦਾ W ਹਫ਼ਤਾ",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -358,11 +358,11 @@
                 "yMMM": "MMM y",
                 "yMMMd": "d MMM y",
                 "yMMMEd": "E, d MMM y",
-                "yMMMM": "y MMMM",
+                "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "y ਦਾ w ਹਫ਼ਤਾ",
-                "yw": "y ਦਾ w ਹਫ਼ਤਾ"
+                "yw-count-one": "y ਦਾ w ਹਫ਼ਤਾ",
+                "yw-count-other": "y ਦਾ w ਹਫ਼ਤਾ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

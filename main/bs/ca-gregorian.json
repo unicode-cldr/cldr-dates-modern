@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "bs"
       },
@@ -355,9 +355,9 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "MMMMW": "W. 'sedmica' 'u' MMM",
-                "MMMMW": "W. 'sedmica' 'u' MMM",
-                "MMMMW": "W. 'sedmica' 'u' MMM",
+                "MMMMW-count-one": "W. 'sedmica' 'u' MMM",
+                "MMMMW-count-few": "W. 'sedmica' 'u' MMM",
+                "MMMMW-count-other": "W. 'sedmica' 'u' MMM",
                 "ms": "mm:ss",
                 "y": "y.",
                 "yM": "MM/y",
@@ -370,9 +370,9 @@
                 "yMMMM": "LLLL y.",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "w. 'sedmica' 'u' y.",
-                "yw": "w. 'sedmica' 'u' y.",
-                "yw": "w. 'sedmica' 'u' y."
+                "yw-count-one": "w. 'sedmica' 'u' y.",
+                "yw-count-few": "w. 'sedmica' 'u' y.",
+                "yw-count-other": "w. 'sedmica' 'u' y."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

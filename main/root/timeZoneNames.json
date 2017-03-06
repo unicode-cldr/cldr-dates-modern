@@ -3,8 +3,8 @@
     "root": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13058 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "root"
       },
@@ -1390,6 +1390,12 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "Unknown"

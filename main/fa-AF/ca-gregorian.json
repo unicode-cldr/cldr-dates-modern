@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12944 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "fa",
         "territory": "AF"
@@ -356,8 +356,8 @@
                 "MMMEd": "E, MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E d LLLL",
-                "MMMMW": "هفته W از MMM",
-                "MMMMW": "هفته W از MMM",
+                "MMMMW-count-one": "هفته W از MMM",
+                "MMMMW-count-other": "هفته W از MMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -371,8 +371,8 @@
                 "yMMMMEEEEd": "EEEE d MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "هفته w از y",
-                "yw": "هفته w از y"
+                "yw-count-one": "هفته w از y",
+                "yw-count-other": "هفته w از y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

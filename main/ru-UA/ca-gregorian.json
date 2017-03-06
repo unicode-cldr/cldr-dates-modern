@@ -3,8 +3,8 @@
     "ru-UA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12799 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ru",
         "territory": "UA"
@@ -355,10 +355,10 @@
                 "MMMd": "d MMM",
                 "MMMEd": "ccc, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW": "W-'я' 'неделя' MMM",
-                "MMMMW": "W-'я' 'неделя' MMM",
-                "MMMMW": "W-'я' 'неделя' MMM",
-                "MMMMW": "W-'я' 'неделя' MMM",
+                "MMMMW-count-one": "W-'я' 'неделя' MMM",
+                "MMMMW-count-few": "W-'я' 'неделя' MMM",
+                "MMMMW-count-many": "W-'я' 'неделя' MMM",
+                "MMMMW-count-other": "W-'я' 'неделя' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -371,10 +371,10 @@
                 "yMMMM": "LLLL y 'г'.",
                 "yQQQ": "QQQ y 'г'.",
                 "yQQQQ": "QQQQ y 'г'.",
-                "yw": "w-'я' 'неделя' y 'г'.",
-                "yw": "w-'я' 'неделя' y 'г'.",
-                "yw": "w-'я' 'неделя' y 'г'.",
-                "yw": "w-'я' 'неделя' y 'г'."
+                "yw-count-one": "w-'я' 'неделя' y 'г'.",
+                "yw-count-few": "w-'я' 'неделя' y 'г'.",
+                "yw-count-many": "w-'я' 'неделя' y 'г'.",
+                "yw-count-other": "w-'я' 'неделя' y 'г'."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

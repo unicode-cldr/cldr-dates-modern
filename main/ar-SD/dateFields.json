@@ -3,8 +3,8 @@
     "ar-SD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ar",
         "territory": "SD"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "العصر"
+          },
+          "era-short": {
+            "displayName": "العصر"
+          },
+          "era-narrow": {
             "displayName": "العصر"
           },
           "year": {
@@ -281,6 +287,15 @@
             },
             "relativePeriod": "أسبوع {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "يوم",
             "relative-type--2": "أول أمس",
@@ -353,8 +368,32 @@
               "relativeTimePattern-count-other": "قبل {0} يوم"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "اليوم"
+          },
+          "weekday-short": {
+            "displayName": "اليوم"
+          },
+          "weekday-narrow": {
+            "displayName": "اليوم"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "الأحد الماضي",
@@ -587,7 +626,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "ص/م"
+          },
           "dayperiod": {
+            "displayName": "ص/م"
+          },
+          "dayperiod-narrow": {
             "displayName": "ص/م"
           },
           "hour": {
@@ -771,6 +816,12 @@
             }
           },
           "zone": {
+            "displayName": "التوقيت"
+          },
+          "zone-short": {
+            "displayName": "التوقيت"
+          },
+          "zone-narrow": {
             "displayName": "التوقيت"
           }
         }

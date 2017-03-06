@@ -3,14 +3,20 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "ms"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "Era"
+          },
+          "era-short": {
+            "displayName": "Era"
+          },
+          "era-narrow": {
             "displayName": "Era"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "minggu ke-{0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "Hari",
             "relative-type--2": "kelmarin",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "{0} hari lalu"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "Hari dalam Minggu"
+          },
+          "weekday-short": {
+            "displayName": "Hari dalam Minggu"
+          },
+          "weekday-narrow": {
+            "displayName": "Hari dalam Minggu"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "Ahad lalu",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "pada {0} Sabtu lalu"
             }
           },
+          "dayperiod-short": {
+            "displayName": "PG/PTG"
+          },
           "dayperiod": {
+            "displayName": "PG/PTG"
+          },
+          "dayperiod-narrow": {
             "displayName": "PG/PTG"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "Zon Waktu"
+          },
+          "zone-short": {
+            "displayName": "Zon Waktu"
+          },
+          "zone-narrow": {
             "displayName": "Zon Waktu"
           }
         }

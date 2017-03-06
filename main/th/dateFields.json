@@ -3,14 +3,20 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "th"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "สมัย"
+          },
+          "era-short": {
+            "displayName": "สมัย"
+          },
+          "era-narrow": {
             "displayName": "สมัย"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "วัน",
             "relative-type--2": "เมื่อวานซืน",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "{0} วันที่แล้ว"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "วันในสัปดาห์"
+          },
+          "weekday-short": {
+            "displayName": "วันในสัปดาห์"
+          },
+          "weekday-narrow": {
+            "displayName": "วันในสัปดาห์"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "วันอาทิตย์ที่แล้ว",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "{0} เสาร์ที่แล้ว"
             }
           },
+          "dayperiod-short": {
+            "displayName": "ช่วงวัน"
+          },
           "dayperiod": {
+            "displayName": "ช่วงวัน"
+          },
+          "dayperiod-narrow": {
             "displayName": "ช่วงวัน"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "เขตเวลา"
+          },
+          "zone-short": {
+            "displayName": "เขตเวลา"
+          },
+          "zone-narrow": {
             "displayName": "เขตเวลา"
           }
         }

@@ -3,14 +3,20 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "pa"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ਸੰਮਤ"
+          },
+          "era-short": {
+            "displayName": "ਸੰਮਤ"
+          },
+          "era-narrow": {
             "displayName": "ਸੰਮਤ"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "{0} ਦਾ ਹਫ਼ਤਾ"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ਦਿਨ",
             "relative-type--1": "ਬੀਤਿਆ ਕੱਲ੍ਹ",
@@ -226,8 +241,32 @@
               "relativeTimePattern-count-other": "{0} ਦਿਨ ਪਹਿਲਾਂ"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ਹਫ਼ਤੇ ਦਾ ਦਿਨ"
+          },
+          "weekday-short": {
+            "displayName": "ਹਫ਼ਤੇ ਦਾ ਦਿਨ"
+          },
+          "weekday-narrow": {
+            "displayName": "ਹਫ਼ਤੇ ਦਾ ਦਿਨ"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ਪਿਛਲਾ ਐਤਵਾਰ",
@@ -502,7 +541,13 @@
               "relativeTimePattern-count-other": "{0} ਸ਼ਨਿੱਚਰਵਾਰ ਪਹਿਲਾਂ"
             }
           },
+          "dayperiod-short": {
+            "displayName": "ਪੂ.ਦੁ./ਬਾ.ਦੁ."
+          },
           "dayperiod": {
+            "displayName": "ਪੂ.ਦੁ./ਬਾ.ਦੁ."
+          },
+          "dayperiod-narrow": {
             "displayName": "ਪੂ.ਦੁ./ਬਾ.ਦੁ."
           },
           "hour": {
@@ -614,6 +659,12 @@
             }
           },
           "zone": {
+            "displayName": "ਇਲਾਕਾਈ ਵੇਲਾ"
+          },
+          "zone-short": {
+            "displayName": "ਇਲਾਕਾਈ ਵੇਲਾ"
+          },
+          "zone-narrow": {
             "displayName": "ਇਲਾਕਾਈ ਵੇਲਾ"
           }
         }

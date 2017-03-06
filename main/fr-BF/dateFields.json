@@ -3,8 +3,8 @@
     "fr-BF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "fr",
         "territory": "BF"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ère"
+          },
+          "era-short": {
+            "displayName": "ère"
+          },
+          "era-narrow": {
             "displayName": "ère"
           },
           "year": {
@@ -185,6 +191,15 @@
             },
             "relativePeriod": "sem. du {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "jour",
             "relative-type--2": "avant-hier",
@@ -233,8 +248,32 @@
               "relativeTimePattern-count-other": "-{0} j"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "jour de la semaine"
+          },
+          "weekday-short": {
+            "displayName": "jour de la semaine"
+          },
+          "weekday-narrow": {
+            "displayName": "jour de la semaine"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "dimanche dernier",
@@ -509,7 +548,13 @@
               "relativeTimePattern-count-other": "il y a {0}sam"
             }
           },
+          "dayperiod-short": {
+            "displayName": "cadran"
+          },
           "dayperiod": {
+            "displayName": "cadran"
+          },
+          "dayperiod-narrow": {
             "displayName": "cadran"
           },
           "hour": {
@@ -621,6 +666,12 @@
             }
           },
           "zone": {
+            "displayName": "fuseau horaire"
+          },
+          "zone-short": {
+            "displayName": "fuseau horaire"
+          },
+          "zone-narrow": {
             "displayName": "fuseau horaire"
           }
         }

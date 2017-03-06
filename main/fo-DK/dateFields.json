@@ -3,8 +3,8 @@
     "fo-DK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "fo",
         "territory": "DK"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "tíðarrokning"
+          },
+          "era-short": {
+            "displayName": "tíðarrokning"
+          },
+          "era-narrow": {
             "displayName": "tíðarrokning"
           },
           "year": {
@@ -185,6 +191,15 @@
             },
             "relativePeriod": "vika nummar {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "dagur",
             "relative-type--2": "fyrradagin",
@@ -233,8 +248,32 @@
               "relativeTimePattern-count-other": "{0} d. síðan"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "gerandisdagur"
+          },
+          "weekday-short": {
+            "displayName": "gerandisdagur"
+          },
+          "weekday-narrow": {
+            "displayName": "gerandisdagur"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "seinasta sunnudag",
@@ -509,7 +548,13 @@
               "relativeTimePattern-count-other": "{0} le. síðani"
             }
           },
+          "dayperiod-short": {
+            "displayName": "AM/PM"
+          },
           "dayperiod": {
+            "displayName": "AM/PM"
+          },
+          "dayperiod-narrow": {
             "displayName": "AM/PM"
           },
           "hour": {
@@ -621,6 +666,12 @@
             }
           },
           "zone": {
+            "displayName": "tíðarøki"
+          },
+          "zone-short": {
+            "displayName": "tíðarøki"
+          },
+          "zone-narrow": {
             "displayName": "tíðarøki"
           }
         }

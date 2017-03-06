@@ -3,14 +3,20 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13186 $",
+          "_cldrVersion": "31"
         },
         "language": "mr"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "युग"
+          },
+          "era-short": {
+            "displayName": "युग"
+          },
+          "era-narrow": {
             "displayName": "युग"
           },
           "year": {
@@ -184,6 +190,15 @@
             },
             "relativePeriod": "{0} चा आठवडा"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "दिवस",
             "relative-type--1": "काल",
@@ -226,8 +241,32 @@
               "relativeTimePattern-count-other": "{0} दिवसांपूर्वी"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "आठवड्याचा दिवस"
+          },
+          "weekday-short": {
+            "displayName": "आठवड्याचा दिवस"
+          },
+          "weekday-narrow": {
+            "displayName": "आठवड्याचा दिवस"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "मागील रविवार",
@@ -502,7 +541,13 @@
               "relativeTimePattern-count-other": "मागील {0} शनिवार"
             }
           },
+          "dayperiod-short": {
+            "displayName": "[म.पू./म.उ.]"
+          },
           "dayperiod": {
+            "displayName": "[म.पू./म.उ.]"
+          },
+          "dayperiod-narrow": {
             "displayName": "[म.पू./म.उ.]"
           },
           "hour": {
@@ -614,6 +659,12 @@
             }
           },
           "zone": {
+            "displayName": "वेळ क्षेत्र"
+          },
+          "zone-short": {
+            "displayName": "वेळ क्षेत्र"
+          },
+          "zone-narrow": {
             "displayName": "वेळ क्षेत्र"
           }
         }

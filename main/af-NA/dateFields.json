@@ -3,8 +3,8 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "af",
         "territory": "NA"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "era"
+          },
+          "era-short": {
+            "displayName": "era"
+          },
+          "era-narrow": {
             "displayName": "era"
           },
           "year": {
@@ -185,6 +191,15 @@
             },
             "relativePeriod": "die week van {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "dag",
             "relative-type--2": "eergister",
@@ -233,8 +248,32 @@
               "relativeTimePattern-count-other": "{0} dae gelede"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "dag van die week"
+          },
+          "weekday-short": {
+            "displayName": "dag van die week"
+          },
+          "weekday-narrow": {
+            "displayName": "dag van die week"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "verlede Sondag",
@@ -509,7 +548,13 @@
               "relativeTimePattern-count-other": "{0} Saterdae gelede"
             }
           },
+          "dayperiod-short": {
+            "displayName": "VM/NM"
+          },
           "dayperiod": {
+            "displayName": "VM/NM"
+          },
+          "dayperiod-narrow": {
             "displayName": "VM/NM"
           },
           "hour": {
@@ -621,6 +666,12 @@
             }
           },
           "zone": {
+            "displayName": "tydsone"
+          },
+          "zone-short": {
+            "displayName": "tydsone"
+          },
+          "zone-narrow": {
             "displayName": "tydsone"
           }
         }

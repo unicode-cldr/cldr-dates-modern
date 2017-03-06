@@ -3,14 +3,20 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12798 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13174 $",
+          "_cldrVersion": "31"
         },
         "language": "to"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "kuonga"
+          },
+          "era-short": {
+            "displayName": "kuonga"
+          },
+          "era-narrow": {
             "displayName": "kuonga"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "the week of {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ʻaho",
             "relative-type--2": "ʻaneheafi",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "ʻaho ʻe {0} kuoʻosi"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ʻaho ʻo e uike"
+          },
+          "weekday-short": {
+            "displayName": "ʻaho ʻo e uike"
+          },
+          "weekday-narrow": {
+            "displayName": "ʻaho ʻo e uike"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "Sāpate kuoʻosi",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "-{0} Saturdays"
             }
           },
+          "dayperiod-short": {
+            "displayName": "AM/PM"
+          },
           "dayperiod": {
+            "displayName": "AM/PM"
+          },
+          "dayperiod-narrow": {
             "displayName": "AM/PM"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "taimi fakavahe"
+          },
+          "zone-short": {
+            "displayName": "taimi fakavahe"
+          },
+          "zone-narrow": {
             "displayName": "taimi fakavahe"
           }
         }

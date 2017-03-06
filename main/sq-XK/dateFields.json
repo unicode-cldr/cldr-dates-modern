@@ -3,8 +3,8 @@
     "sq-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "sq",
         "territory": "XK"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "erë"
+          },
+          "era-short": {
+            "displayName": "erë"
+          },
+          "era-narrow": {
             "displayName": "erë"
           },
           "year": {
@@ -185,6 +191,15 @@
             },
             "relativePeriod": "java e {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ditë",
             "relative-type--1": "dje",
@@ -227,8 +242,32 @@
               "relativeTimePattern-count-other": "{0} ditë më parë"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ditë e javës"
+          },
+          "weekday-short": {
+            "displayName": "ditë e javës"
+          },
+          "weekday-narrow": {
+            "displayName": "ditë e javës"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "të dielën e kaluar",
@@ -503,7 +542,13 @@
               "relativeTimePattern-count-other": "{0} të shtunash më parë"
             }
           },
+          "dayperiod-short": {
+            "displayName": "paradite/pasdite"
+          },
           "dayperiod": {
+            "displayName": "paradite/pasdite"
+          },
+          "dayperiod-narrow": {
             "displayName": "paradite/pasdite"
           },
           "hour": {
@@ -615,6 +660,12 @@
             }
           },
           "zone": {
+            "displayName": "brezi orar"
+          },
+          "zone-short": {
+            "displayName": "brezi orar"
+          },
+          "zone-narrow": {
             "displayName": "brezi orar"
           }
         }

@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12944 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "fa",
         "territory": "AF"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "دوره"
+          },
+          "era-short": {
+            "displayName": "دوره"
+          },
+          "era-narrow": {
             "displayName": "دوره"
           },
           "year": {
@@ -185,6 +191,15 @@
             },
             "relativePeriod": "هفتهٔ {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "روز",
             "relative-type--2": "پریروز",
@@ -233,8 +248,32 @@
               "relativeTimePattern-count-other": "{0} روز پیش"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "روز هفته"
+          },
+          "weekday-short": {
+            "displayName": "روز هفته"
+          },
+          "weekday-narrow": {
+            "displayName": "روز هفته"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "یکشنبهٔ گذشته",
@@ -509,7 +548,13 @@
               "relativeTimePattern-count-other": "{0} شنبهٔ پیش"
             }
           },
+          "dayperiod-short": {
+            "displayName": "قبل/بعدازظهر"
+          },
           "dayperiod": {
+            "displayName": "قبل/بعدازظهر"
+          },
+          "dayperiod-narrow": {
             "displayName": "قبل/بعدازظهر"
           },
           "hour": {
@@ -621,6 +666,12 @@
             }
           },
           "zone": {
+            "displayName": "منطقهٔ زمانی"
+          },
+          "zone-short": {
+            "displayName": "منطقهٔ زمانی"
+          },
+          "zone-narrow": {
             "displayName": "منطقهٔ زمانی"
           }
         }

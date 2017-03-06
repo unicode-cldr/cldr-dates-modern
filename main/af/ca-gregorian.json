@@ -3,8 +3,8 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12944 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "af"
       },
@@ -348,8 +348,8 @@
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMM",
                 "MMMMEd": "E d MMMM",
-                "MMMMW": "'week' W 'van' MMM",
-                "MMMMW": "'week' W 'van' MMM",
+                "MMMMW-count-one": "'week' W 'van' MMM",
+                "MMMMW-count-other": "'week' W 'van' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM-y",
@@ -361,8 +361,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'week' w 'van' y",
-                "yw": "'week' w 'van' y"
+                "yw-count-one": "'week' w 'van' y",
+                "yw-count-other": "'week' w 'van' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

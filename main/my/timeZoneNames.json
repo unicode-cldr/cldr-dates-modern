@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13050 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13260 $",
+          "_cldrVersion": "31"
         },
         "language": "my"
       },
@@ -1399,6 +1399,15 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "long": {
+                  "standard": "ညှိထားသည့် ကမ္ဘာ့ စံတော်ချိန်"
+                },
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "အမည်မသိသောမြို့"

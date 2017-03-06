@@ -3,14 +3,20 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "cs"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "letopočet"
+          },
+          "era-short": {
+            "displayName": "letopočet"
+          },
+          "era-narrow": {
             "displayName": "letopočet"
           },
           "year": {
@@ -232,6 +238,15 @@
             },
             "relativePeriod": "v týd. {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "den",
             "relative-type--2": "předevčírem",
@@ -292,8 +307,32 @@
               "relativeTimePattern-count-other": "před {0} dny"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "den v týdnu"
+          },
+          "weekday-short": {
+            "displayName": "den v týdnu"
+          },
+          "weekday-narrow": {
+            "displayName": "den v týdnu"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "minulou neděli",
@@ -652,7 +691,13 @@
               "relativeTimePattern-count-other": "před {0} sobotami"
             }
           },
+          "dayperiod-short": {
+            "displayName": "část dne"
+          },
           "dayperiod": {
+            "displayName": "část dne"
+          },
+          "dayperiod-narrow": {
             "displayName": "část dne"
           },
           "hour": {
@@ -800,6 +845,12 @@
             }
           },
           "zone": {
+            "displayName": "časové pásmo"
+          },
+          "zone-short": {
+            "displayName": "časové pásmo"
+          },
+          "zone-narrow": {
             "displayName": "časové pásmo"
           }
         }

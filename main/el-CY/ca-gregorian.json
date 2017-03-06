@@ -3,8 +3,8 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "el",
         "territory": "CY"
@@ -343,8 +343,8 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW": "εβδομάδα W του MMM",
-                "MMMMW": "εβδομάδα W του MMM",
+                "MMMMW-count-one": "εβδομάδα W του MMM",
+                "MMMMW-count-other": "εβδομάδα W του MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -356,8 +356,8 @@
                 "yMMMM": "LLLL y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw": "εβδομάδα w του y",
-                "yw": "εβδομάδα w του y"
+                "yw-count-one": "εβδομάδα w του y",
+                "yw-count-other": "εβδομάδα w του y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

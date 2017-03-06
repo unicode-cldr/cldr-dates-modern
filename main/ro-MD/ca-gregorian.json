@@ -3,8 +3,8 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12799 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ro",
         "territory": "MD"
@@ -356,9 +356,9 @@
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW": "'săptămâna' W 'din' MMM",
-                "MMMMW": "'săptămâna' W 'din' MMM",
-                "MMMMW": "'săptămâna' W 'din' MMM",
+                "MMMMW-count-one": "'săptămâna' W 'din' MMM",
+                "MMMMW-count-few": "'săptămâna' W 'din' MMM",
+                "MMMMW-count-other": "'săptămâna' W 'din' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -371,9 +371,9 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'săptămâna' w 'din' y",
-                "yw": "'săptămâna' w 'din' y",
-                "yw": "'săptămâna' w 'din' y"
+                "yw-count-one": "'săptămâna' w 'din' y",
+                "yw-count-few": "'săptămâna' w 'din' y",
+                "yw-count-other": "'săptămâna' w 'din' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

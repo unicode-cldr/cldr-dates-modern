@@ -3,14 +3,20 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12927 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "he"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "תקופה"
+          },
+          "era-short": {
+            "displayName": "תקופה"
+          },
+          "era-narrow": {
             "displayName": "תקופה"
           },
           "year": {
@@ -232,6 +238,15 @@
             },
             "relativePeriod": "השבוע של {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "יום",
             "relative-type--2": "שלשום",
@@ -292,8 +307,32 @@
               "relativeTimePattern-count-other": "לפני {0} ימ׳"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "יום בשבוע"
+          },
+          "weekday-short": {
+            "displayName": "יום בשבוע"
+          },
+          "weekday-narrow": {
+            "displayName": "יום בשבוע"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ביום ראשון שעבר",
@@ -652,7 +691,13 @@
               "relativeTimePattern-count-other": "לפני {0} שבתות"
             }
           },
+          "dayperiod-short": {
+            "displayName": "לפנה״צ/אחה״צ"
+          },
           "dayperiod": {
+            "displayName": "לפנה״צ/אחה״צ"
+          },
+          "dayperiod-narrow": {
             "displayName": "לפנה״צ/אחה״צ"
           },
           "hour": {
@@ -800,6 +845,12 @@
             }
           },
           "zone": {
+            "displayName": "אזור"
+          },
+          "zone-short": {
+            "displayName": "אזור"
+          },
+          "zone-narrow": {
             "displayName": "אזור"
           }
         }

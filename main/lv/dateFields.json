@@ -3,14 +3,20 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "lv"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "ēra"
+          },
+          "era-short": {
+            "displayName": "ēra"
+          },
+          "era-narrow": {
             "displayName": "ēra"
           },
           "year": {
@@ -208,6 +214,15 @@
             },
             "relativePeriod": "{0}. nedēļa"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "diena",
             "relative-type--2": "aizvakar",
@@ -262,8 +277,32 @@
               "relativeTimePattern-count-other": "pirms {0} d."
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "nedēļas diena"
+          },
+          "weekday-short": {
+            "displayName": "nedēļas diena"
+          },
+          "weekday-narrow": {
+            "displayName": "nedēļas diena"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "pagājušajā svētdienā",
@@ -580,7 +619,13 @@
               "relativeTimePattern-count-other": "pirms {0} sestdienām"
             }
           },
+          "dayperiod-short": {
+            "displayName": "priekšpusdienā/pēcpusdienā"
+          },
           "dayperiod": {
+            "displayName": "priekšpusdienā/pēcpusdienā"
+          },
+          "dayperiod-narrow": {
             "displayName": "priekšpusdienā/pēcpusdienā"
           },
           "hour": {
@@ -710,6 +755,12 @@
             }
           },
           "zone": {
+            "displayName": "laika josla"
+          },
+          "zone-short": {
+            "displayName": "laika josla"
+          },
+          "zone-narrow": {
             "displayName": "laika josla"
           }
         }

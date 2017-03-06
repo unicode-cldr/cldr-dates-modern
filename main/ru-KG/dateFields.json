@@ -3,8 +3,8 @@
     "ru-KG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ru",
         "territory": "KG"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "эра"
+          },
+          "era-short": {
+            "displayName": "эра"
+          },
+          "era-narrow": {
             "displayName": "эра"
           },
           "year": {
@@ -233,6 +239,15 @@
             },
             "relativePeriod": "на нед. {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "день",
             "relative-type--2": "позавчера",
@@ -293,8 +308,32 @@
               "relativeTimePattern-count-other": "-{0} д."
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "день недели"
+          },
+          "weekday-short": {
+            "displayName": "день недели"
+          },
+          "weekday-narrow": {
+            "displayName": "день недели"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "в прошлое воскресенье",
@@ -653,7 +692,13 @@
               "relativeTimePattern-count-other": "-{0} сб."
             }
           },
+          "dayperiod-short": {
+            "displayName": "ДП/ПП"
+          },
           "dayperiod": {
+            "displayName": "ДП/ПП"
+          },
+          "dayperiod-narrow": {
             "displayName": "ДП/ПП"
           },
           "hour": {
@@ -801,6 +846,12 @@
             }
           },
           "zone": {
+            "displayName": "часовой пояс"
+          },
+          "zone-short": {
+            "displayName": "часовой пояс"
+          },
+          "zone-narrow": {
             "displayName": "часовой пояс"
           }
         }

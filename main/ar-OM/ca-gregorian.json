@@ -3,8 +3,8 @@
     "ar-OM": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ar",
         "territory": "OM"
@@ -362,12 +362,12 @@
                 "MMMEd": "E، d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E، d MMMM",
-                "MMMMW": "الأسبوع W من MMM",
-                "MMMMW": "الأسبوع W من MMM",
-                "MMMMW": "الأسبوع W من MMM",
-                "MMMMW": "الأسبوع W من MMM",
-                "MMMMW": "الأسبوع W من MMM",
-                "MMMMW": "الأسبوع W من MMM",
+                "MMMMW-count-zero": "الأسبوع W من MMM",
+                "MMMMW-count-one": "الأسبوع W من MMM",
+                "MMMMW-count-two": "الأسبوع W من MMM",
+                "MMMMW-count-few": "الأسبوع W من MMM",
+                "MMMMW-count-many": "الأسبوع W من MMM",
+                "MMMMW-count-other": "الأسبوع W من MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M‏/y",
@@ -380,12 +380,12 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "الأسبوع w من سنة y",
-                "yw": "الأسبوع w من سنة y",
-                "yw": "الأسبوع w من سنة y",
-                "yw": "الأسبوع w من سنة y",
-                "yw": "الأسبوع w من سنة y",
-                "yw": "الأسبوع w من سنة y"
+                "yw-count-zero": "الأسبوع w من سنة y",
+                "yw-count-one": "الأسبوع w من سنة y",
+                "yw-count-two": "الأسبوع w من سنة y",
+                "yw-count-few": "الأسبوع w من سنة y",
+                "yw-count-many": "الأسبوع w من سنة y",
+                "yw-count-other": "الأسبوع w من سنة y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

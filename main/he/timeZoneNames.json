@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12927 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "he"
       },
@@ -1399,6 +1399,15 @@
               },
               "GMT-9": {
                 "exemplarCity": "GMT-9"
+              },
+              "UTC": {
+                "long": {
+                  "standard": "זמן אוניברסלי מתואם"
+                },
+                "short": {
+                  "standard": "UTC"
+                },
+                "exemplarCity": "UTC"
               },
               "Unknown": {
                 "exemplarCity": "עיר לא ידועה"

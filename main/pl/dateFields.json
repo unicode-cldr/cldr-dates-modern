@@ -3,14 +3,20 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13259 $",
+          "_cldrVersion": "31"
         },
         "language": "pl"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "era"
+          },
+          "era-short": {
+            "displayName": "era"
+          },
+          "era-narrow": {
             "displayName": "era"
           },
           "year": {
@@ -232,6 +238,15 @@
             },
             "relativePeriod": "tydzień {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "dzień",
             "relative-type--2": "przedwczoraj",
@@ -292,8 +307,32 @@
               "relativeTimePattern-count-other": "{0} dnia temu"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "dzień tygodnia"
+          },
+          "weekday-short": {
+            "displayName": "dzień tygodnia"
+          },
+          "weekday-narrow": {
+            "displayName": "dzień tygodnia"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "w zeszłą niedzielę",
@@ -652,7 +691,13 @@
               "relativeTimePattern-count-other": "{0} soboty temu"
             }
           },
+          "dayperiod-short": {
+            "displayName": "rano / po południu / wieczorem"
+          },
           "dayperiod": {
+            "displayName": "rano / po południu / wieczorem"
+          },
+          "dayperiod-narrow": {
             "displayName": "rano / po południu / wieczorem"
           },
           "hour": {
@@ -800,6 +845,12 @@
             }
           },
           "zone": {
+            "displayName": "strefa czasowa"
+          },
+          "zone-short": {
+            "displayName": "strefa czasowa"
+          },
+          "zone-narrow": {
             "displayName": "strefa czasowa"
           }
         }

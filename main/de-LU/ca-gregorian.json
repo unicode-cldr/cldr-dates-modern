@@ -3,8 +3,8 @@
     "de-LU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12799 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "de",
         "territory": "LU"
@@ -363,8 +363,8 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "MMMMW": "'Woche' W 'im' MMM",
-                "MMMMW": "'Woche' W 'im' MMM",
+                "MMMMW-count-one": "'Woche' W 'im' MMM",
+                "MMMMW-count-other": "'Woche' W 'im' MMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -378,8 +378,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "'Woche' w 'des' 'Jahres' y",
-                "yw": "'Woche' w 'des' 'Jahres' y"
+                "yw-count-one": "'Woche' w 'des' 'Jahres' y",
+                "yw-count-other": "'Woche' w 'des' 'Jahres' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12740 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ko",
         "territory": "KP"
@@ -12,6 +12,12 @@
       "dates": {
         "fields": {
           "era": {
+            "displayName": "연호"
+          },
+          "era-short": {
+            "displayName": "연호"
+          },
+          "era-narrow": {
             "displayName": "연호"
           },
           "year": {
@@ -161,6 +167,15 @@
             },
             "relativePeriod": "{0}번째 주"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "일",
             "relative-type--2": "그저께",
@@ -203,8 +218,32 @@
               "relativeTimePattern-count-other": "{0}일 전"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "요일"
+          },
+          "weekday-short": {
+            "displayName": "요일"
+          },
+          "weekday-narrow": {
+            "displayName": "요일"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "지난 일요일",
@@ -437,7 +476,13 @@
               "relativeTimePattern-count-other": "{0}주 전 토요일"
             }
           },
+          "dayperiod-short": {
+            "displayName": "오전/오후"
+          },
           "dayperiod": {
+            "displayName": "오전/오후"
+          },
+          "dayperiod-narrow": {
             "displayName": "오전/오후"
           },
           "hour": {
@@ -531,6 +576,12 @@
             }
           },
           "zone": {
+            "displayName": "시간대"
+          },
+          "zone-short": {
+            "displayName": "시간대"
+          },
+          "zone-narrow": {
             "displayName": "시간대"
           }
         }

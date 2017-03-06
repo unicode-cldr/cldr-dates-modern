@@ -3,14 +3,20 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12879 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13174 $",
+          "_cldrVersion": "31"
         },
         "language": "km"
       },
       "dates": {
         "fields": {
           "era": {
+            "displayName": "សករាជ"
+          },
+          "era-short": {
+            "displayName": "សករាជ"
+          },
+          "era-narrow": {
             "displayName": "សករាជ"
           },
           "year": {
@@ -160,6 +166,15 @@
             },
             "relativePeriod": "សប្តាហ៍នៃ {0}"
           },
+          "weekOfMonth": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-short": {
+            "displayName": "Week Of Month"
+          },
+          "weekOfMonth-narrow": {
+            "displayName": "Week Of Month"
+          },
           "day": {
             "displayName": "ថ្ងៃ",
             "relative-type--2": "ម្សិល​ម៉្ងៃ",
@@ -202,8 +217,32 @@
               "relativeTimePattern-count-other": "{0} ថ្ងៃ​​មុន"
             }
           },
+          "dayOfYear": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-short": {
+            "displayName": "Day Of Year"
+          },
+          "dayOfYear-narrow": {
+            "displayName": "Day Of Year"
+          },
           "weekday": {
             "displayName": "ថ្ងៃ​នៃ​សប្ដាហ៍"
+          },
+          "weekday-short": {
+            "displayName": "ថ្ងៃ​នៃ​សប្ដាហ៍"
+          },
+          "weekday-narrow": {
+            "displayName": "ថ្ងៃ​នៃ​សប្ដាហ៍"
+          },
+          "weekdayOfMonth": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-short": {
+            "displayName": "Weekday Of Month"
+          },
+          "weekdayOfMonth-narrow": {
+            "displayName": "Weekday Of Month"
           },
           "sun": {
             "relative-type--1": "ថ្ងៃ​អាទិត្យ​មុន",
@@ -436,7 +475,13 @@
               "relativeTimePattern-count-other": "ថ្ងៃសៅរ៍ {0} សប្តាហ៍មុន"
             }
           },
+          "dayperiod-short": {
+            "displayName": "ព្រឹក/ល្ងាច"
+          },
           "dayperiod": {
+            "displayName": "ព្រឹក/ល្ងាច"
+          },
+          "dayperiod-narrow": {
             "displayName": "ព្រឹក/ល្ងាច"
           },
           "hour": {
@@ -530,6 +575,12 @@
             }
           },
           "zone": {
+            "displayName": "ល្វែងម៉ោង"
+          },
+          "zone-short": {
+            "displayName": "ល្វែងម៉ោង"
+          },
+          "zone-narrow": {
             "displayName": "ល្វែងម៉ោង"
           }
         }

@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12779 $",
-          "_cldrVersion": "30.0.3"
+          "_number": "$Revision: 13133 $",
+          "_cldrVersion": "31"
         },
         "language": "ur",
         "territory": "IN"
@@ -354,8 +354,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E، d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW": "MMM کے W ہفتے",
-                "MMMMW": "MMM کے W ہفتے",
+                "MMMMW-count-one": "MMM کے W ہفتے",
+                "MMMMW-count-other": "MMM کے W ہفتے",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -364,11 +364,11 @@
                 "yMMM": "MMM y",
                 "yMMMd": "d MMM، y",
                 "yMMMEd": "E، d MMM، y",
-                "yMMMM": "y MMMM",
+                "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw": "y کا w ہفتہ",
-                "yw": "y کا w ہفتہ"
+                "yw-count-one": "y کا w ہفتہ",
+                "yw-count-other": "y کا w ہفتہ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
