@@ -3,8 +3,8 @@
     "ar-MR": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ar",
         "territory": "MR"
@@ -288,13 +288,13 @@
             "relativePeriod": "أسبوع {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "الأسبوع من الشهر"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "أسبوع من شهر"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "أسبوع/شهر"
           },
           "day": {
             "displayName": "يوم",
@@ -369,13 +369,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "يوم من السنة"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "يوم من سنة"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "يوم/سنة"
           },
           "weekday": {
             "displayName": "اليوم"
@@ -387,23 +387,33 @@
             "displayName": "اليوم"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "يوم عمل من الشهر"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "يوم عمل من شهر"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "يوم عمل/شهر"
           },
           "sun": {
             "relative-type--1": "الأحد الماضي",
             "relative-type-0": "الأحد الحالي",
             "relative-type-1": "الأحد القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-zero": "خلال {0} أحد",
+              "relativeTimePattern-count-one": "الأحد القادم",
+              "relativeTimePattern-count-two": "الأحد بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أحد",
+              "relativeTimePattern-count-many": "خلال {0} أحد",
+              "relativeTimePattern-count-other": "خلال {0} أحد"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-zero": "قبل {0} أحد",
+              "relativeTimePattern-count-one": "الأحد الماضي",
+              "relativeTimePattern-count-two": "الأحد قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أحد",
+              "relativeTimePattern-count-many": "قبل {0} أحد",
+              "relativeTimePattern-count-other": "قبل {0} أحد"
             }
           },
           "sun-short": {
@@ -411,10 +421,20 @@
             "relative-type-0": "الأحد الحالي",
             "relative-type-1": "الأحد القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-zero": "خلال {0} أحد",
+              "relativeTimePattern-count-one": "أحد قادم",
+              "relativeTimePattern-count-two": "أحد بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أحد",
+              "relativeTimePattern-count-many": "خلال {0} أحد",
+              "relativeTimePattern-count-other": "خلال {0} أحد"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-zero": "قبل {0} أحد",
+              "relativeTimePattern-count-one": "أحد ماضي",
+              "relativeTimePattern-count-two": "أحد قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أحد",
+              "relativeTimePattern-count-many": "قبل {0} أحد",
+              "relativeTimePattern-count-other": "قبل {0} أحد"
             }
           },
           "sun-narrow": {
@@ -422,32 +442,62 @@
             "relative-type-0": "الأحد الحالي",
             "relative-type-1": "الأحد القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Sundays"
+              "relativeTimePattern-count-zero": "خلال {0} أحد",
+              "relativeTimePattern-count-one": "أحد قادم",
+              "relativeTimePattern-count-two": "أحد بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أحد",
+              "relativeTimePattern-count-many": "خلال {0} أحد",
+              "relativeTimePattern-count-other": "خلال {0} أحد"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Sundays"
+              "relativeTimePattern-count-zero": "قبل {0} أحد",
+              "relativeTimePattern-count-one": "أحد ماضي",
+              "relativeTimePattern-count-two": "أحد قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أحد",
+              "relativeTimePattern-count-many": "قبل {0} أحد",
+              "relativeTimePattern-count-other": "قبل {0} أحد"
             }
           },
           "mon": {
-            "relative-type--1": "الاثنين الماضي",
-            "relative-type-0": "الاثنين الحالي",
-            "relative-type-1": "الاثنين القادم",
+            "relative-type--1": "الإثنين الماضي",
+            "relative-type-0": "الإثنين الحالي",
+            "relative-type-1": "الإثنين القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-zero": "خلال {0} إثنين",
+              "relativeTimePattern-count-one": "الإثنين القادم",
+              "relativeTimePattern-count-two": "الإثنين بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أيام إثنين",
+              "relativeTimePattern-count-many": "خلال {0} يوم إثنين",
+              "relativeTimePattern-count-other": "خلال {0} يوم إثنين"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-zero": "قبل {0} إثنين",
+              "relativeTimePattern-count-one": "الإثنين الماضي",
+              "relativeTimePattern-count-two": "الإثنين قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أيام إثنين",
+              "relativeTimePattern-count-many": "قبل {0} يوم إثنين",
+              "relativeTimePattern-count-other": "قبل {0} يوم إثنين"
             }
           },
           "mon-short": {
-            "relative-type--1": "الاثنين الماضي",
-            "relative-type-0": "الاثنين الحالي",
+            "relative-type--1": "الإثنين الماضي",
+            "relative-type-0": "الإثنين الحالي",
             "relative-type-1": "الإثنين القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-zero": "خلال {0} إثنين",
+              "relativeTimePattern-count-one": "الإثنين القادم",
+              "relativeTimePattern-count-two": "الإثنين بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} إثنين",
+              "relativeTimePattern-count-many": "خلال {0} إثنين",
+              "relativeTimePattern-count-other": "خلال {0} إثنين"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-zero": "قبل {0} إثنين",
+              "relativeTimePattern-count-one": "الإثنين الماضي",
+              "relativeTimePattern-count-two": "الإثنين قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} إثنين",
+              "relativeTimePattern-count-many": "قبل {0} إثنين",
+              "relativeTimePattern-count-other": "قبل {0} إثنين"
             }
           },
           "mon-narrow": {
@@ -455,10 +505,20 @@
             "relative-type-0": "الإثنين الحالي",
             "relative-type-1": "الإثنين القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Mondays"
+              "relativeTimePattern-count-zero": "خلال {0} إثنين",
+              "relativeTimePattern-count-one": "إثنين قادم",
+              "relativeTimePattern-count-two": "الإثنين بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} إثنين",
+              "relativeTimePattern-count-many": "خلال {0} إثنين",
+              "relativeTimePattern-count-other": "خلال {0} إثنين"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Mondays"
+              "relativeTimePattern-count-zero": "قبل {0} إثنين",
+              "relativeTimePattern-count-one": "إثنين ماضي",
+              "relativeTimePattern-count-two": "إثنين قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} إثنين",
+              "relativeTimePattern-count-many": "قبل {0} إثنين",
+              "relativeTimePattern-count-other": "قبل {0} إثنين"
             }
           },
           "tue": {
@@ -466,10 +526,20 @@
             "relative-type-0": "الثلاثاء الحالي",
             "relative-type-1": "الثلاثاء القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-zero": "خلال {0} يوم ثلاثاء",
+              "relativeTimePattern-count-one": "الثلاثاء القادم",
+              "relativeTimePattern-count-two": "الثلاثاء بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أيام ثلاثاء",
+              "relativeTimePattern-count-many": "خلال {0} يوم ثلاثاء",
+              "relativeTimePattern-count-other": "خلال {0} يوم ثلاثاء"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-zero": "قبل {0} يوم ثلاثاء",
+              "relativeTimePattern-count-one": "الثلاثاء الماضي",
+              "relativeTimePattern-count-two": "الثلاثاء قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أيام ثلاثاء",
+              "relativeTimePattern-count-many": "قبل {0} يوم ثلاثاء",
+              "relativeTimePattern-count-other": "قبل {0} يوم ثلاثاء"
             }
           },
           "tue-short": {
@@ -477,10 +547,20 @@
             "relative-type-0": "الثلاثاء الحالي",
             "relative-type-1": "الثلاثاء القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-zero": "خلال {0} ثلاثاء",
+              "relativeTimePattern-count-one": "ثلاثاء قادم",
+              "relativeTimePattern-count-two": "ثلاثاء بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} ثلاثاء",
+              "relativeTimePattern-count-many": "خلال {0} ثلاثاء",
+              "relativeTimePattern-count-other": "خلال {0} ثلاثاء"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-zero": "قبل {0} ثلاثاء",
+              "relativeTimePattern-count-one": "ثلاثاء ماضي",
+              "relativeTimePattern-count-two": "ثلاثاء قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} ثلاثاء",
+              "relativeTimePattern-count-many": "قبل {0} ثلاثاء",
+              "relativeTimePattern-count-other": "قبل {0} ثلاثاء"
             }
           },
           "tue-narrow": {
@@ -488,10 +568,20 @@
             "relative-type-0": "الثلاثاء الحالي",
             "relative-type-1": "الثلاثاء القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Tuesdays"
+              "relativeTimePattern-count-zero": "خلال {0} ثلاثاء",
+              "relativeTimePattern-count-one": "ثلاثاء قادم",
+              "relativeTimePattern-count-two": "ثلاثاء بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} ثلاثاء",
+              "relativeTimePattern-count-many": "خلال {0} ثلاثاء",
+              "relativeTimePattern-count-other": "خلال {0} ثلاثاء"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Tuesdays"
+              "relativeTimePattern-count-zero": "قبل {0} ثلاثاء",
+              "relativeTimePattern-count-one": "ثلاثاء ماضي",
+              "relativeTimePattern-count-two": "ثلاثاء قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} ثلاثاء",
+              "relativeTimePattern-count-many": "قبل {0} ثلاثاء",
+              "relativeTimePattern-count-other": "قبل {0} ثلاثاء"
             }
           },
           "wed": {
@@ -499,10 +589,20 @@
             "relative-type-0": "الأربعاء الحالي",
             "relative-type-1": "الأربعاء القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-zero": "خلال {0} يوم أربعاء",
+              "relativeTimePattern-count-one": "الأربعاء القادم",
+              "relativeTimePattern-count-two": "الأربعاء بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أيام أربعاء",
+              "relativeTimePattern-count-many": "خلال {0} يوم أربعاء",
+              "relativeTimePattern-count-other": "خلال {0} يوم أربعاء"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-zero": "قبل {0} يوم أربعاء",
+              "relativeTimePattern-count-one": "الأربعاء الماضي",
+              "relativeTimePattern-count-two": "الأربعاء قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أيام أربعاء",
+              "relativeTimePattern-count-many": "قبل {0} يوم أربعاء",
+              "relativeTimePattern-count-other": "قبل {0} يوم أربعاء"
             }
           },
           "wed-short": {
@@ -510,10 +610,20 @@
             "relative-type-0": "الأربعاء الحالي",
             "relative-type-1": "الأربعاء القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-zero": "خلال {0} أربعاء",
+              "relativeTimePattern-count-one": "خلال {0} أربعاء",
+              "relativeTimePattern-count-two": "خلال {0} أربعاء",
+              "relativeTimePattern-count-few": "خلال {0} أربعاء",
+              "relativeTimePattern-count-many": "خلال {0} أربعاء",
+              "relativeTimePattern-count-other": "خلال {0} أربعاء"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-zero": "قبل {0} أربعاء",
+              "relativeTimePattern-count-one": "أربعاء ماضي",
+              "relativeTimePattern-count-two": "أربعاء قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أربعاء",
+              "relativeTimePattern-count-many": "قبل {0} أربعاء",
+              "relativeTimePattern-count-other": "قبل {0} أربعاء"
             }
           },
           "wed-narrow": {
@@ -521,10 +631,20 @@
             "relative-type-0": "الأربعاء الحالي",
             "relative-type-1": "الأربعاء القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Wednesdays"
+              "relativeTimePattern-count-zero": "خلال {0} أربعاء",
+              "relativeTimePattern-count-one": "أربعاء قادم",
+              "relativeTimePattern-count-two": "أربعاء بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أربعاء",
+              "relativeTimePattern-count-many": "خلال {0} أربعاء",
+              "relativeTimePattern-count-other": "خلال {0} أربعاء"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Wednesdays"
+              "relativeTimePattern-count-zero": "قبل {0} أربعاء",
+              "relativeTimePattern-count-one": "أربعاء ماضي",
+              "relativeTimePattern-count-two": "أربعاء قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أربعاء",
+              "relativeTimePattern-count-many": "قبل {0} أربعاء",
+              "relativeTimePattern-count-other": "قبل {0} أربعاء"
             }
           },
           "thu": {
@@ -532,10 +652,20 @@
             "relative-type-0": "الخميس الحالي",
             "relative-type-1": "الخميس القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-zero": "خلال {0} يوم خميس",
+              "relativeTimePattern-count-one": "الخميس القادم",
+              "relativeTimePattern-count-two": "الخميس بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أيام خميس",
+              "relativeTimePattern-count-many": "خلال {0} يوم خميس",
+              "relativeTimePattern-count-other": "خلال {0} يوم خميس"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-zero": "قبل {0} يوم خميس",
+              "relativeTimePattern-count-one": "الخميس الماضي",
+              "relativeTimePattern-count-two": "الخميس قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أيام خميس",
+              "relativeTimePattern-count-many": "قبل {0} يوم خميس",
+              "relativeTimePattern-count-other": "قبل {0} يوم خميس"
             }
           },
           "thu-short": {
@@ -543,10 +673,20 @@
             "relative-type-0": "الخميس الحالي",
             "relative-type-1": "الخميس القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-zero": "خلال {0} خميس",
+              "relativeTimePattern-count-one": "الخميس القادم",
+              "relativeTimePattern-count-two": "الخميس بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} خميس",
+              "relativeTimePattern-count-many": "خلال {0} خميس",
+              "relativeTimePattern-count-other": "خلال {0} خميس"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-zero": "قبل {0} خميس",
+              "relativeTimePattern-count-one": "خميس ماضي",
+              "relativeTimePattern-count-two": "خميس قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} خميس",
+              "relativeTimePattern-count-many": "قبل {0} خميس",
+              "relativeTimePattern-count-other": "قبل {0} خميس"
             }
           },
           "thu-narrow": {
@@ -554,10 +694,20 @@
             "relative-type-0": "الخميس الحالي",
             "relative-type-1": "الخميس القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Thursdays"
+              "relativeTimePattern-count-zero": "خلال {0} خميس",
+              "relativeTimePattern-count-one": "خلال {0} يوم خميس",
+              "relativeTimePattern-count-two": "الخميس بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} خميس",
+              "relativeTimePattern-count-many": "خلال {0} خميس",
+              "relativeTimePattern-count-other": "خلال {0} خميس"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Thursdays"
+              "relativeTimePattern-count-zero": "قبل {0} خميس",
+              "relativeTimePattern-count-one": "خميس ماضي",
+              "relativeTimePattern-count-two": "خميس قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} خميس",
+              "relativeTimePattern-count-many": "قبل {0} خميس",
+              "relativeTimePattern-count-other": "قبل {0} خميس"
             }
           },
           "fri": {
@@ -565,10 +715,20 @@
             "relative-type-0": "الجمعة الحالي",
             "relative-type-1": "الجمعة القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-zero": "خلال {0} يوم جمعة",
+              "relativeTimePattern-count-one": "الجمعة القادم",
+              "relativeTimePattern-count-two": "الجمعة بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} أيام جمعة",
+              "relativeTimePattern-count-many": "خلال {0} يوم جمعة",
+              "relativeTimePattern-count-other": "خلال {0} يوم جمعة"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-zero": "قبل {0} يوم جمعة",
+              "relativeTimePattern-count-one": "الجمعة الماضي",
+              "relativeTimePattern-count-two": "الجمعة قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} أيام جمعة",
+              "relativeTimePattern-count-many": "قبل {0} يوم جمعة",
+              "relativeTimePattern-count-other": "قبل {0} يوم جمعة"
             }
           },
           "fri-short": {
@@ -576,10 +736,20 @@
             "relative-type-0": "الجمعة الحالي",
             "relative-type-1": "الجمعة القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-zero": "خلال {0} جمعة",
+              "relativeTimePattern-count-one": "جمعة قادم",
+              "relativeTimePattern-count-two": "جمعة بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} جمعة",
+              "relativeTimePattern-count-many": "خلال {0} جمعة",
+              "relativeTimePattern-count-other": "خلال {0} جمعة"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-zero": "قبل {0} جمعة",
+              "relativeTimePattern-count-one": "جمعة ماضي",
+              "relativeTimePattern-count-two": "جمعة قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} جمعة",
+              "relativeTimePattern-count-many": "قبل {0} جمعة",
+              "relativeTimePattern-count-other": "قبل {0} جمعة"
             }
           },
           "fri-narrow": {
@@ -587,10 +757,20 @@
             "relative-type-0": "الجمعة الحالي",
             "relative-type-1": "الجمعة القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Fridays"
+              "relativeTimePattern-count-zero": "خلال {0} جمعة",
+              "relativeTimePattern-count-one": "جمعة قادم",
+              "relativeTimePattern-count-two": "جمعة بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} جمعة",
+              "relativeTimePattern-count-many": "خلال {0} جمعة",
+              "relativeTimePattern-count-other": "خلال {0} جمعة"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Fridays"
+              "relativeTimePattern-count-zero": "قبل {0} جمعة",
+              "relativeTimePattern-count-one": "جمعة ماضي",
+              "relativeTimePattern-count-two": "جمعة قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} جمعة",
+              "relativeTimePattern-count-many": "قبل {0} جمعة",
+              "relativeTimePattern-count-other": "قبل {0} جمعة"
             }
           },
           "sat": {
@@ -598,10 +778,20 @@
             "relative-type-0": "السبت الحالي",
             "relative-type-1": "السبت القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-zero": "السبت القادم",
+              "relativeTimePattern-count-one": "السبت القادم",
+              "relativeTimePattern-count-two": "السبت بعد القادم",
+              "relativeTimePattern-count-few": "السبت بعد {0} أسابيع",
+              "relativeTimePattern-count-many": "خلال {0} يوم سبت",
+              "relativeTimePattern-count-other": "بعد {0} يوم سبت"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-zero": "قبل {0} يوم سبت",
+              "relativeTimePattern-count-one": "السبت الماضي",
+              "relativeTimePattern-count-two": "السبت قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} يوم سبت",
+              "relativeTimePattern-count-many": "قبل {0} يوم سبت",
+              "relativeTimePattern-count-other": "قبل {0} يوم سبت"
             }
           },
           "sat-short": {
@@ -609,10 +799,20 @@
             "relative-type-0": "السبت الحالي",
             "relative-type-1": "السبت القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-zero": "خلال {0} سبت",
+              "relativeTimePattern-count-one": "سبت قادم",
+              "relativeTimePattern-count-two": "سبت بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} سبت",
+              "relativeTimePattern-count-many": "خلال {0} سبت",
+              "relativeTimePattern-count-other": "خلال {0} سبت"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-zero": "قبل {0} سبت",
+              "relativeTimePattern-count-one": "سبت ماضي",
+              "relativeTimePattern-count-two": "سبت قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} سبت",
+              "relativeTimePattern-count-many": "قبل {0} سبت",
+              "relativeTimePattern-count-other": "قبل {0} سبت"
             }
           },
           "sat-narrow": {
@@ -620,10 +820,20 @@
             "relative-type-0": "السبت الحالي",
             "relative-type-1": "السبت القادم",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Saturdays"
+              "relativeTimePattern-count-zero": "خلال {0} سبت",
+              "relativeTimePattern-count-one": "سبت قادم",
+              "relativeTimePattern-count-two": "سبت بعد القادم",
+              "relativeTimePattern-count-few": "خلال {0} سبت",
+              "relativeTimePattern-count-many": "خلال {0} سبت",
+              "relativeTimePattern-count-other": "خلال {0} سبت"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Saturdays"
+              "relativeTimePattern-count-zero": "قبل {0} سبت",
+              "relativeTimePattern-count-one": "سبت ماضي",
+              "relativeTimePattern-count-two": "سبت قبل الماضي",
+              "relativeTimePattern-count-few": "قبل {0} سبت",
+              "relativeTimePattern-count-many": "قبل {0} سبت",
+              "relativeTimePattern-count-other": "قبل {0} سبت"
             }
           },
           "dayperiod-short": {
@@ -819,10 +1029,10 @@
             "displayName": "التوقيت"
           },
           "zone-short": {
-            "displayName": "التوقيت"
+            "displayName": "توقيت"
           },
           "zone-narrow": {
-            "displayName": "التوقيت"
+            "displayName": "توقيت"
           }
         }
       }

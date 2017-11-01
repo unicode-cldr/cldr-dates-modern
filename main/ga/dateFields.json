@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ga"
       },
@@ -14,10 +14,10 @@
             "displayName": "Ré"
           },
           "era-short": {
-            "displayName": "Ré"
+            "displayName": "ré"
           },
           "era-narrow": {
-            "displayName": "Ré"
+            "displayName": "ré"
           },
           "year": {
             "displayName": "Bliain",
@@ -263,13 +263,13 @@
             "relativePeriod": "seachtain {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "Seachtain den mhí"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "7n den mhí"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "7n den mhí"
           },
           "day": {
             "displayName": "Lá",
@@ -338,31 +338,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "Lá den bhliain"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "lá den bhl."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "lá den bhl."
           },
           "weekday": {
             "displayName": "Lá na seachtaine"
           },
           "weekday-short": {
-            "displayName": "Lá na seachtaine"
+            "displayName": "lá den t7n"
           },
           "weekday-narrow": {
-            "displayName": "Lá na seachtaine"
+            "displayName": "lá den t7n"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "Lá oibre den mhí"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "lá oib. den mhí"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "lá oib. den mhí"
           },
           "sun": {
             "relative-type--1": "an Domhnach seo caite",
@@ -938,10 +938,10 @@
             "displayName": "Crios Ama"
           },
           "zone-short": {
-            "displayName": "Crios Ama"
+            "displayName": "crios"
           },
           "zone-narrow": {
-            "displayName": "Crios Ama"
+            "displayName": "crios"
           }
         }
       }

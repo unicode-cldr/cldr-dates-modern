@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sr",
         "script": "Cyrl"
@@ -235,9 +235,9 @@
                   "night1": "ноћу"
                 },
                 "narrow": {
-                  "midnight": "у поноћ",
+                  "midnight": "поноћ",
                   "am": "a",
-                  "noon": "у подне",
+                  "noon": "подне",
                   "pm": "p",
                   "morning1": "ујутру",
                   "afternoon1": "по подне",
@@ -271,10 +271,10 @@
                   "am": "пре подне",
                   "noon": "подне",
                   "pm": "по подне",
-                  "morning1": "ујутро",
-                  "afternoon1": "по подне",
-                  "evening1": "увече",
-                  "night1": "ноћу"
+                  "morning1": "јутро",
+                  "afternoon1": "поподне",
+                  "evening1": "вече",
+                  "night1": "ноћ"
                 },
                 "wide": {
                   "midnight": "поноћ",
@@ -326,8 +326,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "hh:mm B",
+                "Bhms": "hh:mm:ss B",
                 "d": "d",
                 "E": "E",
+                "EBhm": "E hh:mm B",
+                "EBhms": "E hh:mm:ss B",
                 "Ed": "E d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -373,9 +378,9 @@
                 "yMMMM": "MMMM y.",
                 "yQQQ": "QQQ y.",
                 "yQQQQ": "QQQQ y.",
-                "yw-count-one": "w. 'седмица' 'у' y.",
-                "yw-count-few": "w. 'седмица' 'у' y.",
-                "yw-count-other": "w. 'седмица' 'у' y."
+                "yw-count-one": "w. 'седмица' 'у' Y.",
+                "yw-count-few": "w. 'седмица' 'у' Y.",
+                "yw-count-other": "w. 'седмица' 'у' Y."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -482,7 +487,7 @@
                 },
                 "yMMMM": {
                   "M": "MMMM – MMMM y.",
-                  "y": "MMMM y – MMMM y."
+                  "y": "MMMM y. – MMMM y."
                 }
               }
             }

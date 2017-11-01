@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13756 $",
+          "_cldrVersion": "32"
         },
         "language": "th"
       },
@@ -337,8 +337,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm น.",
@@ -357,7 +362,7 @@
                 "Hms": "HH:mm:ss",
                 "hmsv": "h:mm:ss a v",
                 "Hmsv": "HH:mm:ss v",
-                "hmv": "h:mm a v",
+                "hmv": "h:mm น. a v",
                 "Hmv": "HH:mm v",
                 "M": "L",
                 "Md": "d/M",
@@ -386,7 +391,7 @@
                 "yMMMMEEEEd": "EEEEที่ d MMMM G y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ G y",
-                "yw-count-other": "สัปดาห์ที่ w ของ y"
+                "yw-count-other": "สัปดาห์ที่ w ของ Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

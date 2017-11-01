@@ -3,8 +3,8 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "sl"
       },
@@ -232,7 +232,7 @@
                   "morning2": "dop.",
                   "afternoon1": "pop.",
                   "evening1": "zveč.",
-                  "night1": "noč"
+                  "night1": "ponoči"
                 },
                 "narrow": {
                   "midnight": "24.00",
@@ -325,13 +325,18 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d.",
                 "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
+                "EHm": "E, HH:mm",
                 "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
+                "EHms": "E, HH:mm:ss",
                 "Gy": "y G",
                 "GyM": "M/y G",
                 "GyMMM": "MMM y G",
@@ -345,7 +350,7 @@
                 "Hms": "HH:mm:ss",
                 "M": "L",
                 "Md": "d. M.",
-                "MEd": "E, d. MM.",
+                "MEd": "E, d. M.",
                 "MMM": "LLL",
                 "MMMd": "d. MMM",
                 "MMMEd": "E, d. MMM",
@@ -417,23 +422,23 @@
                   "M": "M.–M."
                 },
                 "Md": {
-                  "d": "d. – d. M.",
-                  "M": "d. M. – d. M."
+                  "d": "d.–d. M.",
+                  "M": "d. M.–d. M."
                 },
                 "MEd": {
-                  "d": "E, d. – E, d. M.",
-                  "M": "E, d. M. – E, d. M."
+                  "d": "E, d.–E, d. M.",
+                  "M": "E, d. M.–E, d. M."
                 },
                 "MMM": {
                   "M": "MMM–MMM"
                 },
                 "MMMd": {
                   "d": "d.–d. MMM",
-                  "M": "d. MMM – d. MMM"
+                  "M": "d. MMM–d. MMM"
                 },
                 "MMMEd": {
-                  "d": "E, d. – E, d. MMM",
-                  "M": "E, d. MMM – E, d. MMM"
+                  "d": "E, d.–E, d. MMM",
+                  "M": "E, d. MMM–E, d. MMM"
                 },
                 "y": {
                   "y": "y–y"

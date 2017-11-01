@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "uz",
         "script": "Latn"
@@ -192,13 +192,13 @@
             "relativePeriod": "{0}-hafta"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "oyning haftasi"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "oyning haftasi"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "oyning haftasi"
           },
           "day": {
             "displayName": "kun",
@@ -261,13 +261,13 @@
             "displayName": "hafta kuni"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "oyning hafta kuni"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "oyning hafta kuni"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "oyning hafta kuni"
           },
           "sun": {
             "relative-type--1": "o‘tgan yakshanba",

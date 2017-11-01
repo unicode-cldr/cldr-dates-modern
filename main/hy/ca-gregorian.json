@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hy"
       },
@@ -244,10 +244,10 @@
                   "night1": "գշր"
                 },
                 "wide": {
-                  "midnight": "կեսգիշեր",
-                  "am": "AM",
-                  "noon": "կեսօր",
-                  "pm": "PM",
+                  "midnight": "կեսգիշերին",
+                  "am": "ԿԱ",
+                  "noon": "կեսօրին",
+                  "pm": "ԿՀ",
                   "morning1": "առավոտյան",
                   "afternoon1": "ցերեկը",
                   "evening1": "երեկոյան",
@@ -277,9 +277,9 @@
                 },
                 "wide": {
                   "midnight": "կեսգիշեր",
-                  "am": "AM",
+                  "am": "ԿԱ",
                   "noon": "կեսօր",
-                  "pm": "PM",
+                  "pm": "ԿՀ",
                   "morning1": "առավոտ",
                   "afternoon1": "ցերեկ",
                   "evening1": "երեկո",
@@ -298,13 +298,13 @@
                 "0": "մ.թ.ա.",
                 "0-alt-variant": "մ․թ․ա․",
                 "1": "մ.թ.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "մ․թ․"
               },
               "eraNarrow": {
                 "0": "մ.թ.ա.",
                 "0-alt-variant": "մ․թ․ա․",
                 "1": "մ.թ.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "մ․թ․"
               }
             },
             "dateFormats": {
@@ -325,8 +325,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "B h-ին",
+                "Bhm": "B h:mm-ին",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E B h:mm-ին",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d, ccc",
                 "Ehm": "E, h:mm a",
                 "EHm": "E, HH:mm",
@@ -353,7 +358,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-other": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "MMM W շաբ",
+                "MMMMW-count-other": "MMM W շաբ",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -362,10 +368,11 @@
                 "yMMM": "y թ. LLL",
                 "yMMMd": "d MMM, y թ.",
                 "yMMMEd": "y թ. MMM d, E",
-                "yMMMM": "yթ․ MMMM",
-                "yQQQ": "y թ, QQQ",
-                "yQQQQ": "y թ, QQQQ",
-                "yw-count-other": "'week' w 'of' y"
+                "yMMMM": "y թ․ LLLL",
+                "yQQQ": "y թ. QQQ",
+                "yQQQQ": "y թ. QQQQ",
+                "yw-count-one": "Y w շաբ",
+                "yw-count-other": "Y w շաբ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -471,8 +478,8 @@
                   "y": "E, d MMM, y – E, d MMM, y թ."
                 },
                 "yMMMM": {
-                  "M": "yթ. MMM – MMM",
-                  "y": "MMM yթ․ – MMM yթ."
+                  "M": "y թ․ LLLL – LLLL",
+                  "y": "y թ․ LLLL – y թ․ LLLL"
                 }
               }
             }

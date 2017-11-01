@@ -3,8 +3,8 @@
     "zh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13394 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13742 $",
+          "_cldrVersion": "32"
         },
         "language": "zh"
       },
@@ -167,13 +167,13 @@
             "relativePeriod": "{0}这周"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "月中周"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "月中周"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "月中周"
           },
           "day": {
             "displayName": "日",
@@ -218,13 +218,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "年中日"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "年中日"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "年中日"
           },
           "weekday": {
             "displayName": "工作日"
@@ -236,13 +236,13 @@
             "displayName": "工作日"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月中日"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月中日"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月中日"
           },
           "sun": {
             "relative-type--1": "上周日",

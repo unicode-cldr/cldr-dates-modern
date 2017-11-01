@@ -1,12 +1,13 @@
 {
   "main": {
-    "yue": {
+    "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13680 $",
+          "_cldrVersion": "32"
         },
-        "language": "yue"
+        "language": "yue",
+        "script": "Hant"
       },
       "dates": {
         "fields": {
@@ -167,13 +168,13 @@
             "relativePeriod": "{0}嘅星期"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "月週"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "月週"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "月週"
           },
           "day": {
             "displayName": "日",
@@ -218,13 +219,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "年日"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "年日"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "年日"
           },
           "weekday": {
             "displayName": "週天"
@@ -236,13 +237,13 @@
             "displayName": "週天"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月平日"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月平日"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月平日"
           },
           "sun": {
             "relative-type--1": "上星期日",

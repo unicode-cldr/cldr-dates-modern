@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "te"
       },
@@ -65,7 +65,7 @@
                   "5": "మే",
                   "6": "జూన్",
                   "7": "జులై",
-                  "8": "ఆగస్టు",
+                  "8": "ఆగ",
                   "9": "సెప్టెం",
                   "10": "అక్టో",
                   "11": "నవం",
@@ -194,10 +194,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1వ త్రైమాసం",
-                  "2": "2వ త్రైమాసం",
-                  "3": "3వ త్రైమాసం",
-                  "4": "4వ త్రైమాసం"
+                  "1": "1వ త్రైమాసికం",
+                  "2": "2వ త్రైమాసికం",
+                  "3": "3వ త్రైమాసికం",
+                  "4": "4వ త్రైమాసికం"
                 }
               },
               "stand-alone": {
@@ -214,17 +214,17 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "మొదటి త్రైమాసికం",
-                  "2": "రెండవ త్రైమాసికం",
-                  "3": "మూడవ త్రైమాసికం",
-                  "4": "నాల్గవ త్రైమాసికం"
+                  "1": "1వ త్రైమాసికం",
+                  "2": "2వ త్రైమాసికం",
+                  "3": "3వ త్రైమాసికం",
+                  "4": "4వ త్రైమాసికం"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "అర్థరాత్రి",
+                  "midnight": "అర్ధరాత్రి",
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "ఉదయం",
@@ -233,7 +233,7 @@
                   "night1": "రాత్రి"
                 },
                 "narrow": {
-                  "midnight": "అర్థరాత్రి",
+                  "midnight": "అర్ధరాత్రి",
                   "am": "ఉ",
                   "pm": "సా",
                   "morning1": "ఉదయం",
@@ -242,7 +242,7 @@
                   "night1": "రాత్రి"
                 },
                 "wide": {
-                  "midnight": "అర్థరాత్రి",
+                  "midnight": "అర్ధరాత్రి",
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "ఉదయం",
@@ -253,7 +253,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "అర్థరాత్రి",
+                  "midnight": "అర్ధరాత్రి",
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "ఉదయం",
@@ -262,7 +262,7 @@
                   "night1": "రాత్రి"
                 },
                 "narrow": {
-                  "midnight": "అర్థరాత్రి",
+                  "midnight": "అర్ధరాత్రి",
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "ఉదయం",
@@ -271,7 +271,7 @@
                   "night1": "రాత్రి"
                 },
                 "wide": {
-                  "midnight": "అర్థరాత్రి",
+                  "midnight": "అర్ధరాత్రి",
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "ఉదయం",
@@ -314,22 +314,27 @@
               "short": "h:mm a"
             },
             "dateTimeFormats": {
-              "full": "{1} {0}",
-              "long": "{1} {0}",
+              "full": "{1} {0}కి",
+              "long": "{1} {0}కి",
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
-                "Ed": "E d",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
+                "Ed": "d, E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "G y",
-                "GyMMM": "G y MMM",
+                "GyMMM": "G MMM y",
                 "GyMMMd": "G d, MMM y",
-                "GyMMMEd": "G, E d, MMM y",
+                "GyMMMEd": "G, d MMM, y, E",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -342,28 +347,28 @@
                 "Hmv": "HH:mm v",
                 "M": "L",
                 "Md": "d/M",
-                "MEd": "E, d/M",
+                "MEd": "d/M, E",
                 "MMdd": "dd-MM",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
-                "MMMEd": "E, d MMM",
+                "MMMEd": "d MMM, E",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "MMM Wవ వారం",
-                "MMMMW-count-other": "MMM Wవ వారం",
+                "MMMMW-count-one": "MMMMలో Wవ వారం",
+                "MMMMW-count-other": "MMMMలో Wవ వారం",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
                 "yMd": "d/M/y",
-                "yMEd": "E, d/M/y",
+                "yMEd": "d/M/y, E",
                 "yMM": "MM-y",
                 "yMMM": "MMM y",
                 "yMMMd": "d, MMM y",
-                "yMMMEd": "E, d, MMM y",
+                "yMMMEd": "d MMM, y, E",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "y wవ వారం",
-                "yw-count-other": "y wవ వారం"
+                "yw-count-one": "Yలో wవ వారం",
+                "yw-count-other": "Yలో wవ వారం"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -423,8 +428,8 @@
                   "M": "d/M – d/M"
                 },
                 "MEd": {
-                  "d": "E, d/M – E, d/M",
-                  "M": "E, d/M – E, d/M"
+                  "d": "d/M, E – d/M, E",
+                  "M": "d/M, E – d/M, E"
                 },
                 "MMM": {
                   "M": "MMM–MMM"
@@ -434,8 +439,8 @@
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
-                  "d": "E, d MMM – E, d MMM",
-                  "M": "E, d MMM – E, d MMM"
+                  "d": "d MMM, E – d MMM, E",
+                  "M": "d MMM, E – d MMM, E"
                 },
                 "y": {
                   "y": "y–y"
@@ -450,9 +455,9 @@
                   "y": "d/M/y – d/M/y"
                 },
                 "yMEd": {
-                  "d": "E, d/M/y – E, d/M/y",
-                  "M": "E, d/M/y – E, d/M/y",
-                  "y": "E, d/M/y – E, d/M/y"
+                  "d": "d/M/y, E – d/M/y, E",
+                  "M": "d/M/y, E – d/M/y, E",
+                  "y": "d/M/y, E – d/M/y, E"
                 },
                 "yMMM": {
                   "M": "MMM–MMM y",
@@ -464,9 +469,9 @@
                   "y": "d MMM, y – d MMM, y"
                 },
                 "yMMMEd": {
-                  "d": "E, d MMM – E, d MMM, y",
-                  "M": "E, d MMM – E, d MMM, y",
-                  "y": "E, d MMM, y – E, d MMM, y"
+                  "d": "d MMM, E – d MMM, y, E",
+                  "M": "d MMM, E – d MMM, y, E",
+                  "y": "d MMM, y, E – d MMM, y, E"
                 },
                 "yMMMM": {
                   "M": "MMMM – MMMM y",

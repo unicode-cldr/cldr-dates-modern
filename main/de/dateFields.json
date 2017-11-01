@@ -3,8 +3,8 @@
     "de": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "de"
       },
@@ -17,7 +17,7 @@
             "displayName": "Epoche"
           },
           "era-narrow": {
-            "displayName": "Epoche"
+            "displayName": "E"
           },
           "year": {
             "displayName": "Jahr",
@@ -191,13 +191,13 @@
             "relativePeriod": "die Woche vom {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "Woche des Monats"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "W/M"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "Wo. des Monats"
           },
           "day": {
             "displayName": "Tag",
@@ -248,13 +248,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "Tag des Jahres"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "Tag des Jahres"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "T/J"
           },
           "weekday": {
             "displayName": "Wochentag"
@@ -263,16 +263,16 @@
             "displayName": "Wochentag"
           },
           "weekday-narrow": {
-            "displayName": "Wochentag"
+            "displayName": "Wochent."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "Wochentag"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "Wochentag"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "WT"
           },
           "sun": {
             "relative-type--1": "letzten Sonntag",
@@ -554,7 +554,7 @@
             "displayName": "Tageshälfte"
           },
           "dayperiod-narrow": {
-            "displayName": "Tageshälfte"
+            "displayName": "Tagesh."
           },
           "hour": {
             "displayName": "Stunde",
@@ -671,7 +671,7 @@
             "displayName": "Zeitzone"
           },
           "zone-narrow": {
-            "displayName": "Zeitzone"
+            "displayName": "Zeitz."
           }
         }
       }

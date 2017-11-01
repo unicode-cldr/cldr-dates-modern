@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "si"
       },
@@ -191,13 +191,13 @@
             "relativePeriod": "{0} වෙනි සතිය"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "මාසයේ සතිය"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "මාසයේ සතිය"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "මාසයේ සතිය"
           },
           "day": {
             "displayName": "දිනය",
@@ -248,13 +248,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "වසරේ දිනය"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "වසරේ දිනය"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "වසරේ දිනය"
           },
           "weekday": {
             "displayName": "සතියේ දිනය"
@@ -266,13 +266,13 @@
             "displayName": "සතියේ දිනය"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "මාසයේ සතියේ දිනය"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "මාසයේ සතියේ දිනය"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "මාසයේ සතියේ දිනය"
           },
           "sun": {
             "relative-type--1": "පසුගිය ඉරිදා",
@@ -581,7 +581,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "පැ",
+            "displayName": "පැය",
             "relative-type-0": "මෙම පැය",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "පැය {0}කින්",
@@ -617,7 +617,7 @@
             }
           },
           "minute-narrow": {
-            "displayName": "මි",
+            "displayName": "මිනි.",
             "relative-type-0": "මෙම මිනිත්තුව",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "මිනිත්තු {0}කින්",
@@ -653,7 +653,7 @@
             }
           },
           "second-narrow": {
-            "displayName": "ත",
+            "displayName": "තත්.",
             "relative-type-0": "දැන්",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "තත්පර {0}කින්",
@@ -665,13 +665,13 @@
             }
           },
           "zone": {
-            "displayName": "කාල කලාපය"
+            "displayName": "වේලා කලාපය"
           },
           "zone-short": {
-            "displayName": "කාල කලාපය"
+            "displayName": "කලාපය"
           },
           "zone-narrow": {
-            "displayName": "කාල කලාපය"
+            "displayName": "කලාපය"
           }
         }
       }

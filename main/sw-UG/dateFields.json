@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sw",
         "territory": "UG"
@@ -192,13 +192,13 @@
             "relativePeriod": "wiki ya {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "wiki ya mwezi"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "wiki ya mwezi"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "wiki ya mwezi"
           },
           "day": {
             "displayName": "siku",
@@ -249,13 +249,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "siku ya mwaka"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "siku ya mwaka"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "siku ya mwaka"
           },
           "weekday": {
             "displayName": "siku ya wiki"
@@ -267,13 +267,13 @@
             "displayName": "siku ya wiki"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "siku ya mwezi"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "siku ya mwezi"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "siku ya mwezi"
           },
           "sun": {
             "relative-type--1": "Jumapili iliyopita",

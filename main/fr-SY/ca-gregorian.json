@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "fr",
         "territory": "SY"
@@ -252,7 +252,7 @@
                   "morning1": "du matin",
                   "afternoon1": "de l’après-midi",
                   "evening1": "du soir",
-                  "night1": "de nuit"
+                  "night1": "du matin"
                 }
               },
               "stand-alone": {
@@ -326,8 +326,13 @@
               "medium": "{1} 'à' {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "E",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -354,8 +359,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "'semaine' W 'de' MMM",
-                "MMMMW-count-other": "'semaine' W 'de' MMM",
+                "MMMMW-count-one": "'semaine' W (MMMM)",
+                "MMMMW-count-other": "'semaine' W (MMMM)",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM/y",
@@ -367,8 +372,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'semaine' w 'de' y",
-                "yw-count-other": "'semaine' w 'de' y"
+                "yw-count-one": "'semaine' w 'de' Y",
+                "yw-count-other": "'semaine' w 'de' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

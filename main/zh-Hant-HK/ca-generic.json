@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "zh",
         "script": "Hant",
@@ -196,10 +196,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "第1季度",
-                  "2": "第2季度",
-                  "3": "第3季度",
-                  "4": "第4季度"
+                  "1": "第1季",
+                  "2": "第2季",
+                  "3": "第3季",
+                  "4": "第4季"
                 }
               },
               "stand-alone": {
@@ -216,10 +216,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "第1季度",
-                  "2": "第2季度",
-                  "3": "第3季度",
-                  "4": "第4季度"
+                  "1": "第1季",
+                  "2": "第2季",
+                  "3": "第3季",
+                  "4": "第4季"
                 }
               }
             },
@@ -229,7 +229,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -240,7 +240,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -251,7 +251,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -264,7 +264,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -275,7 +275,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -286,7 +286,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -327,12 +327,17 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "Bh時",
+                "Bhm": "Bh:mm",
+                "Bhms": "Bh:mm:ss",
                 "d": "d日",
                 "E": "ccc",
+                "EBhm": "E Bh:mm",
+                "EBhms": "E Bh:mm:ss",
                 "Ed": "d日E",
-                "Ehm": "E h:mm a",
+                "Ehm": "E ah:mm",
                 "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
+                "Ehms": "E ah:mm:ss",
                 "EHms": "E HH:mm:ss",
                 "Gy": "Gy年",
                 "GyMMM": "Gy年M月",

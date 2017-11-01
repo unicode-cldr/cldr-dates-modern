@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "fa",
         "territory": "AF"
@@ -259,7 +259,7 @@
                 "abbreviated": {
                   "midnight": "نیمه‌شب",
                   "am": "ق.ظ.",
-                  "noon": "ظ",
+                  "noon": "ظهر",
                   "pm": "ب.ظ.",
                   "morning1": "صبح",
                   "afternoon1": "بعد از چاشت",
@@ -326,8 +326,13 @@
               "medium": "{1}،‏ {0}",
               "short": "{1}،‏ {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -371,8 +376,8 @@
                 "yMMMMEEEEd": "EEEE d MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "هفته w از y",
-                "yw-count-other": "هفته w از y"
+                "yw-count-one": "هفته w از Y",
+                "yw-count-other": "هفته w از Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

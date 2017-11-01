@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ky"
       },
@@ -325,8 +325,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d, E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -366,8 +371,8 @@
                 "yMMMM": "y-'ж'., MMMM",
                 "yQQQ": "y-'ж'., QQQ",
                 "yQQQQ": "y-'ж'., QQQQ",
-                "yw-count-one": "y-'жылдын' w-'аптасы'",
-                "yw-count-other": "y-'жылдын' w-'аптасы'"
+                "yw-count-one": "Y-'жылдын' w-'аптасы'",
+                "yw-count-other": "Y-'жылдын' w-'аптасы'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

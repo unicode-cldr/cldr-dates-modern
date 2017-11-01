@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "cs"
       },
@@ -305,7 +305,7 @@
                 "exemplarCity": "Metlakatla"
               },
               "Mexico_City": {
-                "exemplarCity": "México"
+                "exemplarCity": "Ciudad de México"
               },
               "Miquelon": {
                 "exemplarCity": "Miquelon"
@@ -374,6 +374,9 @@
               },
               "Puerto_Rico": {
                 "exemplarCity": "Portoriko"
+              },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
               },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
               },
+              "Saratov": {
+                "exemplarCity": "Saratov"
+              },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
               },
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ašchabad"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdád"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dušanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -1203,6 +1215,11 @@
                 "exemplarCity": "Guam"
               },
               "Honolulu": {
+                "short": {
+                  "generic": "HST",
+                  "standard": "HST",
+                  "daylight": "HDT"
+                },
                 "exemplarCity": "Honolulu"
               },
               "Johnston": {
@@ -1319,95 +1336,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "Koordinovaný světový čas"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Neznámé město"
@@ -1454,6 +1389,11 @@
                 "generic": "Aljašský čas",
                 "standard": "Aljašský standardní čas",
                 "daylight": "Aljašský letní čas"
+              },
+              "short": {
+                "generic": "AKT",
+                "standard": "AKST",
+                "daylight": "AKDT"
               }
             },
             "Almaty": {
@@ -1475,6 +1415,11 @@
                 "generic": "Severoamerický centrální čas",
                 "standard": "Severoamerický centrální standardní čas",
                 "daylight": "Severoamerický centrální letní čas"
+              },
+              "short": {
+                "generic": "CT",
+                "standard": "CST",
+                "daylight": "CDT"
               }
             },
             "America_Eastern": {
@@ -1482,6 +1427,11 @@
                 "generic": "Severoamerický východní čas",
                 "standard": "Severoamerický východní standardní čas",
                 "daylight": "Severoamerický východní letní čas"
+              },
+              "short": {
+                "generic": "ET",
+                "standard": "EST",
+                "daylight": "EDT"
               }
             },
             "America_Mountain": {
@@ -1489,6 +1439,11 @@
                 "generic": "Severoamerický horský čas",
                 "standard": "Severoamerický horský standardní čas",
                 "daylight": "Severoamerický horský letní čas"
+              },
+              "short": {
+                "generic": "MT",
+                "standard": "MST",
+                "daylight": "MDT"
               }
             },
             "America_Pacific": {
@@ -1496,6 +1451,11 @@
                 "generic": "Severoamerický pacifický čas",
                 "standard": "Severoamerický pacifický standardní čas",
                 "daylight": "Severoamerický pacifický letní čas"
+              },
+              "short": {
+                "generic": "PT",
+                "standard": "PST",
+                "daylight": "PDT"
               }
             },
             "Anadyr": {
@@ -1559,6 +1519,11 @@
                 "generic": "Atlantický čas",
                 "standard": "Atlantický standardní čas",
                 "daylight": "Atlantický letní čas"
+              },
+              "short": {
+                "generic": "AT",
+                "standard": "AST",
+                "daylight": "ADT"
               }
             },
             "Australia_Central": {

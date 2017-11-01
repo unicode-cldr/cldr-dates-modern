@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "uz"
       },
@@ -319,22 +319,27 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E, B h:mm",
+                "EBhms": "E, B h:mm:ss",
                 "Ed": "E, d",
-                "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
+                "Ehm": "E, h:mm (a)",
+                "EHm": "E, HH:mm",
+                "Ehms": "E, h:mm:ss (a)",
+                "EHms": "E, HH:mm:ss",
                 "Gy": "y (G)",
                 "GyMMM": "MMM, y (G)",
                 "GyMMMd": "d-MMM, y (G)",
                 "GyMMMEd": "E, d-MMM, y (G)",
-                "h": "h a",
+                "h": "h (a)",
                 "H": "HH",
-                "hm": "h:mm a",
+                "hm": "h:mm (a)",
                 "Hm": "HH:mm",
-                "hms": "h:mm:ss a",
+                "hms": "h:mm:ss (a)",
                 "Hms": "HH:mm:ss",
                 "M": "L",
                 "Md": "dd.MM",

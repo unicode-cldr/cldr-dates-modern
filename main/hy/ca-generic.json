@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hy"
       },
@@ -244,10 +244,10 @@
                   "night1": "գշր"
                 },
                 "wide": {
-                  "midnight": "կեսգիշեր",
-                  "am": "AM",
-                  "noon": "կեսօր",
-                  "pm": "PM",
+                  "midnight": "կեսգիշերին",
+                  "am": "ԿԱ",
+                  "noon": "կեսօրին",
+                  "pm": "ԿՀ",
                   "morning1": "առավոտյան",
                   "afternoon1": "ցերեկը",
                   "evening1": "երեկոյան",
@@ -277,9 +277,9 @@
                 },
                 "wide": {
                   "midnight": "կեսգիշեր",
-                  "am": "AM",
+                  "am": "ԿԱ",
                   "noon": "կեսօր",
-                  "pm": "PM",
+                  "pm": "ԿՀ",
                   "morning1": "առավոտ",
                   "afternoon1": "ցերեկ",
                   "evening1": "երեկո",
@@ -319,8 +319,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "B h-ին",
+                "Bhm": "B h:mm-ին",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E B h:mm-ին",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d, ccc",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

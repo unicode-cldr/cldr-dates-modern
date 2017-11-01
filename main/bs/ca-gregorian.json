@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "bs"
       },
@@ -182,10 +182,10 @@
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "K1",
-                  "2": "K2",
-                  "3": "K3",
-                  "4": "K4"
+                  "1": "KV1",
+                  "2": "KV2",
+                  "3": "KV3",
+                  "4": "KV4"
                 },
                 "narrow": {
                   "1": "1.",
@@ -202,10 +202,10 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "K1",
-                  "2": "K2",
-                  "3": "K3",
-                  "4": "K4"
+                  "1": "KV1",
+                  "2": "KV2",
+                  "3": "KV3",
+                  "4": "KV4"
                 },
                 "narrow": {
                   "1": "1.",
@@ -292,7 +292,7 @@
                 "0": "prije nove ere",
                 "0-alt-variant": "BCE",
                 "1": "nove ere",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               },
               "eraAbbr": {
                 "0": "p. n. e.",
@@ -310,7 +310,7 @@
             "dateFormats": {
               "full": "EEEE, d. MMMM y.",
               "long": "d. MMMM y.",
-              "medium": "d. MMM. y.",
+              "medium": "d. MMM y.",
               "short": "d.M.yy."
             },
             "timeFormats": {
@@ -325,8 +325,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d.",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -368,11 +373,11 @@
                 "yMMMd": "d. MMM y.",
                 "yMMMEd": "E, d. MMM y.",
                 "yMMMM": "LLLL y.",
-                "yQQQ": "QQQ y",
-                "yQQQQ": "QQQQ y",
-                "yw-count-one": "w. 'sedmica' 'u' y.",
-                "yw-count-few": "w. 'sedmica' 'u' y.",
-                "yw-count-other": "w. 'sedmica' 'u' y."
+                "yQQQ": "QQQ y.",
+                "yQQQQ": "QQQQ y.",
+                "yw-count-one": "w. 'sedmica' 'u' Y.",
+                "yw-count-few": "w. 'sedmica' 'u' Y.",
+                "yw-count-other": "w. 'sedmica' 'u' Y."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -428,8 +433,8 @@
                   "M": "M–M."
                 },
                 "Md": {
-                  "d": "d.M–d.M.",
-                  "M": "d.M–d.M."
+                  "d": "d. M – d. M.",
+                  "M": "d. M – d. M."
                 },
                 "MEd": {
                   "d": "E, d.M. – E, d.M.",

@@ -3,8 +3,8 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "nl"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Puerto Rico"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -543,7 +546,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Ierse zomertijd"
+                  "daylight": "Ierse standaardtijd"
                 },
                 "exemplarCity": "Dublin"
               },
@@ -633,6 +636,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
+              },
+              "Saratov": {
+                "exemplarCity": "Saratov"
               },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Asjchabad"
               },
+              "Atyrau": {
+                "exemplarCity": "Atıraw"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
               },
@@ -897,7 +906,7 @@
                 "exemplarCity": "Chita"
               },
               "Choibalsan": {
-                "exemplarCity": "Choibalsan"
+                "exemplarCity": "Tsjojbalsan"
               },
               "Colombo": {
                 "exemplarCity": "Colombo"
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Doesjanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -1324,95 +1336,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "Gecoördineerde wereldtijd"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "onbekende stad"
@@ -1807,7 +1737,7 @@
             },
             "Galapagos": {
               "long": {
-                "standard": "Galapagoseilandse tijd"
+                "standard": "Galapagoseilandse standaardtijd"
               }
             },
             "Gambier": {

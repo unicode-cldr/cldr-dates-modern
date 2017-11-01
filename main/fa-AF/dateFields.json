@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "fa",
         "territory": "AF"
@@ -192,13 +192,13 @@
             "relativePeriod": "هفتهٔ {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "هفتهٔ ماه"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "هفتهٔ ماه"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "هفتهٔ ماه"
           },
           "day": {
             "displayName": "روز",
@@ -249,13 +249,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "روز سال"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "روز سال"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "روز سال"
           },
           "weekday": {
             "displayName": "روز هفته"
@@ -267,13 +267,13 @@
             "displayName": "روز هفته"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "روز کاری ماه"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "روز کاری ماه"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "روز کاری ماه"
           },
           "sun": {
             "relative-type--1": "یکشنبهٔ گذشته",

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "CU"
@@ -29,18 +29,18 @@
                   "12": "dic."
                 },
                 "narrow": {
-                  "1": "e",
-                  "2": "f",
-                  "3": "m",
-                  "4": "a",
-                  "5": "m",
-                  "6": "j",
-                  "7": "j",
-                  "8": "a",
-                  "9": "s",
-                  "10": "o",
-                  "11": "n",
-                  "12": "d"
+                  "1": "E",
+                  "2": "F",
+                  "3": "M",
+                  "4": "A",
+                  "5": "M",
+                  "6": "J",
+                  "7": "J",
+                  "8": "A",
+                  "9": "S",
+                  "10": "O",
+                  "11": "N",
+                  "12": "D"
                 },
                 "wide": {
                   "1": "enero",
@@ -195,9 +195,9 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1.er trimestre",
+                  "1": "1.º trimestre",
                   "2": "2.º trimestre",
-                  "3": "3.er trimestre",
+                  "3": "3.º trimestre",
                   "4": "4.º trimestre"
                 }
               },
@@ -215,9 +215,9 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1.er trimestre",
+                  "1": "1.º trimestre",
                   "2": "2.º trimestre",
-                  "3": "3.er trimestre",
+                  "3": "3.º trimestre",
                   "4": "4.º trimestre"
                 }
               }
@@ -320,8 +320,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E, h:mm a",
                 "EHm": "E, HH:mm",
@@ -373,8 +378,8 @@
                 "yMMMMEd": "EEE, d 'de' MMMM 'de' y",
                 "yQQQ": "QQQ 'de' y",
                 "yQQQQ": "QQQQ 'de' y",
-                "yw-count-one": "'semana' w 'de' y",
-                "yw-count-other": "'semana' w 'de' y"
+                "yw-count-one": "'semana' w 'de' Y",
+                "yw-count-other": "'semana' w 'de' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

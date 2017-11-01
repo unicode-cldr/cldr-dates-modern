@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ru",
         "territory": "KG"
@@ -226,9 +226,9 @@
               "format": {
                 "abbreviated": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
                   "evening1": "вечера",
@@ -236,19 +236,19 @@
                 },
                 "narrow": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
-                  "evening1": "вечера",
+                  "evening1": "веч.",
                   "night1": "ночи"
                 },
                 "wide": {
                   "midnight": "полночь",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полдень",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
                   "evening1": "вечера",
@@ -258,9 +258,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "веч.",
@@ -268,9 +268,9 @@
                 },
                 "narrow": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "веч.",
@@ -278,9 +278,9 @@
                 },
                 "wide": {
                   "midnight": "полночь",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полдень",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "вечер",
@@ -320,23 +320,28 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "ccc, h:mm B",
+                "EBhms": "ccc, h:mm:ss B",
                 "Ed": "E, d",
-                "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
-                "Gy": "y G",
-                "GyMMM": "LLL y G",
+                "Ehm": "ccc, h:mm a",
+                "EHm": "ccc HH:mm",
+                "Ehms": "ccc, h:mm:ss a",
+                "EHms": "ccc HH:mm:ss",
+                "Gy": "y 'г'. G",
+                "GyMMM": "LLL y 'г'. G",
                 "GyMMMd": "d MMM y 'г'. G",
                 "GyMMMEd": "E, d MMM y 'г'. G",
                 "h": "h a",
-                "H": "H",
+                "H": "HH",
                 "hm": "h:mm a",
-                "Hm": "H:mm",
+                "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
-                "Hms": "H:mm:ss",
+                "Hms": "HH:mm:ss",
                 "M": "L",
                 "Md": "dd.MM",
                 "MEd": "E, dd.MM",
@@ -345,16 +350,16 @@
                 "MMMEd": "ccc, d MMM",
                 "MMMMd": "d MMMM",
                 "ms": "mm:ss",
-                "y": "y G",
-                "yyyy": "y G",
+                "y": "y 'г'. G",
+                "yyyy": "y 'г'. G",
                 "yyyyM": "MM.y G",
                 "yyyyMd": "dd.MM.y G",
                 "yyyyMEd": "E, dd.MM.y G",
-                "yyyyMMM": "LLL y G",
+                "yyyyMMM": "LLL y 'г'. G",
                 "yyyyMMMd": "d MMM y 'г'. G",
                 "yyyyMMMEd": "E, d MMM y 'г'. G",
-                "yyyyMMMM": "LLLL y G",
-                "yyyyQQQ": "QQQ y G",
+                "yyyyMMMM": "LLLL y 'г'. G",
+                "yyyyQQQ": "QQQ y 'г'. G",
                 "yyyyQQQQ": "QQQQ y 'г'. G"
               },
               "appendItems": {
@@ -426,14 +431,14 @@
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
-                  "d": "ccc, d – ccc, d MMM",
+                  "d": "ccc, d MMM – ccc, d MMM",
                   "M": "ccc, d MMM – ccc, d MMM"
                 },
                 "MMMM": {
                   "M": "LLLL – LLLL"
                 },
                 "y": {
-                  "y": "y–y G"
+                  "y": "y–y 'гг'. G"
                 },
                 "yM": {
                   "M": "MM.y – MM.y G",
@@ -459,7 +464,7 @@
                   "y": "d MMM y 'г'. – d MMM y 'г'. G"
                 },
                 "yMMMEd": {
-                  "d": "ccc, d – ccc, d MMM y 'г'. G",
+                  "d": "ccc, d MMM – ccc, d MMM y 'г'. G",
                   "M": "ccc, d MMM – ccc, d MMM y 'г'. G",
                   "y": "ccc, d MMM y 'г'. – ccc, d MMM y 'г'. G"
                 },

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "pa",
         "script": "Guru"
@@ -192,13 +192,13 @@
             "relativePeriod": "{0} ਦਾ ਹਫ਼ਤਾ"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "ਮਹੀਨੇ ਦਾ ਹਫ਼ਤਾ"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ਮਹੀਨੇ ਦਾ ਹਫ਼ਤਾ"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ਮਹੀਨੇ ਦਾ ਹਫ਼ਤਾ"
           },
           "day": {
             "displayName": "ਦਿਨ",
@@ -243,13 +243,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ਸਾਲ ਦਾ ਦਿਨ"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ਸਾਲ ਦਾ ਦਿਨ"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ਸਾਲ ਦਾ ਦਿਨ"
           },
           "weekday": {
             "displayName": "ਹਫ਼ਤੇ ਦਾ ਦਿਨ"
@@ -261,13 +261,13 @@
             "displayName": "ਹਫ਼ਤੇ ਦਾ ਦਿਨ"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ਮਹੀਨੇ ਦਾ ਹਫ਼ਤੇ ਦਾ ਦਿਨ"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ਮਹੀਨੇ ਦਾ ਹਫ਼ਤੇ ਦਾ ਦਿਨ"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ਮਹੀਨੇ ਦਾ ਹਫ਼ਤੇ ਦਾ ਦਿਨ"
           },
           "sun": {
             "relative-type--1": "ਪਿਛਲਾ ਐਤਵਾਰ",
@@ -300,7 +300,7 @@
             "relative-type-0": "ਇਹ ਐਤ",
             "relative-type-1": "ਅਗਲਾ ਐਤ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ਐਤਵਾਰਾਂ ਵਿੱਚ",
+              "relativeTimePattern-count-one": "{0} ਐਤਵਾਰ ਵਿੱਚ",
               "relativeTimePattern-count-other": "{0} ਐਤਵਾਰਾਂ ਵਿੱਚ"
             },
             "relativeTime-type-past": {
@@ -326,7 +326,7 @@
             "relative-type-0": "ਇਸ ਸੋਮ",
             "relative-type-1": "ਅਗਲਾ ਸੋਮ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ਸੋਮਵਾਰਾਂ ਵਿੱਚ",
+              "relativeTimePattern-count-one": "{0} ਸੋਮਵਾਰ ਵਿੱਚ",
               "relativeTimePattern-count-other": "{0} ਸੋਮਵਾਰਾਂ ਵਿੱਚ"
             },
             "relativeTime-type-past": {
@@ -339,7 +339,7 @@
             "relative-type-0": "ਇਸ ਸੋਮ",
             "relative-type-1": "ਅਗਲਾ ਸੋਮ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ਸੋਮਵਾਰਾਂ ਵਿੱਚ",
+              "relativeTimePattern-count-one": "{0} ਸੋਮਵਾਰ ਵਿੱਚ",
               "relativeTimePattern-count-other": "{0} ਸੋਮਵਾਰਾਂ ਵਿੱਚ"
             },
             "relativeTime-type-past": {
@@ -365,7 +365,7 @@
             "relative-type-0": "ਇਹ ਮੰਗਲ",
             "relative-type-1": "ਅਗਲਾ ਮੰਗਲ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ਮੰਗਲਵਾਰਾਂ ਵਿੱਚ",
+              "relativeTimePattern-count-one": "{0} ਮੰਗਲਵਾਰ ਵਿੱਚ",
               "relativeTimePattern-count-other": "{0} ਮੰਗਲਵਾਰਾਂ ਵਿੱਚ"
             },
             "relativeTime-type-past": {
@@ -378,7 +378,7 @@
             "relative-type-0": "ਇਹ ਮੰਗਲ",
             "relative-type-1": "ਅਗਲਾ ਮੰਗਲ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ਮੰਗਲਵਾਰਾਂ ਵਿੱਚ",
+              "relativeTimePattern-count-one": "{0} ਮੰਗਲਵਾਰ ਵਿੱਚ",
               "relativeTimePattern-count-other": "{0} ਮੰਗਲਵਾਰਾਂ ਵਿੱਚ"
             },
             "relativeTime-type-past": {
@@ -404,7 +404,7 @@
             "relative-type-0": "ਇਹ ਬੁੱਧ",
             "relative-type-1": "ਅਗਲਾ ਬੁੱਧ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ਬੁੱਧਵਾਰਾਂ ਵਿੱਚ",
+              "relativeTimePattern-count-one": "{0} ਬੁੱਧਵਾਰ ਵਿੱਚ",
               "relativeTimePattern-count-other": "{0} ਬੁੱਧਵਾਰਾਂ ਵਿੱਚ"
             },
             "relativeTime-type-past": {
@@ -417,7 +417,7 @@
             "relative-type-0": "ਇਹ ਬੁੱਧ",
             "relative-type-1": "ਅਗਲਾ ਬੁੱਧ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ਬੁੱਧਵਾਰਾਂ ਵਿੱਚ",
+              "relativeTimePattern-count-one": "{0} ਬੁੱਧਵਾਰ ਵਿੱਚ",
               "relativeTimePattern-count-other": "{0} ਬੁੱਧਵਾਰਾਂ ਵਿੱਚ"
             },
             "relativeTime-type-past": {

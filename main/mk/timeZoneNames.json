@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "mk"
       },
@@ -26,10 +26,10 @@
                 "exemplarCity": "Енкориџ"
               },
               "Anguilla": {
-                "exemplarCity": "Ангилја"
+                "exemplarCity": "Ангвила"
               },
               "Antigua": {
-                "exemplarCity": "Антигва"
+                "exemplarCity": "Антига"
               },
               "Araguaina": {
                 "exemplarCity": "Арагвајана"
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Порторико"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Пунта Аренас"
+              },
               "Rainy_River": {
                 "exemplarCity": "Рејни Ривер"
               },
@@ -421,10 +424,10 @@
                 "exemplarCity": "Сент Џонс"
               },
               "St_Kitts": {
-                "exemplarCity": "Свети Кристофер"
+                "exemplarCity": "Свети Китс"
               },
               "St_Lucia": {
-                "exemplarCity": "Света Луција"
+                "exemplarCity": "Сент Лусија"
               },
               "St_Thomas": {
                 "exemplarCity": "Сент Томас"
@@ -480,7 +483,7 @@
                 "exemplarCity": "Канарски Острови"
               },
               "Cape_Verde": {
-                "exemplarCity": "Зелен ‘Рт"
+                "exemplarCity": "Кабо Верде"
               },
               "Faeroe": {
                 "exemplarCity": "Фарски Острови"
@@ -633,6 +636,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "Сараево"
+              },
+              "Saratov": {
+                "exemplarCity": "Саратов"
               },
               "Simferopol": {
                 "exemplarCity": "Симферопол"
@@ -832,7 +838,7 @@
                 "exemplarCity": "Порто Ново"
               },
               "Sao_Tome": {
-                "exemplarCity": "Сао Томе"
+                "exemplarCity": "Саун Томе"
               },
               "Tripoli": {
                 "exemplarCity": "Триполи"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ашкабад"
               },
+              "Atyrau": {
+                "exemplarCity": "Атирау"
+              },
               "Baghdad": {
                 "exemplarCity": "Багдад"
               },
@@ -891,7 +900,7 @@
                 "exemplarCity": "Брунеј"
               },
               "Calcutta": {
-                "exemplarCity": "Колката"
+                "exemplarCity": "Калкута"
               },
               "Chita": {
                 "exemplarCity": "Чита"
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Душанбе"
+              },
+              "Famagusta": {
+                "exemplarCity": "Фамагуста"
               },
               "Gaza": {
                 "exemplarCity": "Газа"
@@ -1100,7 +1112,7 @@
                 "exemplarCity": "Кокосови Острови"
               },
               "Comoro": {
-                "exemplarCity": "Коморски Острови"
+                "exemplarCity": "Комори"
               },
               "Kerguelen": {
                 "exemplarCity": "Кергелен"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "Координирано универзално време"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Непознат град"
@@ -1451,9 +1381,9 @@
             },
             "Alaska": {
               "long": {
-                "generic": "Време во Аљаска",
-                "standard": "Стандардно време во Аљаска",
-                "daylight": "Летно сметање на времето во Аљаска"
+                "generic": "Време во Алјаска",
+                "standard": "Стандардно време во Алјаска",
+                "daylight": "Летно сметање на времето во Алјаска"
               }
             },
             "Amazon": {
@@ -1577,9 +1507,9 @@
             },
             "Azores": {
               "long": {
-                "generic": "Време во Азорес",
-                "standard": "Стандардно време во Азорес",
-                "daylight": "Летно време во Азорес"
+                "generic": "Време на Азорските Острови",
+                "standard": "Стандардно време на Азорските Острови",
+                "daylight": "Летно време на Азорските Острови"
               }
             },
             "Bangladesh": {
@@ -1608,14 +1538,14 @@
             },
             "Brunei": {
               "long": {
-                "standard": "Време во Брунеи Дарусалам"
+                "standard": "Време во Брунеј Дарусалам"
               }
             },
             "Cape_Verde": {
               "long": {
-                "generic": "Време на Зелениот ‘Рт",
-                "standard": "Стандардно време на Зелениот ‘Рт",
-                "daylight": "Летно време на Зелениот ‘Рт"
+                "generic": "Време на Кабо Верде",
+                "standard": "Стандардно време на Кабо Верде",
+                "daylight": "Летно сметање на времето на Кабо Верде"
               }
             },
             "Chamorro": {
@@ -1625,9 +1555,9 @@
             },
             "Chatham": {
               "long": {
-                "generic": "Време во Четем",
-                "standard": "Стандардно време во Четем",
-                "daylight": "Летно сметање на времето во Четем"
+                "generic": "Време во Чатам",
+                "standard": "Стандардно време во Чатам",
+                "daylight": "Летно сметање на времето во Чатам"
               }
             },
             "Chile": {
@@ -1653,7 +1583,7 @@
             },
             "Christmas": {
               "long": {
-                "standard": "Време на Божиќниот остров"
+                "standard": "Време на Божиќниот Остров"
               }
             },
             "Cocos": {
@@ -1670,7 +1600,7 @@
             },
             "Cook": {
               "long": {
-                "generic": "Време на островите Кук",
+                "generic": "Време на Островите Кук",
                 "standard": "Стандардно време на Островите Кук",
                 "daylight": "Летно време на Островите Кук"
               }
@@ -1689,7 +1619,7 @@
             },
             "DumontDUrville": {
               "long": {
-                "standard": "Време во Димон-дурвил"
+                "standard": "Време во Димон Дирвил"
               }
             },
             "East_Timor": {
@@ -1979,7 +1909,7 @@
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "Време на Маршалски острови"
+                "standard": "Време на Маршалски Острови"
               }
             },
             "Mauritius": {
@@ -2003,9 +1933,9 @@
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "Тихоокеанско време во Мексико",
-                "standard": "Стандардно тихоокеанско време во Мексико",
-                "daylight": "Летно тихоокеанско време во Мексико"
+                "generic": "Пацифичко време во Мексико",
+                "standard": "Стандардно пацифичко време во Мексико",
+                "daylight": "Летно пацифичко време во Мексико"
               }
             },
             "Mongolia": {
@@ -2151,7 +2081,7 @@
             },
             "Pyongyang": {
               "long": {
-                "standard": "Пјонгјанг"
+                "standard": "Време во Пјонгјанг"
               }
             },
             "Reunion": {
@@ -2222,9 +2152,9 @@
             },
             "Taipei": {
               "long": {
-                "generic": "Време во Таипеи",
-                "standard": "Стандардно време во Таипеи",
-                "daylight": "Летно сметање на времето во Таипеи"
+                "generic": "Време во Тајпеј",
+                "standard": "Стандардно време во Тајпеј",
+                "daylight": "Летно сметање на времето во Тајпеј"
               }
             },
             "Tajikistan": {

@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "am"
       },
@@ -191,13 +191,13 @@
             "relativePeriod": "{0} ሳምንት"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "የወሩ ሳምንት"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "የወሩ ሳምንት"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "የወሩ ሳምንት"
           },
           "day": {
             "displayName": "ቀን",
@@ -248,13 +248,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "የዓመቱ ቀን"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "የዓመቱ ቀን"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "የዓመቱ ቀን"
           },
           "weekday": {
             "displayName": "አዘቦት"
@@ -266,13 +266,13 @@
             "displayName": "አዘቦት"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "የወሩ የሳምንት ቀን"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "የወሩ የሳምንት ቀን"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "የወሩ የሳምንት ቀን"
           },
           "sun": {
             "relative-type--1": "ያለፈው እሑድ",

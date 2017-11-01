@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "be"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Пуэрта-Рыка"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Пунта Арэнас"
+              },
               "Rainy_River": {
                 "exemplarCity": "Рэйні-Рывер"
               },
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "Сараева"
               },
+              "Saratov": {
+                "exemplarCity": "Саратаў"
+              },
               "Simferopol": {
                 "exemplarCity": "Сімферопаль"
               },
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ашгабад"
               },
+              "Atyrau": {
+                "exemplarCity": "Атырау"
+              },
               "Baghdad": {
                 "exemplarCity": "Багдад"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Душанбэ"
+              },
+              "Famagusta": {
+                "exemplarCity": "Фамагуста"
               },
               "Gaza": {
                 "exemplarCity": "Газа"
@@ -1315,96 +1327,17 @@
                 "exemplarCity": "Трол"
               },
               "Vostok": {
-                "exemplarCity": "Усход"
+                "exemplarCity": "Васток"
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "Універсальны каардынаваны час"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Невядомы горад"
@@ -1708,7 +1641,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Беларускі час"
+                "standard": "Далёкаўсходнееўрапейскі час"
               }
             },
             "Europe_Western": {
@@ -1739,7 +1672,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "Час Французскіх Паўднёвых і Антарктычных тэрыторый"
+                "standard": "Час Французскай паўднёва-антарктычнай тэрыторыі"
               }
             },
             "Galapagos": {
@@ -1749,7 +1682,7 @@
             },
             "Gambier": {
               "long": {
-                "standard": "Час атравоў Гамб’е"
+                "standard": "Час астравоў Гамб’е"
               }
             },
             "Georgia": {
@@ -1891,7 +1824,7 @@
             },
             "Kosrae": {
               "long": {
-                "standard": "Час астравоў Кусаіе"
+                "standard": "Час вострава Касрае"
               }
             },
             "Krasnoyarsk": {
@@ -2264,7 +2197,7 @@
             },
             "Vostok": {
               "long": {
-                "standard": "Час станцыі Усход"
+                "standard": "Час станцыі Васток"
               }
             },
             "Wake": {

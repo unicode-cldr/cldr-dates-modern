@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ja"
       },
@@ -167,13 +167,13 @@
             "relativePeriod": "{0}日の週"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "月の週番号"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "月の週番号"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "月の週番号"
           },
           "day": {
             "displayName": "日",
@@ -218,13 +218,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "年の通日"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "年の通日"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "通日"
           },
           "weekday": {
             "displayName": "曜日"
@@ -236,13 +236,13 @@
             "displayName": "曜日"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月の曜日番号"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月の曜日番号"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "月の曜日番号"
           },
           "sun": {
             "relative-type--1": "先週の日曜日",

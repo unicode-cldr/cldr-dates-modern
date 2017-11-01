@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "nl",
         "territory": "SR"
@@ -96,7 +96,7 @@
             "relative-type-0": "dit kwartaal",
             "relative-type-1": "volgend kwartaal",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "over {0} kwartaal",
+              "relativeTimePattern-count-one": "over {0} kw.",
               "relativeTimePattern-count-other": "over {0} kwartalen"
             },
             "relativeTime-type-past": {
@@ -192,13 +192,13 @@
             "relativePeriod": "de week van {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "week van de maand"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "wk van de mnd"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "wk v.d. mnd"
           },
           "day": {
             "displayName": "dag",
@@ -249,31 +249,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dag van het jaar"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dag van het jr"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dag v.h. jr"
           },
           "weekday": {
             "displayName": "dag van de week"
           },
           "weekday-short": {
-            "displayName": "dag van de week"
+            "displayName": "dag van de wk"
           },
           "weekday-narrow": {
-            "displayName": "dag van de week"
+            "displayName": "dag v.d. wk"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "weekdag van de maand"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "wkdag van de mnd"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "wkdag v.d. mnd"
           },
           "sun": {
             "relative-type--1": "afgelopen zondag",
@@ -549,13 +549,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "dagdeel"
+            "displayName": "a.m./p.m."
           },
           "dayperiod": {
-            "displayName": "dagdeel"
+            "displayName": "a.m./p.m."
           },
           "dayperiod-narrow": {
-            "displayName": "dagdeel"
+            "displayName": "a.m./p.m."
           },
           "hour": {
             "displayName": "uur",
@@ -669,10 +669,10 @@
             "displayName": "tijdzone"
           },
           "zone-short": {
-            "displayName": "tijdzone"
+            "displayName": "zone"
           },
           "zone-narrow": {
-            "displayName": "tijdzone"
+            "displayName": "zone"
           }
         }
       }

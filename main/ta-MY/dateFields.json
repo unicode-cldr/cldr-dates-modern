@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ta",
         "territory": "MY"
@@ -156,7 +156,7 @@
               "relativeTimePattern-count-other": "{0} வாரங்களில்"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} வாரத்திற்கு முன்பு",
+              "relativeTimePattern-count-one": "{0} வாரத்திற்கு முன்",
               "relativeTimePattern-count-other": "{0} வாரங்களுக்கு முன்"
             },
             "relativePeriod": "{0} -இன் வாரம்"
@@ -192,13 +192,13 @@
             "relativePeriod": "{0} -இன் வாரம்"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "மாதத்தின் வாரம்"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "மாத. வாரம்"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "மாத. வாரம்"
           },
           "day": {
             "displayName": "நாள்",
@@ -249,31 +249,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "வருடத்தின் நாள்"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "வருட. நாள்"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "வருட. நாள்"
           },
           "weekday": {
             "displayName": "வாரத்தின் நாள்"
           },
           "weekday-short": {
-            "displayName": "வாரத்தின் நாள்"
+            "displayName": "வார. நாள்"
           },
           "weekday-narrow": {
-            "displayName": "வாரத்தின் நாள்"
+            "displayName": "வார. நாள்"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "மாதத்தின் வாரநாள்"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "மாத. வாரநாள்"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "மாத. வாரநாள்"
           },
           "sun": {
             "relative-type--1": "கடந்த ஞாயிறு",
@@ -549,13 +549,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "முற்பகல்/பிற்பகல்"
+            "displayName": "முற்./பிற்."
           },
           "dayperiod": {
             "displayName": "முற்பகல்/பிற்பகல்"
           },
           "dayperiod-narrow": {
-            "displayName": "முற்பகல்/பிற்பகல்"
+            "displayName": "முற்./பிற்."
           },
           "hour": {
             "displayName": "மணி",
@@ -669,10 +669,10 @@
             "displayName": "நேர மண்டலம்"
           },
           "zone-short": {
-            "displayName": "நேர மண்டலம்"
+            "displayName": "மண்டலம்"
           },
           "zone-narrow": {
-            "displayName": "நேர மண்டலம்"
+            "displayName": "மண்டலம்"
           }
         }
       }

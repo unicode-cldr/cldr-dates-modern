@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "lv"
       },
@@ -239,7 +239,7 @@
                   "noon": "pusd.",
                   "pm": "pēcp.",
                   "morning1": "no rīta",
-                  "afternoon1": "pēcpusdienā",
+                  "afternoon1": "pēcpusd.",
                   "evening1": "vakarā",
                   "night1": "naktī"
                 },
@@ -269,7 +269,7 @@
                   "midnight": "pusnakts",
                   "am": "priekšp.",
                   "noon": "pusd.",
-                  "pm": "pēcp.",
+                  "pm": "pēcpusd.",
                   "morning1": "rīts",
                   "afternoon1": "pēcpusd.",
                   "evening1": "vakars",
@@ -325,8 +325,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E, h:mm B",
+                "EBhms": "E, h:mm:ss B",
                 "Ed": "E, d.",
                 "Ehm": "E, h:mm a",
                 "EHm": "E, HH:mm",
@@ -369,9 +374,9 @@
                 "yMMMM": "y. 'g'. MMMM",
                 "yQQQ": "y. 'g'. QQQ",
                 "yQQQQ": "y. 'g'. QQQQ",
-                "yw-count-zero": "y. 'g'. w. 'nedēļa'",
-                "yw-count-one": "y. 'g'. w. 'nedēļa'",
-                "yw-count-other": "y. 'g'. w. 'nedēļa'"
+                "yw-count-zero": "Y. 'g'. w. 'nedēļa'",
+                "yw-count-one": "Y. 'g'. w. 'nedēļa'",
+                "yw-count-other": "Y. 'g'. w. 'nedēļa'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

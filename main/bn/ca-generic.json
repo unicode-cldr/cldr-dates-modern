@@ -3,8 +3,8 @@
     "bn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "bn"
       },
@@ -251,7 +251,7 @@
                   "afternoon1": "দুপুর",
                   "afternoon2": "বিকাল",
                   "evening1": "সন্ধ্যা",
-                  "night1": "রাত্রি"
+                  "night1": "রাত্রিতে"
                 }
               },
               "stand-alone": {
@@ -319,8 +319,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

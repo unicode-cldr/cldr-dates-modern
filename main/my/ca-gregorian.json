@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "my"
       },
@@ -290,9 +290,9 @@
             "eras": {
               "eraNames": {
                 "0": "ခရစ်တော် မပေါ်မီနှစ်",
-                "0-alt-variant": "သာမန်ကာလ မတိုင်မီ ခေတ်",
+                "0-alt-variant": "ဘုံခေတ် မတိုင်မီ",
                 "1": "ခရစ်နှစ်",
-                "1-alt-variant": "သာမန်ကာလ"
+                "1-alt-variant": "ဘုံခေတ်"
               },
               "eraAbbr": {
                 "0": "ဘီစီ",
@@ -308,16 +308,16 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE d MMMM y",
-              "long": "d MMMM y",
-              "medium": "d MMM y",
+              "full": "y၊ MMMM d၊ EEEE",
+              "long": "y၊ d MMMM",
+              "medium": "y၊ MMM d",
               "short": "dd-MM-yy"
             },
             "timeFormats": {
               "full": "zzzz HH:mm:ss",
               "long": "z HH:mm:ss",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "medium": "B HH:mm:ss",
+              "short": "B H:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -325,22 +325,27 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "cccနေ့",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d ရက် Eနေ့",
-                "Ehm": "Eနေ့ a h:mm",
-                "EHm": "HH:mm Eနေ့",
-                "Ehms": "Eနေ့ a h:mm:ss",
-                "EHms": "HH:mm:ss Eနေ့",
+                "Ehm": "E B h:mm",
+                "EHm": "E HH:mm",
+                "Ehms": "E B h:mm:ss",
+                "EHms": "E HH:mm:ss",
                 "Gy": "G y",
                 "GyMMM": "G y MMM",
-                "GyMMMd": "G y MMM d ရက်",
-                "GyMMMEd": "G y MMM d ရက် Eနေ့",
-                "h": "a h နာရီ",
+                "GyMMMd": "G y၊ MMM d",
+                "GyMMMEd": "G y၊ MMM d၊ E",
+                "h": "B h",
                 "H": "HH",
-                "hm": "a h:mm",
+                "hm": "B h:mm",
                 "Hm": "HH:mm",
-                "hms": "a h:mm:ss",
+                "hms": "B h:mm:ss",
                 "Hms": "HH:mm:ss",
                 "hmsv": "v a h:mm:ss",
                 "Hmsv": "v HH:mm:ss",
@@ -348,10 +353,10 @@
                 "Hmv": "v HH:mm",
                 "M": "L",
                 "Md": "d/M",
-                "MEd": "d/M Eနေ့",
+                "MEd": "d/M၊ E",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
-                "MMMEd": "MMM d ရက် Eနေ့",
+                "MMMEd": "MMM d၊ E",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "MMMM d ရက် Eနေ့",
                 "MMMMW-count-other": "MMM လ W ပတ်မြောက်",
@@ -359,14 +364,14 @@
                 "y": "y",
                 "yM": "M/y",
                 "yMd": "dd-MM-y",
-                "yMEd": "d-M-y Eနေ့",
+                "yMEd": "d/M/y၊ E",
                 "yMMM": "MMM y",
-                "yMMMd": "d MMM y",
-                "yMMMEd": "d MMM y Eနေ့",
-                "yMMMM": "MMMM y",
+                "yMMMd": "y၊ MMM d",
+                "yMMMEd": "y၊ MMM d၊ E",
+                "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-other": "y ခု w ပတ်မြောက်"
+                "yw-count-other": "Y ခု w ပတ်မြောက်"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -426,8 +431,8 @@
                   "M": "d/M – d/M"
                 },
                 "MEd": {
-                  "d": "d/M EEEEနေ့ – d/M EEEEနေ့",
-                  "M": "d/M EEEEနေ့ – d/M EEEEနေ့"
+                  "d": "d/M၊ EEEE – d/M၊ EEEE",
+                  "M": "d/M၊ EEEE – d/M၊ EEEE"
                 },
                 "MMM": {
                   "M": "MMM – MMM"
@@ -437,8 +442,8 @@
                   "M": "MMM d – MMM d"
                 },
                 "MMMEd": {
-                  "d": "MMM d Eနေ့ – MMM d Eနေ့",
-                  "M": "MMM d Eနေ့ – MMM d Eနေ့"
+                  "d": "MMM d၊ E – MMM d၊ E",
+                  "M": "MMM d၊ E – MMM d၊ E"
                 },
                 "y": {
                   "y": "y – y"
@@ -453,23 +458,23 @@
                   "y": "d/M/y – d/M/y"
                 },
                 "yMEd": {
-                  "d": "d/M/y EEEEနေ့ – d/M/y EEEEနေ့",
-                  "M": "d/M/y EEEEနေ့ – d/M/y EEEEနေ့",
-                  "y": "d/M/y EEEEနေ့ – d/M/y EEEEနေ့"
+                  "d": "d/M/y၊ EEEE – d/M/y၊ EEEE",
+                  "M": "d/M/y၊ EEEE – d/M/y၊ EEEE",
+                  "y": "d/M/y၊ EEEE – d/M/y၊ EEEE"
                 },
                 "yMMM": {
                   "M": "y MMM – MMM",
                   "y": "y MMM – y MMM"
                 },
                 "yMMMd": {
-                  "d": "y MMM d – d",
-                  "M": "y MMM d – y MMM d",
-                  "y": "y MMM d – y MMM d"
+                  "d": "y၊ MMM d – d",
+                  "M": "y၊ MMM d – MMM d",
+                  "y": "y၊ MMM d – y၊ MMM d"
                 },
                 "yMMMEd": {
-                  "d": "y MMM d EEEEနေ့ – MMM d EEEEနေ့",
-                  "M": "y MMM d EEEEနေ့ – MMM d EEEEနေ့",
-                  "y": "y MMM d EEEEနေ့ – y MMM d EEEEနေ့"
+                  "d": "y၊ MMM d၊ EEEE – MMM d၊ EEEE",
+                  "M": "y၊ MMM d၊ EEEE – MMM d၊ EEEE",
+                  "y": "y၊ MMM d၊ EEEE – y၊ MMM d၊ EEEE"
                 },
                 "yMMMM": {
                   "M": "y MMMM – MMMM",

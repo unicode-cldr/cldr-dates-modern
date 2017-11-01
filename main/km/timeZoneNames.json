@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "km"
       },
@@ -36,7 +36,7 @@
               },
               "Argentina": {
                 "Rio_Gallegos": {
-                  "exemplarCity": "រ៉យហ្គាឡេហ្គូស"
+                  "exemplarCity": "រីយ៉ូហ្គាឡេហ្គូស"
                 },
                 "San_Juan": {
                   "exemplarCity": "សាំងហ្សង់"
@@ -45,10 +45,10 @@
                   "exemplarCity": "អ៊ុយសូអៃ"
                 },
                 "La_Rioja": {
-                  "exemplarCity": "ឡារ៉យ៉ា"
+                  "exemplarCity": "ឡារីយ៉ូហា"
                 },
                 "San_Luis": {
-                  "exemplarCity": "សានលូអ៊ីស"
+                  "exemplarCity": "សាន់លូអ៊ីស"
                 },
                 "Salta": {
                   "exemplarCity": "សាល់តា"
@@ -88,7 +88,7 @@
                 "exemplarCity": "បូហ្គោតា"
               },
               "Boise": {
-                "exemplarCity": "ប៊ូអ៊ីសេ"
+                "exemplarCity": "ប៊ូស៊ី"
               },
               "Buenos_Aires": {
                 "exemplarCity": "ប៊ុយណូស៊ែ"
@@ -97,7 +97,7 @@
                 "exemplarCity": "ខេមប្រីដបេ"
               },
               "Campo_Grande": {
-                "exemplarCity": "ខេមបូហ្គ្រានឌី"
+                "exemplarCity": "ខេមប៉ូហ្គ្រង់​"
               },
               "Cancun": {
                 "exemplarCity": "ខានខុន"
@@ -109,13 +109,13 @@
                 "exemplarCity": "កាតាម៉ាកា"
               },
               "Cayenne": {
-                "exemplarCity": "ហ្គៃយ៉ាណេ"
+                "exemplarCity": "កាយ៉េន"
               },
               "Cayman": {
                 "exemplarCity": "កៃមែន"
               },
               "Chicago": {
-                "exemplarCity": "ស៊ីកាកូ"
+                "exemplarCity": "ស៊ីកាហ្គោ"
               },
               "Chihuahua": {
                 "exemplarCity": "ជីហួហួ"
@@ -139,7 +139,7 @@
                 "exemplarCity": "កូរ៉ាកៅ"
               },
               "Danmarkshavn": {
-                "exemplarCity": "ដែនម៉ាក់ស្ហាវិន"
+                "exemplarCity": "ដានម៉ាកស្ហាវិន"
               },
               "Dawson": {
                 "exemplarCity": "ដាវសុន"
@@ -175,7 +175,7 @@
                 "exemplarCity": "ក្លាស​បេ"
               },
               "Godthab": {
-                "exemplarCity": "ហ្កូដតាអាប"
+                "exemplarCity": "នូក"
               },
               "Goose_Bay": {
                 "exemplarCity": "កូសេបេ"
@@ -193,7 +193,7 @@
                 "exemplarCity": "ក្វាតេម៉ាឡា"
               },
               "Guayaquil": {
-                "exemplarCity": "ហ្គុយ៉ាហ្គីល"
+                "exemplarCity": "ហ្គុយ៉ាគីល"
               },
               "Guyana": {
                 "exemplarCity": "ហ្គីយ៉ាន"
@@ -209,25 +209,25 @@
               },
               "Indiana": {
                 "Vincennes": {
-                  "exemplarCity": "វិនសេណេស ឥណ្ឌា"
+                  "exemplarCity": "វិនសេណេស ឥណ្ឌាណា"
                 },
                 "Petersburg": {
-                  "exemplarCity": "ភីធើ​ប៊ឹក ឥណ្ឌា"
+                  "exemplarCity": "ភីធើ​ប៊ឹក ឥណ្ឌាណា"
                 },
                 "Tell_City": {
-                  "exemplarCity": "ថែល​ស៊ីធី ឥណ្ឌា"
+                  "exemplarCity": "ទីក្រុងថែល ឥណ្ឌាណា"
                 },
                 "Knox": {
-                  "exemplarCity": "ណុក ឥណ្ឌា"
+                  "exemplarCity": "ណុក ឥណ្ឌាណា"
                 },
                 "Winamac": {
-                  "exemplarCity": "វីណាម៉ាក់ ឥណ្ឌា"
+                  "exemplarCity": "វីណាម៉ាក់ ឥណ្ឌាណា"
                 },
                 "Marengo": {
-                  "exemplarCity": "ម៉ារេនកូ ឥណ្ឌា"
+                  "exemplarCity": "ម៉ារេនកូ ឥណ្ឌាណា"
                 },
                 "Vevay": {
-                  "exemplarCity": "វេវ៉ៃ ឥណ្ឌា"
+                  "exemplarCity": "វេវ៉ៃ ឥណ្ឌាយ៉ាណា"
                 }
               },
               "Indianapolis": {
@@ -284,7 +284,7 @@
                 "exemplarCity": "ម៉ារីហ្គុត"
               },
               "Martinique": {
-                "exemplarCity": "ម៉ាទីនីហ្គី"
+                "exemplarCity": "ម៉ាទីនីក"
               },
               "Matamoros": {
                 "exemplarCity": "ម៉ាតាម៉ូរ៉ូស"
@@ -302,10 +302,10 @@
                 "exemplarCity": "ម៉េរីដា"
               },
               "Metlakatla": {
-                "exemplarCity": "មេត្លា ឃែតឡា"
+                "exemplarCity": "មេត្លា កាត្លា"
               },
               "Mexico_City": {
-                "exemplarCity": "ម៉ិកស៊ីកូ​ស៊ីធី"
+                "exemplarCity": "ទីក្រុងម៉ិចស៊ីកូ"
               },
               "Miquelon": {
                 "exemplarCity": "មីហ្គីឡុង"
@@ -320,13 +320,13 @@
                 "exemplarCity": "ម៉ុងតេវីដេអូ"
               },
               "Montserrat": {
-                "exemplarCity": "ម៉ុងស៊ែរ៉ា"
+                "exemplarCity": "ម៉ុងស៊ែរ៉ាត​"
               },
               "Nassau": {
                 "exemplarCity": "ណាស្សូ"
               },
               "New_York": {
-                "exemplarCity": "ញូយ៉ក"
+                "exemplarCity": "ញូវយ៉ក"
               },
               "Nipigon": {
                 "exemplarCity": "នីពីកុន"
@@ -335,17 +335,17 @@
                 "exemplarCity": "ណូម"
               },
               "Noronha": {
-                "exemplarCity": "ណូរ៉ុនហា"
+                "exemplarCity": "ណូរ៉ុនញ៉ា"
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "ប៊ឺឡា ដាកូតា​ខាង​ត្បូង"
+                  "exemplarCity": "ប៊ឺឡា ដាកូតា​ខាងជើង"
                 },
                 "New_Salem": {
-                  "exemplarCity": "ញូ​សាឡឹម ដាកូតា​ខាង​ជើង"
+                  "exemplarCity": "ញូវ​សាឡឹម ដាកូតា​ខាង​ជើង"
                 },
                 "Center": {
-                  "exemplarCity": "សីនធឺ ដាកូតា​ខាង​ជើង"
+                  "exemplarCity": "សិនធឺ ដាកូតា​ខាង​ជើង"
                 }
               },
               "Ojinaga": {
@@ -364,7 +364,7 @@
                 "exemplarCity": "ផូនីក"
               },
               "Port-au-Prince": {
-                "exemplarCity": "ព័រអូប៉្រប៉ាំង"
+                "exemplarCity": "ព័រអូប្រ៉ាំង"
               },
               "Port_of_Spain": {
                 "exemplarCity": "ព័រអេស្ប៉ាញ"
@@ -374,6 +374,9 @@
               },
               "Puerto_Rico": {
                 "exemplarCity": "ព័រតូរីកូ"
+              },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
               },
               "Rainy_River": {
                 "exemplarCity": "រ៉េនីរីវើ"
@@ -385,13 +388,13 @@
                 "exemplarCity": "រ៉េស៊ីហ្វី"
               },
               "Regina": {
-                "exemplarCity": "រ៉េកីណា"
+                "exemplarCity": "រ៉េហ្គីណា"
               },
               "Resolute": {
                 "exemplarCity": "រ៉េ​ស៊ូឡូត"
               },
               "Rio_Branco": {
-                "exemplarCity": "រ៉ៃអូប្រានកូ"
+                "exemplarCity": "រីយ៉ូប្រានកូ"
               },
               "Santa_Isabel": {
                 "exemplarCity": "សាន់តាអ៊ីសាប៊ែល"
@@ -400,7 +403,7 @@
                 "exemplarCity": "សាន់តារឹម"
               },
               "Santiago": {
-                "exemplarCity": "សាន់ត្យាហ្គោ"
+                "exemplarCity": "សាន់ទីអេហ្គោ"
               },
               "Santo_Domingo": {
                 "exemplarCity": "សាន់ដូម៉ាំង"
@@ -409,7 +412,7 @@
                 "exemplarCity": "សៅ​ប៉ូឡូ"
               },
               "Scoresbysund": {
-                "exemplarCity": "ស្ករ៉េប៊ីសាន់"
+                "exemplarCity": "អ៊ីតូគ័រតូមីត"
               },
               "Sitka": {
                 "exemplarCity": "ស៊ីតកា"
@@ -457,7 +460,7 @@
                 "exemplarCity": "វ៉ាន់កូវើ"
               },
               "Whitehorse": {
-                "exemplarCity": "វាយហស"
+                "exemplarCity": "វ៉ាយហស"
               },
               "Winnipeg": {
                 "exemplarCity": "វីនីភិក"
@@ -489,7 +492,7 @@
                 "exemplarCity": "ម៉ាដៀរ៉ា"
               },
               "Reykjavik": {
-                "exemplarCity": "រីក្យាវីក"
+                "exemplarCity": "រ៉ៃក្យាវិក"
               },
               "South_Georgia": {
                 "exemplarCity": "ហ្សកហ្ស៊ី​ខាង​ត្បូង"
@@ -521,7 +524,7 @@
                 "exemplarCity": "បែរឡាំង"
               },
               "Bratislava": {
-                "exemplarCity": "ប្រាទីសឡាវ៉ា"
+                "exemplarCity": "ប្រាទីស្លាវ៉ា"
               },
               "Brussels": {
                 "exemplarCity": "ព្រុចសែល"
@@ -593,7 +596,7 @@
                 "exemplarCity": "ម៉ាឌ្រីដ"
               },
               "Malta": {
-                "exemplarCity": "ម៉ាល់តា"
+                "exemplarCity": "ម៉ាល់ត៍"
               },
               "Mariehamn": {
                 "exemplarCity": "ម៉ារៀហាំ"
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "សារ៉ាយ៉េវ៉ូ"
               },
+              "Saratov": {
+                "exemplarCity": "Saratov"
+              },
               "Simferopol": {
                 "exemplarCity": "ស៊ីមហ្វើរ៉ុប៉ូល"
               },
@@ -653,7 +659,7 @@
                 "exemplarCity": "ទីរ៉ាណេ"
               },
               "Ulyanovsk": {
-                "exemplarCity": "អុលយ៉ានូវស៍"
+                "exemplarCity": "អុលយ៉ាណូវស្កិ៍"
               },
               "Uzhgorod": {
                 "exemplarCity": "អ៊ុយហ្គោរ៉ូដ"
@@ -662,7 +668,7 @@
                 "exemplarCity": "វ៉ាឌូស"
               },
               "Vatican": {
-                "exemplarCity": "បុរីវ៉ាទីកង់"
+                "exemplarCity": "វ៉ាទីកង់"
               },
               "Vienna": {
                 "exemplarCity": "វីយែន"
@@ -832,7 +838,7 @@
                 "exemplarCity": "ព័រតូណូវ៉ូ"
               },
               "Sao_Tome": {
-                "exemplarCity": "សៅតុំ"
+                "exemplarCity": "សៅតូម៉េ"
               },
               "Tripoli": {
                 "exemplarCity": "ទ្រីប៉ូលី"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "អាសហ្គាបាត"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "បាកដាដ"
               },
@@ -888,7 +897,7 @@
                 "exemplarCity": "ប៊ីស្កេក"
               },
               "Brunei": {
-                "exemplarCity": "ប្រុយណេ"
+                "exemplarCity": "ព្រុយណេ"
               },
               "Calcutta": {
                 "exemplarCity": "កុលកាតា"
@@ -917,11 +926,14 @@
               "Dushanbe": {
                 "exemplarCity": "ឌូស្ហាន់បេ"
               },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
+              },
               "Gaza": {
                 "exemplarCity": "កាសា"
               },
               "Hebron": {
-                "exemplarCity": "ហេវ័ន"
+                "exemplarCity": "ហេបរុន"
               },
               "Hong_Kong": {
                 "exemplarCity": "ហុងកុង"
@@ -930,7 +942,7 @@
                 "exemplarCity": "ហូវ"
               },
               "Irkutsk": {
-                "exemplarCity": "អ៊ីឃឺត"
+                "exemplarCity": "អៀរគុតស្កិ៍"
               },
               "Jakarta": {
                 "exemplarCity": "ហ្សាការតា"
@@ -987,13 +999,13 @@
                 "exemplarCity": "នីកូស៊ី"
               },
               "Novokuznetsk": {
-                "exemplarCity": "ណូវ៉ូឃូសណេត"
+                "exemplarCity": "ណូវ៉ូឃូសណេតស្កិ៍"
               },
               "Novosibirsk": {
                 "exemplarCity": "ណូវ៉ូស៊ីប៊ឺក"
               },
               "Omsk": {
-                "exemplarCity": "អ៊ូម"
+                "exemplarCity": "អូមស្កិ៍"
               },
               "Oral": {
                 "exemplarCity": "អូរ៉ាល់"
@@ -1011,7 +1023,7 @@
                 "exemplarCity": "កាតា"
               },
               "Qyzylorda": {
-                "exemplarCity": "កីស៊ីឡូដា"
+                "exemplarCity": "គីហ្ស៊ីឡូដា"
               },
               "Rangoon": {
                 "exemplarCity": "រ៉ង់ហ្គូន"
@@ -1050,7 +1062,7 @@
                 "exemplarCity": "ប៊ីលីស៊ី"
               },
               "Tehran": {
-                "exemplarCity": "តេអេរ៉ង់"
+                "exemplarCity": "តេហេរ៉ង់"
               },
               "Thimphu": {
                 "exemplarCity": "ធីមភូ"
@@ -1059,7 +1071,7 @@
                 "exemplarCity": "តូក្យូ"
               },
               "Tomsk": {
-                "exemplarCity": "ថមស៍"
+                "exemplarCity": "ថមស្កិ៍"
               },
               "Ulaanbaatar": {
                 "exemplarCity": "អ៊ូឡង់បាទ័រ"
@@ -1068,16 +1080,16 @@
                 "exemplarCity": "អ៊ូរាំហ្គី"
               },
               "Ust-Nera": {
-                "exemplarCity": "អ៊ូសណេរ៉ា"
+                "exemplarCity": "អូស្តណេរ៉ា"
               },
               "Vientiane": {
                 "exemplarCity": "វៀងចន្ទន៍"
               },
               "Vladivostok": {
-                "exemplarCity": "វ័រលាដីវ៉ូស្តុក"
+                "exemplarCity": "វ៉្លាដីវ៉ូស្តុក"
               },
               "Yakutsk": {
-                "exemplarCity": "យ៉ាកូត"
+                "exemplarCity": "យ៉ាគុតស្កិ៍"
               },
               "Yekaterinburg": {
                 "exemplarCity": "យ៉េកាធឺរិនប៊ើក"
@@ -1123,7 +1135,7 @@
             },
             "Australia": {
               "Adelaide": {
-                "exemplarCity": "អាឌីឡៃ"
+                "exemplarCity": "អាដេឡែត"
               },
               "Brisbane": {
                 "exemplarCity": "ប្រីសប៊ែន"
@@ -1164,7 +1176,7 @@
                 "exemplarCity": "អាពី"
               },
               "Auckland": {
-                "exemplarCity": "អកលែន"
+                "exemplarCity": "អកឡែន"
               },
               "Bougainville": {
                 "exemplarCity": "បូហ្គែនវីល"
@@ -1188,7 +1200,7 @@
                 "exemplarCity": "ហ្វីជី"
               },
               "Funafuti": {
-                "exemplarCity": "ហ្វូណាហ្វូទី"
+                "exemplarCity": "ហ៊្វូណាហ៊្វូទី"
               },
               "Galapagos": {
                 "exemplarCity": "ហ្គាឡាប៉ាហ្គោស"
@@ -1209,10 +1221,10 @@
                 "exemplarCity": "ចនស្តុន"
               },
               "Kiritimati": {
-                "exemplarCity": "គីរីទីម៉ាទី"
+                "exemplarCity": "គិរីទីម៉ាទិ"
               },
               "Kosrae": {
-                "exemplarCity": "កូស្រាអ៊ី"
+                "exemplarCity": "កូស្រែ"
               },
               "Kwajalein": {
                 "exemplarCity": "ក្វាហ្សាលៀន"
@@ -1227,10 +1239,10 @@
                 "exemplarCity": "មីតវ៉េ"
               },
               "Nauru": {
-                "exemplarCity": "ណៅរ៉ូ"
+                "exemplarCity": "ណូរូ"
               },
               "Niue": {
-                "exemplarCity": "នុយ"
+                "exemplarCity": "នីវ៉េ"
               },
               "Norfolk": {
                 "exemplarCity": "ណ័រហ្វុក"
@@ -1319,92 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "ម៉ោងសកលដែលមានការសម្រួល"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "ទីក្រុង​មិនស្គាល់"
@@ -1436,7 +1369,7 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​អាហ្វ្រិក​ខាង​លិច",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អាហ្វ្រិក​ខាង​លិច",
-                "daylight": "ម៉ោង​​រដូវ​ក្ដៅ​នៅ​អាហ្វ្រិក​​​ខាងលិច"
+                "daylight": "ម៉ោងនៅ​អាហ្វ្រិក​​​ខាងលិច​​នារដូវ​ក្ដៅ​"
               }
             },
             "Alaska": {
@@ -1448,37 +1381,37 @@
             },
             "Amazon": {
               "long": {
-                "generic": "ម៉ោង​នៅ​អាម៉ាសូន",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អាម៉ាសូន",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អាម៉ាសូន"
+                "generic": "ម៉ោង​នៅ​អាម៉ាហ្សូន",
+                "standard": "ម៉ោងស្តង់ដារ​នៅ​អាម៉ាហ្សូន",
+                "daylight": "ម៉ោង​នៅ​អាម៉ាហ្សូននារដូវក្តៅ"
               }
             },
             "America_Central": {
               "long": {
-                "generic": "ម៉ោង​ភាគ​កណ្ដាល​នៅ​អាមេរិក​ខាង​ជើង",
-                "standard": "ម៉ោង​ស្តង់ដារ​ភាគ​កណ្ដាល​នៅ​អាមេរិក​ខាង​ជើង",
-                "daylight": "ម៉ោង​ពេល​ថ្ងៃ​ភាគ​កណ្ដាល​នៅ​អាមេរិក​ខាង​ជើង"
+                "generic": "ម៉ោង​​នៅ​ទ្វីបអាមេរិក​ខាង​ជើងភាគកណ្តាល",
+                "standard": "ម៉ោង​​ស្តង់ដារនៅ​ទ្វីបអាមេរិក​ខាង​ជើងភាគកណ្តាល",
+                "daylight": "ម៉ោង​​ពេលថ្ងៃនៅ​ទ្វីបអាមេរិក​ខាង​ជើងភាគកណ្តាល"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "ម៉ោង​ភាគ​ខាង​កើត​នៅ​អាមេរិក​ខាង​ជើង",
-                "standard": "ម៉ោង​ស្តង់ដារ​ភាគ​ខាង​កើត​នៅ​អាមេរិក​ខាង​ជើង",
-                "daylight": "ម៉ោង​ពេល​ថ្ងៃ​ភាគខាង​កើតនៅ​អាមេរិក​ខាង​ជើង"
+                "generic": "ម៉ោងនៅទ្វីបអាមរិកខាងជើងភាគខាងកើត",
+                "standard": "ម៉ោងស្តង់ដារនៅទ្វីបអាមេរិកខាងជើងភាគខាងកើត",
+                "daylight": "ម៉ោងពេលថ្ងៃនៅទ្វីបអាមេរិកខាងជើងភាគខាងកើត"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "ម៉ោង​នៅ​តំបន់​ភ្នំ​អាមេរិក​ភាគ​ខាង​ជើង",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​តំបន់​ភ្នំ​អាមេរិក​ខាង​ជើង",
-                "daylight": "ម៉ោង​ពេល​ថ្ងៃ​នៅ​តំបន់​ភ្នំ​អាមេរិក​ភាគ​ខាង​ជើង"
+                "generic": "ម៉ោង​នៅតំបន់ភ្នំនៃទ្វីប​អាមេរិក​​​ខាង​ជើង",
+                "standard": "ម៉ោងស្តង់ដារ​នៅតំបន់ភ្នំនៃទ្វីប​អាមេរិក​​​ខាង​ជើង",
+                "daylight": "ម៉ោង​ពេលថ្ងៃនៅតំបន់ភ្នំនៃទ្វីប​អាមេរិក​​​ខាង​ជើង"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "ម៉ោង​ភាគ​ខាង​លិច​នៅ​អាមរិក​ខាង​ជើង",
-                "standard": "ម៉ោង​ស្តង់ដារ​ភាគ​ខាង​លិច​នៅ​អាមេរិក​ខាង​ជើង",
-                "daylight": "ម៉ោង​ពេល​ថ្ងៃ​​ភាគ​ខាងលិច​នៅ​អាមេរិក​ភាគ​ខាង​ជើង"
+                "generic": "ម៉ោង​​នៅទ្វីប​អាមរិក​ខាង​ជើងភាគខាងលិច",
+                "standard": "ម៉ោងស្តង់ដារ​​​នៅទ្វីប​អាមរិក​ខាង​ជើងភាគខាងលិច",
+                "daylight": "ម៉ោង​​ពេលថ្ងៃនៅទ្វីប​អាមរិក​ខាង​ជើងភាគខាងលិច"
               }
             },
             "Apia": {
@@ -1497,23 +1430,23 @@
             },
             "Argentina": {
               "long": {
-                "generic": "ម៉ោង​នៅ​អាសង់ទីន",
-                "standard": "ម៉ោង​​ស្តង់ដារ​នៅ​អាសង់ទីន",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អាសង់ទីន"
+                "generic": "ម៉ោង​នៅ​អាហ្សង់ទីន",
+                "standard": "ម៉ោងស្តង់ដារ​នៅ​អាហ្សង់ទីន",
+                "daylight": "ម៉ោង​នៅ​អាហ្សង់ទីននារដូវក្តៅ"
               }
             },
             "Argentina_Western": {
               "long": {
-                "generic": "ម៉ោង​នៅ​អាសង់​ទីន​​ខាង​លិច",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អាសង់ទីន​​ខាង​លិច",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អាសង់ទីន​​ខាង​លិច"
+                "generic": "ម៉ោង​នៅ​អាហ្សង់ទីនភាគខាងលិច",
+                "standard": "ម៉ោងស្តង់ដារ​នៅ​អាហ្សង់ទីនភាគខាងលិច",
+                "daylight": "ម៉ោង​នៅ​អាហ្សង់ទីនភាគខាងលិចនារដូវក្តៅ"
               }
             },
             "Armenia": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អាមេនី",
                 "standard": "ម៉ោង​ស្ដង់ដារ​នៅ​អាមេនី",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អាមេនី"
+                "daylight": "ម៉ោង​នៅ​អាមេនីនារដូវ​ក្ដៅ​"
               }
             },
             "Atlantic": {
@@ -1555,26 +1488,26 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​អាស៊ែបៃហ្សង់",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អាស៊ែបៃហ្សង់",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អាស៊ែបៃហ្សង់"
+                "daylight": "ម៉ោង​​នៅ​អាស៊ែបៃហ្សង់នារដូវ​ក្ដៅ"
               }
             },
             "Azores": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អេហ្សស",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អេហ្សស",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អេហ្សស"
+                "daylight": "ម៉ោង​​នៅ​អេហ្សសនារដូវ​ក្ដៅ"
               }
             },
             "Bangladesh": {
               "long": {
                 "generic": "ម៉ោង​នៅ​បង់ក្លាដែស",
                 "standard": "ម៉ោង​ស្ដង់ដារ​នៅ​បង់ក្លាដែស",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​បង់ក្លាដែស"
+                "daylight": "ម៉ោង​​នៅ​បង់ក្លាដែសនារដូវ​ក្ដៅ"
               }
             },
             "Bhutan": {
               "long": {
-                "standard": "ម៉ោងនៅប៊ូតាន"
+                "standard": "ម៉ោងនៅប៊ូតង់"
               }
             },
             "Bolivia": {
@@ -1586,24 +1519,24 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​ប្រាស៊ីលីយ៉ា",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ប្រាស៊ីលីយ៉ា",
-                "daylight": "ម៉ោង​​រដូវ​ក្ដៅ​នៅ​ប្រាស៊ីលីយ៉ា"
+                "daylight": "ម៉ោង​នៅ​ប្រាស៊ីលីយ៉ានា​​រដូវ​ក្ដៅ"
               }
             },
             "Brunei": {
               "long": {
-                "standard": "ម៉ោងនៅប្រ៊ុយណេដារូសាឡឹម"
+                "standard": "ម៉ោងនៅព្រុយណេដារូសាឡឹម"
               }
             },
             "Cape_Verde": {
               "long": {
                 "generic": "ម៉ោង​នៅ​កាប់វែរ",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​កាប់វែរ",
-                "daylight": "ម៉ោង​​រដូវ​ក្ដៅនៅ​កាប់វែរ"
+                "daylight": "ម៉ោង​​នៅ​កាប់វែរនារដូវ​ក្ដៅ"
               }
             },
             "Chamorro": {
               "long": {
-                "standard": "ម៉ោង​នៅ​ចាំម៉ូរ៉ូ"
+                "standard": "ម៉ោង​ស្តង់ដារនៅ​ចាំម៉ូរ៉ូ"
               }
             },
             "Chatham": {
@@ -1615,9 +1548,9 @@
             },
             "Chile": {
               "long": {
-                "generic": "ម៉ោងនៅឈីលី",
-                "standard": "ម៉ោងស្តង់ដារនៅឈីលី",
-                "daylight": "ម៉ោងរដូវក្តៅនៅឈីលី"
+                "generic": "ម៉ោងនៅស៊ីលី",
+                "standard": "ម៉ោងស្តង់ដារនៅស៊ីលី",
+                "daylight": "ម៉ោងនៅស៊ីលីនារដូវក្តៅ"
               }
             },
             "China": {
@@ -1631,7 +1564,7 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​ឆូបាល់សាន",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ឆូបាល់សាន",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​ឆូបាល់សាន"
+                "daylight": "ម៉ោង​នៅ​ឆូបាល់សាននារដូវ​ក្ដៅ​"
               }
             },
             "Christmas": {
@@ -1641,21 +1574,21 @@
             },
             "Cocos": {
               "long": {
-                "standard": "ម៉ោង​នៅ​កោះ​កូកូស"
+                "standard": "ម៉ោង​នៅ​ប្រជុំកោះ​កូកូស"
               }
             },
             "Colombia": {
               "long": {
                 "generic": "ម៉ោង​នៅ​កូឡុំប៊ី",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​កូឡុំប៊ី",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​កូឡុំប៊ី"
+                "daylight": "ម៉ោង​នៅ​កូឡុំប៊ីនា​រដូវ​ក្ដៅ"
               }
             },
             "Cook": {
               "long": {
-                "generic": "ម៉ោង​នៅ​កោះ​ខូក",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​កោះ​ខូក",
-                "daylight": "ម៉ោង​​ពាក់កណ្ដាល​រដូវ​ក្ដៅ​នៅ​កោះ​ខូក"
+                "generic": "ម៉ោង​នៅប្រជុំ​កោះ​ខូក",
+                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ប្រជុំកោះ​ខូក",
+                "daylight": "ម៉ោង​នៅប្រជុំ​កោះ​ខូកនាពាក់កណ្ដាល​រដូវ​​​ក្ដៅ"
               }
             },
             "Cuba": {
@@ -1682,9 +1615,9 @@
             },
             "Easter": {
               "long": {
-                "generic": "ម៉ោង​នៅ​កោះ​​ខាង​កើត",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​កោះ​​​ខាង​កើត",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​កោះ​​ខាង​កើត"
+                "generic": "ម៉ោងនៅកោះអ៊ីស្ទ័រ",
+                "standard": "ម៉ោងស្តង់ដារនៅកោះអ៊ីស្ទ័រ",
+                "daylight": "ម៉ោងនៅកោះអ៊ីស្ទ័រនារដូវក្តៅ"
               }
             },
             "Ecuador": {
@@ -1696,50 +1629,50 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​អឺរ៉ុប​កណ្ដាល",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អឺរ៉ុប​កណ្ដាល",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អឺរ៉ុប​កណ្ដាល"
+                "daylight": "ម៉ោង​នៅ​អឺរ៉ុប​កណ្ដាលនា​រដូវ​ក្ដៅ"
               }
             },
             "Europe_Eastern": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អឺរ៉ុប​​ខាង​កើត​",
                 "standard": "ម៉ោង​ស្តង់ដារ​​នៅ​អឺរ៉ុប​​ខាង​កើត​",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អឺរ៉ុប​​ខាង​កើត​"
+                "daylight": "ម៉ោង​នៅ​អឺរ៉ុប​​ខាង​កើត​នា​រដូវ​ក្ដៅ"
               }
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "ម៉ោង​នៅ​ចុងភាគ​ខាង​កើត​អឺរ៉ុប​"
+                "standard": "ម៉ោង​នៅ​ចុងបូព៌ានៃទ្វីប​អឺរ៉ុប​"
               }
             },
             "Europe_Western": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អឺរ៉ុប​ខាង​លិច",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អឺរ៉ុប​ខាង​លិច",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អឺរ៉ុប​ខាង​លិច"
+                "daylight": "ម៉ោង​នៅ​អឺរ៉ុប​ខាង​លិចនារដូវ​ក្ដៅ​"
               }
             },
             "Falkland": {
               "long": {
-                "generic": "ម៉ោង​នៅ​កោះ​ហ្វក់ឡែន",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​កោះ​ហ្វក់ឡែន",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​កោះ​ហ្វក់ឡែន"
+                "generic": "ម៉ោង​នៅ​ប្រជុំកោះ​ហ្វក់ឡែន",
+                "standard": "ម៉ោង​ស្តង់ដារ​នៅប្រជុំ​កោះ​ហ្វក់ឡែន",
+                "daylight": "ម៉ោង​​នៅប្រជុំ​កោះ​ហ្វក់ឡែននារដូវ​ក្ដៅ"
               }
             },
             "Fiji": {
               "long": {
                 "generic": "ម៉ោង​នៅ​ហ្វីជី",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ហ៊្វីជី",
-                "daylight": "ម៉ោង​​រដូវ​ក្ដៅ​នៅ​ហ៊្វីជី"
+                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ហ្វីជី",
+                "daylight": "ម៉ោង​នៅ​​ហ្វីជីនា​​រដូវ​ក្ដៅ"
               }
             },
             "French_Guiana": {
               "long": {
-                "standard": "ម៉ោង​នៅ​ឃ្វីយ៉ាន​បារាំង"
+                "standard": "ម៉ោង​នៅ​ហ្គីយ៉ាន​បារាំង"
               }
             },
             "French_Southern": {
               "long": {
-                "standard": "ម៉ោង​នៅ​អែតាឃីត និង​បារាំង​ខាង​ត្បូង"
+                "standard": "ម៉ោងនៅបារាំងខាងត្បូង និងនៅអង់តាំងទិក"
               }
             },
             "Galapagos": {
@@ -1756,7 +1689,7 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​ហ្សកហ្ស៊ី",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ហ្សកហ្ស៊ី",
-                "daylight": "ម៉ោង​​រដូវ​ក្ដៅ​នៅ​ហ្សកហ្ស៊ី"
+                "daylight": "ម៉ោង​នៅ​ហ្សកហ្ស៊ីនា​​រដូវ​ក្ដៅ"
               }
             },
             "Gilbert_Islands": {
@@ -1773,14 +1706,14 @@
               "long": {
                 "generic": "ម៉ោង​​នៅ​ហ្គ្រីនលែន​ខាង​កើត",
                 "standard": "ម៉ោង​​​ស្តង់ដារ​នៅ​​ហ្គ្រីនលែន​ខាង​កើត",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​ហ្គ្រីនលែនខាង​កើត"
+                "daylight": "ម៉ោង​នៅ​ហ្គ្រីនលែនខាង​កើតនា​រដូវ​ក្ដៅ"
               }
             },
             "Greenland_Western": {
               "long": {
                 "generic": "ម៉ោងនៅហ្គ្រីនលែនខាងលិច",
                 "standard": "ម៉ោងស្តង់ដារនៅហ្គ្រីនលែនខាងលិច",
-                "daylight": "ម៉ោងរដូវក្តៅនៅហ្គ្រីនលែនខាងលិច"
+                "daylight": "ម៉ោងនៅហ្គ្រីនលែនខាងលិចនារដូវក្តៅ"
               }
             },
             "Gulf": {
@@ -1790,7 +1723,7 @@
             },
             "Guyana": {
               "long": {
-                "standard": "ម៉ោង​នៅ​ឃ្វីយ៉ាន"
+                "standard": "ម៉ោង​នៅ​ហ្គីយ៉ាន"
               }
             },
             "Hawaii_Aleutian": {
@@ -1804,19 +1737,19 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​ហុងកុង",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ហុងកុង",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​ហុងកុង"
+                "daylight": "ម៉ោងនៅ​ហុងកុងនា​រដូវ​ក្ដៅ​"
               }
             },
             "Hovd": {
               "long": {
                 "generic": "ម៉ោង​នៅ​ហូវ",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅហូវ",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​ហូវ"
+                "daylight": "ម៉ោងនៅ​ហូវនា​រដូវ​ក្ដៅ​"
               }
             },
             "India": {
               "long": {
-                "standard": "ម៉ោង​នៅ​ឥណ្ឌា"
+                "standard": "ម៉ោង​ស្តង់ដារនៅ​ឥណ្ឌា"
               }
             },
             "Indian_Ocean": {
@@ -1853,9 +1786,9 @@
             },
             "Irkutsk": {
               "long": {
-                "generic": "ម៉ោង​នៅ​អ៊ីគុត",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អ៊ីគុត",
-                "daylight": "ម៉ោង​នៅ​អ៊ីគុត​រដូវ​ក្ដៅ"
+                "generic": "ម៉ោងនៅអៀរគុតស្កិ៍",
+                "standard": "ម៉ោងស្តង់ដារនៅអៀរគុតស្កិ៍",
+                "daylight": "ម៉ោងនៅអៀរគុតស្កិ៍នារដូវក្តៅ"
               }
             },
             "Israel": {
@@ -1898,12 +1831,12 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​ក្រាណូយ៉ាស",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ក្រាណូយ៉ាស",
-                "daylight": "ម៉ោង​នៅ​ក្រាណូយ៉ាស​រដូវ​ក្ដៅ"
+                "daylight": "ម៉ោង​នៅ​ក្រាណូយ៉ាសនា​រដូវ​ក្ដៅ"
               }
             },
             "Kyrgystan": {
               "long": {
-                "standard": "ម៉ោងនៅគៀរហ្គីស្តង់"
+                "standard": "ម៉ោងនៅកៀហ្ស៊ីស៊ីស្ថាន"
               }
             },
             "Line_Islands": {
@@ -1927,7 +1860,7 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​ម៉ាហ្កាដាន",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ម៉ាហ្កាដាន",
-                "daylight": "ម៉ោង​នៅ​ម៉ាហ្កាដាន​រដូវ​ក្ដៅ"
+                "daylight": "ម៉ោង​នៅ​ម៉ាហ្កាដាន​នារដូវ​ក្ដៅ"
               }
             },
             "Malaysia": {
@@ -1965,34 +1898,34 @@
             "Mexico_Northwest": {
               "long": {
                 "generic": "ម៉ោង​នៅ​ម៉ិកស៊ិកភាគពាយព្យ",
-                "standard": "ម៉ោង​ស្តង់ដា​នៅ​ម៉ិកស៊ិកភាគពាយព្យ",
+                "standard": "ម៉ោង​ស្តង់ដារនៅ​ម៉ិកស៊ិកភាគពាយព្យ",
                 "daylight": "ម៉ោង​ពេល​ថ្ងៃ​នៅ​ម៉ិកស៊ិកភាគពាយព្យ"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "ម៉ោង​នៅ​ប៉ាសីុហ្វិក​ម៉ិកស៊ិក",
-                "standard": "ម៉ោង​ស្តង់ដា​នៅ​ប៉ាសីុហ្វិក​ម៉ិកស៊ិក",
-                "daylight": "ម៉ោង​ពេល​ថ្ងៃ​នៅ​ប៉ាសីុហ្វិក​ម៉ិកស៊ិក"
+                "generic": "ម៉ោង​នៅ​ប៉ាស៊ីហ្វិក​ម៉ិកស៊ិក",
+                "standard": "ម៉ោង​ស្តង់ដា​នៅ​ប៉ាស៊ីហ្វិក​ម៉ិកស៊ិក",
+                "daylight": "ម៉ោង​ពេល​ថ្ងៃ​នៅ​ប៉ាស៊ីហ្វិក​ម៉ិកស៊ិក"
               }
             },
             "Mongolia": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អ៊ូឡាន​បាទូ",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អ៊ូឡាន​បាទូ",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អ៊ូឡាន​បាទូ"
+                "daylight": "ម៉ោងនៅ​អ៊ូឡាន​បាទូនា​រដូវ​ក្ដៅ​"
               }
             },
             "Moscow": {
               "long": {
                 "generic": "ម៉ោង​នៅ​មូស្គូ",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​មូស្គូ",
-                "daylight": "ម៉ោង​នៅ​មូស្គូ​ រដូវ​ក្ដៅ"
+                "daylight": "ម៉ោង​នៅ​មូស្គូ​នារដូវ​ក្ដៅ"
               }
             },
             "Myanmar": {
               "long": {
-                "standard": "ម៉ោង​នៅ​ភូមា"
+                "standard": "ម៉ោង​នៅ​មីយ៉ាន់ម៉ា"
               }
             },
             "Nauru": {
@@ -2007,9 +1940,9 @@
             },
             "New_Caledonia": {
               "long": {
-                "generic": "ម៉ោង​នៅ​កាឡេដូនៀ",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​កាឡេដូនៀ",
-                "daylight": "ម៉ោង​នៅ​ញូ​កាឡេដូនៀ រដូវ​ក្ដៅ"
+                "generic": "ម៉ោង​នៅណូវ៉ែលកាឡេដូនៀ",
+                "standard": "ម៉ោងស្តង់ដារ​នៅណូវ៉ែលកាឡេដូនៀ",
+                "daylight": "ម៉ោង​នៅណូវ៉ែលកាឡេដូនៀនារដូវក្តៅ"
               }
             },
             "New_Zealand": {
@@ -2021,14 +1954,14 @@
             },
             "Newfoundland": {
               "long": {
-                "generic": "ម៉ោង​​នៅ​ញូហ្វោនឡែន",
-                "standard": "ម៉ោង​​ស្តង់ដារ​​នៅ​ញូហ្វោនឡែន",
-                "daylight": "ម៉ោង​ពេលថ្ងៃ​នៅ​ញូហ្វោនឡែន"
+                "generic": "ម៉ោង​​នៅញូវហ្វោនឡែន",
+                "standard": "ម៉ោង​​ស្តង់ដារ​​នៅ​ញូវហ្វោនឡែន",
+                "daylight": "ម៉ោង​ពេលថ្ងៃ​នៅ​ញូវហ្វោនឡែន"
               }
             },
             "Niue": {
               "long": {
-                "standard": "ម៉ោងនៅ​ដ្យូអៀ"
+                "standard": "ម៉ោងនៅ​នីវ៉េ"
               }
             },
             "Norfolk": {
@@ -2038,30 +1971,30 @@
             },
             "Noronha": {
               "long": {
-                "generic": "ម៉ោង​នៅ​ហ្វឺណាន់ដូ​ដឺណូរ៉ុនហា",
-                "standard": "ម៉ោង​​ស្តង់ដារ​នៅ​ហ្វឺណាន់ដូ​ដឺណូរ៉ុនហា",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​ហ្វឺណាន់ដូ​ដឺណូរ៉ុនហា"
+                "generic": "ម៉ោង​នៅហ្វ៊ែណាន់ដូ​ដឺណូរ៉ូញ៉ា",
+                "standard": "ម៉ោង​ស្តង់ដារនៅហ្វ៊ែណាន់ដូ​ដឺណូរ៉ូញ៉ា",
+                "daylight": "ម៉ោង​នៅហ្វ៊ែណាន់ដូ​ដឺណូរ៉ូញ៉ានារដូវក្តៅ"
               }
             },
             "Novosibirsk": {
               "long": {
                 "generic": "ម៉ោង​នៅ​ណូវ៉ូស៊ីប៊ីក",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ណូវ៉ូស៊ីប៊ីក",
-                "daylight": "ម៉ោង​នៅ​ណូវ៉ូស៊ីប៊ីក​រដូវ​ក្ដៅ"
+                "daylight": "ម៉ោង​នៅ​ណូវ៉ូស៊ីប៊ីកនា​រដូវ​ក្ដៅ"
               }
             },
             "Omsk": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អូម",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អូម",
-                "daylight": "ម៉ោង​នៅ​អូម​រដូវ​ក្ដៅ"
+                "daylight": "ម៉ោង​នៅ​អូមនា​រដូវ​ក្ដៅ"
               }
             },
             "Pakistan": {
               "long": {
                 "generic": "ម៉ោង​នៅ​ប៉ាគីស្ថាន",
                 "standard": "ម៉ោង​ស្ដង់ដារ​នៅ​ប៉ាគីស្ថាន",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​ប៉ាគីស្ថាន"
+                "daylight": "ម៉ោងនៅ​ប៉ាគីស្ថាននា​រដូវ​ក្ដៅ​"
               }
             },
             "Palau": {
@@ -2071,28 +2004,28 @@
             },
             "Papua_New_Guinea": {
               "long": {
-                "standard": "ម៉ោង​នៅ​ប៉ាបៅញូកីនៀ"
+                "standard": "ម៉ោង​នៅប៉ាពូអាស៊ី នូវែលហ្គីណេ"
               }
             },
             "Paraguay": {
               "long": {
                 "generic": "ម៉ោង​នៅ​ប៉ារ៉ាហ្គាយ",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ប៉ារ៉ាហ្គាយ",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅប៉ារ៉ាហ្គាយ"
+                "daylight": "ម៉ោង​នៅប៉ារ៉ាហ្គាយនា​រដូវ​ក្ដៅ"
               }
             },
             "Peru": {
               "long": {
                 "generic": "ម៉ោង​នៅ​ប៉េរូ",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ប៉េរូ",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​ប៉េរូ"
+                "daylight": "ម៉ោង​​នៅ​ប៉េរូនារដូវ​ក្ដៅ"
               }
             },
             "Philippines": {
               "long": {
                 "generic": "ម៉ោង​នៅ​ហ្វីលីពីន",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​ហ្វីលីពីន",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​​នៅ​ហ្វីលីពីន"
+                "daylight": "ម៉ោង​​នៅ​ហ្វីលីពីននា​រដូវ​ក្ដៅ"
               }
             },
             "Phoenix_Islands": {
@@ -2136,14 +2069,14 @@
               "long": {
                 "generic": "ម៉ោង​នៅ​សាក់ខាលីន",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​សាក់ខាលីន",
-                "daylight": "ម៉ោង​នៅ​សាក់ខាលីន​រដួវ​ក្ដៅ"
+                "daylight": "ម៉ោង​នៅ​សាក់ខាលីននា​រដូវ​ក្ដៅ"
               }
             },
             "Samoa": {
               "long": {
-                "generic": "ម៉ោង​នៅ​សាម៉ៅ",
-                "standard": "ម៉ោង​ស្តង់ដារនៅ​សាម៉ៅ",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​សាម៉ៅ"
+                "generic": "ម៉ោង​នៅ​សាម័រ",
+                "standard": "ម៉ោង​ស្តង់ដារនៅ​សាម័រ",
+                "daylight": "ម៉ោង​នៅ​សាម័រនារដូវក្តៅ"
               }
             },
             "Seychelles": {
@@ -2190,7 +2123,7 @@
             },
             "Tajikistan": {
               "long": {
-                "standard": "ម៉ោងនៅតាជីគីស្តង់"
+                "standard": "ម៉ោងនៅតាជីគីស្ថាន"
               }
             },
             "Tokelau": {
@@ -2200,9 +2133,9 @@
             },
             "Tonga": {
               "long": {
-                "generic": "ម៉ោង​នៅ​តុងកា",
-                "standard": "ម៉ោង​ស្តង់ដារ​​នៅ​តុងកា",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​តុងកា"
+                "generic": "ម៉ោង​នៅ​តុងហ្គា",
+                "standard": "ម៉ោង​ស្តង់ដារ​​នៅ​តុងហ្គា",
+                "daylight": "ម៉ោង​​នៅ​តុងហ្គានារដូវ​ក្ដៅ"
               }
             },
             "Truk": {
@@ -2219,28 +2152,28 @@
             },
             "Tuvalu": {
               "long": {
-                "standard": "ម៉ោង​នៅ​ទុយវ៉ាឡុ"
+                "standard": "ម៉ោង​នៅ​ទុយវ៉ាលូ"
               }
             },
             "Uruguay": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អ៊ុយរូហ្គាយ",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អ៊ុយរូហ្គាយ",
-                "daylight": "ម៉ោង​​រដូវ​ក្ដៅ​នៅ​អ៊ុយរូហ្គាយ"
+                "daylight": "ម៉ោង​នៅ​អ៊ុយរូហ្គាយនា​​រដូវ​ក្ដៅ"
               }
             },
             "Uzbekistan": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អ៊ូសបេគីស្ថាន",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អ៊ូសបេគីស្ថាន",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​អ៊ូសបេគីស្ថាន"
+                "daylight": "ម៉ោង​នៅ​អ៊ូសបេគីស្ថាននារដូវ​ក្ដៅ​"
               }
             },
             "Vanuatu": {
               "long": {
                 "generic": "ម៉ោង​នៅ​វ៉ានូទូ",
                 "standard": "ម៉ោង​​ស្តង់ដារ​នៅ​វ៉ានូទូ",
-                "daylight": "ម៉ោង​រដូវ​ក្ដៅ​នៅ​វ៉ានូទូ"
+                "daylight": "ម៉ោង​នៅ​វ៉ានូទូនារដូវ​ក្ដៅ​"
               }
             },
             "Venezuela": {
@@ -2250,16 +2183,16 @@
             },
             "Vladivostok": {
               "long": {
-                "generic": "ម៉ោង​នៅ​វ៉្លាឌីវ៉ូស្តក",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​វ៉្លាឌីវ៉ូស្តក",
-                "daylight": "ម៉ោង​នៅ​វ៉្លាឌីវ៉ូស្តក​រដូវ​ក្ដៅ"
+                "generic": "ម៉ោង​នៅ​វ៉្លាឌីវ៉ូស្តុក",
+                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​វ៉្លាឌីវ៉ូស្តុក",
+                "daylight": "ម៉ោង​នៅ​វ៉្លាឌីវ៉ូស្តុកនា​រដូវ​ក្ដៅ"
               }
             },
             "Volgograd": {
               "long": {
-                "generic": "ម៉ោង​នៅ​វ៉ូហ្កាក្រាត",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​វ៉ូហ្កាក្រាត",
-                "daylight": "ម៉ោង​នៅ​វ៉ូហ្កាក្រាត​រដូវ​ក្ដៅ"
+                "generic": "ម៉ោង​នៅ​វ៉ូហ្កោក្រាដ",
+                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​វ៉ូហ្កោក្រាដ",
+                "daylight": "ម៉ោង​នៅ​វ៉ូហ្កោក្រាដនា​រដូវ​ក្ដៅ"
               }
             },
             "Vostok": {
@@ -2274,21 +2207,21 @@
             },
             "Wallis": {
               "long": {
-                "standard": "ម៉ោង​នៅ​វ៉ាលីស និង​ផូទូណា"
+                "standard": "ម៉ោង​នៅ​វ៉ាលីស និងហ្វ៊ុទូណា"
               }
             },
             "Yakutsk": {
               "long": {
-                "generic": "ម៉ោង​នៅ​យ៉ាគុត",
-                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​យ៉ាគុត",
-                "daylight": "ម៉ោង​នៅ​យ៉ាគុត​រដូវ​ក្ដៅ"
+                "generic": "ម៉ោង​នៅ​យ៉ាគុតស្កិ៍",
+                "standard": "ម៉ោង​ស្តង់ដារ​នៅ​យ៉ាគុតស្កិ៍",
+                "daylight": "ម៉ោង​នៅ​យ៉ាគុតស្កិ៍នា​រដូវ​ក្ដៅ"
               }
             },
             "Yekaterinburg": {
               "long": {
                 "generic": "ម៉ោង​នៅ​អ៊ិខាធឺរីនប៊័ក",
                 "standard": "ម៉ោង​ស្តង់ដារ​នៅ​អ៊ិខាធឺរីនប៊័ក",
-                "daylight": "ម៉ោង​នៅ​អ៊ិខាធឺរីនប៊័ក​រដួវ​​ក្ដៅ"
+                "daylight": "ម៉ោង​នៅ​អ៊ិខាធឺរីនប៊័កនា​រដូវ​​ក្ដៅ"
               }
             }
           }

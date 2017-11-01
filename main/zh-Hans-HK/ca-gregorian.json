@@ -3,8 +3,8 @@
     "zh-Hans-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "zh",
         "script": "Hans",
@@ -229,7 +229,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -240,7 +240,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -264,7 +264,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -333,8 +333,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "Bh时",
+                "Bhm": "Bh:mm",
+                "Bhms": "Bh:mm:ss",
                 "d": "d日",
                 "E": "ccc",
+                "EBhm": "EBh:mm",
+                "EBhms": "EBh:mm:ss",
                 "Ed": "d日E",
                 "Ehm": "Eah:mm",
                 "EHm": "EHH:mm",
@@ -377,7 +382,7 @@
                 "yMMMM": "y年M月",
                 "yQQQ": "y年第Q季度",
                 "yQQQQ": "y年第Q季度",
-                "yw-count-other": "y年第w周"
+                "yw-count-other": "Y年第w周"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

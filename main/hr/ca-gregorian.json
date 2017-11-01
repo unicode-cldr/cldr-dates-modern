@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hr"
       },
@@ -249,7 +249,7 @@
                   "noon": "podne",
                   "pm": "PM",
                   "morning1": "ujutro",
-                  "afternoon1": "popodne",
+                  "afternoon1": "poslije podne",
                   "evening1": "navečer",
                   "night1": "noću"
                 }
@@ -325,8 +325,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d.",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -370,9 +375,9 @@
                 "yMMMM": "LLLL y.",
                 "yQQQ": "QQQ y.",
                 "yQQQQ": "QQQQ y.",
-                "yw-count-one": "w. 'tjedan' 'u' y.",
-                "yw-count-few": "w. 'tjedan' 'u' y.",
-                "yw-count-other": "w. 'tjedan' 'u' y."
+                "yw-count-one": "w. 'tjedan' 'u' Y.",
+                "yw-count-few": "w. 'tjedan' 'u' Y.",
+                "yw-count-other": "w. 'tjedan' 'u' Y."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

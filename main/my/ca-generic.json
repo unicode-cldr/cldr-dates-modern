@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "my"
       },
@@ -310,8 +310,8 @@
             "timeFormats": {
               "full": "zzzz HH:mm:ss",
               "long": "z HH:mm:ss",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "medium": "B HH:mm:ss",
+              "short": "B H:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
@@ -319,30 +319,35 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
-                "Ed": "d Eနေ့",
-                "Ehm": "E h:mm a",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
+                "Ed": "d E",
+                "Ehm": "E a h:mm",
                 "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
+                "Ehms": "E a h:mm:ss",
                 "EHms": "E HH:mm:ss",
                 "Gy": "G y",
-                "GyMMM": "G MMM y",
+                "GyMMM": "G y MMM",
                 "GyMMMd": "G d MMM y",
                 "GyMMMEd": "G d MMM y Eနေ့",
-                "h": "h a",
+                "h": "a h",
                 "H": "HH",
-                "hm": "h:mm a",
+                "hm": "a h:mm",
                 "Hm": "HH:mm",
-                "hms": "h:mm:ss a",
+                "hms": "a h:mm:ss",
                 "Hms": "HH:mm:ss",
                 "M": "L",
                 "Md": "d/M",
                 "MEd": "d/M Eနေ့",
                 "MMM": "LLL",
-                "MMMd": "d MMM",
-                "MMMEd": "MMM d Eနေ့",
-                "MMMMd": "d MMMM",
+                "MMMd": "MMM d",
+                "MMMEd": "MMM d၊ E",
+                "MMMMd": "MMMM d",
                 "MMMMEd": "MMMM d Eနေ့",
                 "ms": "mm:ss",
                 "y": "G y",
@@ -350,10 +355,10 @@
                 "yyyyM": "G M/y",
                 "yyyyMd": "GGGGG dd/MM/Y",
                 "yyyyMEd": "GGGGG dd/MM/y Eနေ့",
-                "yyyyMMM": "G MMM y",
+                "yyyyMMM": "G y MMM",
                 "yyyyMMMd": "G d MMM y",
                 "yyyyMMMEd": "G d MMM y Eနေ့",
-                "yyyyMMMM": "G MMMM y",
+                "yyyyMMMM": "G y MMMM",
                 "yyyyQQQ": "G y QQQ",
                 "yyyyQQQQ": "G y QQQQ"
               },

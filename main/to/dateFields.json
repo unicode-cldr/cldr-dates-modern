@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "to"
       },
@@ -167,13 +167,13 @@
             "relativePeriod": "the week of {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "uike ʻo e māhina"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "uike ʻoe māhina"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "uk ʻoe mh"
           },
           "day": {
             "displayName": "ʻaho",
@@ -218,31 +218,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ʻaho ʻo e taʻu"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ʻaho ʻoe taʻu"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ʻaho ʻoe taʻu"
           },
           "weekday": {
             "displayName": "ʻaho ʻo e uike"
           },
           "weekday-short": {
-            "displayName": "ʻaho ʻo e uike"
+            "displayName": "ʻaho ʻoe uike"
           },
           "weekday-narrow": {
-            "displayName": "ʻaho ʻo e uike"
+            "displayName": "ʻaho ʻoe uike"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ʻaho ʻo e mahina"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ʻaho ʻo e mahina"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ʻaho ʻo e mahina"
           },
           "sun": {
             "relative-type--1": "Sāpate kuoʻosi",

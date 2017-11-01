@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ga"
       },
@@ -224,16 +224,16 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "a.m.",
-                  "pm": "p.m."
+                  "am": "r.n.",
+                  "pm": "i.n."
                 },
                 "narrow": {
                   "am": "a",
                   "pm": "p"
                 },
                 "wide": {
-                  "am": "a.m.",
-                  "pm": "p.m."
+                  "am": "r.n.",
+                  "pm": "i.n."
                 }
               },
               "stand-alone": {
@@ -289,8 +289,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -333,11 +338,11 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'seachtain' 'a' w 'i' y",
-                "yw-count-two": "'seachtain' 'a' w 'i' y",
-                "yw-count-few": "'seachtain' 'a' w 'i' y",
-                "yw-count-many": "'seachtain' 'a' w 'i' y",
-                "yw-count-other": "'seachtain' 'a' w 'i' y"
+                "yw-count-one": "'seachtain' 'a' w 'i' Y",
+                "yw-count-two": "'seachtain' 'a' w 'i' Y",
+                "yw-count-few": "'seachtain' 'a' w 'i' Y",
+                "yw-count-many": "'seachtain' 'a' w 'i' Y",
+                "yw-count-other": "'seachtain' 'a' w 'i' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

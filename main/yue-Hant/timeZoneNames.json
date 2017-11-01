@@ -1,12 +1,13 @@
 {
   "main": {
-    "yue": {
+    "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13680 $",
+          "_cldrVersion": "32"
         },
-        "language": "yue"
+        "language": "yue",
+        "script": "Hant"
       },
       "dates": {
         "timeZoneNames": {
@@ -14,8 +15,8 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0}時間",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat-type-daylight": "{0}夏令時間",
+          "regionFormat-type-standard": "{0}標準時間",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -375,6 +376,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "波多黎各"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "蓬塔阿雷納斯"
+              },
               "Rainy_River": {
                 "exemplarCity": "雨河鎮"
               },
@@ -634,6 +638,9 @@
               "Sarajevo": {
                 "exemplarCity": "塞拉耶佛"
               },
+              "Saratov": {
+                "exemplarCity": "薩拉托夫"
+              },
               "Simferopol": {
                 "exemplarCity": "辛非洛浦"
               },
@@ -866,6 +873,9 @@
               "Ashgabat": {
                 "exemplarCity": "阿什哈巴特"
               },
+              "Atyrau": {
+                "exemplarCity": "阿特勞"
+              },
               "Baghdad": {
                 "exemplarCity": "巴格達"
               },
@@ -916,6 +926,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "杜桑貝"
+              },
+              "Famagusta": {
+                "exemplarCity": "法馬古斯塔"
               },
               "Gaza": {
                 "exemplarCity": "加薩"
@@ -1319,92 +1332,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "協調世界時間"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "未知城市"
@@ -2184,6 +2118,11 @@
             "Ponape": {
               "long": {
                 "standard": "波納佩時間"
+              }
+            },
+            "Pyongyang": {
+              "long": {
+                "standard": "平壤時間"
               }
             },
             "Qyzylorda": {

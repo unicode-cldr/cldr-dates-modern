@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13717 $",
+          "_cldrVersion": "32"
         },
         "language": "cy"
       },
@@ -91,7 +91,7 @@
             "relative-type-0": "chwarter hwn",
             "relative-type-1": "chwarter nesaf",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-zero": "ymhen {0} o chwarteri",
+              "relativeTimePattern-count-zero": "ymhen {0} chwarter",
               "relativeTimePattern-count-one": "ymhen {0} chwarter",
               "relativeTimePattern-count-two": "ymhen {0} chwarter",
               "relativeTimePattern-count-few": "ymhen {0} chwarter",
@@ -113,12 +113,12 @@
             "relative-type-0": "chwarter hwn",
             "relative-type-1": "chwarter nesaf",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-zero": "ymhen {0} o chwarteri",
-              "relativeTimePattern-count-one": "ymhen {0} o chwarteri",
-              "relativeTimePattern-count-two": "ymhen {0} o chwarteri",
-              "relativeTimePattern-count-few": "ymhen {0} o chwarteri",
-              "relativeTimePattern-count-many": "ymhen {0} o chwarteri",
-              "relativeTimePattern-count-other": "ymhen {0} o chwarteri"
+              "relativeTimePattern-count-zero": "ymhen {0} chwarter",
+              "relativeTimePattern-count-one": "ymhen {0} chwarter",
+              "relativeTimePattern-count-two": "ymhen {0} chwarter",
+              "relativeTimePattern-count-few": "ymhen {0} chwarter",
+              "relativeTimePattern-count-many": "ymhen {0} chwarter",
+              "relativeTimePattern-count-other": "ymhen {0} chwarter"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} o chwarteri yn ôl",
@@ -130,17 +130,17 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "chwarter",
+            "displayName": "chw.",
             "relative-type--1": "chwarter olaf",
             "relative-type-0": "chwarter hwn",
             "relative-type-1": "chwarter nesaf",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-zero": "ymhen {0} o chwarteri",
+              "relativeTimePattern-count-zero": "ymhen {0} chwarter",
               "relativeTimePattern-count-one": "ymhen {0} chwarter",
               "relativeTimePattern-count-two": "ymhen {0} chwarter",
               "relativeTimePattern-count-few": "ymhen {0} chwarter",
               "relativeTimePattern-count-many": "ymhen {0} chwarter",
-              "relativeTimePattern-count-other": "ymhen {0} o chwarteri"
+              "relativeTimePattern-count-other": "ymhen {0} chwarter"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} o chwarteri yn ôl",
@@ -270,8 +270,8 @@
             "relative-type-1": "wythnos nesaf",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} wythnos",
-              "relativeTimePattern-count-one": "ymhen wythnos",
-              "relativeTimePattern-count-two": "ymhen pythefnos",
+              "relativeTimePattern-count-one": "ymhen {0} wythnos",
+              "relativeTimePattern-count-two": "ymhen {0} wythnos",
               "relativeTimePattern-count-few": "ymhen {0} wythnos",
               "relativeTimePattern-count-many": "ymhen {0} wythnos",
               "relativeTimePattern-count-other": "ymhen {0} wythnos"
@@ -287,16 +287,16 @@
             "relativePeriod": "wythnos {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "rhif wythnos yn y mis"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "wythnos y mis"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "wythnos y mis"
           },
           "day": {
-            "displayName": "dydd",
+            "displayName": "diwrnod",
             "relative-type--2": "echdoe",
             "relative-type--1": "ddoe",
             "relative-type-0": "heddiw",
@@ -306,7 +306,7 @@
               "relativeTimePattern-count-zero": "ymhen {0} diwrnod",
               "relativeTimePattern-count-one": "ymhen diwrnod",
               "relativeTimePattern-count-two": "ymhen deuddydd",
-              "relativeTimePattern-count-few": "ymhen tridiau",
+              "relativeTimePattern-count-few": "ymhen {0} diwrnod",
               "relativeTimePattern-count-many": "ymhen {0} diwrnod",
               "relativeTimePattern-count-other": "ymhen {0} diwrnod"
             },
@@ -320,7 +320,7 @@
             }
           },
           "day-short": {
-            "displayName": "dydd",
+            "displayName": "diwrnod",
             "relative-type--2": "echdoe",
             "relative-type--1": "ddoe",
             "relative-type-0": "heddiw",
@@ -330,7 +330,7 @@
               "relativeTimePattern-count-zero": "ymhen {0} diwrnod",
               "relativeTimePattern-count-one": "ymhen diwrnod",
               "relativeTimePattern-count-two": "ymhen deuddydd",
-              "relativeTimePattern-count-few": "ymhen tridiau",
+              "relativeTimePattern-count-few": "ymhen {0} diwrnod",
               "relativeTimePattern-count-many": "ymhen {0} diwrnod",
               "relativeTimePattern-count-other": "ymhen {0} diwrnod"
             },
@@ -344,7 +344,7 @@
             }
           },
           "day-narrow": {
-            "displayName": "dydd",
+            "displayName": "diwrnod",
             "relative-type--2": "echdoe",
             "relative-type--1": "ddoe",
             "relative-type-0": "heddiw",
@@ -352,9 +352,9 @@
             "relative-type-2": "drennydd",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} diwrnod",
-              "relativeTimePattern-count-one": "ymhen diwrnod",
-              "relativeTimePattern-count-two": "ymhen deuddydd",
-              "relativeTimePattern-count-few": "ymhen tridiau",
+              "relativeTimePattern-count-one": "ymhen {0} diwrnod",
+              "relativeTimePattern-count-two": "ymhen {0} diwrnod",
+              "relativeTimePattern-count-few": "ymhen {0} diwrnod",
               "relativeTimePattern-count-many": "ymhen {0} diwrnod",
               "relativeTimePattern-count-other": "ymhen {0} diwrnod"
             },
@@ -368,31 +368,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "rhif y dydd yn y flwyddyn"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "rhif y dydd yn y fl."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dydd y fl."
           },
           "weekday": {
-            "displayName": "dydd o’r wythnos"
+            "displayName": "diwrnod o’r wythnos"
           },
           "weekday-short": {
-            "displayName": "dydd o’r wythnos"
+            "displayName": "diwrnod o’r wythnos"
           },
           "weekday-narrow": {
-            "displayName": "dydd o’r wythnos"
+            "displayName": "diwrnod o’r wythnos"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "diwrnod yn y mis"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "diwrnod yn y mis"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "diwrnod yn y mis"
           },
           "sun": {
             "relative-type--1": "dydd Sul diwethaf",
@@ -401,7 +401,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-one": "ymhen {0} Dydd Sul",
-              "relativeTimePattern-count-two": "ymhen {0} Ddydd Sul",
+              "relativeTimePattern-count-two": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-few": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-many": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-other": "ymhen {0} Dydd Sul"
@@ -409,7 +409,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-one": "{0} Dydd Sul yn ôl",
-              "relativeTimePattern-count-two": "{0} Ddydd Sul yn ôl",
+              "relativeTimePattern-count-two": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-few": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-many": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-other": "{0} Dydd Sul yn ôl"
@@ -422,7 +422,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-one": "ymhen {0} Dydd Sul",
-              "relativeTimePattern-count-two": "ymhen {0} Ddydd Sul",
+              "relativeTimePattern-count-two": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-few": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-many": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-other": "ymhen {0} Dydd Sul"
@@ -430,7 +430,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-one": "{0} Dydd Sul yn ôl",
-              "relativeTimePattern-count-two": "{0} Ddydd Sul yn ôl",
+              "relativeTimePattern-count-two": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-few": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-many": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-other": "{0} Dydd Sul yn ôl"
@@ -443,7 +443,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-one": "ymhen {0} Dydd Sul",
-              "relativeTimePattern-count-two": "ymhen {0} Ddydd Sul",
+              "relativeTimePattern-count-two": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-few": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-many": "ymhen {0} Dydd Sul",
               "relativeTimePattern-count-other": "ymhen {0} Dydd Sul"
@@ -451,7 +451,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-one": "{0} Dydd Sul yn ôl",
-              "relativeTimePattern-count-two": "{0} Ddydd Sul yn ôl",
+              "relativeTimePattern-count-two": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-few": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-many": "{0} Dydd Sul yn ôl",
               "relativeTimePattern-count-other": "{0} Dydd Sul yn ôl"
@@ -464,7 +464,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-one": "ymhen {0} Dydd Llun",
-              "relativeTimePattern-count-two": "ymhen {0} Ddydd Llun",
+              "relativeTimePattern-count-two": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-few": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-many": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-other": "ymhen {0} Dydd Llun"
@@ -472,7 +472,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Llun yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Llun yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Llun yn ôl"
@@ -485,7 +485,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-one": "ymhen {0} Dydd Llun",
-              "relativeTimePattern-count-two": "ymhen {0} Ddydd Llun",
+              "relativeTimePattern-count-two": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-few": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-many": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-other": "ymhen {0} Dydd Llun"
@@ -494,7 +494,7 @@
               "relativeTimePattern-count-zero": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-two": "{0} dydd Llun yn ôl",
-              "relativeTimePattern-count-few": "{0} ddydd Llun yn ôl",
+              "relativeTimePattern-count-few": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Llun yn ôl"
             }
@@ -506,7 +506,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-one": "ymhen {0} Dydd Llun",
-              "relativeTimePattern-count-two": "ymhen {0} Ddydd Llun",
+              "relativeTimePattern-count-two": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-few": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-many": "ymhen {0} Dydd Llun",
               "relativeTimePattern-count-other": "ymhen {0} Dydd Llun"
@@ -514,7 +514,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Llun yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Llun yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Llun yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Llun yn ôl"
@@ -527,7 +527,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-one": "ymhen {0} dydd Mawrth",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Mawrth",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-few": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-many": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-other": "ymhen {0} dydd Mawrth"
@@ -535,7 +535,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Mawrth yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Mawrth yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Mawrth yn ôl"
@@ -548,7 +548,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-one": "ymhen {0} dydd Mawrth",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Mawrth",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-few": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-many": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-other": "ymhen {0} dydd Mawrth"
@@ -556,20 +556,20 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Mawrth yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Mawrth yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Mawrth yn ôl"
             }
           },
           "tue-narrow": {
-            "relative-type--1": "Maw. diwethaf",
-            "relative-type-0": "Maw. yma",
-            "relative-type-1": "Maw. nesaf",
+            "relative-type--1": "Mawrth diwethaf",
+            "relative-type-0": "Mawrth yma",
+            "relative-type-1": "Mawrth nesaf",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-one": "ymhen {0} dydd Mawrth",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Mawrth",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-few": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-many": "ymhen {0} dydd Mawrth",
               "relativeTimePattern-count-other": "ymhen {0} dydd Mawrth"
@@ -577,7 +577,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Mawrth yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Mawrth yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Mawrth yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Mawrth yn ôl"
@@ -590,7 +590,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-one": "ymhen {0} dydd Mercher",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Mercher",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-few": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-many": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-other": "ymhen {0} dydd Mercher"
@@ -598,7 +598,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Mercher yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Mercher yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Mercher yn ôl"
@@ -611,7 +611,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-one": "ymhen {0} dydd Mercher",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Mercher",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-few": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-many": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-other": "ymhen {0} dydd Mercher"
@@ -619,20 +619,20 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Mercher yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Mercher yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Mercher yn ôl"
             }
           },
           "wed-narrow": {
-            "relative-type--1": "Merch. diwethaf",
-            "relative-type-0": "Merch. yma",
-            "relative-type-1": "Merch. nesaf",
+            "relative-type--1": "Mercher diwethaf",
+            "relative-type-0": "Mercher yma",
+            "relative-type-1": "Mercher nesaf",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-one": "ymhen {0} dydd Mercher",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Mercher",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-few": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-many": "ymhen {0} dydd Mercher",
               "relativeTimePattern-count-other": "ymhen {0} dydd Mercher"
@@ -640,7 +640,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Mercher yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Mercher yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Mercher yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Mercher yn ôl"
@@ -653,7 +653,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-one": "ymhen {0} dydd Iau",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Iau",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-few": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-many": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-other": "ymhen {0} dydd Iau"
@@ -661,7 +661,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Iau yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Iau yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Iau yn ôl"
@@ -674,7 +674,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-one": "ymhen {0} dydd Iau",
-              "relativeTimePattern-count-two": "ymhen {0} ddau Iau",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-few": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-many": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-other": "ymhen {0} dydd Iau"
@@ -682,7 +682,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Iau yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Iau yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Iau yn ôl"
@@ -695,7 +695,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-one": "ymhen {0} dydd Iau",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Iau",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-few": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-many": "ymhen {0} dydd Iau",
               "relativeTimePattern-count-other": "ymhen {0} dydd Iau"
@@ -703,7 +703,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Iau yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Iau yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Iau yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Iau yn ôl"
@@ -716,7 +716,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Gwener",
               "relativeTimePattern-count-one": "ymhen {0} dydd Gwener",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Gwener",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Gwener",
               "relativeTimePattern-count-few": "ymhen {0} dydd Gwener",
               "relativeTimePattern-count-many": "ymhen {0} dydd Gwener",
               "relativeTimePattern-count-other": "ymhen {0} dydd Gwener"
@@ -724,7 +724,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Gwener yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Gwener yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Gwener yn ôl"
@@ -745,20 +745,20 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Gwener yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Gwener yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Gwener yn ôl"
             }
           },
           "fri-narrow": {
-            "relative-type--1": "Gwen. diwethaf",
-            "relative-type-0": "Gwen. yma",
-            "relative-type-1": "Gwen. nesaf",
+            "relative-type--1": "Gwener diwethaf",
+            "relative-type-0": "Gwener yma",
+            "relative-type-1": "Gwener nesaf",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Gwener",
               "relativeTimePattern-count-one": "ymhen {0} dydd Gwener",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Gwener",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Gwener",
               "relativeTimePattern-count-few": "ymhen {0} dydd Gwener",
               "relativeTimePattern-count-many": "ymhen {0} dydd Gwener",
               "relativeTimePattern-count-other": "ymhen {0} dydd Gwener"
@@ -766,7 +766,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Gwener yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Gwener yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Gwener yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Gwener yn ôl"
@@ -779,7 +779,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-one": "ymhen {0} dydd Sadwrn",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Sadwrn",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-few": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-many": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-other": "ymhen {0} dydd Sadwrn"
@@ -787,7 +787,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Sadwrn yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Sadwrn yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Sadwrn yn ôl"
@@ -800,7 +800,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-one": "ymhen {0} dydd Sadwrn",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Sadwrn",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-few": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-many": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-other": "ymhen {0} dydd Sadwrn"
@@ -808,20 +808,20 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Sadwrn yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Sadwrn yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Sadwrn yn ôl"
             }
           },
           "sat-narrow": {
-            "relative-type--1": "Sad. diwethaf",
-            "relative-type-0": "Sad. yma",
-            "relative-type-1": "Sad. nesaf",
+            "relative-type--1": "Sadwrn diwethaf",
+            "relative-type-0": "Sadwrn yma",
+            "relative-type-1": "Sadwrn nesaf",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-one": "ymhen {0} dydd Sadwrn",
-              "relativeTimePattern-count-two": "ymhen {0} ddydd Sadwrn",
+              "relativeTimePattern-count-two": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-few": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-many": "ymhen {0} dydd Sadwrn",
               "relativeTimePattern-count-other": "ymhen {0} dydd Sadwrn"
@@ -829,20 +829,20 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-one": "{0} dydd Sadwrn yn ôl",
-              "relativeTimePattern-count-two": "{0} ddydd Sadwrn yn ôl",
+              "relativeTimePattern-count-two": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-few": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-many": "{0} dydd Sadwrn yn ôl",
               "relativeTimePattern-count-other": "{0} dydd Sadwrn yn ôl"
             }
           },
           "dayperiod-short": {
-            "displayName": "YB/YH"
+            "displayName": "AM/PM"
           },
           "dayperiod": {
-            "displayName": "YB/YH"
+            "displayName": "AM/PM"
           },
           "dayperiod-narrow": {
-            "displayName": "YB/YH"
+            "displayName": "AM/PM"
           },
           "hour": {
             "displayName": "awr",
@@ -857,7 +857,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} awr yn ôl",
-              "relativeTimePattern-count-one": "awr yn ôl",
+              "relativeTimePattern-count-one": "{0} awr yn ôl",
               "relativeTimePattern-count-two": "{0} awr yn ôl",
               "relativeTimePattern-count-few": "{0} awr yn ôl",
               "relativeTimePattern-count-many": "{0} awr yn ôl",
@@ -889,7 +889,7 @@
             "relative-type-0": "yr awr hon",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} awr",
-              "relativeTimePattern-count-one": "ymhen awr",
+              "relativeTimePattern-count-one": "ymhen {0} awr",
               "relativeTimePattern-count-two": "ymhen {0} awr",
               "relativeTimePattern-count-few": "ymhen {0} awr",
               "relativeTimePattern-count-many": "ymhen {0} awr",
@@ -909,8 +909,8 @@
             "relative-type-0": "y funud hon",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} munud",
-              "relativeTimePattern-count-one": "ymhen munud",
-              "relativeTimePattern-count-two": "ymhen {0} funud",
+              "relativeTimePattern-count-one": "ymhen {0} munud",
+              "relativeTimePattern-count-two": "ymhen {0} munud",
               "relativeTimePattern-count-few": "ymhen {0} munud",
               "relativeTimePattern-count-many": "ymhen {0} munud",
               "relativeTimePattern-count-other": "ymhen {0} munud"
@@ -918,7 +918,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} munud yn ôl",
               "relativeTimePattern-count-one": "{0} munud yn ôl",
-              "relativeTimePattern-count-two": "{0} funud yn ôl",
+              "relativeTimePattern-count-two": "{0} munud yn ôl",
               "relativeTimePattern-count-few": "{0} munud yn ôl",
               "relativeTimePattern-count-many": "{0} munud yn ôl",
               "relativeTimePattern-count-other": "{0} munud yn ôl"
@@ -928,20 +928,20 @@
             "displayName": "mun.",
             "relative-type-0": "y funud hon",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-zero": "ymhen {0} mun.",
+              "relativeTimePattern-count-zero": "ymhen {0} munud",
               "relativeTimePattern-count-one": "ymhen {0} mun.",
               "relativeTimePattern-count-two": "ymhen {0} fun.",
-              "relativeTimePattern-count-few": "ymhen {0} mun.",
-              "relativeTimePattern-count-many": "ymhen {0} mun.",
-              "relativeTimePattern-count-other": "ymhen {0} mun."
+              "relativeTimePattern-count-few": "ymhen {0} munud",
+              "relativeTimePattern-count-many": "ymhen {0} munud",
+              "relativeTimePattern-count-other": "ymhen {0} munud"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-zero": "{0} mun. yn ôl",
-              "relativeTimePattern-count-one": "{0} mun. yn ôl",
+              "relativeTimePattern-count-zero": "{0} munud yn ôl",
+              "relativeTimePattern-count-one": "{0} munud yn ôl",
               "relativeTimePattern-count-two": "{0} fun. yn ôl",
-              "relativeTimePattern-count-few": "{0} mun. yn ôl",
-              "relativeTimePattern-count-many": "{0} mun. yn ôl",
-              "relativeTimePattern-count-other": "{0} mun. yn ôl"
+              "relativeTimePattern-count-few": "{0} munud yn ôl",
+              "relativeTimePattern-count-many": "{0} munud yn ôl",
+              "relativeTimePattern-count-other": "{0} munud yn ôl"
             }
           },
           "minute-narrow": {
@@ -950,7 +950,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} mun.",
               "relativeTimePattern-count-one": "ymhen {0} mun.",
-              "relativeTimePattern-count-two": "ymhen {0} fun.",
+              "relativeTimePattern-count-two": "ymhen {0} mun.",
               "relativeTimePattern-count-few": "ymhen {0} mun.",
               "relativeTimePattern-count-many": "ymhen {0} mun.",
               "relativeTimePattern-count-other": "ymhen {0} mun."
@@ -958,7 +958,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} mun. yn ôl",
               "relativeTimePattern-count-one": "{0} mun. yn ôl",
-              "relativeTimePattern-count-two": "{0} fun. yn ôl",
+              "relativeTimePattern-count-two": "{0} mun. yn ôl",
               "relativeTimePattern-count-few": "{0} mun. yn ôl",
               "relativeTimePattern-count-many": "{0} mun. yn ôl",
               "relativeTimePattern-count-other": "{0} mun. yn ôl"
@@ -969,7 +969,7 @@
             "relative-type-0": "nawr",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} eiliad",
-              "relativeTimePattern-count-one": "ymhen eiliad",
+              "relativeTimePattern-count-one": "ymhen {0} eiliad",
               "relativeTimePattern-count-two": "ymhen {0} eiliad",
               "relativeTimePattern-count-few": "ymhen {0} eiliad",
               "relativeTimePattern-count-many": "ymhen {0} eiliad",
@@ -977,7 +977,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "{0} eiliad yn ôl",
-              "relativeTimePattern-count-one": "eiliad yn ôl",
+              "relativeTimePattern-count-one": "{0} eiliad yn ôl",
               "relativeTimePattern-count-two": "{0} eiliad yn ôl",
               "relativeTimePattern-count-few": "{0} eiliad yn ôl",
               "relativeTimePattern-count-many": "{0} eiliad yn ôl",
@@ -989,7 +989,7 @@
             "relative-type-0": "nawr",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} eiliad",
-              "relativeTimePattern-count-one": "ymhen eiliad",
+              "relativeTimePattern-count-one": "ymhen {0} eiliad",
               "relativeTimePattern-count-two": "ymhen {0} eiliad",
               "relativeTimePattern-count-few": "ymhen {0} eiliad",
               "relativeTimePattern-count-many": "ymhen {0} eiliad",
@@ -1009,7 +1009,7 @@
             "relative-type-0": "nawr",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "ymhen {0} eiliad",
-              "relativeTimePattern-count-one": "ymhen eiliad",
+              "relativeTimePattern-count-one": "ymhen {0} eiliad",
               "relativeTimePattern-count-two": "ymhen {0} eiliad",
               "relativeTimePattern-count-few": "ymhen {0} eiliad",
               "relativeTimePattern-count-many": "ymhen {0} eiliad",
@@ -1031,7 +1031,7 @@
             "displayName": "cylchfa amser"
           },
           "zone-narrow": {
-            "displayName": "cylchfa amser"
+            "displayName": "cylchfa"
           }
         }
       }

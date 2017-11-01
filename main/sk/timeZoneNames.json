@@ -3,8 +3,8 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sk"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Portoriko"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
               },
+              "Saratov": {
+                "exemplarCity": "Saratov"
+              },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
               },
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ašchabad"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dušanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -1203,6 +1215,11 @@
                 "exemplarCity": "Guam"
               },
               "Honolulu": {
+                "short": {
+                  "generic": "HST",
+                  "standard": "HST",
+                  "daylight": "HDT"
+                },
                 "exemplarCity": "Honolulu"
               },
               "Johnston": {
@@ -1319,95 +1336,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
-                  "standard": "Koordinovaný svetový čas"
+                  "standard": "koordinovaný svetový čas"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "neznáme mesto"
@@ -1415,6 +1350,13 @@
             }
           },
           "metazone": {
+            "Acre": {
+              "long": {
+                "generic": "acrejský čas",
+                "standard": "acrejský štandardný čas",
+                "daylight": "acrejský letný čas"
+              }
+            },
             "Afghanistan": {
               "long": {
                 "standard": "afganský čas"
@@ -1447,6 +1389,13 @@
                 "generic": "aljašský čas",
                 "standard": "aljašský štandardný čas",
                 "daylight": "aljašský letný čas"
+              }
+            },
+            "Almaty": {
+              "long": {
+                "generic": "almaatský čas",
+                "standard": "almaatský štandardný čas",
+                "daylight": "almaatský letný čas"
               }
             },
             "Amazon": {
@@ -1496,6 +1445,20 @@
                 "generic": "apijský čas",
                 "standard": "apijský štandardný čas",
                 "daylight": "apijský letný čas"
+              }
+            },
+            "Aqtau": {
+              "long": {
+                "generic": "aktauský čas",
+                "standard": "aktauský štandardný čas",
+                "daylight": "aktauský letný čas"
+              }
+            },
+            "Aqtobe": {
+              "long": {
+                "generic": "aktobský čas",
+                "standard": "aktobský štandardný čas",
+                "daylight": "aktobský letný čas"
               }
             },
             "Arabian": {
@@ -1611,9 +1574,14 @@
                 "daylight": "kapverdský letný čas"
               }
             },
+            "Casey": {
+              "long": {
+                "standard": "čas Caseyho stanice"
+              }
+            },
             "Chamorro": {
               "long": {
-                "standard": "chamorrský štandardný čas"
+                "standard": "chamorrský čas"
               }
             },
             "Chatham": {
@@ -1798,6 +1766,11 @@
                 "daylight": "západogrónsky letný čas"
               }
             },
+            "Guam": {
+              "long": {
+                "standard": "guamský čas"
+              }
+            },
             "Gulf": {
               "long": {
                 "standard": "štandardný čas Perzského zálivu"
@@ -1928,6 +1901,11 @@
                 "standard": "kirgizský čas"
               }
             },
+            "Lanka": {
+              "long": {
+                "standard": "srílanský čas"
+              }
+            },
             "Line_Islands": {
               "long": {
                 "standard": "čas Rovníkových ostrovov"
@@ -1938,6 +1916,13 @@
                 "generic": "čas ostrova lorda Howa",
                 "standard": "štandardný čas ostrova lorda Howa",
                 "daylight": "letný čas ostrova lorda Howa"
+              }
+            },
+            "Macau": {
+              "long": {
+                "generic": "macajský čas",
+                "standard": "macajský štandardný čas",
+                "daylight": "macajský letný čas"
               }
             },
             "Macquarie": {
@@ -2065,6 +2050,11 @@
                 "daylight": "letný čas súostrovia Fernando de Noronha"
               }
             },
+            "North_Mariana": {
+              "long": {
+                "standard": "severomariánsky čas"
+              }
+            },
             "Novosibirsk": {
               "long": {
                 "generic": "novosibirský čas",
@@ -2142,6 +2132,13 @@
             "Pyongyang": {
               "long": {
                 "standard": "pchjongjanský čas"
+              }
+            },
+            "Qyzylorda": {
+              "long": {
+                "generic": "kyzylordský čas",
+                "standard": "kyzylordský štandardný čas",
+                "daylight": "kyzylordský letný čas"
               }
             },
             "Reunion": {

@@ -3,8 +3,8 @@
     "nb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "nb"
       },
@@ -175,7 +175,7 @@
                 "exemplarCity": "Glace Bay"
               },
               "Godthab": {
-                "exemplarCity": "Godthåb"
+                "exemplarCity": "Nuuk"
               },
               "Goose_Bay": {
                 "exemplarCity": "Goose Bay"
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Puerto Rico"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -471,7 +474,7 @@
             },
             "Atlantic": {
               "Azores": {
-                "exemplarCity": "Azorene"
+                "exemplarCity": "Asorene"
               },
               "Bermuda": {
                 "exemplarCity": "Bermuda"
@@ -489,7 +492,7 @@
                 "exemplarCity": "Madeira"
               },
               "Reykjavik": {
-                "exemplarCity": "Reykjavik"
+                "exemplarCity": "Reykjavík"
               },
               "South_Georgia": {
                 "exemplarCity": "Sør-Georgia"
@@ -527,7 +530,7 @@
                 "exemplarCity": "Brussel"
               },
               "Bucharest": {
-                "exemplarCity": "Bucuresti"
+                "exemplarCity": "București"
               },
               "Budapest": {
                 "exemplarCity": "Budapest"
@@ -536,7 +539,7 @@
                 "exemplarCity": "Büsingen"
               },
               "Chisinau": {
-                "exemplarCity": "Chisinau"
+                "exemplarCity": "Chișinău"
               },
               "Copenhagen": {
                 "exemplarCity": "København"
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
               },
+              "Saratov": {
+                "exemplarCity": "Saratov"
+              },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
               },
@@ -680,7 +686,7 @@
                 "exemplarCity": "Zagreb"
               },
               "Zaporozhye": {
-                "exemplarCity": "Zaporozje"
+                "exemplarCity": "Zaporizjzja"
               },
               "Zurich": {
                 "exemplarCity": "Zürich"
@@ -817,7 +823,7 @@
                 "exemplarCity": "Nairobi"
               },
               "Ndjamena": {
-                "exemplarCity": "N’Djamena"
+                "exemplarCity": "Ndjamena"
               },
               "Niamey": {
                 "exemplarCity": "Niamey"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Asjkhabad"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
               },
@@ -894,7 +903,7 @@
                 "exemplarCity": "Kolkata"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "Tsjita"
               },
               "Choibalsan": {
                 "exemplarCity": "Choybalsan"
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dusjanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -996,7 +1008,7 @@
                 "exemplarCity": "Omsk"
               },
               "Oral": {
-                "exemplarCity": "Uralsk"
+                "exemplarCity": "Oral"
               },
               "Phnom_Penh": {
                 "exemplarCity": "Phnom Penh"
@@ -1106,7 +1118,7 @@
                 "exemplarCity": "Kerguelen"
               },
               "Mahe": {
-                "exemplarCity": "Mahe"
+                "exemplarCity": "Mahé"
               },
               "Maldives": {
                 "exemplarCity": "Maldivene"
@@ -1233,7 +1245,7 @@
                 "exemplarCity": "Niue"
               },
               "Norfolk": {
-                "exemplarCity": "Norfolk"
+                "exemplarCity": "Norfolkøya"
               },
               "Noumea": {
                 "exemplarCity": "Nouméa"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
-                  "standard": "Koordinert universaltid"
+                  "standard": "koordinert universaltid"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "ukjent by"
@@ -1581,9 +1511,9 @@
             },
             "Atlantic": {
               "long": {
-                "generic": "atlanterhavskystlig tid",
-                "standard": "atlanterhavskystlig standardtid",
-                "daylight": "atlanterhavskystlig sommertid"
+                "generic": "tidssone for den nordamerikanske atlanterhavskysten",
+                "standard": "normaltid for den nordamerikanske atlanterhavskysten",
+                "daylight": "sommertid for den nordamerikanske atlanterhavskysten"
               },
               "short": {
                 "generic": "AT",
@@ -1664,9 +1594,9 @@
             },
             "Cape_Verde": {
               "long": {
-                "generic": "tidssone for Kapp Verde",
-                "standard": "normaltid for Kapp Verde",
-                "daylight": "sommertid for Kapp Verde"
+                "generic": "kappverdisk tid",
+                "standard": "kappverdisk normaltid",
+                "daylight": "kappverdisk sommertid"
               }
             },
             "Casey": {
@@ -2067,7 +1997,7 @@
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "tidssone for Marshalløyene"
+                "standard": "marshallesisk tid"
               }
             },
             "Mauritius": {
@@ -2297,7 +2227,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "tidssone for Salomonøyene"
+                "standard": "salomonsk tid"
               }
             },
             "South_Georgia": {

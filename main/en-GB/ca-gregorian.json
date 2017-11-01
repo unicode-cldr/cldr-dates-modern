@@ -3,8 +3,8 @@
     "en-GB": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "en",
         "territory": "GB"
@@ -338,8 +338,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h.mm B",
+                "Bhms": "h.mm.ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E, h.mm B",
+                "EBhms": "E, h.mm.ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -380,8 +385,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'week' w 'of' y",
-                "yw-count-other": "'week' w 'of' y"
+                "yw-count-one": "'week' w 'of' Y",
+                "yw-count-other": "'week' w 'of' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -399,14 +404,14 @@
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
                 "d": {
-                  "d": "d – d"
+                  "d": "d–d"
                 },
                 "h": {
                   "a": "h a – h a",
-                  "h": "h – h a"
+                  "h": "h–h a"
                 },
                 "H": {
-                  "H": "HH – HH"
+                  "H": "HH–HH"
                 },
                 "hm": {
                   "a": "h:mm a – h:mm a",
@@ -414,8 +419,8 @@
                   "m": "h:mm – h:mm a"
                 },
                 "Hm": {
-                  "H": "HH:mm – HH:mm",
-                  "m": "HH:mm – HH:mm"
+                  "H": "HH:mm–HH:mm",
+                  "m": "HH:mm–HH:mm"
                 },
                 "hmv": {
                   "a": "h:mm a – h:mm a v",
@@ -423,18 +428,18 @@
                   "m": "h:mm – h:mm a v"
                 },
                 "Hmv": {
-                  "H": "HH:mm – HH:mm v",
-                  "m": "HH:mm – HH:mm v"
+                  "H": "HH:mm–HH:mm v",
+                  "m": "HH:mm–HH:mm v"
                 },
                 "hv": {
                   "a": "h a – h a v",
-                  "h": "h – h a v"
+                  "h": "h–h a v"
                 },
                 "Hv": {
-                  "H": "HH – HH v"
+                  "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "M – M"
+                  "M": "M–M"
                 },
                 "Md": {
                   "d": "dd/MM – dd/MM",
@@ -448,7 +453,7 @@
                   "M": "MMM – MMM"
                 },
                 "MMMd": {
-                  "d": "d – d MMM",
+                  "d": "d–d MMM",
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
@@ -456,7 +461,7 @@
                   "M": "E d MMM – E d MMM"
                 },
                 "y": {
-                  "y": "y – y"
+                  "y": "y–y"
                 },
                 "yM": {
                   "M": "MM/y – MM/y",
@@ -477,7 +482,7 @@
                   "y": "MMM y – MMM y"
                 },
                 "yMMMd": {
-                  "d": "d – d MMM y",
+                  "d": "d–d MMM y",
                   "M": "d MMM – d MMM y",
                   "y": "d MMM y – d MMM y"
                 },

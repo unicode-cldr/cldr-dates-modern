@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "eu"
       },
@@ -227,23 +227,23 @@
                   "midnight": "gauerdia",
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "goiz.",
+                  "morning1": "goizald.",
                   "morning2": "goizeko",
                   "afternoon1": "eguerd.",
                   "afternoon2": "arrats.",
                   "evening1": "iluntz.",
-                  "night1": "gau."
+                  "night1": "gaueko"
                 },
                 "narrow": {
                   "midnight": "gauerdia",
-                  "am": "AM",
-                  "pm": "PM",
-                  "morning1": "goiz.",
+                  "am": "g",
+                  "pm": "a",
+                  "morning1": "goizald.",
                   "morning2": "goizeko",
                   "afternoon1": "eguerd.",
                   "afternoon2": "arrats.",
                   "evening1": "iluntz.",
-                  "night1": "gau."
+                  "night1": "gaueko"
                 },
                 "wide": {
                   "midnight": "gauerdia",
@@ -273,7 +273,7 @@
                   "midnight": "gauerdia",
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "goiz.",
+                  "morning1": "goizald.",
                   "morning2": "goiza",
                   "afternoon1": "eguerd.",
                   "afternoon2": "arrats.",
@@ -296,26 +296,26 @@
             "eras": {
               "eraNames": {
                 "0": "K.a.",
-                "0-alt-variant": "Gure aro aurretik",
+                "0-alt-variant": "Gure aroaren aurretik",
                 "1": "Kristo ondoren",
                 "1-alt-variant": "Gure aroa"
               },
               "eraAbbr": {
                 "0": "K.a.",
-                "0-alt-variant": "G.a.a",
+                "0-alt-variant": "G.a.a.",
                 "1": "K.o.",
-                "1-alt-variant": "G.a"
+                "1-alt-variant": "G.a."
               },
               "eraNarrow": {
                 "0": "K.a.",
-                "0-alt-variant": "G.a.a",
+                "0-alt-variant": "G.a.a.",
                 "1": "K.o.",
-                "1-alt-variant": "G.a"
+                "1-alt-variant": "G.a."
               }
             },
             "dateFormats": {
-              "full": "y('e')'ko' MMMM d, EEEE",
-              "long": "y('e')'ko' MMMM d",
+              "full": "y('e')'ko' MMMM'ren' d('a'), EEEE",
+              "long": "y('e')'ko' MMMM'ren' d('a')",
               "medium": "y MMM d",
               "short": "yy/M/d"
             },
@@ -331,8 +331,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d, E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -359,8 +364,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "MMM W 'astea'",
-                "MMMMW-count-other": "MMM'ren' 'astea' W",
+                "MMMMW-count-one": "MMM W. 'astea'",
+                "MMMMW-count-other": "MMM W. 'astea'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y/M",
@@ -370,12 +375,12 @@
                 "yMMMd": "y MMM d",
                 "yMMMEd": "y MMM d, E",
                 "yMMMM": "y('e')'ko' MMMM",
-                "yMMMMd": "y('e')'ko' MMMM d",
-                "yMMMMEd": "y('e')'ko' MMMM d, E",
+                "yMMMMd": "y('e')'ko' MMMM'ren' d",
+                "yMMMMEd": "y('e')'ko' MMMM'k' d, E",
                 "yQQQ": "y('e')'ko' QQQ",
                 "yQQQQ": "y('e')'ko' QQQQ",
-                "yw-count-one": "y 'urteko' w 'astea'",
-                "yw-count-other": "w/y 'astea'"
+                "yw-count-one": "Y. 'urteko' w. 'astea'",
+                "yw-count-other": "Y. 'urteko' w. 'astea'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

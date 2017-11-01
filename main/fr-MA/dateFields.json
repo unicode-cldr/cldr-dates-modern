@@ -3,8 +3,8 @@
     "fr-MA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "fr",
         "territory": "MA"
@@ -192,13 +192,13 @@
             "relativePeriod": "sem. du {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "semaine (mois)"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "sem. (m.)"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "sem. (m.)"
           },
           "day": {
             "displayName": "jour",
@@ -249,31 +249,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "jour (année)"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "j (an)"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "j (an)"
           },
           "weekday": {
             "displayName": "jour de la semaine"
           },
           "weekday-short": {
-            "displayName": "jour de la semaine"
+            "displayName": "j (sem.)"
           },
           "weekday-narrow": {
-            "displayName": "jour de la semaine"
+            "displayName": "j (sem.)"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "jour (mois)"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "jour (mois)"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "jour (mois)"
           },
           "sun": {
             "relative-type--1": "dimanche dernier",
@@ -302,16 +302,16 @@
             }
           },
           "sun-narrow": {
-            "relative-type--1": "dim dern",
-            "relative-type-0": "ce dim",
-            "relative-type-1": "dim proch",
+            "relative-type--1": "dim. dernier",
+            "relative-type-0": "ce dim.",
+            "relative-type-1": "dim. prochain",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dans {0}dim",
-              "relativeTimePattern-count-other": "dans {0}dim"
+              "relativeTimePattern-count-one": "dans {0} dim.",
+              "relativeTimePattern-count-other": "dans {0} dim."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}dim",
-              "relativeTimePattern-count-other": "il y a {0}dim"
+              "relativeTimePattern-count-one": "il y a {0} dim.",
+              "relativeTimePattern-count-other": "il y a {0} dim."
             }
           },
           "mon": {
@@ -341,16 +341,16 @@
             }
           },
           "mon-narrow": {
-            "relative-type--1": "lun dern",
-            "relative-type-0": "ce lun",
-            "relative-type-1": "lun proch",
+            "relative-type--1": "lun. dernier",
+            "relative-type-0": "ce lun.",
+            "relative-type-1": "lun. prochain",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dans {0}lun",
-              "relativeTimePattern-count-other": "dans {0}lun"
+              "relativeTimePattern-count-one": "dans {0} lun.",
+              "relativeTimePattern-count-other": "dans {0} lun."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}lun",
-              "relativeTimePattern-count-other": "il y a {0}lun"
+              "relativeTimePattern-count-one": "il y a {0} lun.",
+              "relativeTimePattern-count-other": "il y a {0} lun."
             }
           },
           "tue": {
@@ -380,16 +380,16 @@
             }
           },
           "tue-narrow": {
-            "relative-type--1": "mar dern",
-            "relative-type-0": "ce mar",
-            "relative-type-1": "mar proch",
+            "relative-type--1": "mar. dernier",
+            "relative-type-0": "ce mar.",
+            "relative-type-1": "mar. prochain",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dans {0}mar",
-              "relativeTimePattern-count-other": "dans {0}mar"
+              "relativeTimePattern-count-one": "dans {0} mar.",
+              "relativeTimePattern-count-other": "dans {0} mar."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}mar",
-              "relativeTimePattern-count-other": "il y a {0}mar"
+              "relativeTimePattern-count-one": "il y a {0} mar.",
+              "relativeTimePattern-count-other": "il y a {0} mar."
             }
           },
           "wed": {
@@ -419,16 +419,16 @@
             }
           },
           "wed-narrow": {
-            "relative-type--1": "mer dern",
-            "relative-type-0": "ce mer",
-            "relative-type-1": "mer proch",
+            "relative-type--1": "mer. dernier",
+            "relative-type-0": "ce mer.",
+            "relative-type-1": "mer. prochain",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dans {0}mer",
-              "relativeTimePattern-count-other": "dans {0}mer"
+              "relativeTimePattern-count-one": "dans {0} mer.",
+              "relativeTimePattern-count-other": "dans {0} mer."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}mer",
-              "relativeTimePattern-count-other": "il y a {0}mer"
+              "relativeTimePattern-count-one": "il y a {0} mer.",
+              "relativeTimePattern-count-other": "il y a {0} mer."
             }
           },
           "thu": {
@@ -458,16 +458,16 @@
             }
           },
           "thu-narrow": {
-            "relative-type--1": "jeu dern",
-            "relative-type-0": "ce jeu",
-            "relative-type-1": "jeu proch",
+            "relative-type--1": "jeu. dernier",
+            "relative-type-0": "ce jeu.",
+            "relative-type-1": "jeu. prochain",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dans {0}jeu",
-              "relativeTimePattern-count-other": "dans {0}jeu"
+              "relativeTimePattern-count-one": "dans {0} jeu.",
+              "relativeTimePattern-count-other": "dans {0} jeu."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}jeu",
-              "relativeTimePattern-count-other": "il y a {0}jeu"
+              "relativeTimePattern-count-one": "il y a {0} jeu.",
+              "relativeTimePattern-count-other": "il y a {0} jeu."
             }
           },
           "fri": {
@@ -497,16 +497,16 @@
             }
           },
           "fri-narrow": {
-            "relative-type--1": "ven dern",
-            "relative-type-0": "ce ven",
-            "relative-type-1": "ven proch",
+            "relative-type--1": "ven. dernier",
+            "relative-type-0": "ce ven.",
+            "relative-type-1": "ven. prochain",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dans {0}ven",
-              "relativeTimePattern-count-other": "dans {0}ven"
+              "relativeTimePattern-count-one": "dans {0} ven.",
+              "relativeTimePattern-count-other": "dans {0} ven."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}ven",
-              "relativeTimePattern-count-other": "il y a {0}ven"
+              "relativeTimePattern-count-one": "il y a {0} ven.",
+              "relativeTimePattern-count-other": "il y a {0} ven."
             }
           },
           "sat": {
@@ -536,16 +536,16 @@
             }
           },
           "sat-narrow": {
-            "relative-type--1": "sam dern",
-            "relative-type-0": "ce sam",
-            "relative-type-1": "sam proch",
+            "relative-type--1": "sam. dernier",
+            "relative-type-0": "ce sam.",
+            "relative-type-1": "sam. prochain",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dans {0}sam",
-              "relativeTimePattern-count-other": "dans {0}sam"
+              "relativeTimePattern-count-one": "dans {0} sam.",
+              "relativeTimePattern-count-other": "dans {0} sam."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}sam",
-              "relativeTimePattern-count-other": "il y a {0}sam"
+              "relativeTimePattern-count-one": "il y a {0} sam.",
+              "relativeTimePattern-count-other": "il y a {0} sam."
             }
           },
           "dayperiod-short": {
@@ -585,12 +585,12 @@
             "displayName": "h",
             "relative-type-0": "cette heure-ci",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dans {0}h",
-              "relativeTimePattern-count-other": "dans {0}h"
+              "relativeTimePattern-count-one": "+{0} h",
+              "relativeTimePattern-count-other": "+{0} h"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}h",
-              "relativeTimePattern-count-other": "il y a {0}h"
+              "relativeTimePattern-count-one": "-{0} h",
+              "relativeTimePattern-count-other": "-{0} h"
             }
           },
           "minute": {
@@ -625,7 +625,7 @@
               "relativeTimePattern-count-other": "+{0} min"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "il y a {0}min",
+              "relativeTimePattern-count-one": "-{0} min",
               "relativeTimePattern-count-other": "-{0} min"
             }
           },

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ca",
         "territory": "AD"
@@ -192,13 +192,13 @@
             "relativePeriod": "la setmana del {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "setmana del mes"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "setm. del mes"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "setm. del mes"
           },
           "day": {
             "displayName": "dia",
@@ -249,31 +249,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dia de l’any"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dia de l’any"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dia de l’any"
           },
           "weekday": {
             "displayName": "dia de la setmana"
           },
           "weekday-short": {
-            "displayName": "dia de la setmana"
+            "displayName": "dia de la setm."
           },
           "weekday-narrow": {
-            "displayName": "dia de la setmana"
+            "displayName": "dia de la setm."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dia de la setmana del mes"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dia de la setm. del mes"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dia de la setm. del mes"
           },
           "sun": {
             "relative-type--1": "diumenge passat",

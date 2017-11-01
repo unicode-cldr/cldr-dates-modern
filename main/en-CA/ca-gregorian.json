@@ -3,8 +3,8 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "en",
         "territory": "CA"
@@ -15,18 +15,18 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "Jan",
-                  "2": "Feb",
-                  "3": "Mar",
-                  "4": "Apr",
+                  "1": "Jan.",
+                  "2": "Feb.",
+                  "3": "Mar.",
+                  "4": "Apr.",
                   "5": "May",
-                  "6": "Jun",
-                  "7": "Jul",
-                  "8": "Aug",
-                  "9": "Sep",
-                  "10": "Oct",
-                  "11": "Nov",
-                  "12": "Dec"
+                  "6": "Jun.",
+                  "7": "Jul.",
+                  "8": "Aug.",
+                  "9": "Sep.",
+                  "10": "Oct.",
+                  "11": "Nov.",
+                  "12": "Dec."
                 },
                 "narrow": {
                   "1": "J",
@@ -105,13 +105,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "Sun.",
+                  "mon": "Mon.",
+                  "tue": "Tue.",
+                  "wed": "Wed.",
+                  "thu": "Thu.",
+                  "fri": "Fri.",
+                  "sat": "Sat."
                 },
                 "narrow": {
                   "sun": "S",
@@ -143,13 +143,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "Sun.",
+                  "mon": "Mon.",
+                  "tue": "Tue.",
+                  "wed": "Wed.",
+                  "thu": "Thu.",
+                  "fri": "Fri.",
+                  "sat": "Sat."
                 },
                 "narrow": {
                   "sun": "S",
@@ -226,10 +226,10 @@
               "format": {
                 "abbreviated": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "a.m.",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "p.m.",
                   "pm-alt-variant": "pm",
                   "morning1": "in the morning",
                   "afternoon1": "in the afternoon",
@@ -250,10 +250,10 @@
                 },
                 "wide": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "a.m.",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "p.m.",
                   "pm-alt-variant": "pm",
                   "morning1": "in the morning",
                   "afternoon1": "in the afternoon",
@@ -264,10 +264,10 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "a.m.",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "p.m.",
                   "pm-alt-variant": "pm",
                   "morning1": "morning",
                   "afternoon1": "afternoon",
@@ -276,10 +276,10 @@
                 },
                 "narrow": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "a.m.",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "p.m.",
                   "pm-alt-variant": "pm",
                   "morning1": "morning",
                   "afternoon1": "afternoon",
@@ -288,10 +288,10 @@
                 },
                 "wide": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "a.m.",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "p.m.",
                   "pm-alt-variant": "pm",
                   "morning1": "morning",
                   "afternoon1": "afternoon",
@@ -339,8 +339,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -387,8 +392,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'week' w 'of' y",
-                "yw-count-other": "'week' w 'of' y"
+                "yw-count-one": "'week' w 'of' Y",
+                "yw-count-other": "'week' w 'of' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

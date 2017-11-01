@@ -3,8 +3,8 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "az"
       },
@@ -191,13 +191,13 @@
             "relativePeriod": "{0} həftəsi"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "Ayın həftəsi"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ay hft."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ay hft."
           },
           "day": {
             "displayName": "Gün",
@@ -242,31 +242,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ilin günü"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ilin günü"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ilin günü"
           },
           "weekday": {
             "displayName": "Həftənin Günü"
           },
           "weekday-short": {
-            "displayName": "Həftənin Günü"
+            "displayName": "hft. günü"
           },
           "weekday-narrow": {
-            "displayName": "Həftənin Günü"
+            "displayName": "hft. günü"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ayın həftə günü"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ay hft. günü"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ay hft. günü"
           },
           "sun": {
             "relative-type--1": "keçən bazar",
@@ -662,10 +662,10 @@
             "displayName": "Saat Qurşağı"
           },
           "zone-short": {
-            "displayName": "Saat Qurşağı"
+            "displayName": "qurşaq"
           },
           "zone-narrow": {
-            "displayName": "Saat Qurşağı"
+            "displayName": "qurşaq"
           }
         }
       }

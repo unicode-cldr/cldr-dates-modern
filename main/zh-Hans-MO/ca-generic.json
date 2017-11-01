@@ -3,8 +3,8 @@
     "zh-Hans-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "zh",
         "script": "Hans",
@@ -229,7 +229,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -240,7 +240,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -264,7 +264,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "清晨",
+                  "morning1": "早上",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -310,9 +310,9 @@
               }
             },
             "dateFormats": {
-              "full": "Gy年MM月d日EEEE",
-              "long": "Gy年MM月d日",
-              "medium": "Gy年MM月d日",
+              "full": "Gy年M月d日EEEE",
+              "long": "Gy年M月d日",
+              "medium": "Gy年M月d日",
               "short": "d/M/yyGGGGG"
             },
             "timeFormats": {
@@ -327,17 +327,22 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "Bh时",
+                "Bhm": "Bh:mm",
+                "Bhms": "Bh:mm:ss",
                 "d": "d日",
                 "E": "ccc",
+                "EBhm": "EB h:mm",
+                "EBhms": "EB h:mm:ss",
                 "Ed": "d日E",
-                "Ehm": "E h:mm a",
+                "Ehm": "Ea h:mm",
                 "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
+                "Ehms": "Ea h:mm:ss",
                 "EHms": "E HH:mm:ss",
                 "Gy": "Gy年",
-                "GyMMM": "Gy年MM月",
-                "GyMMMd": "Gy年MM月d日",
-                "GyMMMEd": "Gy年MM月d日E",
+                "GyMMM": "Gy年M月",
+                "GyMMMd": "Gy年M月d日",
+                "GyMMMEd": "Gy年M月d日E",
                 "h": "ah时",
                 "H": "H时",
                 "hm": "ah:mm",
@@ -359,8 +364,8 @@
                 "yyyyM": "Gy年M月",
                 "yyyyMd": "Gy年M月d日",
                 "yyyyMEd": "Gy年M月d日，E",
-                "yyyyMMM": "Gy年MM月",
-                "yyyyMMMd": "Gy年MM月d日",
+                "yyyyMMM": "Gy年M月",
+                "yyyyMMMd": "Gy年M月d日",
                 "yyyyMMMEd": "Gy年MM月d日E",
                 "yyyyMMMM": "Gy年M月",
                 "yyyyQQQ": "Gy年第Q季度",
@@ -428,7 +433,7 @@
                   "M": "M-dE至M-dE"
                 },
                 "MMM": {
-                  "M": "MMM – MMM"
+                  "M": "M月至M月"
                 },
                 "MMMd": {
                   "d": "M月d日至d日",

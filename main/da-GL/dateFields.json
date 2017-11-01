@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "da",
         "territory": "GL"
@@ -192,13 +192,13 @@
             "relativePeriod": "i ugen med {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "uge i måneden"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "uge i md."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "uge i md."
           },
           "day": {
             "displayName": "dag",
@@ -249,13 +249,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dag i året"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dag i året"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dag i året"
           },
           "weekday": {
             "displayName": "ugedag"
@@ -267,13 +267,13 @@
             "displayName": "ugedag"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ugedag i måneden"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ugedag i md."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ugedag i md."
           },
           "sun": {
             "relative-type--1": "sidste søndag",
@@ -582,7 +582,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "t",
+            "displayName": "t.",
             "relative-type-0": "i den kommende time",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} time",
@@ -618,7 +618,7 @@
             }
           },
           "minute-narrow": {
-            "displayName": "min",
+            "displayName": "min.",
             "relative-type-0": "i det kommende minut",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} min.",
@@ -669,10 +669,10 @@
             "displayName": "tidszone"
           },
           "zone-short": {
-            "displayName": "tidszone"
+            "displayName": "zone"
           },
           "zone-narrow": {
-            "displayName": "tidszone"
+            "displayName": "zone"
           }
         }
       }

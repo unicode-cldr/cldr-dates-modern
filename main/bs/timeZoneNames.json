@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "bs"
       },
@@ -26,7 +26,7 @@
                 "exemplarCity": "Anchorage"
               },
               "Anguilla": {
-                "exemplarCity": "Anguilla"
+                "exemplarCity": "Angvila"
               },
               "Antigua": {
                 "exemplarCity": "Antigva"
@@ -112,7 +112,7 @@
                 "exemplarCity": "Cayenne"
               },
               "Cayman": {
-                "exemplarCity": "Cayman"
+                "exemplarCity": "Kajman"
               },
               "Chicago": {
                 "exemplarCity": "Chicago"
@@ -136,7 +136,7 @@
                 "exemplarCity": "Cuiaba"
               },
               "Curacao": {
-                "exemplarCity": "Curacao"
+                "exemplarCity": "Kurasao"
               },
               "Danmarkshavn": {
                 "exemplarCity": "Danmarkshavn"
@@ -154,7 +154,7 @@
                 "exemplarCity": "Detroit"
               },
               "Dominica": {
-                "exemplarCity": "Dominica"
+                "exemplarCity": "Dominika"
               },
               "Edmonton": {
                 "exemplarCity": "Edmonton"
@@ -163,7 +163,7 @@
                 "exemplarCity": "Eirunepe"
               },
               "El_Salvador": {
-                "exemplarCity": "El Salvador"
+                "exemplarCity": "Salvador"
               },
               "Fort_Nelson": {
                 "exemplarCity": "Fort Nelson"
@@ -187,7 +187,7 @@
                 "exemplarCity": "Grenada"
               },
               "Guadeloupe": {
-                "exemplarCity": "Guadeloupe"
+                "exemplarCity": "Gvadalupe"
               },
               "Guatemala": {
                 "exemplarCity": "Gvatemala"
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Portoriko"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -480,7 +483,7 @@
                 "exemplarCity": "Kanari"
               },
               "Cape_Verde": {
-                "exemplarCity": "Cape Verde"
+                "exemplarCity": "Kape Verde"
               },
               "Faeroe": {
                 "exemplarCity": "Faroe"
@@ -495,7 +498,7 @@
                 "exemplarCity": "South Georgia"
               },
               "St_Helena": {
-                "exemplarCity": "St. Helena"
+                "exemplarCity": "Sveta Helena"
               },
               "Stanley": {
                 "exemplarCity": "Stanley"
@@ -551,7 +554,7 @@
                 "exemplarCity": "Gibraltar"
               },
               "Guernsey": {
-                "exemplarCity": "Guernsey"
+                "exemplarCity": "Gernzi"
               },
               "Helsinki": {
                 "exemplarCity": "Helsinki"
@@ -569,7 +572,7 @@
                 "exemplarCity": "Kalinjingrad"
               },
               "Kiev": {
-                "exemplarCity": "Kiev"
+                "exemplarCity": "Kijev"
               },
               "Kirov": {
                 "exemplarCity": "Kirov"
@@ -633,6 +636,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
+              },
+              "Saratov": {
+                "exemplarCity": "Saratov"
               },
               "Simferopol": {
                 "exemplarCity": "Simferopolj"
@@ -742,7 +748,7 @@
                 "exemplarCity": "Dar es Salaam"
               },
               "Djibouti": {
-                "exemplarCity": "Djibouti"
+                "exemplarCity": "Džibuti"
               },
               "Douala": {
                 "exemplarCity": "Douala"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ašhabad"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dušanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -1094,10 +1106,10 @@
                 "exemplarCity": "Chagos"
               },
               "Christmas": {
-                "exemplarCity": "Božićno Ostrvo"
+                "exemplarCity": "Božićno ostrvo"
               },
               "Cocos": {
-                "exemplarCity": "Kokosova Ostrva"
+                "exemplarCity": "Kokosova ostrva"
               },
               "Comoro": {
                 "exemplarCity": "Comoro"
@@ -1147,7 +1159,7 @@
                 "exemplarCity": "Lindeman"
               },
               "Lord_Howe": {
-                "exemplarCity": "Lord Howe"
+                "exemplarCity": "Lord Hau"
               },
               "Melbourne": {
                 "exemplarCity": "Melburn"
@@ -1319,92 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "Koordinirano svjetsko vrijeme"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Nepoznati grad"
@@ -2166,14 +2099,14 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Vrijeme na Ostrvima Sen Pjer i Mikelon",
-                "standard": "Standardno vrijeme na Ostrvima Sen Pjer i Mikelon",
-                "daylight": "Ljetno vrijeme na Ostrvima Sen Pjer i Mikelon"
+                "generic": "Vrijeme na Ostrvima Sveti Petar i Mikelon",
+                "standard": "Standardno vrijeme na Ostrvima Sveti Petar i Mikelon",
+                "daylight": "Ljetno vrijeme na Ostrvima Sveti Petar i Mikelon"
               }
             },
             "Pitcairn": {
               "long": {
-                "standard": "Vrijeme na Ostrvu Pitkern"
+                "standard": "Vrijeme na Ostrvima Pitkern"
               }
             },
             "Ponape": {

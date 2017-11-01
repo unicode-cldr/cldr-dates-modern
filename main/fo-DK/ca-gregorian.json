@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "fo",
         "territory": "DK"
@@ -290,8 +290,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d.",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -331,8 +336,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ 'í' y",
                 "yQQQQ": "QQQQ 'í' y",
-                "yw-count-one": "w. 'vika' 'í' y",
-                "yw-count-other": "w. 'vika' 'í' y"
+                "yw-count-one": "w. 'vika' 'í' Y",
+                "yw-count-other": "w. 'vika' 'í' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

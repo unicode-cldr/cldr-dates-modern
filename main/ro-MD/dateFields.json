@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ro",
         "territory": "MD"
@@ -44,7 +44,7 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "peste {0} an",
               "relativeTimePattern-count-few": "peste {0} ani",
-              "relativeTimePattern-count-other": "peste {0} ani"
+              "relativeTimePattern-count-other": "peste {0} de ani"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "acum {0} an",
@@ -216,13 +216,13 @@
             "relativePeriod": "săpt. cu {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "săptămâna din lună"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "săpt. din lună"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "săpt. din lună"
           },
           "day": {
             "displayName": "zi",
@@ -252,12 +252,12 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "peste {0} zi",
               "relativeTimePattern-count-few": "peste {0} zile",
-              "relativeTimePattern-count-other": "peste {0} zile"
+              "relativeTimePattern-count-other": "peste {0} de zile"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "acum {0} zi",
               "relativeTimePattern-count-few": "acum {0} zile",
-              "relativeTimePattern-count-other": "acum {0} zile"
+              "relativeTimePattern-count-other": "acum {0} de zile"
             }
           },
           "day-narrow": {
@@ -279,31 +279,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ziua din an"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ziua din an"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ziua din an"
           },
           "weekday": {
-            "displayName": "Zi a săptămânii"
+            "displayName": "ziua din săptămână"
           },
           "weekday-short": {
-            "displayName": "Zi a săptămânii"
+            "displayName": "ziua din săpt."
           },
           "weekday-narrow": {
-            "displayName": "Zi a săptămânii"
+            "displayName": "ziua din săpt."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ziua săptămânii din lună"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ziua săpt. din lună"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ziua săpt. din lună"
           },
           "sun": {
             "relative-type--1": "duminica trecută",
@@ -501,8 +501,8 @@
             }
           },
           "thu-short": {
-            "relative-type--1": "joi trecută",
-            "relative-type-0": "joi aceasta",
+            "relative-type--1": "joia trecută",
+            "relative-type-0": "joia aceasta",
             "relative-type-1": "joia viitoare",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "joi, peste {0} săpt.",
@@ -759,10 +759,10 @@
             "displayName": "fus orar"
           },
           "zone-short": {
-            "displayName": "fus orar"
+            "displayName": "fus"
           },
           "zone-narrow": {
-            "displayName": "fus orar"
+            "displayName": "fus"
           }
         }
       }

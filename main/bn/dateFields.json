@@ -3,8 +3,8 @@
     "bn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "bn"
       },
@@ -158,7 +158,7 @@
               "relativeTimePattern-count-one": "{0} সপ্তাহ আগে",
               "relativeTimePattern-count-other": "{0} সপ্তাহ আগে"
             },
-            "relativePeriod": "{0} সপ্তাহ"
+            "relativePeriod": "{0} তম সপ্তাহে"
           },
           "week-short": {
             "displayName": "সপ্তাহ",
@@ -173,7 +173,7 @@
               "relativeTimePattern-count-one": "{0} সপ্তাহ আগে",
               "relativeTimePattern-count-other": "{0} সপ্তাহ আগে"
             },
-            "relativePeriod": "{0} এর সপ্তাহে"
+            "relativePeriod": "{0} তম সপ্তাহে"
           },
           "week-narrow": {
             "displayName": "সপ্তাহ",
@@ -191,13 +191,13 @@
             "relativePeriod": "{0} এর সপ্তাহে"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "মাসের সপ্তাহ"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "মাসের সপ্তাহ"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "মাসের সপ্তাহ"
           },
           "day": {
             "displayName": "দিন",
@@ -248,13 +248,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "বছরের দিন"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "বছরের দিন"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "বছরের দিন"
           },
           "weekday": {
             "displayName": "সপ্তাহের দিন"
@@ -266,13 +266,13 @@
             "displayName": "সপ্তাহের দিন"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "মাসের কার্য দিবস"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "মাসের কার্য দিবস"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "মাসের কার্য দিবস"
           },
           "sun": {
             "relative-type--1": "গত রবিবার",
@@ -557,7 +557,7 @@
             "displayName": "AM/PM"
           },
           "hour": {
-            "displayName": "ঘন্টা",
+            "displayName": "ঘণ্টা",
             "relative-type-0": "এই ঘণ্টায়",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ঘন্টায়",
@@ -569,7 +569,7 @@
             }
           },
           "hour-short": {
-            "displayName": "ঘন্টা",
+            "displayName": "ঘণ্টা",
             "relative-type-0": "এই ঘণ্টায়",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ঘন্টায়",
@@ -581,7 +581,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "ঘন্টা",
+            "displayName": "ঘণ্টা",
             "relative-type-0": "এই ঘণ্টায়",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ঘন্টায়",
@@ -601,7 +601,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} মিনিট আগে",
-              "relativeTimePattern-count-other": "{0} মিনিট পূর্বে"
+              "relativeTimePattern-count-other": "{0} মিনিট আগে"
             }
           },
           "minute-short": {
@@ -668,10 +668,10 @@
             "displayName": "সময় অঞ্চল"
           },
           "zone-short": {
-            "displayName": "সময় অঞ্চল"
+            "displayName": "অঞ্চল"
           },
           "zone-narrow": {
-            "displayName": "সময় অঞ্চল"
+            "displayName": "অঞ্চল"
           }
         }
       }

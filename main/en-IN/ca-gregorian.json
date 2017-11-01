@@ -3,8 +3,8 @@
     "en-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "en",
         "territory": "IN"
@@ -321,7 +321,7 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE d MMMM y",
+              "full": "EEEE, d MMMM, y",
               "long": "d MMMM y",
               "medium": "dd-MMM-y",
               "short": "dd/MM/yy"
@@ -338,13 +338,18 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E, h:mm B",
+                "EBhms": "E, h:mm:ss B",
                 "Ed": "E d",
-                "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
+                "Ehm": "E, h:mm a",
+                "EHm": "E, HH:mm",
+                "Ehms": "E, h:mm:ss a",
+                "EHms": "E, HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
                 "GyMMMd": "d MMM y G",
@@ -373,15 +378,15 @@
                 "y": "y",
                 "yM": "MM/y",
                 "yMd": "d/M/y",
-                "yMEd": "E d/M/y",
+                "yMEd": "E, d/M/y",
                 "yMMM": "MMM y",
                 "yMMMd": "d MMM y",
-                "yMMMEd": "E d MMM, y",
+                "yMMMEd": "E, d MMM, y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'week' w 'of' y",
-                "yw-count-other": "'week' w 'of' y"
+                "yw-count-one": "'week' w 'of' Y",
+                "yw-count-other": "'week' w 'of' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -441,8 +446,8 @@
                   "M": "dd/MM – dd/MM"
                 },
                 "MEd": {
-                  "d": "E dd/MM – E dd/MM",
-                  "M": "E dd/MM – E dd/MM"
+                  "d": "E, dd/MM – E, dd/MM",
+                  "M": "E, dd/MM – E, dd/MM"
                 },
                 "MMM": {
                   "M": "MMM – MMM"
@@ -452,8 +457,8 @@
                   "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
-                  "d": "E d – E d MMM",
-                  "M": "E d MMM – E d MMM"
+                  "d": "E, d – E, d MMM",
+                  "M": "E, d MMM – E, d MMM"
                 },
                 "y": {
                   "y": "y – y"

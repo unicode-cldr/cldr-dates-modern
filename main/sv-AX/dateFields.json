@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sv",
         "territory": "AX"
@@ -44,8 +44,8 @@
               "relativeTimePattern-count-other": "om {0} år"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "för {0} år sedan",
-              "relativeTimePattern-count-other": "för {0} år sedan"
+              "relativeTimePattern-count-one": "för {0} år sen",
+              "relativeTimePattern-count-other": "för {0} år sen"
             }
           },
           "year-narrow": {
@@ -86,8 +86,8 @@
               "relativeTimePattern-count-other": "om {0} kv."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "för {0} kv. sedan",
-              "relativeTimePattern-count-other": "för {0} kv. sedan"
+              "relativeTimePattern-count-one": "för {0} kv. sen",
+              "relativeTimePattern-count-other": "för {0} kv. sen"
             }
           },
           "quarter-narrow": {
@@ -128,8 +128,8 @@
               "relativeTimePattern-count-other": "om {0} mån."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "för {0} mån. sedan",
-              "relativeTimePattern-count-other": "för {0} mån. sedan"
+              "relativeTimePattern-count-one": "för {0} mån. sen",
+              "relativeTimePattern-count-other": "för {0} mån. sen"
             }
           },
           "month-narrow": {
@@ -192,13 +192,13 @@
             "relativePeriod": "veckan för {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "vecka i månaden"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "vk. i mån."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "vk.i mån."
           },
           "day": {
             "displayName": "dag",
@@ -235,9 +235,9 @@
           "day-narrow": {
             "displayName": "dag",
             "relative-type--2": "i förrgår",
-            "relative-type--1": "i går",
-            "relative-type-0": "i dag",
-            "relative-type-1": "i morgon",
+            "relative-type--1": "igår",
+            "relative-type-0": "idag",
+            "relative-type-1": "imorgon",
             "relative-type-2": "i övermorgon",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} d",
@@ -249,13 +249,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dag under året"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dag under året"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dag under året"
           },
           "weekday": {
             "displayName": "veckodag"
@@ -267,13 +267,13 @@
             "displayName": "veckodag"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "veckodag i månad"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "veckodag i mån."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "veckodag i mån."
           },
           "sun": {
             "relative-type--1": "söndag förra veckan",
@@ -345,8 +345,8 @@
             "relative-type-0": "denna mån.",
             "relative-type-1": "nästa mån.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} må.",
-              "relativeTimePattern-count-other": "+{0} må."
+              "relativeTimePattern-count-one": "+{0} månd",
+              "relativeTimePattern-count-other": "+{0} månd"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "–{0} månd",
@@ -613,8 +613,8 @@
               "relativeTimePattern-count-other": "om {0} min"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "för {0} min sedan",
-              "relativeTimePattern-count-other": "för {0} min sedan"
+              "relativeTimePattern-count-one": "för {0} min sen",
+              "relativeTimePattern-count-other": "för {0} min sen"
             }
           },
           "minute-narrow": {
@@ -649,8 +649,8 @@
               "relativeTimePattern-count-other": "om {0} sek"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "för {0} sek sedan",
-              "relativeTimePattern-count-other": "för {0} sek sedan"
+              "relativeTimePattern-count-one": "för {0} s sen",
+              "relativeTimePattern-count-other": "för {0} s sen"
             }
           },
           "second-narrow": {

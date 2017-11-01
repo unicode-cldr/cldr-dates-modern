@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "az",
         "script": "Latn"
@@ -338,8 +338,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -365,7 +370,7 @@
                 "MMM": "LLL",
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
-                "MMMMd": "MMMM d",
+                "MMMMd": "d MMMM",
                 "MMMMW-count-one": "MMM, W 'həftə'",
                 "MMMMW-count-other": "MMM, W 'həftə'",
                 "ms": "mm:ss",
@@ -379,8 +384,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "y, w 'həftə'",
-                "yw-count-other": "y, w 'həftə'"
+                "yw-count-one": "Y, w 'həftə'",
+                "yw-count-other": "Y, w 'həftə'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

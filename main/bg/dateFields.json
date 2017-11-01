@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13375 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13759 $",
+          "_cldrVersion": "32"
         },
         "language": "bg"
       },
@@ -81,12 +81,12 @@
             "relative-type-0": "това трим.",
             "relative-type-1": "следв. трим.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "сл. {0} трим.",
-              "relativeTimePattern-count-other": "сл. {0} трим."
+              "relativeTimePattern-count-one": "след {0} трим.",
+              "relativeTimePattern-count-other": "след {0} трим."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "пр. {0} трим.",
-              "relativeTimePattern-count-other": "пр. {0} трим."
+              "relativeTimePattern-count-one": "преди {0} трим.",
+              "relativeTimePattern-count-other": "преди {0} трим."
             }
           },
           "quarter-narrow": {
@@ -118,7 +118,7 @@
             }
           },
           "month-short": {
-            "displayName": "м",
+            "displayName": "мес.",
             "relative-type--1": "мин. мес.",
             "relative-type-0": "този мес.",
             "relative-type-1": "следв. мес.",
@@ -132,7 +132,7 @@
             }
           },
           "month-narrow": {
-            "displayName": "м",
+            "displayName": "мес.",
             "relative-type--1": "мин. м.",
             "relative-type-0": "т. м.",
             "relative-type-1": "сл. м.",
@@ -191,13 +191,13 @@
             "relativePeriod": "седмицата от {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "седмица от месеца"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "седмица от месеца"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "седмица от месеца"
           },
           "day": {
             "displayName": "ден",
@@ -248,31 +248,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ден от годината"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ден от годината"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ден от годината"
           },
           "weekday": {
             "displayName": "ден от седмицата"
           },
           "weekday-short": {
-            "displayName": "ден от седмицата"
+            "displayName": "ден от седм."
           },
           "weekday-narrow": {
-            "displayName": "ден от седмицата"
+            "displayName": "ден от седм."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "работен ден от месеца"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "работен ден от месеца"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "работен ден от месеца"
           },
           "sun": {
             "relative-type--1": "предходната неделя",
@@ -292,12 +292,12 @@
             "relative-type-0": "тази нд",
             "relative-type-1": "следващата нд",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} неделя",
-              "relativeTimePattern-count-other": "след {0} недели"
+              "relativeTimePattern-count-one": "след {0} нд",
+              "relativeTimePattern-count-other": "след {0} нд"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} неделя",
-              "relativeTimePattern-count-other": "преди {0} недели"
+              "relativeTimePattern-count-one": "преди {0} нд",
+              "relativeTimePattern-count-other": "преди {0} нд"
             }
           },
           "sun-narrow": {
@@ -305,12 +305,12 @@
             "relative-type-0": "тази нд",
             "relative-type-1": "следв. нд",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} неделя",
-              "relativeTimePattern-count-other": "след {0} недели"
+              "relativeTimePattern-count-one": "сл. {0} нд",
+              "relativeTimePattern-count-other": "сл. {0} нд"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} неделя",
-              "relativeTimePattern-count-other": "преди {0} недели"
+              "relativeTimePattern-count-one": "пр. {0} нд",
+              "relativeTimePattern-count-other": "пр. {0} нд"
             }
           },
           "mon": {
@@ -331,12 +331,12 @@
             "relative-type-0": "този пн",
             "relative-type-1": "следващият пн",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} понеделник",
-              "relativeTimePattern-count-other": "след {0} понеделника"
+              "relativeTimePattern-count-one": "след {0} пн",
+              "relativeTimePattern-count-other": "след {0} пн"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} понеделник",
-              "relativeTimePattern-count-other": "преди {0} понеделника"
+              "relativeTimePattern-count-one": "преди {0} пн",
+              "relativeTimePattern-count-other": "преди {0} пн"
             }
           },
           "mon-narrow": {
@@ -344,12 +344,12 @@
             "relative-type-0": "този пн",
             "relative-type-1": "следв. пн",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} понеделник",
-              "relativeTimePattern-count-other": "след {0} понеделника"
+              "relativeTimePattern-count-one": "сл. {0} пн",
+              "relativeTimePattern-count-other": "сл. {0} пн"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} понеделник",
-              "relativeTimePattern-count-other": "преди {0} понеделника"
+              "relativeTimePattern-count-one": "пр. {0} пн",
+              "relativeTimePattern-count-other": "пр. {0} пн"
             }
           },
           "tue": {
@@ -370,12 +370,12 @@
             "relative-type-0": "този вт",
             "relative-type-1": "следващият вт",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} вторник",
-              "relativeTimePattern-count-other": "след {0} вторника"
+              "relativeTimePattern-count-one": "след {0} вт",
+              "relativeTimePattern-count-other": "след {0} вт"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} вторник",
-              "relativeTimePattern-count-other": "преди {0} вторника"
+              "relativeTimePattern-count-one": "преди {0} вт",
+              "relativeTimePattern-count-other": "преди {0} вт"
             }
           },
           "tue-narrow": {
@@ -383,12 +383,12 @@
             "relative-type-0": "този вт",
             "relative-type-1": "следв. вт",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} вторник",
-              "relativeTimePattern-count-other": "след {0} вторника"
+              "relativeTimePattern-count-one": "сл. {0} вт.",
+              "relativeTimePattern-count-other": "сл. {0} вт."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} вторник",
-              "relativeTimePattern-count-other": "преди {0} вторника"
+              "relativeTimePattern-count-one": "пр. {0} вт.",
+              "relativeTimePattern-count-other": "пр. {0} вт."
             }
           },
           "wed": {
@@ -409,12 +409,12 @@
             "relative-type-0": "тази ср",
             "relative-type-1": "следващата ср",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} сряда",
-              "relativeTimePattern-count-other": "след {0} среди"
+              "relativeTimePattern-count-one": "след {0} ср",
+              "relativeTimePattern-count-other": "след {0} ср"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} сряда",
-              "relativeTimePattern-count-other": "преди {0} среди"
+              "relativeTimePattern-count-one": "преди {0} ср",
+              "relativeTimePattern-count-other": "преди {0} ср"
             }
           },
           "wed-narrow": {
@@ -422,12 +422,12 @@
             "relative-type-0": "тази ср",
             "relative-type-1": "следв. ср",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} сряда",
-              "relativeTimePattern-count-other": "след {0} среди"
+              "relativeTimePattern-count-one": "сл. {0} ср",
+              "relativeTimePattern-count-other": "сл. {0} ср"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} сряда",
-              "relativeTimePattern-count-other": "преди {0} среди"
+              "relativeTimePattern-count-one": "пр. {0} ср",
+              "relativeTimePattern-count-other": "пр. {0} ср"
             }
           },
           "thu": {
@@ -444,16 +444,16 @@
             }
           },
           "thu-short": {
-            "relative-type--1": "предходният четвъртък",
+            "relative-type--1": "предходният чт",
             "relative-type-0": "този чт",
             "relative-type-1": "следващият чт",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} четвъртък",
-              "relativeTimePattern-count-other": "след {0} четвъртъка"
+              "relativeTimePattern-count-one": "след {0} чт",
+              "relativeTimePattern-count-other": "след {0} чт"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} четвъртък",
-              "relativeTimePattern-count-other": "преди {0} четвъртъка"
+              "relativeTimePattern-count-one": "преди {0} чт",
+              "relativeTimePattern-count-other": "преди {0} чт"
             }
           },
           "thu-narrow": {
@@ -465,8 +465,8 @@
               "relativeTimePattern-count-other": "след {0} четвъртъка"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} четвъртък",
-              "relativeTimePattern-count-other": "преди {0} четвъртъка"
+              "relativeTimePattern-count-one": "пр. {0} чт",
+              "relativeTimePattern-count-other": "пр. {0} чт"
             }
           },
           "fri": {
@@ -483,16 +483,16 @@
             }
           },
           "fri-short": {
-            "relative-type--1": "предходният петък",
+            "relative-type--1": "предходният пт",
             "relative-type-0": "този пт",
             "relative-type-1": "следващият пт",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} петък",
-              "relativeTimePattern-count-other": "след {0} петъка"
+              "relativeTimePattern-count-one": "след {0} пт",
+              "relativeTimePattern-count-other": "след {0} пт"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} петък",
-              "relativeTimePattern-count-other": "преди {0} петъка"
+              "relativeTimePattern-count-one": "преди {0} пт",
+              "relativeTimePattern-count-other": "преди {0} пт"
             }
           },
           "fri-narrow": {
@@ -500,12 +500,12 @@
             "relative-type-0": "този пт",
             "relative-type-1": "следв. пт",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} петък",
-              "relativeTimePattern-count-other": "след {0} петъка"
+              "relativeTimePattern-count-one": "сл. {0} пт",
+              "relativeTimePattern-count-other": "сл. {0} пт"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} петък",
-              "relativeTimePattern-count-other": "преди {0} петъка"
+              "relativeTimePattern-count-one": "пр. {0} пт",
+              "relativeTimePattern-count-other": "пр. {0} пт"
             }
           },
           "sat": {
@@ -526,12 +526,12 @@
             "relative-type-0": "тази сб",
             "relative-type-1": "следващата сб",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} събота",
-              "relativeTimePattern-count-other": "след {0} съботи"
+              "relativeTimePattern-count-one": "след {0} сб",
+              "relativeTimePattern-count-other": "след {0} сб"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} събота",
-              "relativeTimePattern-count-other": "преди {0} съботи"
+              "relativeTimePattern-count-one": "преди {0} сб",
+              "relativeTimePattern-count-other": "преди {0} сб"
             }
           },
           "sat-narrow": {
@@ -539,12 +539,12 @@
             "relative-type-0": "тази сб",
             "relative-type-1": "следв. сб",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "след {0} събота",
-              "relativeTimePattern-count-other": "след {0} съботи"
+              "relativeTimePattern-count-one": "сл. {0} сб",
+              "relativeTimePattern-count-other": "сл. {0} сб"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "преди {0} събота",
-              "relativeTimePattern-count-other": "преди {0} съботи"
+              "relativeTimePattern-count-one": "пр. {0} сб",
+              "relativeTimePattern-count-other": "пр. {0} сб"
             }
           },
           "dayperiod-short": {
@@ -668,10 +668,10 @@
             "displayName": "часова зона"
           },
           "zone-short": {
-            "displayName": "часова зона"
+            "displayName": "час. зона"
           },
           "zone-narrow": {
-            "displayName": "часова зона"
+            "displayName": "час. зона"
           }
         }
       }

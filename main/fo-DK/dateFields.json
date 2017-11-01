@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "fo",
         "territory": "DK"
@@ -192,13 +192,13 @@
             "relativePeriod": "vika nummar {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "vika í mánaðinum"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "vi. í mnð."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "vi. í mnð."
           },
           "day": {
             "displayName": "dagur",
@@ -249,31 +249,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dagur í árinum"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dagur í ár."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dagur í ár."
           },
           "weekday": {
-            "displayName": "gerandisdagur"
+            "displayName": "vikudagur"
           },
           "weekday-short": {
-            "displayName": "gerandisdagur"
+            "displayName": "vikudagur"
           },
           "weekday-narrow": {
-            "displayName": "gerandisdagur"
+            "displayName": "vikudagur"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "vikudagur í mánaðinum"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "vikudagur í mnð."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "vikudagur í mnð."
           },
           "sun": {
             "relative-type--1": "seinasta sunnudag",

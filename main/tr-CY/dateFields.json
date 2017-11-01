@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "tr",
         "territory": "CY"
@@ -12,13 +12,13 @@
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Miladi Dönem"
+            "displayName": "çağ"
           },
           "era-short": {
-            "displayName": "Miladi Dönem"
+            "displayName": "çağ"
           },
           "era-narrow": {
-            "displayName": "Miladi Dönem"
+            "displayName": "çağ"
           },
           "year": {
             "displayName": "yıl",
@@ -192,13 +192,13 @@
             "relativePeriod": "{0} haftası"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "ayın haftası"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ayın haftası"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ayın haftası"
           },
           "day": {
             "displayName": "gün",
@@ -249,13 +249,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "yılın günü"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "yılın günü"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "yılın günü"
           },
           "weekday": {
             "displayName": "haftanın günü"
@@ -267,13 +267,13 @@
             "displayName": "haftanın günü"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ayın günü"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ayın günü"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ayın günü"
           },
           "sun": {
             "relative-type--1": "geçen pazar",
@@ -669,10 +669,10 @@
             "displayName": "saat dilimi"
           },
           "zone-short": {
-            "displayName": "saat dilimi"
+            "displayName": "dilim"
           },
           "zone-narrow": {
-            "displayName": "saat dilimi"
+            "displayName": "dilim"
           }
         }
       }

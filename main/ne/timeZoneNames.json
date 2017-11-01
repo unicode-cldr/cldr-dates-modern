@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ne"
       },
@@ -29,7 +29,7 @@
                 "exemplarCity": "एङ्ग्विल्ला"
               },
               "Antigua": {
-                "exemplarCity": "एण्टिगुवा"
+                "exemplarCity": "एन्टिगुवा"
               },
               "Araguaina": {
                 "exemplarCity": "आरागुवाना"
@@ -58,7 +58,7 @@
                 }
               },
               "Aruba": {
-                "exemplarCity": "एरूवा"
+                "exemplarCity": "अरुबा"
               },
               "Asuncion": {
                 "exemplarCity": "असन्सियन"
@@ -67,16 +67,16 @@
                 "exemplarCity": "बाहिया"
               },
               "Bahia_Banderas": {
-                "exemplarCity": "बाहिअ बन्देर्स"
+                "exemplarCity": "बाहिया बान्डेराश"
               },
               "Barbados": {
-                "exemplarCity": "वार्वाडोस्"
+                "exemplarCity": "बार्बाडोस"
               },
               "Belem": {
                 "exemplarCity": "बेलेम"
               },
               "Belize": {
-                "exemplarCity": "वेलिज"
+                "exemplarCity": "बेलिज"
               },
               "Blanc-Sablon": {
                 "exemplarCity": "ब्लान्क-साब्लोन"
@@ -118,10 +118,10 @@
                 "exemplarCity": "शिकागो"
               },
               "Chihuahua": {
-                "exemplarCity": "चिहुआहुआ"
+                "exemplarCity": "चिहुवाहुवा"
               },
               "Coral_Harbour": {
-                "exemplarCity": "कोराल बन्दरगाहा"
+                "exemplarCity": "एटिकोकान"
               },
               "Cordoba": {
                 "exemplarCity": "कोरडोवा"
@@ -142,10 +142,10 @@
                 "exemplarCity": "डान्मार्कशाभन"
               },
               "Dawson": {
-                "exemplarCity": "डेजन"
+                "exemplarCity": "डसन"
               },
               "Dawson_Creek": {
-                "exemplarCity": "डेजन क्रिक"
+                "exemplarCity": "डसन क्रिक"
               },
               "Denver": {
                 "exemplarCity": "डेन्भर"
@@ -202,7 +202,7 @@
                 "exemplarCity": "ह्यालिफ्याक्स"
               },
               "Havana": {
-                "exemplarCity": "हवाना"
+                "exemplarCity": "हभाना"
               },
               "Hermosillo": {
                 "exemplarCity": "हेर्मोसिल्लो"
@@ -218,7 +218,7 @@
                   "exemplarCity": "टेल सिटी, इन्डियाना"
                 },
                 "Knox": {
-                  "exemplarCity": "नोक्स, इण्डियाना"
+                  "exemplarCity": "नोक्स इन्डियाना"
                 },
                 "Winamac": {
                   "exemplarCity": "विनामाक, इन्डियाना"
@@ -231,7 +231,7 @@
                 }
               },
               "Indianapolis": {
-                "exemplarCity": "इण्डियानापोलिस"
+                "exemplarCity": "इन्डियानापोलिस"
               },
               "Inuvik": {
                 "exemplarCity": "इनुभिक"
@@ -332,14 +332,14 @@
                 "exemplarCity": "निपिगन"
               },
               "Nome": {
-                "exemplarCity": "नोमे"
+                "exemplarCity": "नोम"
               },
               "Noronha": {
                 "exemplarCity": "नोरोन्हा"
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "बेलुआ, उत्तर डोकोटा"
+                  "exemplarCity": "बेउला, उत्तर डाकोटा"
                 },
                 "New_Salem": {
                   "exemplarCity": "नयाँ सालेम, उत्तर डाकोटा"
@@ -349,7 +349,7 @@
                 }
               },
               "Ojinaga": {
-                "exemplarCity": "वोन्जिनागा"
+                "exemplarCity": "ओजिनागा"
               },
               "Panama": {
                 "exemplarCity": "पानामा"
@@ -361,7 +361,7 @@
                 "exemplarCity": "पारामारिवो"
               },
               "Phoenix": {
-                "exemplarCity": "फोनिक्स"
+                "exemplarCity": "फिनिक्स"
               },
               "Port-au-Prince": {
                 "exemplarCity": "पोर्ट-अउ-प्रिन्स"
@@ -374,6 +374,9 @@
               },
               "Puerto_Rico": {
                 "exemplarCity": "प्युर्टो रिको"
+              },
+              "Punta_Arenas": {
+                "exemplarCity": "पुन्टा अरिनाज"
               },
               "Rainy_River": {
                 "exemplarCity": "रेनिरिभर"
@@ -403,7 +406,7 @@
                 "exemplarCity": "सान्टिआगो"
               },
               "Santo_Domingo": {
-                "exemplarCity": "सान्टो डोमिन्गो"
+                "exemplarCity": "सान्टो डोमिङ्गो"
               },
               "Sao_Paulo": {
                 "exemplarCity": "साओ पाउलो"
@@ -412,7 +415,7 @@
                 "exemplarCity": "ईट्टोक्कोरटूर्मिट"
               },
               "Sitka": {
-                "exemplarCity": "सित्तका"
+                "exemplarCity": "सिट्का"
               },
               "St_Barthelemy": {
                 "exemplarCity": "सेन्ट बार्थेलेमी"
@@ -433,7 +436,7 @@
                 "exemplarCity": "सेन्ट भिन्सेन्ट"
               },
               "Swift_Current": {
-                "exemplarCity": "स्विफ्ट करेण्ट"
+                "exemplarCity": "स्विफ्ट करेन्ट"
               },
               "Tegucigalpa": {
                 "exemplarCity": "टेगुसिगाल्पा"
@@ -463,7 +466,7 @@
                 "exemplarCity": "विन्निपेग"
               },
               "Yakutat": {
-                "exemplarCity": "याकुतात"
+                "exemplarCity": "याकुटाट"
               },
               "Yellowknife": {
                 "exemplarCity": "येल्लोनाइफ"
@@ -498,7 +501,7 @@
                 "exemplarCity": "सेन्ट हेलेना"
               },
               "Stanley": {
-                "exemplarCity": "स्टान्ले"
+                "exemplarCity": "स्ट्यान्ली"
               }
             },
             "Europe": {
@@ -633,6 +636,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "साराजेभो"
+              },
+              "Saratov": {
+                "exemplarCity": "साराटोभ"
               },
               "Simferopol": {
                 "exemplarCity": "सिम्फेरोपोल"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "अस्काबाट"
               },
+              "Atyrau": {
+                "exemplarCity": "अटिराउ"
+              },
               "Baghdad": {
                 "exemplarCity": "बगदाद"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "दस्सान्बे"
+              },
+              "Famagusta": {
+                "exemplarCity": "फामागुस्ता"
               },
               "Gaza": {
                 "exemplarCity": "गाजा"
@@ -1050,7 +1062,7 @@
                 "exemplarCity": "तिबिलिसी"
               },
               "Tehran": {
-                "exemplarCity": "तेहेराण"
+                "exemplarCity": "तेहेरान"
               },
               "Thimphu": {
                 "exemplarCity": "थिम्पु"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "समन्वित विश्व समय"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "अज्ञात शहर"
@@ -1451,9 +1381,9 @@
             },
             "Amazon": {
               "long": {
-                "generic": "अमेजन समय",
-                "standard": "अमेजन मानक समय",
-                "daylight": "अमेजन ग्रीष्मकालीन समय"
+                "generic": "एमाजोन समय",
+                "standard": "एमाजोन मानक समय",
+                "daylight": "एमाजोन ग्रीष्मकालीन समय"
               }
             },
             "America_Central": {

@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "pl"
       },
@@ -13,7 +13,7 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "Czas: {0}",
+          "regionFormat": "czas: {0}",
           "regionFormat-type-daylight": "{0} (czas letni)",
           "regionFormat-type-standard": "{0} (czas standardowy)",
           "fallbackFormat": "{1} ({0})",
@@ -124,7 +124,7 @@
                 "exemplarCity": "Atikokan"
               },
               "Cordoba": {
-                "exemplarCity": "Kordoba"
+                "exemplarCity": "Córdoba"
               },
               "Costa_Rica": {
                 "exemplarCity": "Kostaryka"
@@ -209,25 +209,25 @@
               },
               "Indiana": {
                 "Vincennes": {
-                  "exemplarCity": "Vincennes"
+                  "exemplarCity": "Vincennes, Indiana"
                 },
                 "Petersburg": {
-                  "exemplarCity": "Petersburg"
+                  "exemplarCity": "Petersburg, Indiana"
                 },
                 "Tell_City": {
                   "exemplarCity": "Tell City, Indiana"
                 },
                 "Knox": {
-                  "exemplarCity": "Knox"
+                  "exemplarCity": "Knox, Indiana"
                 },
                 "Winamac": {
-                  "exemplarCity": "Winamac"
+                  "exemplarCity": "Winamac, Indiana"
                 },
                 "Marengo": {
-                  "exemplarCity": "Marengo"
+                  "exemplarCity": "Marengo, Indiana"
                 },
                 "Vevay": {
-                  "exemplarCity": "Vevay"
+                  "exemplarCity": "Vevay, Indiana"
                 }
               },
               "Indianapolis": {
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Portoryko"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -480,7 +483,7 @@
                 "exemplarCity": "Wyspy Kanaryjskie"
               },
               "Cape_Verde": {
-                "exemplarCity": "Zielony Przylądek"
+                "exemplarCity": "Republika Zielonego Przylądka"
               },
               "Faeroe": {
                 "exemplarCity": "Wyspy Owcze"
@@ -533,7 +536,7 @@
                 "exemplarCity": "Budapeszt"
               },
               "Busingen": {
-                "exemplarCity": "Busingen"
+                "exemplarCity": "Büsingen am Hochrhein"
               },
               "Chisinau": {
                 "exemplarCity": "Kiszyniów"
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "Sarajewo"
               },
+              "Saratov": {
+                "exemplarCity": "Saratów"
+              },
               "Simferopol": {
                 "exemplarCity": "Symferopol"
               },
@@ -733,13 +739,13 @@
                 "exemplarCity": "Ceuta"
               },
               "Conakry": {
-                "exemplarCity": "Konakri"
+                "exemplarCity": "Konakry"
               },
               "Dakar": {
                 "exemplarCity": "Dakar"
               },
               "Dar_es_Salaam": {
-                "exemplarCity": "Dar es-Salaam"
+                "exemplarCity": "Dar es Salaam"
               },
               "Djibouti": {
                 "exemplarCity": "Dżibuti"
@@ -748,7 +754,7 @@
                 "exemplarCity": "Duala"
               },
               "El_Aaiun": {
-                "exemplarCity": "Ujun"
+                "exemplarCity": "Al-Ujun"
               },
               "Freetown": {
                 "exemplarCity": "Freetown"
@@ -763,7 +769,7 @@
                 "exemplarCity": "Johannesburg"
               },
               "Juba": {
-                "exemplarCity": "Juba"
+                "exemplarCity": "Dżuba"
               },
               "Kampala": {
                 "exemplarCity": "Kampala"
@@ -820,7 +826,7 @@
                 "exemplarCity": "Ndżamena"
               },
               "Niamey": {
-                "exemplarCity": "Niamej"
+                "exemplarCity": "Niamey"
               },
               "Nouakchott": {
                 "exemplarCity": "Nawakszut"
@@ -849,7 +855,7 @@
                 "exemplarCity": "Aden"
               },
               "Almaty": {
-                "exemplarCity": "Ałma Ata"
+                "exemplarCity": "Ałmaty"
               },
               "Amman": {
                 "exemplarCity": "Amman"
@@ -865,6 +871,9 @@
               },
               "Ashgabat": {
                 "exemplarCity": "Aszchabad"
+              },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
               },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
@@ -894,7 +903,7 @@
                 "exemplarCity": "Kalkuta"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "Czyta"
               },
               "Choibalsan": {
                 "exemplarCity": "Czojbalsan"
@@ -906,7 +915,7 @@
                 "exemplarCity": "Damaszek"
               },
               "Dhaka": {
-                "exemplarCity": "Dakka"
+                "exemplarCity": "Dhaka"
               },
               "Dili": {
                 "exemplarCity": "Dili"
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Duszanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -927,7 +939,7 @@
                 "exemplarCity": "Hongkong"
               },
               "Hovd": {
-                "exemplarCity": "Howd"
+                "exemplarCity": "Kobdo"
               },
               "Irkutsk": {
                 "exemplarCity": "Irkuck"
@@ -963,7 +975,7 @@
                 "exemplarCity": "Kuala Lumpur"
               },
               "Kuching": {
-                "exemplarCity": "Kuczing"
+                "exemplarCity": "Kuching"
               },
               "Kuwait": {
                 "exemplarCity": "Kuwejt"
@@ -1011,7 +1023,7 @@
                 "exemplarCity": "Katar"
               },
               "Qyzylorda": {
-                "exemplarCity": "Kyzył Orda"
+                "exemplarCity": "Kyzyłorda"
               },
               "Rangoon": {
                 "exemplarCity": "Rangun"
@@ -1020,7 +1032,7 @@
                 "exemplarCity": "Rijad"
               },
               "Saigon": {
-                "exemplarCity": "Ho Chi Minh (miasto)"
+                "exemplarCity": "Ho Chi Minh"
               },
               "Sakhalin": {
                 "exemplarCity": "Sachalin"
@@ -1068,7 +1080,7 @@
                 "exemplarCity": "Urumczi"
               },
               "Ust-Nera": {
-                "exemplarCity": "Ust-Nera"
+                "exemplarCity": "Ust-Niera"
               },
               "Vientiane": {
                 "exemplarCity": "Wientian"
@@ -1123,7 +1135,7 @@
             },
             "Australia": {
               "Adelaide": {
-                "exemplarCity": "Adelajda"
+                "exemplarCity": "Adelaide"
               },
               "Brisbane": {
                 "exemplarCity": "Brisbane"
@@ -1147,7 +1159,7 @@
                 "exemplarCity": "Lindeman"
               },
               "Lord_Howe": {
-                "exemplarCity": "Wyspa Lord Howe"
+                "exemplarCity": "Lord Howe"
               },
               "Melbourne": {
                 "exemplarCity": "Melbourne"
@@ -1167,7 +1179,7 @@
                 "exemplarCity": "Auckland"
               },
               "Bougainville": {
-                "exemplarCity": "Bougainville"
+                "exemplarCity": "Wyspa Bougainville’a"
               },
               "Chatham": {
                 "exemplarCity": "Chatham"
@@ -1194,7 +1206,7 @@
                 "exemplarCity": "Galapagos"
               },
               "Gambier": {
-                "exemplarCity": "Gambier"
+                "exemplarCity": "Wyspy Gambiera"
               },
               "Guadalcanal": {
                 "exemplarCity": "Guadalcanal"
@@ -1315,99 +1327,17 @@
                 "exemplarCity": "Troll"
               },
               "Vostok": {
-                "exemplarCity": "Stacja Wostok"
+                "exemplarCity": "Wostok"
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
-                  "standard": "Uniwersalny czas koordynowany"
+                  "standard": "uniwersalny czas koordynowany"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Nieznane miasto"
@@ -1422,24 +1352,24 @@
             },
             "Africa_Central": {
               "long": {
-                "standard": "Czas środkowoafrykański"
+                "standard": "czas środkowoafrykański"
               }
             },
             "Africa_Eastern": {
               "long": {
-                "standard": "Czas wschodnioafrykański"
+                "standard": "czas wschodnioafrykański"
               }
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Czas południowoafrykański"
+                "standard": "czas południowoafrykański"
               }
             },
             "Africa_Western": {
               "long": {
-                "generic": "Czas zachodnioafrykański",
-                "standard": "Czas zachodnioafrykański standardowy",
-                "daylight": "Czas zachodnioafrykański letni"
+                "generic": "czas zachodnioafrykański",
+                "standard": "czas zachodnioafrykański standardowy",
+                "daylight": "czas zachodnioafrykański letni"
               }
             },
             "Alaska": {
@@ -1451,44 +1381,44 @@
             },
             "Amazon": {
               "long": {
-                "generic": "Czas amazoński",
-                "standard": "Czas amazoński standardowy",
-                "daylight": "Czas amazoński letni"
+                "generic": "czas amazoński",
+                "standard": "czas amazoński standardowy",
+                "daylight": "czas amazoński letni"
               }
             },
             "America_Central": {
               "long": {
-                "generic": "Czas środkowoamerykański",
-                "standard": "Czas środkowoamerykański standardowy",
-                "daylight": "Czas środkowoamerykański letni"
+                "generic": "czas środkowoamerykański",
+                "standard": "czas środkowoamerykański standardowy",
+                "daylight": "czas środkowoamerykański letni"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Czas wschodnioamerykański",
-                "standard": "Czas wschodnioamerykański standardowy",
-                "daylight": "Czas wschodnioamerykański letni"
+                "generic": "czas wschodnioamerykański",
+                "standard": "czas wschodnioamerykański standardowy",
+                "daylight": "czas wschodnioamerykański letni"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Czas górski",
-                "standard": "Czas górski standardowy",
-                "daylight": "Czas górski letni"
+                "generic": "czas górski",
+                "standard": "czas górski standardowy",
+                "daylight": "czas górski letni"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Czas pacyficzny",
-                "standard": "Czas pacyficzny standardowy",
-                "daylight": "Czas pacyficzny letni"
+                "generic": "czas pacyficzny",
+                "standard": "czas pacyficzny standardowy",
+                "daylight": "czas pacyficzny letni"
               }
             },
             "Anadyr": {
               "long": {
-                "generic": "Czas Anadyr",
-                "standard": "Czas standardowy Anadyr",
-                "daylight": "Czas Anadyr letni"
+                "generic": "czas Anadyr",
+                "standard": "czas standardowy Anadyr",
+                "daylight": "czas Anadyr letni"
               }
             },
             "Apia": {
@@ -1528,37 +1458,37 @@
             },
             "Atlantic": {
               "long": {
-                "generic": "Czas atlantycki",
-                "standard": "Czas atlantycki standardowy",
-                "daylight": "Czas atlantycki letni"
+                "generic": "czas atlantycki",
+                "standard": "czas atlantycki standardowy",
+                "daylight": "czas atlantycki letni"
               }
             },
             "Australia_Central": {
               "long": {
-                "generic": "Czas środkowoaustralijski",
-                "standard": "Czas środkowoaustralijski standardowy",
-                "daylight": "Czas środkowoaustralijski letni"
+                "generic": "czas środkowoaustralijski",
+                "standard": "czas środkowoaustralijski standardowy",
+                "daylight": "czas środkowoaustralijski letni"
               }
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "Czas środkowo-zachodnioaustralijski",
-                "standard": "Czas środkowo-zachodnioaustralijski standardowy",
-                "daylight": "Czas środkowo-zachodnioaustralijski letni"
+                "generic": "czas środkowo-zachodnioaustralijski",
+                "standard": "czas środkowo-zachodnioaustralijski standardowy",
+                "daylight": "czas środkowo-zachodnioaustralijski letni"
               }
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "Czas wschodnioaustralijski",
-                "standard": "Czas wschodnioaustralijski standardowy",
-                "daylight": "Czas wschodnioaustralijski letni"
+                "generic": "czas wschodnioaustralijski",
+                "standard": "czas wschodnioaustralijski standardowy",
+                "daylight": "czas wschodnioaustralijski letni"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "Czas zachodnioaustralijski",
-                "standard": "Czas zachodnioaustralijski standardowy",
-                "daylight": "Czas zachodnioaustralijski letni"
+                "generic": "czas zachodnioaustralijski",
+                "standard": "czas zachodnioaustralijski standardowy",
+                "daylight": "czas zachodnioaustralijski letni"
               }
             },
             "Azerbaijan": {
@@ -1601,7 +1531,7 @@
             },
             "Brunei": {
               "long": {
-                "standard": "Brunei Darussalam"
+                "standard": "Brunei"
               }
             },
             "Cape_Verde": {
@@ -1704,9 +1634,9 @@
             },
             "Europe_Central": {
               "long": {
-                "generic": "Czas środkowoeuropejski",
-                "standard": "Czas środkowoeuropejski standardowy",
-                "daylight": "Czas środkowoeuropejski letni"
+                "generic": "czas środkowoeuropejski",
+                "standard": "czas środkowoeuropejski standardowy",
+                "daylight": "czas środkowoeuropejski letni"
               },
               "short": {
                 "generic": "CET",
@@ -1716,9 +1646,9 @@
             },
             "Europe_Eastern": {
               "long": {
-                "generic": "Czas wschodnioeuropejski",
-                "standard": "Czas wschodnioeuropejski standardowy",
-                "daylight": "Czas wschodnioeuropejski letni"
+                "generic": "czas wschodnioeuropejski",
+                "standard": "czas wschodnioeuropejski standardowy",
+                "daylight": "czas wschodnioeuropejski letni"
               },
               "short": {
                 "generic": "EET",
@@ -1728,14 +1658,14 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Czas wschodnioeuropejski dalszy"
+                "standard": "czas wschodnioeuropejski dalszy"
               }
             },
             "Europe_Western": {
               "long": {
-                "generic": "Czas zachodnioeuropejski",
-                "standard": "Czas zachodnioeuropejski standardowy",
-                "daylight": "Czas zachodnioeuropejski letni"
+                "generic": "czas zachodnioeuropejski",
+                "standard": "czas zachodnioeuropejski standardowy",
+                "daylight": "czas zachodnioeuropejski letni"
               },
               "short": {
                 "generic": "WET",
@@ -1774,7 +1704,7 @@
             },
             "Gambier": {
               "long": {
-                "standard": "Gambier"
+                "standard": "Wyspy Gambiera"
               }
             },
             "Georgia": {
@@ -1791,7 +1721,7 @@
             },
             "GMT": {
               "long": {
-                "standard": "Czas uniwersalny"
+                "standard": "czas uniwersalny"
               }
             },
             "Greenland_Eastern": {
@@ -1841,7 +1771,7 @@
             },
             "India": {
               "long": {
-                "standard": "Czas indyjski"
+                "standard": "czas indyjski"
               }
             },
             "Indian_Ocean": {
@@ -1851,7 +1781,7 @@
             },
             "Indochina": {
               "long": {
-                "standard": "Czas indochiński"
+                "standard": "czas indochiński"
               }
             },
             "Indonesia_Central": {
@@ -1899,9 +1829,9 @@
             },
             "Kamchatka": {
               "long": {
-                "generic": "Czas Pietropawłowsk Kamczacki",
-                "standard": "Czas standardowy Pietropawłowsk Kamczacki",
-                "daylight": "Czas Pietropawłowsk Kamczacki letni"
+                "generic": "czas Pietropawłowsk Kamczacki",
+                "standard": "czas standardowy Pietropawłowsk Kamczacki",
+                "daylight": "czas Pietropawłowsk Kamczacki letni"
               }
             },
             "Kazakhstan_Eastern": {
@@ -1940,7 +1870,7 @@
             },
             "Line_Islands": {
               "long": {
-                "standard": "Sporady Środkowopolinezyjskie"
+                "standard": "Line Islands"
               }
             },
             "Lord_Howe": {
@@ -2017,9 +1947,9 @@
             },
             "Moscow": {
               "long": {
-                "generic": "Czas moskiewski",
-                "standard": "Czas moskiewski standardowy",
-                "daylight": "Czas moskiewski letni"
+                "generic": "czas moskiewski",
+                "standard": "czas moskiewski standardowy",
+                "daylight": "czas moskiewski letni"
               }
             },
             "Myanmar": {
@@ -2173,9 +2103,9 @@
             },
             "Samara": {
               "long": {
-                "generic": "Czas Samara",
-                "standard": "Czas standardowy Samara",
-                "daylight": "Czas Samara letni"
+                "generic": "czas Samara",
+                "standard": "czas standardowy Samara",
+                "daylight": "czas Samara letni"
               }
             },
             "Samoa": {

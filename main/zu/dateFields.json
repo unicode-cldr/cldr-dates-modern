@@ -3,8 +3,8 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "zu"
       },
@@ -191,13 +191,13 @@
             "relativePeriod": "evikini le-{0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "Iviki leNyanga"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "Iviki leNyanga"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "Iviki leNyanga"
           },
           "day": {
             "displayName": "Usuku",
@@ -251,10 +251,10 @@
             "displayName": "Day Of Year"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "usuku lonyaka"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "usuku lonyaka"
           },
           "weekday": {
             "displayName": "Usuku evikini"
@@ -266,13 +266,13 @@
             "displayName": "Usuku evikini"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "usuku lwenyanga"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "usuku lwenyanga"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "usuku lwenyanga"
           },
           "sun": {
             "relative-type--1": "iSonto eledlule",
@@ -577,7 +577,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} ihora eledlule",
-              "relativeTimePattern-count-other": "{0} amahora edlule"
+              "relativeTimePattern-count-other": "emahoreni angu-{0} edlule"
             }
           },
           "hour-narrow": {

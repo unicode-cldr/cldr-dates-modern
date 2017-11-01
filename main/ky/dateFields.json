@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ky"
       },
@@ -191,13 +191,13 @@
             "relativePeriod": "{0} апта ичинде"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "айдын жумасы"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "айдын жумасы"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "айдын жумасы"
           },
           "day": {
             "displayName": "күн",
@@ -248,13 +248,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "жылдын күнү"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "жылдын күнү"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "жылдын күнү"
           },
           "weekday": {
             "displayName": "аптанын күнү"
@@ -266,13 +266,13 @@
             "displayName": "аптанын күнү"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "айдын жумуш күнү"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "айдын жумуш күнү"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "айдын жумуш күнү"
           },
           "sun": {
             "relative-type--1": "өткөн жекшембиде",

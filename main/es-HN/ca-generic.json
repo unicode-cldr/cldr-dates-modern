@@ -3,8 +3,8 @@
     "es-HN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "HN"
@@ -195,9 +195,9 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1.er trimestre",
+                  "1": "1.º trimestre",
                   "2": "2.º trimestre",
-                  "3": "3.er trimestre",
+                  "3": "3.º trimestre",
                   "4": "4.º trimestre"
                 }
               },
@@ -215,9 +215,9 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1.er trimestre",
+                  "1": "1.º trimestre",
                   "2": "2.º trimestre",
-                  "3": "3.er trimestre",
+                  "3": "3.º trimestre",
                   "4": "4.º trimestre"
                 }
               }
@@ -299,7 +299,7 @@
             "dateFormats": {
               "full": "EEEE dd 'de' MMMM 'de' y G",
               "long": "dd 'de' MMMM 'de' y G",
-              "medium": "d/M/y G",
+              "medium": "d 'de' MMM 'de' y G",
               "short": "dd/MM/yy GGGGG"
             },
             "timeFormats": {
@@ -314,8 +314,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -324,15 +329,15 @@
                 "Gy": "y G",
                 "GyMMM": "MMM 'de' y G",
                 "GyMMMd": "d 'de' MMM 'de' y G",
-                "GyMMMEd": "E, d MMM y G",
+                "GyMMMEd": "E, d 'de' MMM 'de' y G",
                 "GyMMMM": "MMMM 'de' y G",
                 "GyMMMMd": "d 'de' MMMM 'de' y G",
                 "GyMMMMEd": "E, d 'de' MMMM 'de' y G",
-                "h": "hh a",
+                "h": "h a",
                 "H": "HH",
-                "hm": "hh:mm a",
+                "hm": "h:mm a",
                 "Hm": "HH:mm",
-                "hms": "hh:mm:ss a",
+                "hms": "h:mm:ss a",
                 "Hms": "HH:mm:ss",
                 "M": "L",
                 "Md": "d/M",
@@ -348,14 +353,14 @@
                 "yyyy": "y G",
                 "yyyyM": "M/y GGGGG",
                 "yyyyMd": "d/M/y GGGGG",
-                "yyyyMEd": "E, d/M/y GGGGG",
-                "yyyyMMM": "MMM y G",
-                "yyyyMMMd": "d MMM y G",
-                "yyyyMMMEd": "EEE, d MMM y G",
+                "yyyyMEd": "E d/M/y GGGGG",
+                "yyyyMMM": "MMM 'de' y G",
+                "yyyyMMMd": "d 'de' MMM 'de' y G",
+                "yyyyMMMEd": "EEE, d 'de' MMM 'de' y G",
                 "yyyyMMMM": "MMMM 'de' y G",
                 "yyyyMMMMd": "d 'de' MMMM 'de' y G",
                 "yyyyMMMMEd": "EEE, d 'de' MMMM 'de' y G",
-                "yyyyQQQ": "QQQ y G",
+                "yyyyQQQ": "QQQ 'de' y G",
                 "yyyyQQQQ": "QQQQ 'de' y G"
               },
               "appendItems": {

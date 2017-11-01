@@ -3,8 +3,8 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "si"
       },
@@ -76,7 +76,7 @@
                 "exemplarCity": "බෙලෙම්"
               },
               "Belize": {
-                "exemplarCity": "බේලිස්"
+                "exemplarCity": "බෙලීස්"
               },
               "Blanc-Sablon": {
                 "exemplarCity": "බ්ලැන්ක්-සැබ්ලන්"
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "පුවටොරිකෝව"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "පුන්ටා ඇරිනාස්"
+              },
               "Rainy_River": {
                 "exemplarCity": "රෙයිනි ගඟ"
               },
@@ -466,7 +469,7 @@
                 "exemplarCity": "යකුටට්"
               },
               "Yellowknife": {
-                "exemplarCity": "යෙලෝනයිෆ"
+                "exemplarCity": "යෙලෝනයිෆ්"
               }
             },
             "Atlantic": {
@@ -474,7 +477,7 @@
                 "exemplarCity": "ඇසොරේ"
               },
               "Bermuda": {
-                "exemplarCity": "බර්මියුඩාව"
+                "exemplarCity": "බර්මියුඩා"
               },
               "Canary": {
                 "exemplarCity": "කැනරි"
@@ -543,7 +546,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "අයර්ලන්ත ගිම්හාන කාලය"
+                  "daylight": "අයර්ලන්ත සම්මත වේලාව"
                 },
                 "exemplarCity": "ඩබ්ලින්"
               },
@@ -582,7 +585,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "බ්‍රිතාන්‍ය ගිම්හාන කාලය"
+                  "daylight": "බ්‍රිතාන්‍ය ගිම්හාන වේලාව"
                 },
                 "exemplarCity": "ලන්ඩන්"
               },
@@ -633,6 +636,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "සරාජෙවෝ"
+              },
+              "Saratov": {
+                "exemplarCity": "සරටොව්"
               },
               "Simferopol": {
                 "exemplarCity": "සිම්ෆෙරෝපොල්"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "අශ්ගබැට්"
               },
+              "Atyrau": {
+                "exemplarCity": "ඇටිරවු"
+              },
               "Baghdad": {
                 "exemplarCity": "බැග්ඩෑඩ්"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "ඩුශන්බේ"
+              },
+              "Famagusta": {
+                "exemplarCity": "ෆැමගුස්ටා"
               },
               "Gaza": {
                 "exemplarCity": "ගාසා"
@@ -1319,92 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "සමකක්ෂ සාර්ව වේලාව"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "හඳුනා නොගත් නගරය"

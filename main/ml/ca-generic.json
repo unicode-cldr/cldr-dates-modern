@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ml"
       },
@@ -243,9 +243,9 @@
                   "pm": "PM",
                   "morning1": "പുലർച്ചെ",
                   "morning2": "രാവിലെ",
-                  "afternoon1": "ഉച്ചയ്",
-                  "afternoon2": "ഉച്ചതി",
-                  "evening1": "വൈ",
+                  "afternoon1": "ഉച്ചയ്ക്ക്",
+                  "afternoon2": "ഉച്ചതിരിഞ്ഞ്",
+                  "evening1": "വൈകുന്നേരം",
                   "evening2": "സന്ധ്യ",
                   "night1": "രാത്രി"
                 },
@@ -337,9 +337,14 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
-                "Ed": "d E",
+                "EBhm": "E, B h:mm",
+                "EBhms": "E, B h:mm:ss",
+                "Ed": "d, E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
                 "Ehms": "E h:mm:ss a",
@@ -391,7 +396,7 @@
                 "Year": "{1} {0}"
               },
               "intervalFormats": {
-                "intervalFormatFallback": "{0} - {1}",
+                "intervalFormatFallback": "{0} – {1}",
                 "d": {
                   "d": "d – d"
                 },

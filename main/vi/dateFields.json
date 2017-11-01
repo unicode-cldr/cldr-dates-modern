@@ -3,21 +3,21 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "vi"
       },
       "dates": {
         "fields": {
           "era": {
-            "displayName": "Thời đại"
+            "displayName": "thời đại"
           },
           "era-short": {
-            "displayName": "Thời đại"
+            "displayName": "thời đại"
           },
           "era-narrow": {
-            "displayName": "Thời đại"
+            "displayName": "thời đại"
           },
           "year": {
             "displayName": "Năm",
@@ -167,13 +167,13 @@
             "relativePeriod": "tuần {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "tuần trong tháng"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "tuần trong tháng"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "tuần trong tháng"
           },
           "day": {
             "displayName": "Ngày",
@@ -218,31 +218,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ngày trong năm"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ngày trong năm"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ngày trong năm"
           },
           "weekday": {
-            "displayName": "Ngày trong tuần"
+            "displayName": "ngày trong tuần"
           },
           "weekday-short": {
-            "displayName": "Ngày trong tuần"
+            "displayName": "ngày trong tuần"
           },
           "weekday-narrow": {
-            "displayName": "Ngày trong tuần"
+            "displayName": "ngày trong tuần"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ngày thường trong tháng"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ngày thường trong tháng"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ngày thường trong tháng"
           },
           "sun": {
             "relative-type--1": "Chủ Nhật tuần trước",

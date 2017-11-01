@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "mr"
       },
@@ -25,8 +25,8 @@
             "relative-type-0": "हे वर्ष",
             "relative-type-1": "पुढील वर्ष",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} वर्षामध्ये",
-              "relativeTimePattern-count-other": "{0} वर्षांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} वर्षामध्ये",
+              "relativeTimePattern-count-other": "येत्या {0} वर्षांमध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} वर्षापूर्वी",
@@ -53,12 +53,12 @@
             "relative-type-0": "हे वर्ष",
             "relative-type-1": "पुढील वर्ष",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} वर्ष",
-              "relativeTimePattern-count-other": "+{0} वर्ष"
+              "relativeTimePattern-count-one": "येत्या {0} वर्षामध्ये",
+              "relativeTimePattern-count-other": "येत्या {0} वर्षांमध्ये"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} वर्ष",
-              "relativeTimePattern-count-other": "-{0} वर्ष"
+              "relativeTimePattern-count-one": "{0} वर्षापूर्वी",
+              "relativeTimePattern-count-other": "{0} वर्षांपूर्वी"
             }
           },
           "quarter": {
@@ -81,8 +81,8 @@
             "relative-type-0": "ही तिमाही",
             "relative-type-1": "पुढील तिमाही",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} तिमाहीमध्ये",
-              "relativeTimePattern-count-other": "{0} तिमाहींमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} तिमाहीमध्ये",
+              "relativeTimePattern-count-other": "येत्या {0} तिमाहींमध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} तिमाहीपूर्वी",
@@ -109,8 +109,8 @@
             "relative-type-0": "हा महिना",
             "relative-type-1": "पुढील महिना",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} महिन्यामध्ये",
-              "relativeTimePattern-count-other": "{0} महिन्यांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} महिन्यामध्ये",
+              "relativeTimePattern-count-other": "येत्या {0} महिन्यांमध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} महिन्यापूर्वी",
@@ -128,7 +128,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} महिन्यापूर्वी",
-              "relativeTimePattern-count-other": "{0} महिन्यापूर्वी"
+              "relativeTimePattern-count-other": "{0} महिन्यांपूर्वी"
             }
           },
           "month-narrow": {
@@ -166,8 +166,8 @@
             "relative-type-0": "हा आठवडा",
             "relative-type-1": "पुढील आठवडा",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} आठवड्यामध्ये",
-              "relativeTimePattern-count-other": "{0} आठवड्यांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} आठवड्यामध्ये",
+              "relativeTimePattern-count-other": "येत्या {0} आठवड्यांमध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} आठवड्यापूर्वी",
@@ -181,8 +181,8 @@
             "relative-type-0": "हा आठवडा",
             "relative-type-1": "पुढील आठवडा",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} आठवड्यामध्ये",
-              "relativeTimePattern-count-other": "{0} आठवड्यांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} आठवड्यामध्ये",
+              "relativeTimePattern-count-other": "येत्या {0} आठवड्यांमध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} आठवड्यापूर्वी",
@@ -191,13 +191,13 @@
             "relativePeriod": "{0} चा आठवडा"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "महिन्याचा आठवडा"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "महिन्याचा आठ."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "महिन्याचा आठ."
           },
           "day": {
             "displayName": "दिवस",
@@ -205,8 +205,8 @@
             "relative-type-0": "आज",
             "relative-type-1": "उद्या",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} दिवसामध्ये",
-              "relativeTimePattern-count-other": "{0} दिवसांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} दिवसामध्ये",
+              "relativeTimePattern-count-other": "येत्या {0} दिवसांमध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} दिवसापूर्वी",
@@ -220,7 +220,7 @@
             "relative-type-1": "उद्या",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} दिवसामध्ये",
-              "relativeTimePattern-count-other": "{0} दिवसांमध्ये"
+              "relativeTimePattern-count-other": "येत्या {0} दिवसांमध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} दिवसापूर्वी",
@@ -242,13 +242,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "वर्षातील दिवस"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "वर्षातील दिवस"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "वर्षातील दिवस"
           },
           "weekday": {
             "displayName": "आठवड्याचा दिवस"
@@ -260,13 +260,13 @@
             "displayName": "आठवड्याचा दिवस"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "महिन्यातील साप्ताहिक दिवस"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "महिन्यातील साप्ता. दिवस"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "महिन्यातील साप्ता. दिवस"
           },
           "sun": {
             "relative-type--1": "मागील रविवार",
@@ -274,11 +274,11 @@
             "relative-type-1": "पुढील रविवार",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} रविवारी",
-              "relativeTimePattern-count-other": "येत्या {0} रविवार"
+              "relativeTimePattern-count-other": "येत्या {0} रविवारी"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "मागील {0} रविवारी",
-              "relativeTimePattern-count-other": "मागील {0} रविवार"
+              "relativeTimePattern-count-one": "{0} रविवारपूर्वी",
+              "relativeTimePattern-count-other": "{0} रविवारांपूर्वी"
             }
           },
           "sun-short": {
@@ -286,8 +286,8 @@
             "relative-type-0": "हा रवि.",
             "relative-type-1": "पुढील रवि.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "येत्या {0} रविवारामध्ये",
-              "relativeTimePattern-count-other": "येत्या {0} रविवारांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} रविवारी",
+              "relativeTimePattern-count-other": "येत्या {0} रविवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} रविवारपूर्वी",
@@ -326,7 +326,7 @@
             "relative-type-1": "पुढील सोम.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} सोमवारी",
-              "relativeTimePattern-count-other": "येत्या {0} सोमवार"
+              "relativeTimePattern-count-other": "येत्या {0} सोमवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} सोमवारापूर्वी",
@@ -338,8 +338,8 @@
             "relative-type-0": "हा सो",
             "relative-type-1": "पुढील सो",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "येत्या {0} सोमवारामध्ये",
-              "relativeTimePattern-count-other": "येत्या {0} सोमवारांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} सोमवारी",
+              "relativeTimePattern-count-other": "येत्या {0} सोमवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} सोमवारापूर्वी",
@@ -352,7 +352,7 @@
             "relative-type-1": "पुढील मंगळवार",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} मंगळवारी",
-              "relativeTimePattern-count-other": "येत्या {0} मंगळवार"
+              "relativeTimePattern-count-other": "येत्या {0} मंगळवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} मंगळवारपूर्वी",
@@ -364,8 +364,8 @@
             "relative-type-0": "हा मंगळ.",
             "relative-type-1": "पुढील मंगळ.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "येत्या {0} मंगळवारमध्ये",
-              "relativeTimePattern-count-other": "येत्या {0} मंगळवारांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} मंगळवारी",
+              "relativeTimePattern-count-other": "येत्या {0} मंगळवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} मंगळवारापूर्वी",
@@ -377,8 +377,8 @@
             "relative-type-0": "हा मं",
             "relative-type-1": "पुढील मं",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "येत्या {0} मंगळवारामध्ये",
-              "relativeTimePattern-count-other": "येत्या {0} मंगळवारांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} मंगळवारी",
+              "relativeTimePattern-count-other": "येत्या {0} मंगळवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} मंगळवारपूर्वी",
@@ -391,7 +391,7 @@
             "relative-type-1": "पुढील बुधवार",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} बुधवारी",
-              "relativeTimePattern-count-other": "येत्या {0} बुधवार"
+              "relativeTimePattern-count-other": "येत्या {0} बुधवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} बुधवारपूर्वी",
@@ -417,7 +417,7 @@
             "relative-type-1": "पुढील बु",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} बुधवारी",
-              "relativeTimePattern-count-other": "येत्या {0} बुधवार"
+              "relativeTimePattern-count-other": "येत्या {0} बुधवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} बुधवारपूर्वी",
@@ -430,7 +430,7 @@
             "relative-type-1": "पुढील गुरुवार",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} गुरूवारी",
-              "relativeTimePattern-count-other": "येत्या {0} गुरूवार"
+              "relativeTimePattern-count-other": "येत्या {0} गुरूवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} गुरूवारपूर्वी",
@@ -443,7 +443,7 @@
             "relative-type-1": "पुढील गुरू.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} गुरूवारी",
-              "relativeTimePattern-count-other": "येत्या {0} गुरूवार"
+              "relativeTimePattern-count-other": "येत्या {0} गुरूवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} गुरूवारपूर्वी",
@@ -456,7 +456,7 @@
             "relative-type-1": "पुढील गु",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} गुरूवारी",
-              "relativeTimePattern-count-other": "येत्या {0} गुरूवार"
+              "relativeTimePattern-count-other": "येत्या {0} गुरूवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} गुरूवारपूर्वी",
@@ -469,7 +469,7 @@
             "relative-type-1": "पुढील शुक्रवार",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} शुक्रवारी",
-              "relativeTimePattern-count-other": "येत्या {0} शुक्रवार"
+              "relativeTimePattern-count-other": "येत्या {0} शुक्रवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} शुक्रवारपूर्वी",
@@ -482,7 +482,7 @@
             "relative-type-1": "पुढील शुक्र.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} शुक्रवारी",
-              "relativeTimePattern-count-other": "येत्या {0} शुक्रवार"
+              "relativeTimePattern-count-other": "येत्या {0} शुक्रवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} शुक्रवारपूर्वी",
@@ -490,12 +490,12 @@
             }
           },
           "fri-narrow": {
-            "relative-type--1": "मागील शु",
-            "relative-type-0": "हा शु",
-            "relative-type-1": "पुढील शु",
+            "relative-type--1": "मागील शुक्र.",
+            "relative-type-0": "हा शुक्र.",
+            "relative-type-1": "पुढील शुक्र.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} शुक्रवारी",
-              "relativeTimePattern-count-other": "येत्या {0} शुक्रवार"
+              "relativeTimePattern-count-other": "येत्या {0} शुक्रवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} शुक्रवारपूर्वी",
@@ -508,7 +508,7 @@
             "relative-type-1": "पुढील शनिवार",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "येत्या {0} शनिवारी",
-              "relativeTimePattern-count-other": "येत्या {0} शनिवार"
+              "relativeTimePattern-count-other": "येत्या {0} शनिवारी"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} शनिवारपूर्वी",
@@ -520,25 +520,25 @@
             "relative-type-0": "हा शनि.",
             "relative-type-1": "पुढील शनि.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "पुढील {0} शनिवारी",
-              "relativeTimePattern-count-other": "पुढील {0} शनिवार"
+              "relativeTimePattern-count-one": "येत्या {0} शनिवारी",
+              "relativeTimePattern-count-other": "येत्या {0} शनिवारी"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "मागील {0} शनिवारी",
-              "relativeTimePattern-count-other": "मागील {0} शनिवार"
+              "relativeTimePattern-count-one": "{0} शनिवारपूर्वी",
+              "relativeTimePattern-count-other": "{0} शनिवारांपूर्वी"
             }
           },
           "sat-narrow": {
-            "relative-type--1": "मागील श",
-            "relative-type-0": "हा श",
-            "relative-type-1": "पुढील श",
+            "relative-type--1": "मागील शनि.",
+            "relative-type-0": "हा शनि.",
+            "relative-type-1": "पुढील शनि.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "पुढील {0} शनिवारी",
-              "relativeTimePattern-count-other": "पुढील {0} शनिवार"
+              "relativeTimePattern-count-one": "येत्या {0} शनिवारी",
+              "relativeTimePattern-count-other": "येत्या {0} शनिवारी"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "मागील {0} शनिवारी",
-              "relativeTimePattern-count-other": "मागील {0} शनिवार"
+              "relativeTimePattern-count-one": "{0} शनिवारपूर्वी",
+              "relativeTimePattern-count-other": "{0} शनिवारांपूर्वी"
             }
           },
           "dayperiod-short": {
@@ -578,8 +578,8 @@
             "displayName": "तास",
             "relative-type-0": "तासात",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} तासामध्ये",
-              "relativeTimePattern-count-other": "{0} तासांमध्ये"
+              "relativeTimePattern-count-one": "येत्या {0} तासामध्ये",
+              "relativeTimePattern-count-other": "येत्या {0} तासांमध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} तासापूर्वी",
@@ -651,7 +651,7 @@
             "relative-type-0": "आत्ता",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} से. मध्ये",
-              "relativeTimePattern-count-other": "{0} से. मध्ये"
+              "relativeTimePattern-count-other": "येत्या {0} से. मध्ये"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} से. पूर्वी",
@@ -662,10 +662,10 @@
             "displayName": "वेळ क्षेत्र"
           },
           "zone-short": {
-            "displayName": "वेळ क्षेत्र"
+            "displayName": "क्षेत्र"
           },
           "zone-narrow": {
-            "displayName": "वेळ क्षेत्र"
+            "displayName": "क्षेत्र"
           }
         }
       }

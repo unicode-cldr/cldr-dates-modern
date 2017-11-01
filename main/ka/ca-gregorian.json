@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ka"
       },
@@ -325,8 +325,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E, h:mm a",
                 "EHm": "E, HH:mm",
@@ -366,8 +371,8 @@
                 "yMMMM": "MMMM, y",
                 "yQQQ": "QQQ, y",
                 "yQQQQ": "QQQQ, y",
-                "yw-count-one": "კვირა w, y",
-                "yw-count-other": "კვირა w, y"
+                "yw-count-one": "კვირა w, Y",
+                "yw-count-other": "კვირა w, Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

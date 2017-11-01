@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "pt",
         "territory": "GQ"
@@ -192,13 +192,13 @@
             "relativePeriod": "a semana de {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "semana do mês"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "sem. do mês"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "sem. do mês"
           },
           "day": {
             "displayName": "dia",
@@ -244,18 +244,18 @@
               "relativeTimePattern-count-other": "+{0} dias"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} dia",
-              "relativeTimePattern-count-other": "-{0} dias"
+              "relativeTimePattern-count-one": "há {0} dias",
+              "relativeTimePattern-count-other": "há {0} dias"
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dia do ano"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dia do ano"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dia do ano"
           },
           "weekday": {
             "displayName": "dia da semana"
@@ -267,13 +267,13 @@
             "displayName": "dia da semana"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dia da semana do mês"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dia da sem. do mês"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dia da sem. do mês"
           },
           "sun": {
             "relative-type--1": "domingo passado",
@@ -297,8 +297,8 @@
               "relativeTimePattern-count-other": "dentro de {0} domingos"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} domingos",
-              "relativeTimePattern-count-other": "há {0} domingos"
+              "relativeTimePattern-count-one": "{0} dom. atrás",
+              "relativeTimePattern-count-other": "{0} dom. atrás"
             }
           },
           "sun-narrow": {
@@ -323,8 +323,8 @@
               "relativeTimePattern-count-other": "dentro de {0} segundas-feiras"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} segunda-feira",
-              "relativeTimePattern-count-other": "há {0} segundas-feiras"
+              "relativeTimePattern-count-one": "{0} segunda-feira atrás",
+              "relativeTimePattern-count-other": "{{0} segundas-feiras atrás"
             }
           },
           "mon-short": {
@@ -410,12 +410,12 @@
             "relative-type-0": "esta quarta",
             "relative-type-1": "próxima quarta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dentro de {0} quarta-feira",
-              "relativeTimePattern-count-other": "dentro de {0} quartas-feiras"
+              "relativeTimePattern-count-one": "dentro de {0} quarta",
+              "relativeTimePattern-count-other": "dentro de {0} quartas"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} quarta-feira",
-              "relativeTimePattern-count-other": "há {0} quartas-feiras"
+              "relativeTimePattern-count-one": "há {0} quarta",
+              "relativeTimePattern-count-other": "há {0} quartas"
             }
           },
           "wed-narrow": {
@@ -549,13 +549,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "AM/PM"
+            "displayName": "am/pm"
           },
           "dayperiod": {
             "displayName": "AM/PM"
           },
           "dayperiod-narrow": {
-            "displayName": "AM/PM"
+            "displayName": "am/pm"
           },
           "hour": {
             "displayName": "hora",

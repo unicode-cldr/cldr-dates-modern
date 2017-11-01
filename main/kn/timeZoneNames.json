@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "kn"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "ಪ್ಯುರ್ಟೋ ರಿಕೊ"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "ಪುಂತಾ ಅರೇನಾಸ್"
+              },
               "Rainy_River": {
                 "exemplarCity": "ರೈನಿ ರಿವರ್"
               },
@@ -498,7 +501,7 @@
                 "exemplarCity": "ಸೇಂಟ್ ಹೆಲೆನಾ"
               },
               "Stanley": {
-                "exemplarCity": "ಸ್ಟಾನ್ಲಿ"
+                "exemplarCity": "ಸ್ಟ್ಯಾನ್ಲಿ"
               }
             },
             "Europe": {
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "ಸರಜೆವೊ"
               },
+              "Saratov": {
+                "exemplarCity": "ಸರಾಟೋವ್"
+              },
               "Simferopol": {
                 "exemplarCity": "ಸಿಮ್ಫೆರೋಪೋಲ್"
               },
@@ -742,7 +748,7 @@
                 "exemplarCity": "ಡಾರ್ ಎಸ್ ಸಲಾಮ್"
               },
               "Djibouti": {
-                "exemplarCity": "ಡಿಬೌಟಿ"
+                "exemplarCity": "ಜಿಬೂಟಿ"
               },
               "Douala": {
                 "exemplarCity": "ದೌಲಾ"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "ಅಶ್ಗಬಾತ್"
               },
+              "Atyrau": {
+                "exemplarCity": "ಅಟ್ರಾವ್"
+              },
               "Baghdad": {
                 "exemplarCity": "ಬಾಗ್ದಾದ್"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "ದುಶಾಂಬೆ"
+              },
+              "Famagusta": {
+                "exemplarCity": "ಫಮಾಗುಸ್ತಾ"
               },
               "Gaza": {
                 "exemplarCity": "ಗಾಜಾ"
@@ -1014,7 +1026,7 @@
                 "exemplarCity": "ಕಿಜೈಲೋರ್ದ"
               },
               "Rangoon": {
-                "exemplarCity": "ರಂಗೂನ್"
+                "exemplarCity": "ಯಾಂಗೊನ್"
               },
               "Riyadh": {
                 "exemplarCity": "ರಿಯಾದ್"
@@ -1319,95 +1331,16 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "ಸಂಘಟಿತ ಸಾರ್ವತ್ರಿಕ ಸಮಯ"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
-                "exemplarCity": "ಅಜ್ಞಾತ ನಗರ"
+                "exemplarCity": "ಅಪರಿಚಿತ ನಗರ"
               }
             }
           },

@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "he"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "פוארטו ריקו"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "פונטה ארנס"
+              },
               "Rainy_River": {
                 "exemplarCity": "רייני ריבר"
               },
@@ -394,7 +397,7 @@
                 "exemplarCity": "ריו ברנקו"
               },
               "Santa_Isabel": {
-                "exemplarCity": "סנטה איסבל"
+                "exemplarCity": "סנטה איזבל"
               },
               "Santarem": {
                 "exemplarCity": "סנטרם"
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "סרייבו"
               },
+              "Saratov": {
+                "exemplarCity": "סראטוב"
+              },
               "Simferopol": {
                 "exemplarCity": "סימפרופול"
               },
@@ -805,7 +811,7 @@
                 "exemplarCity": "מסרו"
               },
               "Mbabane": {
-                "exemplarCity": "אמבאבאנה"
+                "exemplarCity": "מבבנה"
               },
               "Mogadishu": {
                 "exemplarCity": "מוגדישו"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "אשגבט"
               },
+              "Atyrau": {
+                "exemplarCity": "אטיראו"
+              },
               "Baghdad": {
                 "exemplarCity": "בגדד"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "דושנבה"
+              },
+              "Famagusta": {
+                "exemplarCity": "פמגוסטה"
               },
               "Gaza": {
                 "exemplarCity": "עזה"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "זמן אוניברסלי מתואם"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "עיר לא ידועה"

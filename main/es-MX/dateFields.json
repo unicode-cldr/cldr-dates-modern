@@ -3,8 +3,8 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13732 $",
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "MX"
@@ -68,8 +68,8 @@
             "relative-type-0": "este trimestre",
             "relative-type-1": "el próximo trimestre",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} trimestre",
-              "relativeTimePattern-count-other": "en {0} trimestres"
+              "relativeTimePattern-count-one": "dentro de {0} trimetre",
+              "relativeTimePattern-count-other": "dentro de {0} trimetres"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "hace {0} trimestre",
@@ -182,27 +182,27 @@
             "relative-type-0": "esta semana",
             "relative-type-1": "la semana próxima",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} sem.",
-              "relativeTimePattern-count-other": "+{0} sem."
+              "relativeTimePattern-count-one": "dentro de {0} sem.",
+              "relativeTimePattern-count-other": "dentro de {0} sem."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} sem.",
-              "relativeTimePattern-count-other": "-{0} sem."
+              "relativeTimePattern-count-one": "hace {0} sem.",
+              "relativeTimePattern-count-other": "hace {0} sem."
             },
             "relativePeriod": "la semana del {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "semana del mes"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "sem. del mes"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "sem. del mes"
           },
           "day": {
             "displayName": "día",
-            "relative-type--2": "antier",
+            "relative-type--2": "anteayer",
             "relative-type--1": "ayer",
             "relative-type-0": "hoy",
             "relative-type-1": "mañana",
@@ -244,36 +244,36 @@
               "relativeTimePattern-count-other": "+{0} días"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} día",
-              "relativeTimePattern-count-other": "-{0} días"
+              "relativeTimePattern-count-one": "hace {0} día",
+              "relativeTimePattern-count-other": "hace {0} días"
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "día del año"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "día del a"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "día del a"
           },
           "weekday": {
             "displayName": "día de la semana"
           },
           "weekday-short": {
-            "displayName": "día de la semana"
+            "displayName": "día de sem."
           },
           "weekday-narrow": {
-            "displayName": "día de la semana"
+            "displayName": "día de sem."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "día hábil del mes"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "día hábil del mes"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "día hábil del mes"
           },
           "sun": {
             "relative-type--1": "el domingo pasado",
@@ -375,8 +375,8 @@
               "relativeTimePattern-count-other": "dentro de {0} mar."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "hace {0} martes",
-              "relativeTimePattern-count-other": "hace {0} martes"
+              "relativeTimePattern-count-one": "hace {0} mar.",
+              "relativeTimePattern-count-other": "hace {0} mar."
             }
           },
           "tue-narrow": {
@@ -466,8 +466,8 @@
               "relativeTimePattern-count-other": "dentro de {0} JU"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "hace {0} jueves",
-              "relativeTimePattern-count-other": "hace {0} jueves"
+              "relativeTimePattern-count-one": "hace {0} JU",
+              "relativeTimePattern-count-other": "hace {0} JU"
             }
           },
           "fri": {
@@ -585,12 +585,12 @@
             "displayName": "h",
             "relative-type-0": "esta hora",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} h",
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "dentro de {0} h",
+              "relativeTimePattern-count-other": "dentro de {0} h"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} h",
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "hace {0} h",
+              "relativeTimePattern-count-other": "hace {0} h"
             }
           },
           "minute": {
@@ -661,18 +661,18 @@
               "relativeTimePattern-count-other": "+{0} s"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} s",
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "hace {0} s",
+              "relativeTimePattern-count-other": "hace {0} s"
             }
           },
           "zone": {
-            "displayName": "Zona horaria"
+            "displayName": "zona horaria"
           },
           "zone-short": {
-            "displayName": "Zona horaria"
+            "displayName": "zona"
           },
           "zone-narrow": {
-            "displayName": "Zona horaria"
+            "displayName": "zona"
           }
         }
       }

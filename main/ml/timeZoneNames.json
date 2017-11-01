@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "ml"
       },
@@ -224,7 +224,7 @@
                   "exemplarCity": "വിനാമാക്, ഇൻഡ്യാന"
                 },
                 "Marengo": {
-                  "exemplarCity": "മരെങ്കോ, ഇൻഡ്യാനാ"
+                  "exemplarCity": "മരെങ്കോ, ഇൻഡ്യാന"
                 },
                 "Vevay": {
                   "exemplarCity": "വിവെയ്, ഇൻഡ്യാന"
@@ -250,7 +250,7 @@
               },
               "Kentucky": {
                 "Monticello": {
-                  "exemplarCity": "മോണ്ടിസെല്ലോ, കെൻറക്കി"
+                  "exemplarCity": "മോണ്ടിസെല്ലോ, കെന്റക്കി"
                 }
               },
               "Kralendijk": {
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "പ്യൂർട്ടോ റിക്കോ"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "പുന്റ അരീനസ്"
+              },
               "Rainy_River": {
                 "exemplarCity": "റെയ്നി റിവർ"
               },
@@ -397,10 +400,10 @@
                 "exemplarCity": "സാന്ത ഇസബേൽ"
               },
               "Santarem": {
-                "exemplarCity": "സാൻററെം"
+                "exemplarCity": "സാന്ററെം"
               },
               "Santiago": {
-                "exemplarCity": "സാൻറിയാഗോ"
+                "exemplarCity": "സാന്റിയാഗോ"
               },
               "Santo_Domingo": {
                 "exemplarCity": "സാന്തോ ഡോമിംഗോ"
@@ -427,13 +430,13 @@
                 "exemplarCity": "സെൻറ് ലൂസിയ"
               },
               "St_Thomas": {
-                "exemplarCity": "സെൻറ്. തോമസ്"
+                "exemplarCity": "സെന്റ് തോമസ്"
               },
               "St_Vincent": {
-                "exemplarCity": "സെൻറ് വിൻ‌സെൻറ്"
+                "exemplarCity": "സെന്റ് വിൻസെന്റ്"
               },
               "Swift_Current": {
-                "exemplarCity": "സ്വിഫ്റ്റ് കറൻറ്"
+                "exemplarCity": "സ്വിഫ്‌റ്റ് കറന്റ്"
               },
               "Tegucigalpa": {
                 "exemplarCity": "ടെഗൂസിഗാൽപ"
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "സരയേവോ"
               },
+              "Saratov": {
+                "exemplarCity": "സരാറ്റോവ്"
+              },
               "Simferopol": {
                 "exemplarCity": "സിംഫെറോപോൾ"
               },
@@ -745,7 +751,7 @@
                 "exemplarCity": "ദിജിബൗട്ടി"
               },
               "Douala": {
-                "exemplarCity": "ഡൌല"
+                "exemplarCity": "ഡൗല"
               },
               "El_Aaiun": {
                 "exemplarCity": "എൽ‌ ഐയുൻ‌"
@@ -826,7 +832,7 @@
                 "exemplarCity": "നൗവാക്‌ഷോട്ട്"
               },
               "Ouagadougou": {
-                "exemplarCity": "ഔഗാദൌഗൌ"
+                "exemplarCity": "ഔഗാദൗഗൗ"
               },
               "Porto-Novo": {
                 "exemplarCity": "പോർ‌ട്ടോ-നോവോ"
@@ -865,6 +871,9 @@
               },
               "Ashgabat": {
                 "exemplarCity": "ആഷ്‌ഗാബട്ട്"
+              },
+              "Atyrau": {
+                "exemplarCity": "അറ്റിറോ"
               },
               "Baghdad": {
                 "exemplarCity": "ബാഗ്‌ദാദ്"
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "ദുഷൻ‌ബെ"
+              },
+              "Famagusta": {
+                "exemplarCity": "ഫാമഗുസ്‌റ്റ"
               },
               "Gaza": {
                 "exemplarCity": "ഗാസ"
@@ -1002,7 +1014,7 @@
                 "exemplarCity": "ഫെനോം പെൻ"
               },
               "Pontianak": {
-                "exemplarCity": "പൊൻറിയാനക്"
+                "exemplarCity": "പൊന്റിയാനക്"
               },
               "Pyongyang": {
                 "exemplarCity": "പ്യോംഗ്‌യാംഗ്"
@@ -1044,7 +1056,7 @@
                 "exemplarCity": "തായ്‌പെയ്"
               },
               "Tashkent": {
-                "exemplarCity": "താഷ്‌ക്കൻറ്"
+                "exemplarCity": "താഷ്‌ക്കന്റ്"
               },
               "Tbilisi": {
                 "exemplarCity": "തിബിലിസി"
@@ -1164,7 +1176,7 @@
                 "exemplarCity": "ആപിയ"
               },
               "Auckland": {
-                "exemplarCity": "ഓക്ക്‌‌ലാൻറ്"
+                "exemplarCity": "ഓക്ക്‌ലാന്റ്"
               },
               "Bougainville": {
                 "exemplarCity": "ബോഗൺവില്ലെ"
@@ -1248,7 +1260,7 @@
                 "exemplarCity": "പിറ്റ്കയിൻ‌"
               },
               "Ponape": {
-                "exemplarCity": "പൊനാപ്"
+                "exemplarCity": "പോൺപെ"
               },
               "Port_Moresby": {
                 "exemplarCity": "പോർട്ട് മോഴ്‌സ്ബൈ"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "കോർഡിനേറ്റഡ് യൂണിവേഴ്‌സൽ ടൈം"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "അജ്ഞാത നഗരം"

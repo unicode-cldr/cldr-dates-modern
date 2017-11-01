@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "nb",
         "territory": "SJ"
@@ -159,7 +159,7 @@
               "relativeTimePattern-count-one": "for {0} uke siden",
               "relativeTimePattern-count-other": "for {0} uker siden"
             },
-            "relativePeriod": "uken {0}"
+            "relativePeriod": "uken som inneholder {0}"
           },
           "week-short": {
             "displayName": "uke",
@@ -174,7 +174,7 @@
               "relativeTimePattern-count-one": "for {0} u. siden",
               "relativeTimePattern-count-other": "for {0} u. siden"
             },
-            "relativePeriod": "uken {0}"
+            "relativePeriod": "uken med {0}"
           },
           "week-narrow": {
             "displayName": "u.",
@@ -192,13 +192,13 @@
             "relativePeriod": "u. {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "uke i måneden"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "uke i mnd."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "uke i md."
           },
           "day": {
             "displayName": "dag",
@@ -249,13 +249,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dag i året"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dag i året"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "d. i året"
           },
           "weekday": {
             "displayName": "ukedag"
@@ -264,21 +264,21 @@
             "displayName": "ukedag"
           },
           "weekday-narrow": {
-            "displayName": "ukedag"
+            "displayName": "uked."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ukedag i måneden"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "uked. i mnd."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "uked. i md."
           },
           "sun": {
-            "relative-type--1": "søndag sist uke",
-            "relative-type-0": "søndag denne uken",
-            "relative-type-1": "søndag neste uke",
+            "relative-type--1": "forrige søndag",
+            "relative-type-0": "søndag",
+            "relative-type-1": "neste søndag",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} søndag",
               "relativeTimePattern-count-other": "om {0} søndager"
@@ -315,9 +315,9 @@
             }
           },
           "mon": {
-            "relative-type--1": "mandag sist uke",
-            "relative-type-0": "mandag denne uken",
-            "relative-type-1": "mandag neste uke",
+            "relative-type--1": "forrige mandag",
+            "relative-type-0": "mandag",
+            "relative-type-1": "neste mandag",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} mandag",
               "relativeTimePattern-count-other": "om {0} mandager"
@@ -354,9 +354,9 @@
             }
           },
           "tue": {
-            "relative-type--1": "tirsdag sist uke",
-            "relative-type-0": "tirsdag denne uken",
-            "relative-type-1": "tirsdag neste uke",
+            "relative-type--1": "forrige tirsdag",
+            "relative-type-0": "tirsdag",
+            "relative-type-1": "neste tirsdag",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} tirsdag",
               "relativeTimePattern-count-other": "om {0} tirsdager"
@@ -393,9 +393,9 @@
             }
           },
           "wed": {
-            "relative-type--1": "onsdag sist uke",
-            "relative-type-0": "onsdag denne uken",
-            "relative-type-1": "onsdag neste uke",
+            "relative-type--1": "forrige onsdag",
+            "relative-type-0": "onsdag",
+            "relative-type-1": "neste onsdag",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} onsdag",
               "relativeTimePattern-count-other": "om {0} onsdager"
@@ -432,9 +432,9 @@
             }
           },
           "thu": {
-            "relative-type--1": "torsdag sist uke",
-            "relative-type-0": "torsdag denne uken",
-            "relative-type-1": "torsdag neste uke",
+            "relative-type--1": "forrige torsdag",
+            "relative-type-0": "torsdag",
+            "relative-type-1": "neste torsdag",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} torsdag",
               "relativeTimePattern-count-other": "om {0} torsdager"
@@ -471,9 +471,9 @@
             }
           },
           "fri": {
-            "relative-type--1": "fredag sist uke",
-            "relative-type-0": "fredag denne uken",
-            "relative-type-1": "fredag neste uke",
+            "relative-type--1": "forrige fredag",
+            "relative-type-0": "fredag",
+            "relative-type-1": "neste fredag",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} fredag",
               "relativeTimePattern-count-other": "om {0} fredager"
@@ -510,9 +510,9 @@
             }
           },
           "sat": {
-            "relative-type--1": "lørdag sist uke",
-            "relative-type-0": "lørdag denne uken",
-            "relative-type-1": "lørdag neste uke",
+            "relative-type--1": "forrige lørdag",
+            "relative-type-0": "lørdag",
+            "relative-type-1": "neste lørdag",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "om {0} lørdag",
               "relativeTimePattern-count-other": "om {0} lørdager"
@@ -549,13 +549,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "a.m./p.m."
+            "displayName": "am/pm"
           },
           "dayperiod": {
             "displayName": "a.m./p.m."
           },
           "dayperiod-narrow": {
-            "displayName": "a.m./p.m."
+            "displayName": "am/pm"
           },
           "hour": {
             "displayName": "time",

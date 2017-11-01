@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "pt"
       },
@@ -325,8 +325,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d",
                 "Ehm": "E, h:mm a",
                 "EHm": "E, HH:mm",
@@ -355,7 +360,7 @@
                 "MMMEd": "E, d 'de' MMM",
                 "MMMMd": "d 'de' MMMM",
                 "MMMMEd": "E, d 'de' MMMM",
-                "MMMMW-count-one": "W'ª' 'semana' 'de' MMM",
+                "MMMMW-count-one": "W'ª' 'semana' 'de' MMMM",
                 "MMMMW-count-other": "W'ª' 'semana' 'de' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
@@ -371,8 +376,8 @@
                 "yMMMMEd": "E, d 'de' MMMM 'de' y",
                 "yQQQ": "QQQ 'de' y",
                 "yQQQQ": "QQQQ 'de' y",
-                "yw-count-one": "w'ª' 'semana' 'de' y",
-                "yw-count-other": "w'ª' 'semana' 'de' y"
+                "yw-count-one": "w'ª' 'semana' 'de' Y",
+                "yw-count-other": "w'ª' 'semana' 'de' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -393,8 +398,8 @@
                   "d": "d – d"
                 },
                 "h": {
-                  "a": "h'h' a – h'h' a",
-                  "h": "h'h' - h'h' a"
+                  "a": "h a – h a",
+                  "h": "h – h a"
                 },
                 "H": {
                   "H": "HH'h' - HH'h'"

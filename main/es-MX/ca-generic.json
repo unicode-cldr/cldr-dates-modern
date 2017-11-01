@@ -3,8 +3,8 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13732 $",
+          "_cldrVersion": "32"
         },
         "language": "es",
         "territory": "MX"
@@ -195,9 +195,9 @@
                   "4": "4T"
                 },
                 "wide": {
-                  "1": "1er. trimestre",
+                  "1": "1.er trimestre",
                   "2": "2º. trimestre",
-                  "3": "3er. trimestre",
+                  "3": "3.er trimestre",
                   "4": "4o. trimestre"
                 }
               },
@@ -215,9 +215,9 @@
                   "4": "4T"
                 },
                 "wide": {
-                  "1": "1er. trimestre",
+                  "1": "1.er trimestre",
                   "2": "2º. trimestre",
-                  "3": "3er. trimestre",
+                  "3": "3.er trimestre",
                   "4": "4º trimestre"
                 }
               }
@@ -303,10 +303,10 @@
               "short": "dd/MM/yy GGGGG"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "full": "H:mm:ss zzzz",
+              "long": "H:mm:ss z",
+              "medium": "H:mm:ss",
+              "short": "H:mm"
             },
             "dateTimeFormats": {
               "full": "{1}, {0}",
@@ -314,8 +314,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

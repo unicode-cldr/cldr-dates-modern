@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hy"
       },
@@ -14,10 +14,10 @@
             "displayName": "թվարկություն"
           },
           "era-short": {
-            "displayName": "թվարկություն"
+            "displayName": "թ․"
           },
           "era-narrow": {
-            "displayName": "թվարկություն"
+            "displayName": "թ․"
           },
           "year": {
             "displayName": "տարի",
@@ -53,12 +53,12 @@
             "relative-type-0": "այս տարի",
             "relative-type-1": "հաջորդ տարի",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} տ",
-              "relativeTimePattern-count-other": "+{0} տ"
+              "relativeTimePattern-count-one": "{0} տարուց",
+              "relativeTimePattern-count-other": "{0} տարուց"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} տ",
-              "relativeTimePattern-count-other": "-{0} տ"
+              "relativeTimePattern-count-one": "{0} տ առաջ",
+              "relativeTimePattern-count-other": "{0} տ առաջ"
             }
           },
           "quarter": {
@@ -95,12 +95,12 @@
             "relative-type-0": "այս եռամսյակ",
             "relative-type-1": "հաջորդ եռամսյակ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} եռմս",
-              "relativeTimePattern-count-other": "+{0} եռմս"
+              "relativeTimePattern-count-one": "{0} եռմս-ից",
+              "relativeTimePattern-count-other": "{0} եռմս-ից"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} եռմս",
-              "relativeTimePattern-count-other": "-{0} եռմս"
+              "relativeTimePattern-count-one": "{0} եռմս առաջ",
+              "relativeTimePattern-count-other": "{0} եռմս առաջ"
             }
           },
           "month": {
@@ -137,12 +137,12 @@
             "relative-type-0": "այս ամիս",
             "relative-type-1": "հաջորդ ամիս",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} ա",
-              "relativeTimePattern-count-other": "+{0} ա"
+              "relativeTimePattern-count-one": "{0} ամսից",
+              "relativeTimePattern-count-other": "{0} ամսից"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} ա",
-              "relativeTimePattern-count-other": "-{0} ա"
+              "relativeTimePattern-count-one": "{0} ամիս առաջ",
+              "relativeTimePattern-count-other": "{0} ամիս առաջ"
             }
           },
           "week": {
@@ -158,7 +158,7 @@
               "relativeTimePattern-count-one": "{0} շաբաթ առաջ",
               "relativeTimePattern-count-other": "{0} շաբաթ առաջ"
             },
-            "relativePeriod": "{0}-ի շաբաթում"
+            "relativePeriod": "{0} շաբաթում"
           },
           "week-short": {
             "displayName": "շաբ",
@@ -173,7 +173,7 @@
               "relativeTimePattern-count-one": "{0} շաբ առաջ",
               "relativeTimePattern-count-other": "{0} շաբ առաջ"
             },
-            "relativePeriod": "{0}-ի շաբ-ում"
+            "relativePeriod": "{0} շաբ-ում"
           },
           "week-narrow": {
             "displayName": "շաբ",
@@ -188,16 +188,16 @@
               "relativeTimePattern-count-one": "{0} շաբ առաջ",
               "relativeTimePattern-count-other": "{0} շաբ առաջ"
             },
-            "relativePeriod": "{0}-ի շաբ-ում"
+            "relativePeriod": "{0} շաբ-ում"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "ամսվա շաբաթ"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ամսվա շաբ"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ամս շաբ"
           },
           "day": {
             "displayName": "օր",
@@ -248,13 +248,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "տարվա օր"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "տարվա օր"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "տարվա օր"
           },
           "weekday": {
             "displayName": "շաբաթվա օր"
@@ -266,13 +266,13 @@
             "displayName": "շաբաթվա օր"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ամսվա օր"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ամսվա օր"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ամս օր"
           },
           "sun": {
             "relative-type--1": "նախորդ կիրակի",
@@ -305,12 +305,12 @@
             "relative-type-0": "այս կիր",
             "relative-type-1": "հջրդ կիր",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} կիր",
-              "relativeTimePattern-count-other": "+{0} կիր"
+              "relativeTimePattern-count-one": "{0} կիր հետո",
+              "relativeTimePattern-count-other": "{0} կիր հետո"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} կիր",
-              "relativeTimePattern-count-other": "-{0} կիր"
+              "relativeTimePattern-count-one": "{0} կիր առաջ",
+              "relativeTimePattern-count-other": "{0} կիր առաջ"
             }
           },
           "mon": {
@@ -344,12 +344,12 @@
             "relative-type-0": "այս երկ",
             "relative-type-1": "հջրդ երկ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} երկ",
-              "relativeTimePattern-count-other": "+{0} երկ"
+              "relativeTimePattern-count-one": "{0} երկ հետո",
+              "relativeTimePattern-count-other": "{0} երկ հետո"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} երկ",
-              "relativeTimePattern-count-other": "-{0} երկ"
+              "relativeTimePattern-count-one": "{0} երկ առաջ",
+              "relativeTimePattern-count-other": "{0} երկ առաջ"
             }
           },
           "tue": {
@@ -383,12 +383,12 @@
             "relative-type-0": "այս երք",
             "relative-type-1": "հջրդ երք",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} երք",
-              "relativeTimePattern-count-other": "+{0} երք"
+              "relativeTimePattern-count-one": "{0} երք հետո",
+              "relativeTimePattern-count-other": "{0} երք հետո"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} երք",
-              "relativeTimePattern-count-other": "-{0} երք"
+              "relativeTimePattern-count-one": "{0} երք առաջ",
+              "relativeTimePattern-count-other": "{0} երք առաջ"
             }
           },
           "wed": {
@@ -422,12 +422,12 @@
             "relative-type-0": "այս չրք",
             "relative-type-1": "հջրդ չրք",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} չրք",
-              "relativeTimePattern-count-other": "+{0} չրք"
+              "relativeTimePattern-count-one": "{0} չրք հետո",
+              "relativeTimePattern-count-other": "{0} չրք հետո"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} չրք",
-              "relativeTimePattern-count-other": "-{0} չրք"
+              "relativeTimePattern-count-one": "{0} չրք առաջ",
+              "relativeTimePattern-count-other": "{0} չրք առաջ"
             }
           },
           "thu": {
@@ -461,12 +461,12 @@
             "relative-type-0": "այս հնգ",
             "relative-type-1": "հջրդ հնգ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} հնգ",
-              "relativeTimePattern-count-other": "+{0} հնգ"
+              "relativeTimePattern-count-one": "{0} հնգ հետո",
+              "relativeTimePattern-count-other": "{0} հնգ հետո"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} հնգ",
-              "relativeTimePattern-count-other": "-{0} հնգ"
+              "relativeTimePattern-count-one": "{0} հնգ առաջ",
+              "relativeTimePattern-count-other": "{0} հնգ առաջ"
             }
           },
           "fri": {
@@ -539,12 +539,12 @@
             "relative-type-0": "այս շբթ",
             "relative-type-1": "հջրդ շբթ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} շբ",
-              "relativeTimePattern-count-other": "+{0} շբ"
+              "relativeTimePattern-count-one": "{0} շբթ հետո",
+              "relativeTimePattern-count-other": "{0} շբթ հետո"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} շբ",
-              "relativeTimePattern-count-other": "-{0} շբ"
+              "relativeTimePattern-count-one": "{0} շբթ առաջ",
+              "relativeTimePattern-count-other": "{0} շբթ առաջ"
             }
           },
           "dayperiod-short": {
@@ -630,7 +630,7 @@
           },
           "second": {
             "displayName": "վայրկյան",
-            "relative-type-0": "այժմ",
+            "relative-type-0": "հիմա",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} վայրկյանից",
               "relativeTimePattern-count-other": "{0} վայրկյանից"
@@ -642,7 +642,7 @@
           },
           "second-short": {
             "displayName": "վ",
-            "relative-type-0": "այժմ",
+            "relative-type-0": "հիմա",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} վրկ-ից",
               "relativeTimePattern-count-other": "{0} վրկ-ից"
@@ -654,7 +654,7 @@
           },
           "second-narrow": {
             "displayName": "վ",
-            "relative-type-0": "այժմ",
+            "relative-type-0": "հիմա",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} վ-ից",
               "relativeTimePattern-count-other": "{0} վ-ից"

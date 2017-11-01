@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13756 $",
+          "_cldrVersion": "32"
         },
         "language": "th"
       },
@@ -167,13 +167,13 @@
             "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "สัปดาห์ของเดือน"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "สัปดาห์ของเดือน"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "สัปดาห์ของเดือน"
           },
           "day": {
             "displayName": "วัน",
@@ -218,31 +218,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "วันของปี"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "วันของปี"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "วันของปี"
           },
           "weekday": {
             "displayName": "วันในสัปดาห์"
           },
           "weekday-short": {
-            "displayName": "วันในสัปดาห์"
+            "displayName": "วันของสัปดาห์"
           },
           "weekday-narrow": {
-            "displayName": "วันในสัปดาห์"
+            "displayName": "วันของสัปดาห์"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "วันของเดือน"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "วันของเดือน"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "วันของเดือน"
           },
           "sun": {
             "relative-type--1": "วันอาทิตย์ที่แล้ว",
@@ -293,14 +293,14 @@
             "relative-type-0": "จันทร์นี้",
             "relative-type-1": "จันทร์หน้า",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "อีก {0} จันทร์"
+              "relativeTimePattern-count-other": "ในอีก {0} จันทร์"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} จันทร์ที่แล้ว"
             }
           },
           "mon-narrow": {
-            "relative-type--1": "จันทร์ที่ผ่านมา",
+            "relative-type--1": "จันทร์ที่แล้ว",
             "relative-type-0": "จันทร์นี้",
             "relative-type-1": "จันทร์หน้า",
             "relativeTime-type-future": {
@@ -326,14 +326,14 @@
             "relative-type-0": "อังคารนี้",
             "relative-type-1": "อังคารหน้า",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "อีก {0} อังคาร"
+              "relativeTimePattern-count-other": "ในอีก {0} อังคาร"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} อังคารที่แล้ว"
             }
           },
           "tue-narrow": {
-            "relative-type--1": "อังคารที่ผ่านมา",
+            "relative-type--1": "อังคารที่แล้ว",
             "relative-type-0": "อังคารนี้",
             "relative-type-1": "อังคารหน้า",
             "relativeTime-type-future": {
@@ -359,14 +359,14 @@
             "relative-type-0": "พุธนี้",
             "relative-type-1": "พุธหน้า",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "อีก {0} พุธ"
+              "relativeTimePattern-count-other": "ในอีก {0} พุธ"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} พุธที่แล้ว"
             }
           },
           "wed-narrow": {
-            "relative-type--1": "พุธที่ผ่านมา",
+            "relative-type--1": "พุธที่แล้ว",
             "relative-type-0": "พุธนี้",
             "relative-type-1": "พุธหน้า",
             "relativeTime-type-future": {
@@ -399,7 +399,7 @@
             }
           },
           "thu-narrow": {
-            "relative-type--1": "พฤหัสที่ผ่านมา",
+            "relative-type--1": "พฤหัสที่แล้ว",
             "relative-type-0": "พฤหัสนี้",
             "relative-type-1": "พฤหัสหน้า",
             "relativeTime-type-future": {
@@ -425,14 +425,14 @@
             "relative-type-0": "ศุกร์นี้",
             "relative-type-1": "ศุกร์หน้า",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "อีก {0} ศุกร์"
+              "relativeTimePattern-count-other": "ในอีก {0} ศุกร์"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} ศุกร์ที่แล้ว"
             }
           },
           "fri-narrow": {
-            "relative-type--1": "ศุกร์ที่ผ่านมา",
+            "relative-type--1": "ศุกร์ที่แล้ว",
             "relative-type-0": "ศุกร์นี้",
             "relative-type-1": "ศุกร์หน้า",
             "relativeTime-type-future": {
@@ -458,14 +458,14 @@
             "relative-type-0": "เสาร์นี้",
             "relative-type-1": "เสาร์หน้า",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "อีก {0} เสาร์"
+              "relativeTimePattern-count-other": "ในอีก {0} เสาร์"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} เสาร์ที่แล้ว"
             }
           },
           "sat-narrow": {
-            "relative-type--1": "เสาร์ที่ผ่านมา",
+            "relative-type--1": "เสาร์ที่แล้ว",
             "relative-type-0": "เสาร์นี้",
             "relative-type-1": "เสาร์หน้า",
             "relativeTime-type-future": {
@@ -578,7 +578,7 @@
             "displayName": "เขตเวลา"
           },
           "zone-short": {
-            "displayName": "เขตเวลา"
+            "displayName": "โซน"
           },
           "zone-narrow": {
             "displayName": "เขตเวลา"

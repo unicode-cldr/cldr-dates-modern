@@ -3,8 +3,8 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "hr"
       },
@@ -57,14 +57,14 @@
             "relative-type-0": "ove g.",
             "relative-type-1": "sljedeće g.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} g.",
-              "relativeTimePattern-count-few": "+{0} g.",
-              "relativeTimePattern-count-other": "+{0} g."
+              "relativeTimePattern-count-one": "za {0} g.",
+              "relativeTimePattern-count-few": "za {0} g.",
+              "relativeTimePattern-count-other": "za {0} g."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} g.",
-              "relativeTimePattern-count-few": "-{0} g.",
-              "relativeTimePattern-count-other": "-{0} g."
+              "relativeTimePattern-count-one": "prije {0} g.",
+              "relativeTimePattern-count-few": "prije {0} g.",
+              "relativeTimePattern-count-other": "prije {0} g."
             }
           },
           "quarter": {
@@ -105,14 +105,14 @@
             "relative-type-0": "ovaj kv.",
             "relative-type-1": "sljedeći kv.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} kv.",
-              "relativeTimePattern-count-few": "+{0} kv.",
-              "relativeTimePattern-count-other": "+{0} kv."
+              "relativeTimePattern-count-one": "za {0} kv.",
+              "relativeTimePattern-count-few": "za {0} kv.",
+              "relativeTimePattern-count-other": "za {0} kv."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} kv.",
-              "relativeTimePattern-count-few": "-{0} kv.",
-              "relativeTimePattern-count-other": "-{0} kv."
+              "relativeTimePattern-count-one": "prije {0} kv.",
+              "relativeTimePattern-count-few": "prije {0} kv.",
+              "relativeTimePattern-count-other": "prije {0} kv."
             }
           },
           "month": {
@@ -153,14 +153,14 @@
             "relative-type-0": "ovaj mj.",
             "relative-type-1": "sljedeći mj.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} mj.",
-              "relativeTimePattern-count-few": "+{0} mj.",
-              "relativeTimePattern-count-other": "+{0} mj."
+              "relativeTimePattern-count-one": "za {0} mj.",
+              "relativeTimePattern-count-few": "za {0} mj.",
+              "relativeTimePattern-count-other": "za {0} mj."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} mj.",
-              "relativeTimePattern-count-few": "-{0} mj.",
-              "relativeTimePattern-count-other": "-{0} mj."
+              "relativeTimePattern-count-one": "prije {0} mj.",
+              "relativeTimePattern-count-few": "prije {0} mj.",
+              "relativeTimePattern-count-other": "prije {0} mj."
             }
           },
           "week": {
@@ -203,25 +203,25 @@
             "relative-type-0": "ovaj tj.",
             "relative-type-1": "sljedeći tj.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} tj.",
-              "relativeTimePattern-count-few": "+{0} tj.",
-              "relativeTimePattern-count-other": "+{0} tj."
+              "relativeTimePattern-count-one": "za {0} tj.",
+              "relativeTimePattern-count-few": "za {0} tj.",
+              "relativeTimePattern-count-other": "za {0} tj."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} tj.",
-              "relativeTimePattern-count-few": "-{0} tj.",
-              "relativeTimePattern-count-other": "-{0} tj."
+              "relativeTimePattern-count-one": "prije {0} tj.",
+              "relativeTimePattern-count-few": "prije {0} tj.",
+              "relativeTimePattern-count-other": "prije {0} tj."
             },
             "relativePeriod": "tjedan od {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "tjedan u mjesecu"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "tj. u mj."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "tj. u mjesecu"
           },
           "day": {
             "displayName": "dan",
@@ -278,31 +278,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dan u godini"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dan u god."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dan u g."
           },
           "weekday": {
             "displayName": "dan u tjednu"
           },
           "weekday-short": {
-            "displayName": "dan u tjednu"
+            "displayName": "dan u tjed."
           },
           "weekday-narrow": {
-            "displayName": "dan u tjednu"
+            "displayName": "dan u tj."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "radni dan u mjesecu"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "radni dan u mj."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "r. dan u mj."
           },
           "sun": {
             "relative-type--1": "prošla nedjelja",
@@ -660,14 +660,14 @@
             "displayName": "h",
             "relative-type-0": "ovaj sat",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} h",
-              "relativeTimePattern-count-few": "+{0} h",
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-one": "za {0} h",
+              "relativeTimePattern-count-few": "za {0} h",
+              "relativeTimePattern-count-other": "za {0} h"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} h",
-              "relativeTimePattern-count-few": "-{0} h",
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-one": "prije {0} h",
+              "relativeTimePattern-count-few": "prije {0} h",
+              "relativeTimePattern-count-other": "prije {0} h"
             }
           },
           "minute": {
@@ -702,14 +702,14 @@
             "displayName": "min",
             "relative-type-0": "ova minuta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} min",
-              "relativeTimePattern-count-few": "+{0} min",
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "za {0} min",
+              "relativeTimePattern-count-few": "za {0} min",
+              "relativeTimePattern-count-other": "za {0} min"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} min",
-              "relativeTimePattern-count-few": "-{0} min",
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "prije {0} min",
+              "relativeTimePattern-count-few": "prije {0} min",
+              "relativeTimePattern-count-other": "prije {0} min"
             }
           },
           "second": {
@@ -744,24 +744,24 @@
             "displayName": "s",
             "relative-type-0": "sad",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} s",
-              "relativeTimePattern-count-few": "+{0} s",
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-one": "za {0} s",
+              "relativeTimePattern-count-few": "za {0} s",
+              "relativeTimePattern-count-other": "za {0} s"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} s",
-              "relativeTimePattern-count-few": "-{0} s",
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-one": "prije {0} s",
+              "relativeTimePattern-count-few": "prije {0} s",
+              "relativeTimePattern-count-other": "prije {0} s"
             }
           },
           "zone": {
             "displayName": "vremenska zona"
           },
           "zone-short": {
-            "displayName": "vremenska zona"
+            "displayName": "zona"
           },
           "zone-narrow": {
-            "displayName": "vremenska zona"
+            "displayName": "zona"
           }
         }
       }

@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "be"
       },
@@ -239,13 +239,13 @@
             "relativePeriod": "тыдзень {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "тыдзень месяца"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "тыдзень месяца"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "тыдзень месяца"
           },
           "day": {
             "displayName": "дзень",
@@ -295,26 +295,26 @@
             "relative-type-1": "заўтра",
             "relative-type-2": "паслязаўтра",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "праз {0} д.",
-              "relativeTimePattern-count-few": "праз {0} д.",
-              "relativeTimePattern-count-many": "праз {0} д.",
-              "relativeTimePattern-count-other": "праз {0} д."
+              "relativeTimePattern-count-one": "праз {0} дзень",
+              "relativeTimePattern-count-few": "праз {0} дні",
+              "relativeTimePattern-count-many": "праз {0} дзён",
+              "relativeTimePattern-count-other": "праз {0} дня"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} д. таму",
-              "relativeTimePattern-count-few": "{0} д. таму",
-              "relativeTimePattern-count-many": "{0} д. таму",
-              "relativeTimePattern-count-other": "{0} д. таму"
+              "relativeTimePattern-count-one": "{0} дзень таму",
+              "relativeTimePattern-count-few": "{0} дні таму",
+              "relativeTimePattern-count-many": "{0} дзён таму",
+              "relativeTimePattern-count-other": "{0} дня таму"
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "дзень года"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "дзень года"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "дзень года"
           },
           "weekday": {
             "displayName": "дзень тыдня"
@@ -326,13 +326,13 @@
             "displayName": "дзень тыдня"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "дзень месяца"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "дзень месяца"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "дзень месяца"
           },
           "sun": {
             "relative-type--1": "у мінулую нядзелю",

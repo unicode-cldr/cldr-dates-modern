@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ar",
         "territory": "IL"
@@ -123,13 +123,13 @@
                   "sat": "س"
                 },
                 "short": {
-                  "sun": "الأحد",
-                  "mon": "الاثنين",
-                  "tue": "الثلاثاء",
-                  "wed": "الأربعاء",
-                  "thu": "الخميس",
-                  "fri": "الجمعة",
-                  "sat": "السبت"
+                  "sun": "أحد",
+                  "mon": "إثنين",
+                  "tue": "ثلاثاء",
+                  "wed": "أربعاء",
+                  "thu": "خميس",
+                  "fri": "جمعة",
+                  "sat": "سبت"
                 },
                 "wide": {
                   "sun": "الأحد",
@@ -161,13 +161,13 @@
                   "sat": "س"
                 },
                 "short": {
-                  "sun": "الأحد",
-                  "mon": "الاثنين",
-                  "tue": "الثلاثاء",
-                  "wed": "الأربعاء",
-                  "thu": "الخميس",
-                  "fri": "الجمعة",
-                  "sat": "السبت"
+                  "sun": "أحد",
+                  "mon": "إثنين",
+                  "tue": "ثلاثاء",
+                  "wed": "أربعاء",
+                  "thu": "خميس",
+                  "fri": "جمعة",
+                  "sat": "سبت"
                 },
                 "wide": {
                   "sun": "الأحد",
@@ -227,13 +227,13 @@
                 "abbreviated": {
                   "am": "ص",
                   "pm": "م",
-                  "morning1": "فجرا",
+                  "morning1": "فجرًا",
                   "morning2": "ص",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
                   "evening1": "مساءً",
                   "night1": "منتصف الليل",
-                  "night2": "ل"
+                  "night2": "ليلاً"
                 },
                 "narrow": {
                   "am": "ص",
@@ -262,7 +262,7 @@
                 "abbreviated": {
                   "am": "ص",
                   "pm": "م",
-                  "morning1": "فجرا",
+                  "morning1": "فجرًا",
                   "morning2": "ص",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
@@ -273,7 +273,7 @@
                 "narrow": {
                   "am": "ص",
                   "pm": "م",
-                  "morning1": "فجرا",
+                  "morning1": "فجرًا",
                   "morning2": "صباحًا",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
@@ -297,26 +297,26 @@
             "eras": {
               "eraNames": {
                 "0": "قبل الميلاد",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "قبل الحقبة الحالية",
                 "1": "ميلادي",
                 "1-alt-variant": "بعد الميلاد"
               },
               "eraAbbr": {
                 "0": "ق.م",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ق. م",
                 "1": "م",
                 "1-alt-variant": "ب.م"
               },
               "eraNarrow": {
                 "0": "ق.م",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ق. م",
                 "1": "م",
                 "1-alt-variant": "ب.م"
               }
             },
             "dateFormats": {
-              "full": "EEEE، d MMMM، y",
-              "long": "d MMMM، y",
+              "full": "EEEE، d MMMM y",
+              "long": "d MMMM y",
               "medium": "dd‏/MM‏/y",
               "short": "d‏/M‏/y"
             },
@@ -332,8 +332,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E، d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -341,8 +346,8 @@
                 "EHms": "E HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
-                "GyMMMd": "d MMM، y G",
-                "GyMMMEd": "E، d MMM، y G",
+                "GyMMMd": "d MMM y G",
+                "GyMMMEd": "E، d MMM y G",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -375,17 +380,17 @@
                 "yMEd": "E، d/‏M/‏y",
                 "yMM": "MM‏/y",
                 "yMMM": "MMM y",
-                "yMMMd": "d MMM، y",
-                "yMMMEd": "E، d MMM، y",
+                "yMMMd": "d MMM y",
+                "yMMMEd": "E، d MMM y",
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-zero": "الأسبوع w من سنة y",
-                "yw-count-one": "الأسبوع w من سنة y",
-                "yw-count-two": "الأسبوع w من سنة y",
-                "yw-count-few": "الأسبوع w من سنة y",
-                "yw-count-many": "الأسبوع w من سنة y",
-                "yw-count-other": "الأسبوع w من سنة y"
+                "yw-count-zero": "الأسبوع w من سنة Y",
+                "yw-count-one": "الأسبوع w من سنة Y",
+                "yw-count-two": "الأسبوع w من سنة Y",
+                "yw-count-few": "الأسبوع w من سنة Y",
+                "yw-count-many": "الأسبوع w من سنة Y",
+                "yw-count-other": "الأسبوع w من سنة Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

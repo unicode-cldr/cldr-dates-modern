@@ -3,8 +3,8 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ga"
       },
@@ -76,7 +76,7 @@
                 "exemplarCity": "Belém"
               },
               "Belize": {
-                "exemplarCity": "An Bheilís"
+                "exemplarCity": "an Bheilís"
               },
               "Blanc-Sablon": {
                 "exemplarCity": "Blanc-Sablon"
@@ -163,7 +163,7 @@
                 "exemplarCity": "Eirunepé"
               },
               "El_Salvador": {
-                "exemplarCity": "An tSalvadóir"
+                "exemplarCity": "an tSalvadóir"
               },
               "Fort_Nelson": {
                 "exemplarCity": "Fort Nelson"
@@ -196,7 +196,7 @@
                 "exemplarCity": "Guayaquil"
               },
               "Guyana": {
-                "exemplarCity": "An Ghuáin"
+                "exemplarCity": "an Ghuáin"
               },
               "Halifax": {
                 "exemplarCity": "Halifax"
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Portó Ríce"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -430,7 +433,7 @@
                 "exemplarCity": "St. Thomas"
               },
               "St_Vincent": {
-                "exemplarCity": "St. Vincent"
+                "exemplarCity": "San Uinseann"
               },
               "Swift_Current": {
                 "exemplarCity": "Swift Current"
@@ -471,13 +474,13 @@
             },
             "Atlantic": {
               "Azores": {
-                "exemplarCity": "Na hAsóir"
+                "exemplarCity": "na hAsóir"
               },
               "Bermuda": {
                 "exemplarCity": "Beirmiúda"
               },
               "Canary": {
-                "exemplarCity": "Na hOileáin Chanáracha"
+                "exemplarCity": "na hOileáin Chanáracha"
               },
               "Cape_Verde": {
                 "exemplarCity": "Rinn Verde"
@@ -492,7 +495,7 @@
                 "exemplarCity": "Réicivíc"
               },
               "South_Georgia": {
-                "exemplarCity": "An tSeoirsia Theas"
+                "exemplarCity": "an tSeoirsia Theas"
               },
               "St_Helena": {
                 "exemplarCity": "San Héilin"
@@ -509,10 +512,10 @@
                 "exemplarCity": "Andóra"
               },
               "Astrakhan": {
-                "exemplarCity": "An Astracáin"
+                "exemplarCity": "an Astracáin"
               },
               "Athens": {
-                "exemplarCity": "An Aithin"
+                "exemplarCity": "an Aithin"
               },
               "Belgrade": {
                 "exemplarCity": "Béalgrád"
@@ -521,10 +524,10 @@
                 "exemplarCity": "Beirlín"
               },
               "Bratislava": {
-                "exemplarCity": "An Bhratasláiv"
+                "exemplarCity": "an Bhratasláiv"
               },
               "Brussels": {
-                "exemplarCity": "An Bhruiséil"
+                "exemplarCity": "an Bhruiséil"
               },
               "Bucharest": {
                 "exemplarCity": "Búcairist"
@@ -629,7 +632,7 @@
                 "exemplarCity": "Ríge"
               },
               "Rome": {
-                "exemplarCity": "An Róimh"
+                "exemplarCity": "an Róimh"
               },
               "Samara": {
                 "exemplarCity": "Samara"
@@ -639,6 +642,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "Sairéavó"
+              },
+              "Saratov": {
+                "exemplarCity": "Saratov"
               },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
@@ -872,6 +878,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ashgabat"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
               },
@@ -909,7 +918,7 @@
                 "exemplarCity": "Colombo"
               },
               "Damascus": {
-                "exemplarCity": "An Damaisc"
+                "exemplarCity": "an Damaisc"
               },
               "Dhaka": {
                 "exemplarCity": "Dhaka"
@@ -922,6 +931,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dushanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -990,7 +1002,7 @@
                 "exemplarCity": "Muscat"
               },
               "Nicosia": {
-                "exemplarCity": "An Niocóis"
+                "exemplarCity": "an Niocóis"
               },
               "Novokuznetsk": {
                 "exemplarCity": "Novokuznetsk"
@@ -1227,7 +1239,7 @@
                 "exemplarCity": "Majuro"
               },
               "Marquesas": {
-                "exemplarCity": "Na hOileáin Mharcasacha"
+                "exemplarCity": "na hOileáin Mharcasacha"
               },
               "Midway": {
                 "exemplarCity": "Oileáin Midway"
@@ -1325,92 +1337,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "Am Uilíoch Lárnach"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Cathair Anaithnid"
@@ -1499,6 +1432,11 @@
                 "generic": "Am an Aigéin Chiúin",
                 "standard": "Am Caighdeánach an Aigéin Chiúin",
                 "daylight": "Am Samhraidh an Aigéin Chiúin"
+              },
+              "short": {
+                "generic": "AAC",
+                "standard": "ACAC",
+                "daylight": "ASAC"
               }
             },
             "Anadyr": {

@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "pl"
       },
@@ -115,16 +115,16 @@
             "relative-type-0": "w tym kwartale",
             "relative-type-1": "w przyszłym kwartale",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} kw.",
-              "relativeTimePattern-count-few": "+{0} kw.",
-              "relativeTimePattern-count-many": "+{0} kw.",
-              "relativeTimePattern-count-other": "+{0} kw."
+              "relativeTimePattern-count-one": "za {0} kw.",
+              "relativeTimePattern-count-few": "za {0} kw.",
+              "relativeTimePattern-count-many": "za {0} kw.",
+              "relativeTimePattern-count-other": "za {0} kw."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "–{0} kw.",
-              "relativeTimePattern-count-few": "–{0} kw.",
-              "relativeTimePattern-count-many": "–{0} kw.",
-              "relativeTimePattern-count-other": "–{0} kw."
+              "relativeTimePattern-count-one": "{0} kw. temu",
+              "relativeTimePattern-count-few": "{0} kw. temu",
+              "relativeTimePattern-count-many": "{0} kw. temu",
+              "relativeTimePattern-count-other": "{0} kw. temu"
             }
           },
           "month": {
@@ -169,16 +169,16 @@
             "relative-type-0": "w tym miesiącu",
             "relative-type-1": "w przyszłym miesiącu",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} mies.",
-              "relativeTimePattern-count-few": "+{0} mies.",
-              "relativeTimePattern-count-many": "+{0} mies.",
-              "relativeTimePattern-count-other": "+{0} mies."
+              "relativeTimePattern-count-one": "za {0} mies.",
+              "relativeTimePattern-count-few": "za {0} mies.",
+              "relativeTimePattern-count-many": "za {0} mies.",
+              "relativeTimePattern-count-other": "za {0} mies."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "–{0} mies.",
-              "relativeTimePattern-count-few": "–{0} mies.",
-              "relativeTimePattern-count-many": "–{0} mies.",
-              "relativeTimePattern-count-other": "–{0} mies."
+              "relativeTimePattern-count-one": "{0} mies. temu",
+              "relativeTimePattern-count-few": "{0} mies. temu",
+              "relativeTimePattern-count-many": "{0} mies. temu",
+              "relativeTimePattern-count-other": "{0} mies. temu"
             }
           },
           "week": {
@@ -239,13 +239,13 @@
             "relativePeriod": "tydzień {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "tydzień miesiąca"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "tydz. mies."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "tydz. mies."
           },
           "day": {
             "displayName": "dzień",
@@ -308,31 +308,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dzień roku"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dz. roku"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dz. r."
           },
           "weekday": {
             "displayName": "dzień tygodnia"
           },
           "weekday-short": {
-            "displayName": "dzień tygodnia"
+            "displayName": "dzień tyg."
           },
           "weekday-narrow": {
-            "displayName": "dzień tygodnia"
+            "displayName": "dzień tyg."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dzień miesiąca"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dzień mies."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dzień mies."
           },
           "sun": {
             "relative-type--1": "w zeszłą niedzielę",
@@ -698,7 +698,7 @@
             "displayName": "rano / po południu / wieczorem"
           },
           "dayperiod-narrow": {
-            "displayName": "rano / po południu / wieczorem"
+            "displayName": "rano / po poł. / wiecz."
           },
           "hour": {
             "displayName": "godzina",
@@ -848,10 +848,10 @@
             "displayName": "strefa czasowa"
           },
           "zone-short": {
-            "displayName": "strefa czasowa"
+            "displayName": "str. czasowa"
           },
           "zone-narrow": {
-            "displayName": "strefa czasowa"
+            "displayName": "str. czas."
           }
         }
       }

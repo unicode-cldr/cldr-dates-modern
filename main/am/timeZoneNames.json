@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "am"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "ፖርቶሪኮ"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "ፑንታ አሬናስ"
+              },
               "Rainy_River": {
                 "exemplarCity": "ሬኒ ሪቨር"
               },
@@ -382,7 +385,7 @@
                 "exemplarCity": "ራንኪን ኢንሌት"
               },
               "Recife": {
-                "exemplarCity": "ፓሲፍ"
+                "exemplarCity": "ረሲፍ"
               },
               "Regina": {
                 "exemplarCity": "ረጂና"
@@ -634,11 +637,14 @@
               "Sarajevo": {
                 "exemplarCity": "ሳሪየቮ"
               },
+              "Saratov": {
+                "exemplarCity": "ሳራቶቭ"
+              },
               "Simferopol": {
                 "exemplarCity": "ሲምፈሮፖል"
               },
               "Skopje": {
-                "exemplarCity": "ስኮፕጄ"
+                "exemplarCity": "ስኮፕየ"
               },
               "Sofia": {
                 "exemplarCity": "ሶፊያ"
@@ -775,7 +781,7 @@
                 "exemplarCity": "ኪጋሊ"
               },
               "Kinshasa": {
-                "exemplarCity": "ኪንሳሻ"
+                "exemplarCity": "ኪንሻሳ"
               },
               "Lagos": {
                 "exemplarCity": "ሌጎስ"
@@ -796,7 +802,7 @@
                 "exemplarCity": "ሉሳካ"
               },
               "Malabo": {
-                "exemplarCity": "ማሌቦ"
+                "exemplarCity": "ማላቡ"
               },
               "Maputo": {
                 "exemplarCity": "ማፑቱ"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "አሽጋባት"
               },
+              "Atyrau": {
+                "exemplarCity": "አትይራኡ"
+              },
               "Baghdad": {
                 "exemplarCity": "ባግዳድ"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "ደሻንቤ"
+              },
+              "Famagusta": {
+                "exemplarCity": "ፋማጉስታ"
               },
               "Gaza": {
                 "exemplarCity": "ጋዛ"
@@ -1014,7 +1026,7 @@
                 "exemplarCity": "ኩይዚሎርዳ"
               },
               "Rangoon": {
-                "exemplarCity": "ራንጉን"
+                "exemplarCity": "ያንጎን"
               },
               "Riyadh": {
                 "exemplarCity": "ሪያድ"
@@ -1032,7 +1044,7 @@
                 "exemplarCity": "ሴኦል"
               },
               "Shanghai": {
-                "exemplarCity": "ሸንጋይ"
+                "exemplarCity": "ሻንጋይ"
               },
               "Singapore": {
                 "exemplarCity": "ሲንጋፖር"
@@ -1212,7 +1224,7 @@
                 "exemplarCity": "ኪሪቲማቲ"
               },
               "Kosrae": {
-                "exemplarCity": "ኮስሬ እ"
+                "exemplarCity": "ኮስሬ"
               },
               "Kwajalein": {
                 "exemplarCity": "ክዋጃሊን"
@@ -1224,7 +1236,7 @@
                 "exemplarCity": "ማርክዌሳስ"
               },
               "Midway": {
-                "exemplarCity": "አጋማሽ"
+                "exemplarCity": "ሚድወይ"
               },
               "Nauru": {
                 "exemplarCity": "ናውሩ"
@@ -1272,7 +1284,7 @@
                 "exemplarCity": "ቹክ"
               },
               "Wake": {
-                "exemplarCity": "ዋቄ"
+                "exemplarCity": "ዋኬ"
               },
               "Wallis": {
                 "exemplarCity": "ዋሊስ"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "የተቀነባበረ ሁለገብ ሰዓት"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "ያልታወቀ ከተማ"
@@ -1563,9 +1493,9 @@
             },
             "Azerbaijan": {
               "long": {
-                "generic": "የአዘርባይጃን ሰዓት",
-                "standard": "የአዘርባይጃን መደበኛ ሰዓት",
-                "daylight": "የአዘርባይጃን ክረምት ሰዓት"
+                "generic": "የአዘርባጃን ሰዓት",
+                "standard": "የአዘርባጃን መደበኛ ሰዓት",
+                "daylight": "የአዘርባጃን ክረምት ሰዓት"
               }
             },
             "Azores": {
@@ -1641,7 +1571,7 @@
               "long": {
                 "generic": "የቾይባልሳ ሰዓት አቆጣጠር",
                 "standard": "የቾይባልሳን መደበኛ የሰዓት አቆጣጠር",
-                "daylight": "የቾይባልሳን የበጋ የሰአት አቆጣጠር"
+                "daylight": "የቾይባልሳን የበጋ የሰዓት አቆጣጠር"
               }
             },
             "Christmas": {

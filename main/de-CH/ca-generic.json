@@ -3,8 +3,8 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13708 $",
+          "_cldrVersion": "32"
         },
         "language": "de",
         "territory": "CH"
@@ -123,13 +123,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "So.",
-                  "mon": "Mo.",
-                  "tue": "Di.",
-                  "wed": "Mi.",
-                  "thu": "Do.",
-                  "fri": "Fr.",
-                  "sat": "Sa."
+                  "sun": "So",
+                  "mon": "Mo",
+                  "tue": "Di",
+                  "wed": "Mi",
+                  "thu": "Do",
+                  "fri": "Fr",
+                  "sat": "Sa"
                 },
                 "wide": {
                   "sun": "Sonntag",
@@ -226,8 +226,8 @@
               "format": {
                 "abbreviated": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -248,8 +248,8 @@
                 },
                 "wide": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -326,8 +326,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

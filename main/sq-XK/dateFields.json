@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sq",
         "territory": "XK"
@@ -192,13 +192,13 @@
             "relativePeriod": "java e {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "javë e muajit"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "javë e muajit"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "javë e muajit"
           },
           "day": {
             "displayName": "ditë",
@@ -243,13 +243,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ditë e vitit"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ditë e vitit"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ditë e vitit"
           },
           "weekday": {
             "displayName": "ditë e javës"
@@ -261,13 +261,13 @@
             "displayName": "ditë e javës"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ditë pune e muajit"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ditë pune e muajit"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ditë pune e muajit"
           },
           "sun": {
             "relative-type--1": "të dielën e kaluar",
@@ -278,8 +278,8 @@
               "relativeTimePattern-count-other": "pas {0} të dielash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të diele më parë",
-              "relativeTimePattern-count-other": "{0} të dielash më parë"
+              "relativeTimePattern-count-one": "{0} të dielë më parë",
+              "relativeTimePattern-count-other": "{0} të diela më parë"
             }
           },
           "sun-short": {
@@ -291,8 +291,8 @@
               "relativeTimePattern-count-other": "pas {0} të dielash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të diele më parë",
-              "relativeTimePattern-count-other": "{0} të dielash më parë"
+              "relativeTimePattern-count-one": "{0} të dielë më parë",
+              "relativeTimePattern-count-other": "{0} të diela më parë"
             }
           },
           "sun-narrow": {
@@ -304,8 +304,8 @@
               "relativeTimePattern-count-other": "pas {0} të dielash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të diele më parë",
-              "relativeTimePattern-count-other": "{0} të dielash më parë"
+              "relativeTimePattern-count-one": "{0} të dielë më parë",
+              "relativeTimePattern-count-other": "{0} të diela më parë"
             }
           },
           "mon": {
@@ -317,8 +317,8 @@
               "relativeTimePattern-count-other": "pas {0} të hënash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të hëne më parë",
-              "relativeTimePattern-count-other": "{0} të hënash më parë"
+              "relativeTimePattern-count-one": "{0} të hënë më parë",
+              "relativeTimePattern-count-other": "{0} të hëna më parë"
             }
           },
           "mon-short": {
@@ -330,8 +330,8 @@
               "relativeTimePattern-count-other": "pas {0} të hënash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të hëne më parë",
-              "relativeTimePattern-count-other": "{0} të hënash më parë"
+              "relativeTimePattern-count-one": "{0} të hënë më parë",
+              "relativeTimePattern-count-other": "{0} të hëna më parë"
             }
           },
           "mon-narrow": {
@@ -343,8 +343,8 @@
               "relativeTimePattern-count-other": "pas {0} të hënash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të hëne më parë",
-              "relativeTimePattern-count-other": "{0} të hënash më parë"
+              "relativeTimePattern-count-one": "{0} të hënë më parë",
+              "relativeTimePattern-count-other": "{0} të hëna më parë"
             }
           },
           "tue": {
@@ -356,8 +356,8 @@
               "relativeTimePattern-count-other": "pas {0} të martash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të marte më parë",
-              "relativeTimePattern-count-other": "{0} të martash më parë"
+              "relativeTimePattern-count-one": "{0} të martë më parë",
+              "relativeTimePattern-count-other": "{0} të marta më parë"
             }
           },
           "tue-short": {
@@ -369,8 +369,8 @@
               "relativeTimePattern-count-other": "pas {0} të martash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të marte më parë",
-              "relativeTimePattern-count-other": "{0} të martash më parë"
+              "relativeTimePattern-count-one": "{0} të martë më parë",
+              "relativeTimePattern-count-other": "{0} të marta më parë"
             }
           },
           "tue-narrow": {
@@ -382,8 +382,8 @@
               "relativeTimePattern-count-other": "pas {0} të martash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të marte më parë",
-              "relativeTimePattern-count-other": "{0} të martash më parë"
+              "relativeTimePattern-count-one": "{0} të martë më parë",
+              "relativeTimePattern-count-other": "{0} të marta më parë"
             }
           },
           "wed": {
@@ -395,8 +395,8 @@
               "relativeTimePattern-count-other": "pas {0} të mërkurash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të mërkure më parë",
-              "relativeTimePattern-count-other": "{0} të mërkurash më parë"
+              "relativeTimePattern-count-one": "{0} të mërkurë më parë",
+              "relativeTimePattern-count-other": "{0} të mërkura më parë"
             }
           },
           "wed-short": {
@@ -408,8 +408,8 @@
               "relativeTimePattern-count-other": "pas {0} të mërkurash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të mërkure më parë",
-              "relativeTimePattern-count-other": "{0} të mërkurash më parë"
+              "relativeTimePattern-count-one": "{0} të mërkurë më parë",
+              "relativeTimePattern-count-other": "{0} të mërkura më parë"
             }
           },
           "wed-narrow": {
@@ -421,8 +421,8 @@
               "relativeTimePattern-count-other": "pas {0} të mërkurash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të mërkure më parë",
-              "relativeTimePattern-count-other": "{0} të mërkurash më parë"
+              "relativeTimePattern-count-one": "{0} të mërkurë më parë",
+              "relativeTimePattern-count-other": "{0} të mërkura më parë"
             }
           },
           "thu": {
@@ -435,7 +435,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} të enjte më parë",
-              "relativeTimePattern-count-other": "{0} të enjtesh më parë"
+              "relativeTimePattern-count-other": "{0} të enjte më parë"
             }
           },
           "thu-short": {
@@ -448,7 +448,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} të enjte më parë",
-              "relativeTimePattern-count-other": "{0} të enjtesh më parë"
+              "relativeTimePattern-count-other": "{0} të enjte më parë"
             }
           },
           "thu-narrow": {
@@ -461,7 +461,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} të enjte më parë",
-              "relativeTimePattern-count-other": "{0} të enjtesh më parë"
+              "relativeTimePattern-count-other": "{0} të enjte më parë"
             }
           },
           "fri": {
@@ -474,7 +474,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} të premte më parë",
-              "relativeTimePattern-count-other": "{0} të premtesh më parë"
+              "relativeTimePattern-count-other": "{0} të premte më parë"
             }
           },
           "fri-short": {
@@ -487,7 +487,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} të premte më parë",
-              "relativeTimePattern-count-other": "{0} të premtesh më parë"
+              "relativeTimePattern-count-other": "{0} të premte më parë"
             }
           },
           "fri-narrow": {
@@ -500,7 +500,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} të premte më parë",
-              "relativeTimePattern-count-other": "{0} të premtesh më parë"
+              "relativeTimePattern-count-other": "{0} të premte më parë"
             }
           },
           "sat": {
@@ -512,8 +512,8 @@
               "relativeTimePattern-count-other": "pas {0} të shtunash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të shtune më parë",
-              "relativeTimePattern-count-other": "{0} të shtunash më parë"
+              "relativeTimePattern-count-one": "{0} të shtunë më parë",
+              "relativeTimePattern-count-other": "{0} të shtuna më parë"
             }
           },
           "sat-short": {
@@ -525,8 +525,8 @@
               "relativeTimePattern-count-other": "pas {0} të shtunash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të shtune më parë",
-              "relativeTimePattern-count-other": "{0} të shtunash më parë"
+              "relativeTimePattern-count-one": "{0} të shtunë më parë",
+              "relativeTimePattern-count-other": "{0} të shtuna më parë"
             }
           },
           "sat-narrow": {
@@ -538,8 +538,8 @@
               "relativeTimePattern-count-other": "pas {0} të shtunash"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} të shtune më parë",
-              "relativeTimePattern-count-other": "{0} të shtunash më parë"
+              "relativeTimePattern-count-one": "{0} të shtunë më parë",
+              "relativeTimePattern-count-other": "{0} të shtuna më parë"
             }
           },
           "dayperiod-short": {

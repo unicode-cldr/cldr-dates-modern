@@ -3,8 +3,8 @@
     "sr-Cyrl-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -272,10 +272,10 @@
                   "am": "a",
                   "noon": "подне",
                   "pm": "p",
-                  "morning1": "ујутро",
-                  "afternoon1": "по подне",
-                  "evening1": "увече",
-                  "night1": "ноћу"
+                  "morning1": "јутро",
+                  "afternoon1": "поподне",
+                  "evening1": "вече",
+                  "night1": "ноћ"
                 },
                 "wide": {
                   "midnight": "поноћ",
@@ -321,18 +321,23 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "hh:mm B",
+                "Bhms": "hh:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E hh:mm B",
+                "EBhms": "E hh:mm:ss B",
                 "Ed": "E d.",
-                "Ehm": "E h:mm a",
+                "Ehm": "E hh:mm a",
                 "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
+                "Ehms": "E hh:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "y. G",
                 "GyMMM": "MMM y. G",
                 "GyMMMd": "d. MMM y. G",
                 "GyMMMEd": "E, d. MMM y. G",
-                "h": "hh a",
+                "h": "h a",
                 "H": "HH",
                 "hm": "hh:mm a",
                 "Hm": "HH:mm",

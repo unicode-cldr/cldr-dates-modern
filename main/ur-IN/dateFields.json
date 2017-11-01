@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "ur",
         "territory": "IN"
@@ -15,10 +15,10 @@
             "displayName": "دور"
           },
           "era-short": {
-            "displayName": "دور"
+            "displayName": "عہد"
           },
           "era-narrow": {
-            "displayName": "دور"
+            "displayName": "عہد"
           },
           "year": {
             "displayName": "سال",
@@ -68,12 +68,12 @@
             "relative-type-0": "اس سہ ماہی",
             "relative-type-1": "اگلے سہ ماہی",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} سہ ماہی",
-              "relativeTimePattern-count-other": "+{0} سہ ماہی"
+              "relativeTimePattern-count-one": "{0} سہ ماہی میں",
+              "relativeTimePattern-count-other": "{0} سہ ماہی میں"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} سہ ماہی",
-              "relativeTimePattern-count-other": "-{0} سہ ماہی"
+              "relativeTimePattern-count-one": "{0} سہ ماہی پہلے",
+              "relativeTimePattern-count-other": "{0} سہ ماہی پہلے"
             }
           },
           "quarter-short": {
@@ -138,7 +138,7 @@
             "relative-type-0": "اس مہینہ",
             "relative-type-1": "اگلے مہینہ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} ماہ میں",
+              "relativeTimePattern-count-one": "{0} ماہ میں",
               "relativeTimePattern-count-other": "{0} ماہ میں"
             },
             "relativeTime-type-past": {
@@ -192,13 +192,13 @@
             "relativePeriod": "{0} کے ہفتے"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "مہینے کا ہفتہ"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "مہینے کا ہفتہ"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "مہینے کا ہفتہ"
           },
           "day": {
             "displayName": "دن",
@@ -240,7 +240,7 @@
             "relative-type-1": "آئندہ کل",
             "relative-type-2": "آنے والا پرسوں",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} دنوں میں",
+              "relativeTimePattern-count-one": "{0} دن میں",
               "relativeTimePattern-count-other": "{0} دنوں میں"
             },
             "relativeTime-type-past": {
@@ -249,13 +249,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "یوم سال"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "یوم سال"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "یوم سال"
           },
           "weekday": {
             "displayName": "ہفتے کا دن"
@@ -267,13 +267,13 @@
             "displayName": "ہفتے کا دن"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "مہینے کا یوم ہفتہ"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "مہینے کا یوم ہفتہ"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "مہینے کا یوم ہفتہ"
           },
           "sun": {
             "relative-type--1": "گزشتہ اتوار",
@@ -328,11 +328,11 @@
             }
           },
           "mon-short": {
-            "relative-type--1": "گزشتہ سوموار",
-            "relative-type-0": "اس سوموار",
-            "relative-type-1": "اگلے سوموار",
+            "relative-type--1": "گزشتہ پیر",
+            "relative-type-0": "اس پیر",
+            "relative-type-1": "اگلے پیر",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} سوموار میں",
+              "relativeTimePattern-count-one": "{0} پیر میں",
               "relativeTimePattern-count-other": "{0} پیر میں"
             },
             "relativeTime-type-past": {
@@ -341,9 +341,9 @@
             }
           },
           "mon-narrow": {
-            "relative-type--1": "گزشتہ سوموار",
-            "relative-type-0": "اس سوموار",
-            "relative-type-1": "اگلے سوموار",
+            "relative-type--1": "گزشتہ پیر",
+            "relative-type-0": "اس پیر",
+            "relative-type-1": "اگلے پیر",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} پیر میں",
               "relativeTimePattern-count-other": "{0} پیر میں"
@@ -561,7 +561,7 @@
             "displayName": "گھنٹہ",
             "relative-type-0": "اس گھنٹے",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} گھنٹہ میں",
+              "relativeTimePattern-count-one": "{0} گھنٹے میں",
               "relativeTimePattern-count-other": "{0} گھنٹے میں"
             },
             "relativeTime-type-past": {

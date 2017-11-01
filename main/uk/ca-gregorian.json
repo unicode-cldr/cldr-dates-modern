@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13712 $",
+          "_cldrVersion": "32"
         },
         "language": "uk"
       },
@@ -325,8 +325,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -369,10 +374,10 @@
                 "yMMMM": "LLLL y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y 'р'.",
-                "yw-count-one": "w-'й' 'тиж'. y 'р'.",
-                "yw-count-few": "w-'й' 'тиж'. y 'р'.",
-                "yw-count-many": "w-'й' 'тиж'. y 'р'.",
-                "yw-count-other": "w-'й' 'тиж'. y 'р'."
+                "yw-count-one": "w-'й' 'тиж'. Y 'р'.",
+                "yw-count-few": "w-'й' 'тиж'. Y 'р'.",
+                "yw-count-many": "w-'й' 'тиж'. Y 'р'.",
+                "yw-count-other": "w-'й' 'тиж'. Y 'р'."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

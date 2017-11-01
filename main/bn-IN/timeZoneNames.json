@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "bn",
         "territory": "IN"
@@ -30,7 +30,7 @@
                 "exemplarCity": "অ্যাঙ্গুইলা"
               },
               "Antigua": {
-                "exemplarCity": "অ্যান্টিগুয়াগা"
+                "exemplarCity": "অ্যান্টিগুয়া"
               },
               "Araguaina": {
                 "exemplarCity": "আরাগুয়াইনা"
@@ -40,7 +40,7 @@
                   "exemplarCity": "রিও গায়েগোস"
                 },
                 "San_Juan": {
-                  "exemplarCity": "সান হুয়ান"
+                  "exemplarCity": "সান জুয়ান"
                 },
                 "Ushuaia": {
                   "exemplarCity": "উশুয়াইয়া"
@@ -244,7 +244,7 @@
                 "exemplarCity": "জামাইকা"
               },
               "Jujuy": {
-                "exemplarCity": "হুহুই"
+                "exemplarCity": "জুজুই"
               },
               "Juneau": {
                 "exemplarCity": "জুনো"
@@ -264,7 +264,7 @@
                 "exemplarCity": "লিমা"
               },
               "Los_Angeles": {
-                "exemplarCity": "লস এ্যাঞ্জেলেস"
+                "exemplarCity": "লস অ্যাঞ্জেলেস"
               },
               "Louisville": {
                 "exemplarCity": "লুইসভিল"
@@ -303,7 +303,7 @@
                 "exemplarCity": "মেরিডা"
               },
               "Metlakatla": {
-                "exemplarCity": "ম্যাকওয়ারি"
+                "exemplarCity": "মেটলাকাটলা"
               },
               "Mexico_City": {
                 "exemplarCity": "মেক্সিকো সিটি"
@@ -350,7 +350,7 @@
                 }
               },
               "Ojinaga": {
-                "exemplarCity": "ওজিঙ্গা"
+                "exemplarCity": "ওজিনাগা"
               },
               "Panama": {
                 "exemplarCity": "পানামা"
@@ -375,6 +375,9 @@
               },
               "Puerto_Rico": {
                 "exemplarCity": "পুয়েরতো রিকো"
+              },
+              "Punta_Arenas": {
+                "exemplarCity": "পুন্টা আরেনাস"
               },
               "Rainy_River": {
                 "exemplarCity": "রেইনি রিভার"
@@ -552,7 +555,7 @@
                 "exemplarCity": "জিব্রাল্টার"
               },
               "Guernsey": {
-                "exemplarCity": "গেরেনজি"
+                "exemplarCity": "গুয়ার্নসি"
               },
               "Helsinki": {
                 "exemplarCity": "হেলসিঙ্কি"
@@ -594,7 +597,7 @@
                 "exemplarCity": "মাদ্রিদ"
               },
               "Malta": {
-                "exemplarCity": "মল্টা"
+                "exemplarCity": "মাল্টা"
               },
               "Mariehamn": {
                 "exemplarCity": "মরিয়েহামেন"
@@ -634,6 +637,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "সারাজিভো"
+              },
+              "Saratov": {
+                "exemplarCity": "সারাটোভ"
               },
               "Simferopol": {
                 "exemplarCity": "সিমফেরোপোল"
@@ -719,7 +725,7 @@
                 "exemplarCity": "ব্ল্যানটায়ের"
               },
               "Brazzaville": {
-                "exemplarCity": "ব্রাজউহভিল"
+                "exemplarCity": "ব্রাজাভিলি"
               },
               "Bujumbura": {
                 "exemplarCity": "বুজুমবুরহু"
@@ -865,13 +871,16 @@
                 "exemplarCity": "আকটোবে"
               },
               "Ashgabat": {
-                "exemplarCity": "আশগুবাদ"
+                "exemplarCity": "আশগাবাত"
+              },
+              "Atyrau": {
+                "exemplarCity": "অতিরাউ"
               },
               "Baghdad": {
                 "exemplarCity": "বাগদাদ"
               },
               "Bahrain": {
-                "exemplarCity": "বাহরিন"
+                "exemplarCity": "বাহারিন"
               },
               "Baku": {
                 "exemplarCity": "বাকু"
@@ -892,7 +901,7 @@
                 "exemplarCity": "ব্রুনেই"
               },
               "Calcutta": {
-                "exemplarCity": "কলকাতা"
+                "exemplarCity": "কোলকাতা"
               },
               "Chita": {
                 "exemplarCity": "চিতা"
@@ -917,6 +926,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "দুশানবে"
+              },
+              "Famagusta": {
+                "exemplarCity": "ফামাগাস্তা"
               },
               "Gaza": {
                 "exemplarCity": "গাজা"
@@ -982,7 +994,7 @@
                 "exemplarCity": "ম্যানিলা"
               },
               "Muscat": {
-                "exemplarCity": "মাসকাট"
+                "exemplarCity": "মাসকট"
               },
               "Nicosia": {
                 "exemplarCity": "নিকোসিয়া"
@@ -1033,7 +1045,7 @@
                 "exemplarCity": "সিওল"
               },
               "Shanghai": {
-                "exemplarCity": "সাংঘাই"
+                "exemplarCity": "সাংহাই"
               },
               "Singapore": {
                 "exemplarCity": "সিঙ্গাপুর"
@@ -1048,7 +1060,7 @@
                 "exemplarCity": "তাসখন্দ"
               },
               "Tbilisi": {
-                "exemplarCity": "তুবুলিসি"
+                "exemplarCity": "সিবিলিশি"
               },
               "Tehran": {
                 "exemplarCity": "তেহেরান"
@@ -1078,7 +1090,7 @@
                 "exemplarCity": "ভ্লাদিভস্তোক"
               },
               "Yakutsk": {
-                "exemplarCity": "য়াকুতস্ক"
+                "exemplarCity": "ইয়াকুটস্ক"
               },
               "Yekaterinburg": {
                 "exemplarCity": "ইয়েকাটেরিনবার্গ"
@@ -1151,7 +1163,7 @@
                 "exemplarCity": "লর্ড হাও"
               },
               "Melbourne": {
-                "exemplarCity": "মেলবার্ন"
+                "exemplarCity": "মেলবোর্ন"
               },
               "Perth": {
                 "exemplarCity": "পার্থ"
@@ -1270,7 +1282,7 @@
                 "exemplarCity": "টোঙ্গাটাপু"
               },
               "Truk": {
-                "exemplarCity": "ট্রুক"
+                "exemplarCity": "চুক"
               },
               "Wake": {
                 "exemplarCity": "ওয়েক"
@@ -1320,95 +1332,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "স্থানাংকিত আন্তর্জাতিক সময়"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "অজানা শহর"
@@ -1508,16 +1438,16 @@
             },
             "Argentina": {
               "long": {
-                "generic": "আর্জেনটিনা সময়",
-                "standard": "আর্জেনটিনা মানক সময়",
-                "daylight": "আর্জেনটিনা গ্রীষ্মকালীন সময়"
+                "generic": "আর্জেন্টিনা সময়",
+                "standard": "আর্জেন্টিনা মানক সময়",
+                "daylight": "আর্জেন্টিনা গ্রীষ্মকালীন সময়"
               }
             },
             "Argentina_Western": {
               "long": {
                 "generic": "পশ্চিমি আর্জেন্টিনা সময়",
                 "standard": "পশ্চিমি আর্জেনটিনার প্রমাণ সময়",
-                "daylight": "পশ্চিমি আর্জেনটিনা গৃষ্মকালীন সময়"
+                "daylight": "পশ্চিমি আর্জেনটিনা গ্রীষ্মকালীন সময়"
               }
             },
             "Armenia": {
@@ -1628,7 +1558,7 @@
               "long": {
                 "generic": "চিলি সময়",
                 "standard": "চিলি মানক সময়",
-                "daylight": "চিলি গ্রীষ্মকাল সময়"
+                "daylight": "চিলি গ্রীষ্মকালীন সময়"
               }
             },
             "China": {
@@ -1705,16 +1635,16 @@
             },
             "Europe_Central": {
               "long": {
-                "generic": "মধ্য ইউরোপের সময়",
-                "standard": "মধ্য ইউরোপের মানক সময়",
-                "daylight": "মধ্য ইউরোপের গ্রীষ্মকালীন সময়"
+                "generic": "মধ্য ইউরোপীয় সময়",
+                "standard": "মধ্য ইউরোপীয় মানক সময়",
+                "daylight": "মধ্য ইউরোপীয় গ্রীষ্মকালীন সময়"
               }
             },
             "Europe_Eastern": {
               "long": {
-                "generic": "পূর্ব ইউরোপের সময়",
-                "standard": "পূর্ব ইউরোপের মানক সময়",
-                "daylight": "পূর্ব ইউরোপের গ্রীষ্মকালীন সময়"
+                "generic": "পূর্ব ইউরোপীয় সময়",
+                "standard": "পূর্ব ইউরোপীয় মানক সময়",
+                "daylight": "পূর্ব ইউরোপীয় গ্রীষ্মকালীন সময়"
               }
             },
             "Europe_Further_Eastern": {
@@ -1724,9 +1654,9 @@
             },
             "Europe_Western": {
               "long": {
-                "generic": "পশ্চিম ইউরোপের সময়",
-                "standard": "পশ্চিম ইউরোপের মানক সময়",
-                "daylight": "পশ্চিম ইউরোপের গ্রীষ্মকালীন সময়"
+                "generic": "পশ্চিম ইউরোপীয় সময়",
+                "standard": "পশ্চিম ইউরোপীয় মানক সময়",
+                "daylight": "পশ্চিম ইউরোপীয় গ্রীষ্মকালীন সময়"
               }
             },
             "Falkland": {
@@ -1895,12 +1825,12 @@
             },
             "Kazakhstan_Eastern": {
               "long": {
-                "standard": "পূর্ব কজাকস্তান মানক সময়"
+                "standard": "পূর্ব কাজাখাস্তান সময়"
               }
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "পশ্চিম কজাকস্তান মানক সময়"
+                "standard": "পশ্চিম কাজাখাস্তান সময়"
               }
             },
             "Korea": {
@@ -2054,7 +1984,7 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "নরফোক দ্বীপপুঞ্জ সময়"
+                "standard": "নরফোক দ্বীপ সময়"
               }
             },
             "Noronha": {
@@ -2171,7 +2101,7 @@
               "long": {
                 "generic": "সামোয়া সময়",
                 "standard": "সামোয়া মানক সময়",
-                "daylight": "সামোয়া গৃষ্মকালীন সময়"
+                "daylight": "সামোয়া দিবালোক সময়"
               }
             },
             "Seychelles": {
@@ -2278,9 +2208,9 @@
             },
             "Vladivostok": {
               "long": {
-                "generic": "ব্লাদিবোস্তোক সময়",
-                "standard": "ব্লাদিবোস্তোক মানক সময়",
-                "daylight": "ব্লাদিবোস্তোক গ্রীষ্মকালীন সময়"
+                "generic": "ভ্লাদিভস্তক সময়",
+                "standard": "ভ্লাদিভস্তক মানক সময়",
+                "daylight": "ভ্লাদিভস্তক গ্রীষ্মকালীন সময়"
               }
             },
             "Volgograd": {
@@ -2307,9 +2237,9 @@
             },
             "Yakutsk": {
               "long": {
-                "generic": "য়াকুতস্ক সময়",
-                "standard": "য়াকুতস্ক মানক সময়",
-                "daylight": "য়াকুতস্ক গ্রীষ্মকালীন সময়"
+                "generic": "ইয়াকুটাস্ক সময়",
+                "standard": "ইয়াকুটাস্ক মানক সময়",
+                "daylight": "ইয়াকুটাস্ক গ্রীষ্মকালীন সময়"
               }
             },
             "Yekaterinburg": {

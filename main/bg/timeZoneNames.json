@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13375 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13759 $",
+          "_cldrVersion": "32"
         },
         "language": "bg"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Пуерто Рико"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Пунта Аренас"
+              },
               "Rainy_River": {
                 "exemplarCity": "Рейни Ривър"
               },
@@ -471,13 +474,13 @@
             },
             "Atlantic": {
               "Azores": {
-                "exemplarCity": "Азорски о-ви"
+                "exemplarCity": "Азорски острови"
               },
               "Bermuda": {
                 "exemplarCity": "Бермудски острови"
               },
               "Canary": {
-                "exemplarCity": "Канарски о-ви"
+                "exemplarCity": "Канарски острови"
               },
               "Cape_Verde": {
                 "exemplarCity": "Кабо Верде"
@@ -551,13 +554,13 @@
                 "exemplarCity": "Гибралтар"
               },
               "Guernsey": {
-                "exemplarCity": "Гърнси"
+                "exemplarCity": "Гърнзи"
               },
               "Helsinki": {
                 "exemplarCity": "Хелзинки"
               },
               "Isle_of_Man": {
-                "exemplarCity": "о-в Ман"
+                "exemplarCity": "остров Ман"
               },
               "Istanbul": {
                 "exemplarCity": "Истанбул"
@@ -634,8 +637,11 @@
               "Sarajevo": {
                 "exemplarCity": "Сараево"
               },
+              "Saratov": {
+                "exemplarCity": "Саратов"
+              },
               "Simferopol": {
-                "exemplarCity": "Севастопол"
+                "exemplarCity": "Симферопол"
               },
               "Skopje": {
                 "exemplarCity": "Скопие"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ашхабад"
               },
+              "Atyrau": {
+                "exemplarCity": "Атърау"
+              },
               "Baghdad": {
                 "exemplarCity": "Багдад"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Душанбе"
+              },
+              "Famagusta": {
+                "exemplarCity": "Фамагуста"
               },
               "Gaza": {
                 "exemplarCity": "Газа"
@@ -1173,7 +1185,7 @@
                 "exemplarCity": "Чатам"
               },
               "Easter": {
-                "exemplarCity": "Великденски о-в"
+                "exemplarCity": "Великденски остров"
               },
               "Efate": {
                 "exemplarCity": "Ефате"
@@ -1191,7 +1203,7 @@
                 "exemplarCity": "Фунафути"
               },
               "Galapagos": {
-                "exemplarCity": "Галапагоски о-ви"
+                "exemplarCity": "Галапагос"
               },
               "Gambier": {
                 "exemplarCity": "Гамбие"
@@ -1221,7 +1233,7 @@
                 "exemplarCity": "Маджуро"
               },
               "Marquesas": {
-                "exemplarCity": "Маркизки о-ви"
+                "exemplarCity": "Маркизки острови"
               },
               "Midway": {
                 "exemplarCity": "Мидуей"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "Координирано универсално време"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "неизвестен"
@@ -1535,9 +1465,9 @@
             },
             "Australia_Central": {
               "long": {
-                "generic": "Австралия – централно време",
-                "standard": "Австралия – централно стандартно време",
-                "daylight": "Австралия – централно лятно часово време"
+                "generic": "Централноавстралийско време",
+                "standard": "Централноавстралийско стандартно време",
+                "daylight": "Централноавстралийско лятно часово време"
               }
             },
             "Australia_CentralWestern": {
@@ -1549,16 +1479,16 @@
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "Австралия – източно време",
-                "standard": "Австралия – източно стандартно време",
-                "daylight": "Австралия – източно лятно часово време"
+                "generic": "Източноавстралийско време",
+                "standard": "Източноавстралийско стандартно време",
+                "daylight": "Източноавстралийско лятно часово време"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "Австралия – западно време",
-                "standard": "Австралия – западно стандартно време",
-                "daylight": "Австралия – западно лятно часово време"
+                "generic": "Западноавстралийско време",
+                "standard": "Западноавстралийско стандартно време",
+                "daylight": "Западноавстралийско лятно часово време"
               }
             },
             "Azerbaijan": {
@@ -1613,14 +1543,14 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "Чаморо – стандартно време"
+                "standard": "Чаморско време"
               }
             },
             "Chatham": {
               "long": {
-                "generic": "Чатъм",
-                "standard": "Чатъм – стандартно време",
-                "daylight": "Чатъм – лятно часово време"
+                "generic": "Чатъмско време",
+                "standard": "Чатъмско стандартно време",
+                "daylight": "Чатъмско лятно часово време"
               }
             },
             "Chile": {
@@ -1737,9 +1667,9 @@
             },
             "Fiji": {
               "long": {
-                "generic": "Фиджи",
-                "standard": "Фиджи – стандартно време",
-                "daylight": "Фиджи – лятно часово време"
+                "generic": "Фиджийско време",
+                "standard": "Фиджийско стандартно време",
+                "daylight": "Фиджийско лятно часово време"
               }
             },
             "French_Guiana": {
@@ -1826,7 +1756,7 @@
             },
             "India": {
               "long": {
-                "standard": "Индийско стандартно време"
+                "standard": "Индийско време"
               }
             },
             "Indian_Ocean": {
@@ -1954,7 +1884,7 @@
             },
             "Maldives": {
               "long": {
-                "standard": "Малдивски острови"
+                "standard": "Малдивско време"
               }
             },
             "Marquesas": {
@@ -1981,9 +1911,9 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Мексико – северозападно време",
-                "standard": "Мексико – северозападно стандартно време",
-                "daylight": "Мексико – северозападно лятно часово време"
+                "generic": "Северозападно мексиканско време",
+                "standard": "Северозападно стандартно мексиканско време",
+                "daylight": "Северозападно лятно часово мексиканско време"
               }
             },
             "Mexico_Pacific": {
@@ -2050,7 +1980,7 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Норфолк"
+                "standard": "Норфолкско време"
               }
             },
             "Noronha": {
@@ -2136,7 +2066,7 @@
             },
             "Pyongyang": {
               "long": {
-                "standard": "Времето в Пхенян"
+                "standard": "Пхенянско време"
               }
             },
             "Reunion": {
@@ -2172,7 +2102,7 @@
             },
             "Seychelles": {
               "long": {
-                "standard": "Сейшелски острови"
+                "standard": "Сейшели"
               }
             },
             "Singapore": {

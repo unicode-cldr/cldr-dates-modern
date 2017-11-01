@@ -3,8 +3,8 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "ur",
         "territory": "IN"
@@ -248,11 +248,11 @@
                   "midnight": "آدھی رات",
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "صبح",
-                  "afternoon1": "دوپہر",
+                  "morning1": "صبح میں",
+                  "afternoon1": "دوپہر میں",
                   "afternoon2": "سہ پہر",
-                  "evening1": "شام",
-                  "night1": "رات"
+                  "evening1": "شام میں",
+                  "night1": "رات میں"
                 }
               },
               "stand-alone": {
@@ -320,8 +320,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

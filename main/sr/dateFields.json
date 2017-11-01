@@ -3,8 +3,8 @@
     "sr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13273 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sr"
       },
@@ -37,9 +37,9 @@
           },
           "year-short": {
             "displayName": "год.",
-            "relative-type--1": "прошле године",
-            "relative-type-0": "ове године",
-            "relative-type-1": "следеће године",
+            "relative-type--1": "прошле год.",
+            "relative-type-0": "ове год.",
+            "relative-type-1": "следеће год.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} год.",
               "relativeTimePattern-count-few": "за {0} год.",
@@ -53,9 +53,9 @@
           },
           "year-narrow": {
             "displayName": "г.",
-            "relative-type--1": "прошле године",
-            "relative-type-0": "ове године",
-            "relative-type-1": "следеће године",
+            "relative-type--1": "прошле г.",
+            "relative-type-0": "ове г.",
+            "relative-type-1": "следеће г.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} г.",
               "relativeTimePattern-count-few": "за {0} г.",
@@ -133,9 +133,9 @@
           },
           "month-short": {
             "displayName": "мес.",
-            "relative-type--1": "прошлог месеца",
-            "relative-type-0": "овог месеца",
-            "relative-type-1": "следећег месеца",
+            "relative-type--1": "прошлог мес.",
+            "relative-type-0": "овог мес.",
+            "relative-type-1": "следећег мес.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} мес.",
               "relativeTimePattern-count-few": "за {0} мес.",
@@ -149,9 +149,9 @@
           },
           "month-narrow": {
             "displayName": "м.",
-            "relative-type--1": "прошлог месеца",
-            "relative-type-0": "овог месеца",
-            "relative-type-1": "следећег месеца",
+            "relative-type--1": "прошлог м.",
+            "relative-type-0": "овог м.",
+            "relative-type-1": "следећег м.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} м.",
               "relativeTimePattern-count-few": "за {0} м.",
@@ -182,9 +182,9 @@
           },
           "week-short": {
             "displayName": "нед.",
-            "relative-type--1": "прошле недеље",
-            "relative-type-0": "ове недеље",
-            "relative-type-1": "следеће недеље",
+            "relative-type--1": "прошле нед.",
+            "relative-type-0": "ове нед.",
+            "relative-type-1": "следеће нед.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} нед.",
               "relativeTimePattern-count-few": "за {0} нед.",
@@ -199,9 +199,9 @@
           },
           "week-narrow": {
             "displayName": "н.",
-            "relative-type--1": "прошле недеље",
-            "relative-type-0": "ове недеље",
-            "relative-type-1": "следеће недеље",
+            "relative-type--1": "прошле н.",
+            "relative-type-0": "ове н.",
+            "relative-type-1": "следеће н.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} н.",
               "relativeTimePattern-count-few": "за {0} н.",
@@ -215,13 +215,13 @@
             "relativePeriod": "недеља која почиње {0}."
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "недеља у месецу"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "нед. у мес."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "нед. у мес."
           },
           "day": {
             "displayName": "дан",
@@ -278,13 +278,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "дан у години"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "дан у год."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "дан у год."
           },
           "weekday": {
             "displayName": "дан у недељи"
@@ -296,13 +296,13 @@
             "displayName": "дан у недељи"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "дан у месецу"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "дан у месецу"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "дан у месецу"
           },
           "sun": {
             "relative-type--1": "прошле недеље",
@@ -320,9 +320,9 @@
             }
           },
           "sun-short": {
-            "relative-type--1": "прошле нед",
+            "relative-type--1": "пр. нед.",
             "relative-type-0": "у нед",
-            "relative-type-1": "следеће нед",
+            "relative-type-1": "сл. нед.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} недељу",
               "relativeTimePattern-count-few": "за {0} недеље",

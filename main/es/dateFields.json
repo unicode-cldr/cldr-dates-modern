@@ -3,8 +3,8 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13722 $",
+          "_cldrVersion": "32"
         },
         "language": "es"
       },
@@ -191,13 +191,13 @@
             "relativePeriod": "la sem. del {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "semana del mes"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "sem. de mes"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "sem. de mes"
           },
           "day": {
             "displayName": "día",
@@ -248,31 +248,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "día del año"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "día del a"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "día del a"
           },
           "weekday": {
             "displayName": "día de la semana"
           },
           "weekday-short": {
-            "displayName": "día de la semana"
+            "displayName": "día de sem."
           },
           "weekday-narrow": {
-            "displayName": "día de la semana"
+            "displayName": "día de sem."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "día de la semana del mes"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "día de sem. de mes"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "día de sem. de mes"
           },
           "sun": {
             "relative-type--1": "el domingo pasado",
@@ -668,10 +668,10 @@
             "displayName": "zona horaria"
           },
           "zone-short": {
-            "displayName": "zona horaria"
+            "displayName": "zona"
           },
           "zone-narrow": {
-            "displayName": "zona horaria"
+            "displayName": "zona"
           }
         }
       }

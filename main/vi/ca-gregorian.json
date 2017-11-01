@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "vi"
       },
@@ -325,8 +325,13 @@
               "medium": "{0}, {1}",
               "short": "{0}, {1}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, 'ngày' d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -369,7 +374,7 @@
                 "yMMMM": "MMMM 'năm' y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ 'năm' y",
-                "yw-count-other": "'tuần' w 'của' 'năm' y"
+                "yw-count-other": "'tuần' w 'của' 'năm' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

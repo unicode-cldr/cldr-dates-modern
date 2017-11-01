@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "hu"
       },
@@ -136,7 +136,7 @@
                 "exemplarCity": "Cuiabá"
               },
               "Curacao": {
-                "exemplarCity": "Curacao"
+                "exemplarCity": "Curaçao"
               },
               "Danmarkshavn": {
                 "exemplarCity": "Danmarkshavn"
@@ -345,7 +345,7 @@
                   "exemplarCity": "New Salem, Észak-Dakota"
                 },
                 "Center": {
-                  "exemplarCity": "Középső, Észak-Dakota"
+                  "exemplarCity": "Center, Észak-Dakota"
                 }
               },
               "Ojinaga": {
@@ -374,6 +374,9 @@
               },
               "Puerto_Rico": {
                 "exemplarCity": "Puerto Rico"
+              },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
               },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
@@ -480,10 +483,10 @@
                 "exemplarCity": "Kanári-szigetek"
               },
               "Cape_Verde": {
-                "exemplarCity": "Zöld-Foki Szigetek"
+                "exemplarCity": "Zöld-foki szigetek"
               },
               "Faeroe": {
-                "exemplarCity": "Faroe"
+                "exemplarCity": "Feröer"
               },
               "Madeira": {
                 "exemplarCity": "Madeira"
@@ -509,7 +512,7 @@
                 "exemplarCity": "Andorra"
               },
               "Astrakhan": {
-                "exemplarCity": "Astrakhan"
+                "exemplarCity": "Asztrahán"
               },
               "Athens": {
                 "exemplarCity": "Athén"
@@ -633,6 +636,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "Szarajevó"
+              },
+              "Saratov": {
+                "exemplarCity": "Szaratov"
               },
               "Simferopol": {
                 "exemplarCity": "Szimferopol"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "Asgabat"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
               },
@@ -906,7 +915,7 @@
                 "exemplarCity": "Damaszkusz"
               },
               "Dhaka": {
-                "exemplarCity": "Dháka"
+                "exemplarCity": "Dakka"
               },
               "Dili": {
                 "exemplarCity": "Dili"
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dushanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gáza"
@@ -1014,7 +1026,7 @@
                 "exemplarCity": "Kizilorda"
               },
               "Rangoon": {
-                "exemplarCity": "Rangoon"
+                "exemplarCity": "Yangon"
               },
               "Riyadh": {
                 "exemplarCity": "Rijád"
@@ -1269,7 +1281,7 @@
                 "exemplarCity": "Tongatapu"
               },
               "Truk": {
-                "exemplarCity": "Chuuk"
+                "exemplarCity": "Truk"
               },
               "Wake": {
                 "exemplarCity": "Wake-sziget"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
-                  "standard": "Koordinált világidő"
+                  "standard": "egyezményes koordinált világidő"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Ismeretlen város"
@@ -1537,7 +1467,7 @@
               "long": {
                 "generic": "argentínai idő",
                 "standard": "argentínai téli idő",
-                "daylight": "Argentínai nyári idő"
+                "daylight": "argentínai nyári idő"
               }
             },
             "Argentina_Western": {
@@ -1591,7 +1521,7 @@
             },
             "Azerbaijan": {
               "long": {
-                "generic": "Azerbajdzsáni idő",
+                "generic": "azerbajdzsáni idő",
                 "standard": "azerbajdzsáni téli idő",
                 "daylight": "azerbajdzsáni nyári idő"
               }
@@ -1787,7 +1717,7 @@
             },
             "French_Guiana": {
               "long": {
-                "standard": "francia-guianai idő"
+                "standard": "francia-guyanai idő"
               }
             },
             "French_Southern": {
@@ -1856,7 +1786,7 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "hawaii-aleut időzóna",
+                "generic": "hawaii-aleuti időzóna",
                 "standard": "hawaii-aleuti téli idő",
                 "daylight": "hawaii-aleuti nyári idő"
               }
@@ -2187,9 +2117,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Saint Pierre és Miquelon-i idő",
-                "standard": "Saint Pierre és Miquelon-i zónaidő",
-                "daylight": "Saint Pierre és Miquelon-i nyári idő"
+                "generic": "Saint-Pierre és Miquelon-i idő",
+                "standard": "Saint-Pierre és Miquelon-i zónaidő",
+                "daylight": "Saint-Pierre és Miquelon-i nyári idő"
               }
             },
             "Pitcairn": {
@@ -2380,14 +2310,14 @@
               "long": {
                 "generic": "jakutszki idő",
                 "standard": "jakutszki téli idő",
-                "daylight": "Jakutszki nyári idő"
+                "daylight": "jakutszki nyári idő"
               }
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "Jekatyerinburgi idő",
+                "generic": "jekatyerinburgi idő",
                 "standard": "jekatyerinburgi téli idő",
-                "daylight": "Jekatyerinburgi nyári idő"
+                "daylight": "jekatyerinburgi nyári idő"
               }
             }
           }

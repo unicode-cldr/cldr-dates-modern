@@ -3,8 +3,8 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13375 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13759 $",
+          "_cldrVersion": "32"
         },
         "language": "bg"
       },
@@ -270,7 +270,7 @@
                   "am": "am",
                   "pm": "pm",
                   "morning1": "сутринта",
-                  "morning2": "на обед",
+                  "morning2": "наобед",
                   "afternoon1": "следобед",
                   "evening1": "вечерта",
                   "night1": "през нощта"
@@ -308,10 +308,10 @@
               "short": "d.MM.yy G"
             },
             "timeFormats": {
-              "full": "H:mm:ss zzzz",
-              "long": "H:mm:ss z",
-              "medium": "H:mm:ss",
-              "short": "H:mm"
+              "full": "H:mm:ss 'ч'. zzzz",
+              "long": "H:mm:ss 'ч'. z",
+              "medium": "H:mm:ss 'ч'.",
+              "short": "H:mm 'ч'."
             },
             "dateTimeFormats": {
               "full": "{1}, {0}",
@@ -319,13 +319,18 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h 'ч' .B",
+                "Bhm": "h:mm 'ч'. B",
+                "Bhms": "h:mm:ss 'ч'. B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E, h:mm 'ч'. B",
+                "EBhms": "E, h:mm:ss 'ч'. B",
                 "Ed": "E, d",
-                "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
+                "Ehm": "E, h:mm 'ч'. a",
+                "EHm": "E, HH:mm 'ч'.",
+                "Ehms": "E, h:mm:ss 'ч'. a",
+                "EHms": "E, HH:mm:ss 'ч'.",
                 "Gy": "y 'г'. G",
                 "GyMMM": "MM.y 'г'. G",
                 "GyMMMd": "d.MM.y 'г'. G",
@@ -335,9 +340,9 @@
                 "GyMMMMEd": "E, d MMMM y 'г'. G",
                 "h": "h a",
                 "H": "HH",
-                "hm": "h:mm a",
+                "hm": "h:mm 'ч'. a",
                 "Hm": "HH:mm",
-                "hms": "h:mm:ss a",
+                "hms": "h:mm:ss 'ч'. a",
                 "Hms": "HH:mm:ss",
                 "M": "M",
                 "Md": "d.MM",

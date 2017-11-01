@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "af",
         "territory": "NA"
@@ -192,13 +192,13 @@
             "relativePeriod": "die week van {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "week van maand"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "wk. v. md."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "wk. v. md."
           },
           "day": {
             "displayName": "dag",
@@ -208,8 +208,8 @@
             "relative-type-1": "môre",
             "relative-type-2": "oormôre",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "oor {0} minuut",
-              "relativeTimePattern-count-other": "oor {0} minuut"
+              "relativeTimePattern-count-one": "oor {0} dag",
+              "relativeTimePattern-count-other": "oor {0} dae"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} dag gelede",
@@ -249,31 +249,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dag van jaar"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dag van j."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dag van j."
           },
           "weekday": {
             "displayName": "dag van die week"
           },
           "weekday-short": {
-            "displayName": "dag van die week"
+            "displayName": "dag van wk."
           },
           "weekday-narrow": {
-            "displayName": "dag van die week"
+            "displayName": "dag van wk."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "weekdag van die jaar"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "wk.-dag van md."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "wk.-dag van md."
           },
           "sun": {
             "relative-type--1": "verlede Sondag",
@@ -549,13 +549,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "VM/NM"
+            "displayName": "vm./nm."
           },
           "dayperiod": {
             "displayName": "VM/NM"
           },
           "dayperiod-narrow": {
-            "displayName": "VM/NM"
+            "displayName": "vm./nm."
           },
           "hour": {
             "displayName": "uur",
@@ -669,10 +669,10 @@
             "displayName": "tydsone"
           },
           "zone-short": {
-            "displayName": "tydsone"
+            "displayName": "sone"
           },
           "zone-narrow": {
-            "displayName": "tydsone"
+            "displayName": "sone"
           }
         }
       }

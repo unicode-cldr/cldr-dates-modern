@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13260 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13712 $",
+          "_cldrVersion": "32"
         },
         "language": "uk"
       },
@@ -14,10 +14,10 @@
             "displayName": "ера"
           },
           "era-short": {
-            "displayName": "ера"
+            "displayName": "е."
           },
           "era-narrow": {
-            "displayName": "ера"
+            "displayName": "е"
           },
           "year": {
             "displayName": "рік",
@@ -239,13 +239,13 @@
             "relativePeriod": "тиждень з {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "тиждень місяця"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "тиж. місяця"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "тиж. місяця"
           },
           "day": {
             "displayName": "день",
@@ -296,9 +296,9 @@
             "relative-type-2": "післязавтра",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} д.",
-              "relativeTimePattern-count-few": "+{0} дн.",
-              "relativeTimePattern-count-many": "+{0} дн.",
-              "relativeTimePattern-count-other": "+{0} дн."
+              "relativeTimePattern-count-few": "за {0} д.",
+              "relativeTimePattern-count-many": "за {0} д.",
+              "relativeTimePattern-count-other": "за {0} д."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} д. тому",
@@ -308,13 +308,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "день року"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "день року"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "день року"
           },
           "weekday": {
             "displayName": "день тижня"
@@ -326,13 +326,13 @@
             "displayName": "день тижня"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "день місяця"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "день місяця"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "день місяця"
           },
           "sun": {
             "relative-type--1": "минулої неділі",
@@ -692,13 +692,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "частина доби"
+            "displayName": "дп/пп"
           },
           "dayperiod": {
-            "displayName": "частина доби"
+            "displayName": "дп/пп"
           },
           "dayperiod-narrow": {
-            "displayName": "частина доби"
+            "displayName": "дп/пп"
           },
           "hour": {
             "displayName": "година",

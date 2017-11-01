@@ -3,8 +3,8 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13373 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13734 $",
+          "_cldrVersion": "32"
         },
         "language": "sw"
       },
@@ -235,9 +235,9 @@
                   "night1": "usiku"
                 },
                 "narrow": {
-                  "midnight": "saa sita za usiku",
+                  "midnight": "usiku",
                   "am": "am",
-                  "noon": "saa sita za mchana",
+                  "noon": "mchana",
                   "pm": "pm",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
@@ -247,9 +247,9 @@
                 },
                 "wide": {
                   "midnight": "saa sita za usiku",
-                  "am": "Asubuhi",
+                  "am": "AM",
                   "noon": "saa sita za mchana",
-                  "pm": "Mchana",
+                  "pm": "PM",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
                   "afternoon1": "mchana",
@@ -265,15 +265,15 @@
                   "pm": "PM",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
-                  "afternoon1": "mchana",
+                  "afternoon1": "alasiri",
                   "evening1": "jioni",
                   "night1": "usiku"
                 },
                 "narrow": {
                   "midnight": "saa sita za usiku",
-                  "am": "am",
+                  "am": "AM",
                   "noon": "saa sita za mchana",
-                  "pm": "pm",
+                  "pm": "PM",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
                   "afternoon1": "mchana",
@@ -325,8 +325,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

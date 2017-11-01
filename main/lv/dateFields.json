@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "lv"
       },
@@ -195,7 +195,7 @@
               "relativeTimePattern-count-one": "pirms {0} ned.",
               "relativeTimePattern-count-other": "pirms {0} ned."
             },
-            "relativePeriod": "{0}. nedēļa"
+            "relativePeriod": "{0}. ned."
           },
           "week-narrow": {
             "displayName": "ned.",
@@ -212,16 +212,16 @@
               "relativeTimePattern-count-one": "pirms {0} ned.",
               "relativeTimePattern-count-other": "pirms {0} ned."
             },
-            "relativePeriod": "{0}. nedēļa"
+            "relativePeriod": "{0}. ned."
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "mēneša nedēļa"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "mēneša ned."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "mēneša ned."
           },
           "day": {
             "displayName": "diena",
@@ -278,13 +278,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "gada diena"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "gada diena"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "gada diena"
           },
           "weekday": {
             "displayName": "nedēļas diena"
@@ -296,13 +296,13 @@
             "displayName": "nedēļas diena"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "mēneša nedēļas diena"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "mēneša ned. diena"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "mēneša ned. diena"
           },
           "sun": {
             "relative-type--1": "pagājušajā svētdienā",
@@ -620,13 +620,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "priekšpusdienā/pēcpusdienā"
+            "displayName": "priekšpusd./pēcpusd."
           },
           "dayperiod": {
             "displayName": "priekšpusdienā/pēcpusdienā"
           },
           "dayperiod-narrow": {
-            "displayName": "priekšpusdienā/pēcpusdienā"
+            "displayName": "priekšpusd./pēcpusd."
           },
           "hour": {
             "displayName": "stundas",

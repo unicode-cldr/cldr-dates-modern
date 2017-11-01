@@ -3,8 +3,8 @@
     "da-GL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "da",
         "territory": "GL"
@@ -113,7 +113,7 @@
                 "exemplarCity": "Cayenne"
               },
               "Cayman": {
-                "exemplarCity": "Cayman"
+                "exemplarCity": "Caymanøerne"
               },
               "Chicago": {
                 "exemplarCity": "Chicago"
@@ -376,6 +376,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Puerto Rico"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -481,7 +484,7 @@
                 "exemplarCity": "De Kanariske Øer"
               },
               "Cape_Verde": {
-                "exemplarCity": "Kap Verde"
+                "exemplarCity": "Cabo Verde"
               },
               "Faeroe": {
                 "exemplarCity": "Færøerne"
@@ -635,6 +638,9 @@
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
               },
+              "Saratov": {
+                "exemplarCity": "Saratov"
+              },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
               },
@@ -651,10 +657,10 @@
                 "exemplarCity": "Tallinn"
               },
               "Tirane": {
-                "exemplarCity": "Tirane"
+                "exemplarCity": "Tirana"
               },
               "Ulyanovsk": {
-                "exemplarCity": "Ulyanovsk"
+                "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
                 "exemplarCity": "Uzhgorod"
@@ -859,13 +865,16 @@
                 "exemplarCity": "Anadyr"
               },
               "Aqtau": {
-                "exemplarCity": "Aqtau"
+                "exemplarCity": "Aktau"
               },
               "Aqtobe": {
-                "exemplarCity": "Aqtobe"
+                "exemplarCity": "Aktobe"
               },
               "Ashgabat": {
-                "exemplarCity": "Ashgabat"
+                "exemplarCity": "Asjkhabad"
+              },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
               },
               "Baghdad": {
                 "exemplarCity": "Baghdad"
@@ -886,7 +895,7 @@
                 "exemplarCity": "Beirut"
               },
               "Bishkek": {
-                "exemplarCity": "Bishkek"
+                "exemplarCity": "Bisjkek"
               },
               "Brunei": {
                 "exemplarCity": "Brunei"
@@ -898,7 +907,7 @@
                 "exemplarCity": "Chita"
               },
               "Choibalsan": {
-                "exemplarCity": "Choibalsan"
+                "exemplarCity": "Tsjojbalsan"
               },
               "Colombo": {
                 "exemplarCity": "Colombo"
@@ -916,7 +925,10 @@
                 "exemplarCity": "Dubai"
               },
               "Dushanbe": {
-                "exemplarCity": "Dushanbe"
+                "exemplarCity": "Dusjanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -946,7 +958,7 @@
                 "exemplarCity": "Kabul"
               },
               "Kamchatka": {
-                "exemplarCity": "Kamchatka"
+                "exemplarCity": "Kamtjatka"
               },
               "Karachi": {
                 "exemplarCity": "Karachi"
@@ -958,7 +970,7 @@
                 "exemplarCity": "Khandyga"
               },
               "Krasnoyarsk": {
-                "exemplarCity": "Krasnoyarsk"
+                "exemplarCity": "Krasnojarsk"
               },
               "Kuala_Lumpur": {
                 "exemplarCity": "Kuala Lumpur"
@@ -988,7 +1000,7 @@
                 "exemplarCity": "Nicosia"
               },
               "Novokuznetsk": {
-                "exemplarCity": "Novokuznetsk"
+                "exemplarCity": "Novokusnetsk"
               },
               "Novosibirsk": {
                 "exemplarCity": "Novosibirsk"
@@ -1012,7 +1024,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qyzylorda": {
-                "exemplarCity": "Qyzylorda"
+                "exemplarCity": "Kyzylorda"
               },
               "Rangoon": {
                 "exemplarCity": "Rangoon"
@@ -1063,10 +1075,10 @@
                 "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "Ulaanbaatar"
+                "exemplarCity": "Ulan Bator"
               },
               "Urumqi": {
-                "exemplarCity": "Urumqi"
+                "exemplarCity": "Ürümqi"
               },
               "Ust-Nera": {
                 "exemplarCity": "Ust-Nera"
@@ -1084,7 +1096,7 @@
                 "exemplarCity": "Jekaterinburg"
               },
               "Yerevan": {
-                "exemplarCity": "Yerevan"
+                "exemplarCity": "Jerevan"
               }
             },
             "Indian": {
@@ -1101,7 +1113,7 @@
                 "exemplarCity": "Cocos"
               },
               "Comoro": {
-                "exemplarCity": "Comoro"
+                "exemplarCity": "Comorerne"
               },
               "Kerguelen": {
                 "exemplarCity": "Kerguelen"
@@ -1320,95 +1332,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "Koordineret universaltid"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Ukendt by"
@@ -1550,9 +1480,9 @@
             },
             "Armenia": {
               "long": {
-                "generic": "Armensk tid",
-                "standard": "Armensk normaltid",
-                "daylight": "Armensk sommertid"
+                "generic": "Armenien-tid",
+                "standard": "Armenien-normaltid",
+                "daylight": "Armenien-sommertid"
               }
             },
             "Atlantic": {
@@ -1592,9 +1522,9 @@
             },
             "Azerbaijan": {
               "long": {
-                "generic": "Aserbajdsjansk tid",
-                "standard": "Aserbajdsjansk normaltid",
-                "daylight": "Aserbajdsjansk sommertid"
+                "generic": "Aserbajdsjan-tid",
+                "standard": "Aserbajdsjan-normaltid",
+                "daylight": "Aserbajdsjan-sommertid"
               }
             },
             "Azores": {
@@ -1606,14 +1536,14 @@
             },
             "Bangladesh": {
               "long": {
-                "generic": "Bangladeshisk tid",
-                "standard": "Bangladeshisk normaltid",
-                "daylight": "Bangladeshisk sommertid"
+                "generic": "Bangladesh-tid",
+                "standard": "Bangladesh-normaltid",
+                "daylight": "Bangladesh-sommertid"
               }
             },
             "Bhutan": {
               "long": {
-                "standard": "Bhutanesisk tid"
+                "standard": "Bhutan-tid"
               }
             },
             "Bolivia": {
@@ -1635,9 +1565,9 @@
             },
             "Cape_Verde": {
               "long": {
-                "generic": "Kapverdisk tid",
-                "standard": "Kapverdisk normaltid",
-                "daylight": "Kapverdisk sommertid"
+                "generic": "Cabo Verde-tid",
+                "standard": "Cabo Verde-normaltid",
+                "daylight": "Cabo Verde-sommertid"
               }
             },
             "Chamorro": {
@@ -1668,14 +1598,14 @@
             },
             "Choibalsan": {
               "long": {
-                "generic": "Choibalsan-tid",
-                "standard": "Choibalsan-normaltid",
-                "daylight": "Choibalsan-sommertid"
+                "generic": "Tsjojbalsan-tid",
+                "standard": "Tsjojbalsan-normaltid",
+                "daylight": "Tsjojbalsan-sommertid"
               }
             },
             "Christmas": {
               "long": {
-                "standard": "Christmas Island-normaltid"
+                "standard": "Juleøen-normaltid"
               }
             },
             "Cocos": {
@@ -1781,9 +1711,9 @@
             },
             "Fiji": {
               "long": {
-                "generic": "Fijiansk tid",
-                "standard": "Fijiansk normaltid",
-                "daylight": "Fijiansk sommertid"
+                "generic": "Fiji-tid",
+                "standard": "Fiji-normaltid",
+                "daylight": "Fiji-sommertid"
               }
             },
             "French_Guiana": {
@@ -1808,9 +1738,9 @@
             },
             "Georgia": {
               "long": {
-                "generic": "Georgiansk tid",
-                "standard": "Georgiansk normaltid",
-                "daylight": "Georgiansk sommertid"
+                "generic": "Georgien-tid",
+                "standard": "Georgien-normaltid",
+                "daylight": "Georgien-sommertid"
               }
             },
             "Gilbert_Islands": {
@@ -1875,7 +1805,7 @@
             },
             "India": {
               "long": {
-                "standard": "Indisk normaltid"
+                "standard": "Indien-normaltid"
               }
             },
             "Indian_Ocean": {
@@ -1905,9 +1835,9 @@
             },
             "Iran": {
               "long": {
-                "generic": "Iransk tid",
-                "standard": "Iransk normaltid",
-                "daylight": "Iransk sommertid"
+                "generic": "Iran-tid",
+                "standard": "Iran-normaltid",
+                "daylight": "Iran-sommertid"
               }
             },
             "Irkutsk": {
@@ -1962,9 +1892,9 @@
             },
             "Krasnoyarsk": {
               "long": {
-                "generic": "Krasnoyarsk-tid",
-                "standard": "Krasnoyarsk-normaltid",
-                "daylight": "Krasnoyarsk-sommertid"
+                "generic": "Krasnojarsk-tid",
+                "standard": "Krasnojarsk-normaltid",
+                "daylight": "Krasnojarsk-sommertid"
               }
             },
             "Kyrgystan": {
@@ -2010,12 +1940,12 @@
             },
             "Malaysia": {
               "long": {
-                "standard": "Malaysisk tid"
+                "standard": "Malaysia-tid"
               }
             },
             "Maldives": {
               "long": {
-                "standard": "Maldivisk tid"
+                "standard": "Maldiverne-tid"
               }
             },
             "Marquesas": {
@@ -2063,14 +1993,14 @@
             },
             "Moscow": {
               "long": {
-                "generic": "Moskovitisk tid",
-                "standard": "Moskovitisk normaltid",
-                "daylight": "Moskovitisk sommertid"
+                "generic": "Moskva-tid",
+                "standard": "Moskva-normaltid",
+                "daylight": "Moskva-sommertid"
               }
             },
             "Myanmar": {
               "long": {
-                "standard": "Myanmarsk tid"
+                "standard": "Myanmar-tid"
               }
             },
             "Nauru": {
@@ -2080,21 +2010,21 @@
             },
             "Nepal": {
               "long": {
-                "standard": "Nepalesisk tid"
+                "standard": "Nepal-tid"
               }
             },
             "New_Caledonia": {
               "long": {
-                "generic": "Nykaledonsk tid",
-                "standard": "Nykaledonsk normaltid",
-                "daylight": "Nykaledonsk sommertid"
+                "generic": "Ny Kaledonien-tid",
+                "standard": "Ny Kaledonien-normaltid",
+                "daylight": "Ny Kaledonien-sommertid"
               }
             },
             "New_Zealand": {
               "long": {
-                "generic": "Newzealandsk tid",
-                "standard": "Newzealandsk normaltid",
-                "daylight": "Newzealandsk sommertid"
+                "generic": "New Zealand-tid",
+                "standard": "New Zealand-normaltid",
+                "daylight": "New Zealand-sommertid"
               }
             },
             "Newfoundland": {
@@ -2128,9 +2058,9 @@
             },
             "Novosibirsk": {
               "long": {
-                "generic": "Novosibirsk tid",
-                "standard": "Novosibirsk normaltid",
-                "daylight": "Novosibirsk sommertid"
+                "generic": "Novosibirsk-tid",
+                "standard": "Novosibirsk-normaltid",
+                "daylight": "Novosibirsk-sommertid"
               }
             },
             "Omsk": {
@@ -2142,9 +2072,9 @@
             },
             "Pakistan": {
               "long": {
-                "generic": "Pakistansk tid",
-                "standard": "Pakistansk normaltid",
-                "daylight": "Pakistansk sommertid"
+                "generic": "Pakistan-tid",
+                "standard": "Pakistan-normaltid",
+                "daylight": "Pakistan-sommertid"
               }
             },
             "Palau": {
@@ -2174,8 +2104,8 @@
             "Philippines": {
               "long": {
                 "generic": "Filippinsk tid",
-                "standard": "Filippinsk normaltid",
-                "daylight": "Filippinsk sommertid"
+                "standard": "Filippinerne-normaltid",
+                "daylight": "Filippinerne-sommertid"
               }
             },
             "Phoenix_Islands": {
@@ -2250,7 +2180,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "Singaporeansk normaltid"
+                "standard": "Singapore-tid"
               }
             },
             "Solomon": {
@@ -2275,7 +2205,7 @@
             },
             "Tahiti": {
               "long": {
-                "standard": "Tahitisk tid"
+                "standard": "Tahiti-tid"
               }
             },
             "Taipei": {
@@ -2297,9 +2227,9 @@
             },
             "Tonga": {
               "long": {
-                "generic": "Tongansk tid",
-                "standard": "Tongansk normaltid",
-                "daylight": "Tongansk sommertid"
+                "generic": "Tonga-tid",
+                "standard": "Tonga-normaltid",
+                "daylight": "Tonga-sommertid"
               }
             },
             "Truk": {
@@ -2366,7 +2296,7 @@
             },
             "Wake": {
               "long": {
-                "standard": "Wakeøen-tid"
+                "standard": "Wake Island-tid"
               }
             },
             "Wallis": {
@@ -2383,9 +2313,9 @@
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "Yekaterinburgsk tid",
-                "standard": "Yekaterinburgsk normaltid",
-                "daylight": "Yekaterinburgsk sommertid"
+                "generic": "Jekaterinburg-tid",
+                "standard": "Jekaterinburg-normaltid",
+                "daylight": "Jekaterinburg-sommertid"
               }
             }
           }

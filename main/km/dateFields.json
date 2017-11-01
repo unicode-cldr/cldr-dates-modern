@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13174 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "km"
       },
@@ -167,13 +167,13 @@
             "relativePeriod": "សប្តាហ៍នៃ {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "សប្ដាហ៍នៃខែ"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "សប្ដាហ៍នៃខែ"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "សប្ដាហ៍នៃខែ"
           },
           "day": {
             "displayName": "ថ្ងៃ",
@@ -218,13 +218,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ថ្ងៃនៃឆ្នាំ"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ថ្ងៃនៃឆ្នាំ"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ថ្ងៃនៃឆ្នាំ"
           },
           "weekday": {
             "displayName": "ថ្ងៃ​នៃ​សប្ដាហ៍"
@@ -236,13 +236,13 @@
             "displayName": "ថ្ងៃ​នៃ​សប្ដាហ៍"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ថ្ងៃសប្ដាហ៍នៃខែ"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ថ្ងៃសប្ដាហ៍នៃខែ"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ថ្ងៃសប្ដាហ៍នៃខែ"
           },
           "sun": {
             "relative-type--1": "ថ្ងៃ​អាទិត្យ​មុន",
@@ -271,43 +271,43 @@
             "relative-type-0": "ថ្ងៃ​អាទិត្យ​នេះ",
             "relative-type-1": "ថ្ងៃ​អាទិត្យ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃអាទិត្យ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃអាទិត្យទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃអាទិត្យ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃអាទិត្យមុន"
             }
           },
           "mon": {
-            "relative-type--1": "ថ្ងៃ​ច័ន្ទ​មុន",
-            "relative-type-0": "ថ្ងៃ​ច័ន្ទ​នេះ",
-            "relative-type-1": "ថ្ងៃ​ច័ន្ទ​ក្រោយ",
+            "relative-type--1": "ថ្ងៃចន្ទមុន",
+            "relative-type-0": "ថ្ងៃចន្ទនេះ",
+            "relative-type-1": "ថ្ងៃចន្ទក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃច័ន្ទ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃចន្ទទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃច័ន្ទ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃចន្ទមុន"
             }
           },
           "mon-short": {
-            "relative-type--1": "ថ្ងៃ​ច័ន្ទ​មុន",
-            "relative-type-0": "ថ្ងៃ​ច័ន្ទ​នេះ",
-            "relative-type-1": "ថ្ងៃ​ច័ន្ទ​ក្រោយ",
+            "relative-type--1": "ថ្ងៃចន្ទមុន",
+            "relative-type-0": "ថ្ងៃចន្ទនេះ",
+            "relative-type-1": "ថ្ងៃចន្ទក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃច័ន្ទ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃចន្ទទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃច័ន្ទ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃចន្ទមុន"
             }
           },
           "mon-narrow": {
-            "relative-type--1": "ថ្ងៃ​ច័ន្ទ​មុន",
-            "relative-type-0": "ថ្ងៃ​ច័ន្ទ​នេះ",
-            "relative-type-1": "ថ្ងៃ​ច័ន្ទ​ក្រោយ",
+            "relative-type--1": "ថ្ងៃចន្ទមុន",
+            "relative-type-0": "ថ្ងៃចន្ទនេះ",
+            "relative-type-1": "ថ្ងៃចន្ទក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃច័ន្ទ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃចន្ទទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃច័ន្ទ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃចន្ទមុន"
             }
           },
           "tue": {
@@ -315,10 +315,10 @@
             "relative-type-0": "ថ្ងៃ​អង្គារ​នេះ",
             "relative-type-1": "ថ្ងៃ​អង្គារ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃអង្គារ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃអង្គារទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃអង្គារ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃអង្គារមុន"
             }
           },
           "tue-short": {
@@ -326,10 +326,10 @@
             "relative-type-0": "ថ្ងៃ​អង្គារ​នេះ",
             "relative-type-1": "ថ្ងៃ​អង្គារ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃអង្គារ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃអង្គារទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃអង្គារ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃអង្គារមុន"
             }
           },
           "tue-narrow": {
@@ -337,10 +337,10 @@
             "relative-type-0": "ថ្ងៃ​អង្គារ​នេះ",
             "relative-type-1": "ថ្ងៃ​អង្គារ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃអង្គារ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃអង្គារទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃអង្គារ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃអង្គារមុន"
             }
           },
           "wed": {
@@ -348,10 +348,10 @@
             "relative-type-0": "ថ្ងៃ​ពុធ​នេះ",
             "relative-type-1": "ថ្ងៃ​ពុធ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃពុធ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃពុធទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃពុធ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃពុធមុន"
             }
           },
           "wed-short": {
@@ -359,10 +359,10 @@
             "relative-type-0": "ថ្ងៃ​ពុធ​នេះ",
             "relative-type-1": "ថ្ងៃ​ពុធ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃពុធ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃពុធទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃពុធ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃពុធមុន"
             }
           },
           "wed-narrow": {
@@ -370,10 +370,10 @@
             "relative-type-0": "ថ្ងៃ​ពុធ​នេះ",
             "relative-type-1": "ថ្ងៃ​ពុធ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃពុធ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃពុធទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃពុធ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃពុធមុន"
             }
           },
           "thu": {
@@ -381,10 +381,10 @@
             "relative-type-0": "ថ្ងៃ​ព្រហស្បតិ៍​នេះ",
             "relative-type-1": "ថ្ងៃ​ព្រហស្បតិ៍​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃព្រហស្បតិ៍ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃព្រហស្បតិ៍ទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃព្រហស្បតិ៍ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃព្រហស្បតិ៍មុន"
             }
           },
           "thu-short": {
@@ -392,10 +392,10 @@
             "relative-type-0": "ថ្ងៃ​ព្រហស្បតិ៍​នេះ",
             "relative-type-1": "ថ្ងៃ​ព្រហស្បតិ៍​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃព្រហស្បតិ៍ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃព្រហស្បតិ៍ទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃព្រហស្បតិ៍ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃព្រហស្បតិ៍មុន"
             }
           },
           "thu-narrow": {
@@ -403,10 +403,10 @@
             "relative-type-0": "ថ្ងៃ​ព្រហស្បតិ៍​នេះ",
             "relative-type-1": "ថ្ងៃ​ព្រហស្បតិ៍​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃព្រហស្បតិ៍ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃព្រហស្បតិ៍ទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃព្រហស្បតិ៍ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃព្រហស្បតិ៍មុន"
             }
           },
           "fri": {
@@ -414,10 +414,10 @@
             "relative-type-0": "ថ្ងៃ​សុក្រ​នេះ",
             "relative-type-1": "ថ្ងៃ​សុក្រ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃសុក្រ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃសុក្រទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃសុក្រ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃសុក្រមុន"
             }
           },
           "fri-short": {
@@ -425,10 +425,10 @@
             "relative-type-0": "ថ្ងៃ​សុក្រ​នេះ",
             "relative-type-1": "ថ្ងៃ​សុក្រ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃសុក្រ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃសុក្រទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃសុក្រ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃសុក្រមុន"
             }
           },
           "fri-narrow": {
@@ -436,10 +436,10 @@
             "relative-type-0": "ថ្ងៃ​សុក្រ​នេះ",
             "relative-type-1": "ថ្ងៃ​សុក្រ​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃសុក្រ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃសុក្រទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃសុក្រ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃសុក្រមុន"
             }
           },
           "sat": {
@@ -447,10 +447,10 @@
             "relative-type-0": "ថ្ងៃ​សៅរ៍​នេះ",
             "relative-type-1": "ថ្ងៃ​សៅរ៍​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃសៅរ៍ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃសៅរ៍ ទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃសៅរ៍ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃសៅរ៍ មុន"
             }
           },
           "sat-short": {
@@ -458,10 +458,10 @@
             "relative-type-0": "ថ្ងៃ​សៅរ៍​នេះ",
             "relative-type-1": "ថ្ងៃ​សៅរ៍​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃសៅរ៍ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃសៅរ៍ ទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃសៅរ៍ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃសៅរ៍ មុន"
             }
           },
           "sat-narrow": {
@@ -469,10 +469,10 @@
             "relative-type-0": "ថ្ងៃ​សៅរ៍​នេះ",
             "relative-type-1": "ថ្ងៃ​សៅរ៍​ក្រោយ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ថ្ងៃសៅរ៍ {0} សប្តាហ៍ទៀត"
+              "relativeTimePattern-count-other": "ក្នុងពេល {0} ថ្ងៃសៅរ៍ ទៀត"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "ថ្ងៃសៅរ៍ {0} សប្តាហ៍មុន"
+              "relativeTimePattern-count-other": "កាលពី {0} ថ្ងៃសៅរ៍ មុន"
             }
           },
           "dayperiod-short": {

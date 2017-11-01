@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13711 $",
+          "_cldrVersion": "32"
         },
         "language": "cs"
       },
@@ -14,10 +14,10 @@
             "displayName": "letopočet"
           },
           "era-short": {
-            "displayName": "letopočet"
+            "displayName": "letop."
           },
           "era-narrow": {
-            "displayName": "letopočet"
+            "displayName": "let."
           },
           "year": {
             "displayName": "rok",
@@ -147,9 +147,9 @@
           },
           "month-short": {
             "displayName": "měs.",
-            "relative-type--1": "minulý měsíc",
-            "relative-type-0": "tento měsíc",
-            "relative-type-1": "příští měsíc",
+            "relative-type--1": "minulý měs.",
+            "relative-type-0": "tento měs.",
+            "relative-type-1": "příští měs.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} měs.",
               "relativeTimePattern-count-few": "za {0} měs.",
@@ -165,9 +165,9 @@
           },
           "month-narrow": {
             "displayName": "měs.",
-            "relative-type--1": "minulý měsíc",
-            "relative-type-0": "tento měsíc",
-            "relative-type-1": "příští měsíc",
+            "relative-type--1": "minuý měs.",
+            "relative-type-0": "tento měs.",
+            "relative-type-1": "příští měs.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} měs.",
               "relativeTimePattern-count-few": "za {0} měs.",
@@ -239,13 +239,13 @@
             "relativePeriod": "v týd. {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "týden v měsíci"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "týd. v m."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "týd. v m."
           },
           "day": {
             "displayName": "den",
@@ -308,31 +308,31 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "den v roce"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "den v r."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "d. v r."
           },
           "weekday": {
             "displayName": "den v týdnu"
           },
           "weekday-short": {
-            "displayName": "den v týdnu"
+            "displayName": "den v týd."
           },
           "weekday-narrow": {
-            "displayName": "den v týdnu"
+            "displayName": "d. v týd."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "den týdne v měsíci"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "den týd. v měs."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "d. týd. v měs."
           },
           "sun": {
             "relative-type--1": "minulou neděli",
@@ -698,7 +698,7 @@
             "displayName": "část dne"
           },
           "dayperiod-narrow": {
-            "displayName": "část dne"
+            "displayName": "část d."
           },
           "hour": {
             "displayName": "hodina",
@@ -848,10 +848,10 @@
             "displayName": "časové pásmo"
           },
           "zone-short": {
-            "displayName": "časové pásmo"
+            "displayName": "čas. pásmo"
           },
           "zone-narrow": {
-            "displayName": "časové pásmo"
+            "displayName": "pásmo"
           }
         }
       }

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ne",
         "territory": "IN"
@@ -29,25 +29,25 @@
                   "12": "डिसेम्बर"
                 },
                 "narrow": {
-                  "1": "१",
-                  "2": "२",
-                  "3": "३",
-                  "4": "४",
-                  "5": "५",
-                  "6": "६",
-                  "7": "७",
-                  "8": "८",
-                  "9": "९",
-                  "10": "१०",
-                  "11": "११",
-                  "12": "१२"
+                  "1": "जन",
+                  "2": "फेब",
+                  "3": "मार्च",
+                  "4": "अप्र",
+                  "5": "मे",
+                  "6": "जुन",
+                  "7": "जुल",
+                  "8": "अग",
+                  "9": "सेप",
+                  "10": "अक्टो",
+                  "11": "नोभे",
+                  "12": "डिसे"
                 },
                 "wide": {
                   "1": "जनवरी",
                   "2": "फेब्रुअरी",
                   "3": "मार्च",
                   "4": "अप्रिल",
-                  "5": "मई",
+                  "5": "मे",
                   "6": "जुन",
                   "7": "जुलाई",
                   "8": "अगस्ट",
@@ -73,18 +73,18 @@
                   "12": "डिसेम्बर"
                 },
                 "narrow": {
-                  "1": "१",
-                  "2": "२",
-                  "3": "३",
-                  "4": "४",
-                  "5": "५",
-                  "6": "६",
-                  "7": "७",
-                  "8": "८",
-                  "9": "९",
-                  "10": "१०",
-                  "11": "११",
-                  "12": "१२"
+                  "1": "जन",
+                  "2": "फेेब",
+                  "3": "मार्च",
+                  "4": "अप्र",
+                  "5": "मे",
+                  "6": "जुन",
+                  "7": "जुल",
+                  "8": "अग",
+                  "9": "सेप",
+                  "10": "अक्टो",
+                  "11": "नोभे",
+                  "12": "डिसे"
                 },
                 "wide": {
                   "1": "जनवरी",
@@ -232,7 +232,7 @@
                   "morning1": "बिहान",
                   "afternoon1": "अपरान्ह",
                   "afternoon2": "साँझ",
-                  "evening1": "बेलुका",
+                  "evening1": "बेलुकी",
                   "night1": "रात"
                 },
                 "narrow": {
@@ -243,7 +243,7 @@
                   "morning1": "बिहान",
                   "afternoon1": "अपरान्ह",
                   "afternoon2": "साँझ",
-                  "evening1": "बेलुका",
+                  "evening1": "बेलुकी",
                   "night1": "रात"
                 },
                 "wide": {
@@ -254,7 +254,7 @@
                   "morning1": "बिहान",
                   "afternoon1": "अपरान्ह",
                   "afternoon2": "साँझ",
-                  "evening1": "बेलुका",
+                  "evening1": "बेलुकी",
                   "night1": "रात"
                 }
               },
@@ -267,7 +267,7 @@
                   "morning1": "बिहान",
                   "afternoon1": "अपरान्ह",
                   "afternoon2": "साँझ",
-                  "evening1": "बेलुका",
+                  "evening1": "बेलुकी",
                   "night1": "रात"
                 },
                 "narrow": {
@@ -278,7 +278,7 @@
                   "morning1": "बिहान",
                   "afternoon1": "अपरान्ह",
                   "afternoon2": "साँझ",
-                  "evening1": "बेलुका",
+                  "evening1": "बेलुकी",
                   "night1": "रात"
                 },
                 "wide": {
@@ -289,7 +289,7 @@
                   "morning1": "बिहान",
                   "afternoon1": "अपरान्ह",
                   "afternoon2": "साँझ",
-                  "evening1": "बेलुका",
+                  "evening1": "बेलुकी",
                   "night1": "रात"
                 }
               }
@@ -318,7 +318,7 @@
               "full": "y MMMM d, EEEE",
               "long": "y MMMM d",
               "medium": "y MMM d",
-              "short": "y-MM-dd"
+              "short": "yy/M/d"
             },
             "timeFormats": {
               "full": "h:mm:ss a zzzz",
@@ -332,8 +332,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -360,8 +365,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "'week' W 'of' MMM",
-                "MMMMW-count-other": "'week' W 'of' MMM",
+                "MMMMW-count-one": "MMMM को W हप्ता",
+                "MMMMW-count-other": "MMMM को W हप्ता",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -373,8 +378,8 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "'week' w 'of' y",
-                "yw-count-other": "'week' w 'of' y"
+                "yw-count-one": "Y को w हप्ता",
+                "yw-count-other": "Y को w हप्ता"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

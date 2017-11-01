@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ko",
         "territory": "KP"
@@ -326,13 +326,18 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "B h시",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d일",
                 "E": "ccc",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d일 (E)",
                 "EEEEd": "d일 EEEE",
-                "Ehm": "E h:mm a",
+                "Ehm": "E a h:mm",
                 "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
+                "Ehms": "E a h:mm:ss",
                 "EHms": "E HH:mm:ss",
                 "Gy": "G y년",
                 "GyMMM": "G y년 MMM월",
@@ -345,7 +350,7 @@
                 "hm": "a h:mm",
                 "Hm": "HH:mm",
                 "hms": "a h:mm:ss",
-                "Hms": "H시 m분 s초",
+                "Hms": "HH:mm:ss",
                 "M": "M월",
                 "Md": "M. d.",
                 "MEd": "M. d. (E)",

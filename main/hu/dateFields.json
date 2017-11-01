@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "hu"
       },
@@ -76,7 +76,7 @@
             }
           },
           "quarter-short": {
-            "displayName": "negyedév",
+            "displayName": "n.év",
             "relative-type--1": "előző negyedév",
             "relative-type-0": "ez a negyedév",
             "relative-type-1": "következő negyedév",
@@ -90,13 +90,13 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "negyedév",
+            "displayName": "n.év",
             "relative-type--1": "előző negyedév",
             "relative-type-0": "ez a negyedév",
             "relative-type-1": "következő negyedév",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} negyedév múlva",
-              "relativeTimePattern-count-other": "{0} negyedév múlva"
+              "relativeTimePattern-count-one": "{0} n.év múlva",
+              "relativeTimePattern-count-other": "{0} n.év múlva"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} negyedévvel ezelőtt",
@@ -191,13 +191,13 @@
             "relativePeriod": "{0} hete"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "hónap hete"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "hónap hete"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "hónap hete"
           },
           "day": {
             "displayName": "nap",
@@ -248,13 +248,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "év napja"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "év napja"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "év napja"
           },
           "weekday": {
             "displayName": "hét napja"
@@ -266,13 +266,13 @@
             "displayName": "hét napja"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "hónap hétköznapja"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "hónap hétköznapja"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "hónap hétköznapja"
           },
           "sun": {
             "relative-type--1": "előző vasárnap",

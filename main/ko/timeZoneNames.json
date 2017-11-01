@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ko"
       },
@@ -375,6 +375,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "푸에르토리코"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "푼타아레나스"
+              },
               "Rainy_River": {
                 "exemplarCity": "레이니강"
               },
@@ -406,7 +409,7 @@
                 "exemplarCity": "산토도밍고"
               },
               "Sao_Paulo": {
-                "exemplarCity": "상파울로"
+                "exemplarCity": "상파울루"
               },
               "Scoresbysund": {
                 "exemplarCity": "스코레스바이선드"
@@ -633,6 +636,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "사라예보"
+              },
+              "Saratov": {
+                "exemplarCity": "사라토프"
               },
               "Simferopol": {
                 "exemplarCity": "심페로폴"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "아슈하바트"
               },
+              "Atyrau": {
+                "exemplarCity": "아티라우"
+              },
               "Baghdad": {
                 "exemplarCity": "바그다드"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "두샨베"
+              },
+              "Famagusta": {
+                "exemplarCity": "파마구스타"
               },
               "Gaza": {
                 "exemplarCity": "가자"
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "협정 세계시"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "알 수 없는 장소"
@@ -1797,9 +1727,9 @@
             },
             "Georgia": {
               "long": {
-                "generic": "그루지아 시간",
-                "standard": "그루지아 표준시",
-                "daylight": "그루지아 하계 표준시"
+                "generic": "조지아 시간",
+                "standard": "조지아 표준시",
+                "daylight": "조지아 하계 표준시"
               }
             },
             "Gilbert_Islands": {

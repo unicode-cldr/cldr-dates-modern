@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ko"
       },
@@ -167,13 +167,13 @@
             "relativePeriod": "{0}번째 주"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "월의 주"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "월의 주"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "월의 주"
           },
           "day": {
             "displayName": "일",
@@ -218,13 +218,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "년의 일"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "년의 일"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "년의 일"
           },
           "weekday": {
             "displayName": "요일"
@@ -236,13 +236,13 @@
             "displayName": "요일"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "월의 평일"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "월의 평일"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "월의 평일"
           },
           "sun": {
             "relative-type--1": "지난 일요일",

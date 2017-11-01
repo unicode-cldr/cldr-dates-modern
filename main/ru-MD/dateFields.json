@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ru",
         "territory": "MD"
@@ -40,9 +40,9 @@
           },
           "year-short": {
             "displayName": "г.",
-            "relative-type--1": "в прошлом году",
-            "relative-type-0": "в этом году",
-            "relative-type-1": "в следующем году",
+            "relative-type--1": "в прошлом г.",
+            "relative-type-0": "в этом г.",
+            "relative-type-1": "в след. г.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "через {0} г.",
               "relativeTimePattern-count-few": "через {0} г.",
@@ -58,9 +58,9 @@
           },
           "year-narrow": {
             "displayName": "г.",
-            "relative-type--1": "в прошлом году",
-            "relative-type-0": "в этом году",
-            "relative-type-1": "в следующем году",
+            "relative-type--1": "в пр. г.",
+            "relative-type-0": "в эт. г.",
+            "relative-type-1": "в сл. г.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} г.",
               "relativeTimePattern-count-few": "+{0} г.",
@@ -148,9 +148,9 @@
           },
           "month-short": {
             "displayName": "мес.",
-            "relative-type--1": "в прошлом месяце",
-            "relative-type-0": "в этом месяце",
-            "relative-type-1": "в следующем месяце",
+            "relative-type--1": "в прошлом мес.",
+            "relative-type-0": "в этом мес.",
+            "relative-type-1": "в следующем мес.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "через {0} мес.",
               "relativeTimePattern-count-few": "через {0} мес.",
@@ -166,9 +166,9 @@
           },
           "month-narrow": {
             "displayName": "мес.",
-            "relative-type--1": "в прошлом месяце",
-            "relative-type-0": "в этом месяце",
-            "relative-type-1": "в следующем месяце",
+            "relative-type--1": "в пр. мес.",
+            "relative-type-0": "в эт. мес.",
+            "relative-type-1": "в след. мес.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} мес.",
               "relativeTimePattern-count-few": "+{0} мес.",
@@ -203,9 +203,9 @@
           },
           "week-short": {
             "displayName": "нед.",
-            "relative-type--1": "на прошлой неделе",
-            "relative-type-0": "на этой неделе",
-            "relative-type-1": "на следующей неделе",
+            "relative-type--1": "на прошлой нед.",
+            "relative-type-0": "на этой нед.",
+            "relative-type-1": "на следующей нед.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "через {0} нед.",
               "relativeTimePattern-count-few": "через {0} нед.",
@@ -222,9 +222,9 @@
           },
           "week-narrow": {
             "displayName": "нед.",
-            "relative-type--1": "на прошлой неделе",
-            "relative-type-0": "на этой неделе",
-            "relative-type-1": "на следующей неделе",
+            "relative-type--1": "на пр. нед.",
+            "relative-type-0": "на эт. нед.",
+            "relative-type-1": "на след. неделе",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} нед.",
               "relativeTimePattern-count-few": "+{0} нед.",
@@ -240,13 +240,13 @@
             "relativePeriod": "на нед. {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "неделя месяца"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "нед. месяца"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "нед. мес."
           },
           "day": {
             "displayName": "день",
@@ -276,13 +276,13 @@
             "relative-type-1": "завтра",
             "relative-type-2": "послезавтра",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "через {0} д.",
+              "relativeTimePattern-count-one": "через {0} дн.",
               "relativeTimePattern-count-few": "через {0} дн.",
               "relativeTimePattern-count-many": "через {0} дн.",
               "relativeTimePattern-count-other": "через {0} дн."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} д. назад",
+              "relativeTimePattern-count-one": "{0} дн. назад",
               "relativeTimePattern-count-few": "{0} дн. назад",
               "relativeTimePattern-count-many": "{0} дн. назад",
               "relativeTimePattern-count-other": "{0} дн. назад"
@@ -296,44 +296,44 @@
             "relative-type-1": "завтра",
             "relative-type-2": "послезавтра",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} д.",
-              "relativeTimePattern-count-few": "+{0} д.",
-              "relativeTimePattern-count-many": "+{0} д.",
-              "relativeTimePattern-count-other": "+{0} д."
+              "relativeTimePattern-count-one": "+{0} дн.",
+              "relativeTimePattern-count-few": "+{0} дн.",
+              "relativeTimePattern-count-many": "+{0} дн.",
+              "relativeTimePattern-count-other": "+{0} дн."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} д.",
-              "relativeTimePattern-count-few": "-{0} д.",
-              "relativeTimePattern-count-many": "-{0} д.",
-              "relativeTimePattern-count-other": "-{0} д."
+              "relativeTimePattern-count-one": "-{0} дн.",
+              "relativeTimePattern-count-few": "-{0} дн.",
+              "relativeTimePattern-count-many": "-{0} дн.",
+              "relativeTimePattern-count-other": "-{0} дн."
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "день года"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "дн. года"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "дн. года"
           },
           "weekday": {
             "displayName": "день недели"
           },
           "weekday-short": {
-            "displayName": "день недели"
+            "displayName": "дн. недели"
           },
           "weekday-narrow": {
-            "displayName": "день недели"
+            "displayName": "дн. нед."
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "день недели в месяце"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "дн. нед. в месяце"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "дн. нед. в мес."
           },
           "sun": {
             "relative-type--1": "в прошлое воскресенье",
@@ -693,17 +693,17 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "ДП/ПП"
+            "displayName": "AM/PM"
           },
           "dayperiod": {
-            "displayName": "ДП/ПП"
+            "displayName": "AM/PM"
           },
           "dayperiod-narrow": {
-            "displayName": "ДП/ПП"
+            "displayName": "AM/PM"
           },
           "hour": {
             "displayName": "час",
-            "relative-type-0": "в этом часе",
+            "relative-type-0": "в этот час",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "через {0} час",
               "relativeTimePattern-count-few": "через {0} часа",
@@ -718,8 +718,8 @@
             }
           },
           "hour-short": {
-            "displayName": "ч.",
-            "relative-type-0": "в этом часе",
+            "displayName": "ч",
+            "relative-type-0": "в этот час",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "через {0} ч.",
               "relativeTimePattern-count-few": "через {0} ч.",
@@ -735,7 +735,7 @@
           },
           "hour-narrow": {
             "displayName": "ч",
-            "relative-type-0": "в этом часе",
+            "relative-type-0": "в этот час",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} ч.",
               "relativeTimePattern-count-few": "+{0} ч.",
@@ -833,26 +833,26 @@
             "displayName": "с",
             "relative-type-0": "сейчас",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} сек.",
-              "relativeTimePattern-count-few": "+{0} сек.",
-              "relativeTimePattern-count-many": "+{0} сек.",
-              "relativeTimePattern-count-other": "+{0} сек."
+              "relativeTimePattern-count-one": "+{0} с",
+              "relativeTimePattern-count-few": "+{0} с",
+              "relativeTimePattern-count-many": "+{0} с",
+              "relativeTimePattern-count-other": "+{0} с"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} сек.",
-              "relativeTimePattern-count-few": "-{0} сек.",
-              "relativeTimePattern-count-many": "-{0} сек.",
-              "relativeTimePattern-count-other": "-{0} сек."
+              "relativeTimePattern-count-one": "-{0} с",
+              "relativeTimePattern-count-few": "-{0} с",
+              "relativeTimePattern-count-many": "-{0} с",
+              "relativeTimePattern-count-other": "-{0} с"
             }
           },
           "zone": {
             "displayName": "часовой пояс"
           },
           "zone-short": {
-            "displayName": "часовой пояс"
+            "displayName": "час. пояс"
           },
           "zone-narrow": {
-            "displayName": "часовой пояс"
+            "displayName": "час. пояс"
           }
         }
       }

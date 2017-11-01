@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "nb",
         "territory": "SJ"
@@ -330,8 +330,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d.",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -353,7 +358,7 @@
                 "Hmv": "HH:mm v",
                 "M": "L.",
                 "Md": "d.M.",
-                "MEd": "E d.M",
+                "MEd": "E d.M.",
                 "MMdd": "d.M.",
                 "MMM": "LLL",
                 "MMMd": "d. MMM",
@@ -373,8 +378,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'uke' w 'i' y",
-                "yw-count-other": "'uke' w 'i' y"
+                "yw-count-one": "'uke' w 'i' Y",
+                "yw-count-other": "'uke' w 'i' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -395,7 +400,7 @@
                   "d": "d.–d."
                 },
                 "h": {
-                  "a": "h a–h a",
+                  "a": "h a – h a",
                   "h": "h–h a"
                 },
                 "H": {
@@ -420,7 +425,7 @@
                   "m": "HH:mm–HH:mm v"
                 },
                 "hv": {
-                  "a": "h a–h a v",
+                  "a": "h a – h a v",
                   "h": "h–h a v"
                 },
                 "Hv": {

@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13769 $",
+          "_cldrVersion": "32"
         },
         "language": "ur"
       },
@@ -105,7 +105,7 @@
               "format": {
                 "abbreviated": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -123,7 +123,7 @@
                 },
                 "short": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -132,7 +132,7 @@
                 },
                 "wide": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -143,7 +143,7 @@
               "stand-alone": {
                 "abbreviated": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -161,7 +161,7 @@
                 },
                 "short": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -170,7 +170,7 @@
                 },
                 "wide": {
                   "sun": "اتوار",
-                  "mon": "سوموار",
+                  "mon": "پیر",
                   "tue": "منگل",
                   "wed": "بدھ",
                   "thu": "جمعرات",
@@ -247,11 +247,11 @@
                   "midnight": "آدھی رات",
                   "am": "AM",
                   "pm": "PM",
-                  "morning1": "صبح",
-                  "afternoon1": "دوپہر",
+                  "morning1": "صبح میں",
+                  "afternoon1": "دوپہر میں",
                   "afternoon2": "سہ پہر",
-                  "evening1": "شام",
-                  "night1": "رات"
+                  "evening1": "شام میں",
+                  "night1": "رات میں"
                 }
               },
               "stand-alone": {
@@ -308,9 +308,9 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE، d MMMM، y",
-              "long": "d MMMM، y",
-              "medium": "y MMM d",
+              "full": "EEEE, MMMM d, y",
+              "long": "MMMM d, y",
+              "medium": "MMM d, y",
               "short": "d/M/yy"
             },
             "timeFormats": {
@@ -325,8 +325,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -353,8 +358,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E، d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "MMM کے W ہفتے",
-                "MMMMW-count-other": "MMM کے W ہفتے",
+                "MMMMW-count-one": "MMMM کا ہفتہ W",
+                "MMMMW-count-other": "MMMM کا ہفتہ W",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -366,8 +371,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "y کا w ہفتہ",
-                "yw-count-other": "y کا w ہفتہ"
+                "yw-count-one": "Y کا w ہفتہ",
+                "yw-count-other": "Y کا w ہفتہ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

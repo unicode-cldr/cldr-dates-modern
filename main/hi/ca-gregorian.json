@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13686 $",
+          "_cldrVersion": "32"
         },
         "language": "hi"
       },
@@ -239,7 +239,7 @@
                   "morning1": "सुबह",
                   "afternoon1": "अपराह्न",
                   "evening1": "शाम",
-                  "night1": "शाम"
+                  "night1": "रात"
                 },
                 "wide": {
                   "midnight": "मध्यरात्रि",
@@ -304,7 +304,7 @@
             "dateFormats": {
               "full": "EEEE, d MMMM y",
               "long": "d MMMM y",
-              "medium": "dd/MM/y",
+              "medium": "d MMM y",
               "short": "d/M/yy"
             },
             "timeFormats": {
@@ -319,8 +319,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -364,8 +369,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "y का सप्ताह w",
-                "yw-count-other": "y का सप्ताह w"
+                "yw-count-one": "Y का सप्ताह w",
+                "yw-count-other": "Y का सप्ताह w"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

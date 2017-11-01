@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "lo"
       },
@@ -167,13 +167,13 @@
             "relativePeriod": "ອາທິດທີ {0}"
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "ອາທິດຂອງເດືອນ"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ອທ ຂອງ ດ"
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ອທ ຂອງ ດ"
           },
           "day": {
             "displayName": "ມື້",
@@ -218,13 +218,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "ມື້ຂອງປີ"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "ມື້ຂອງປີ"
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "ມື້ຂອງປີ"
           },
           "weekday": {
             "displayName": "ມື້ຂອງອາທິດ"
@@ -236,13 +236,13 @@
             "displayName": "ມື້ຂອງອາທິດ"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ມື້ເຮັດວຽກຂອງເດືອນ"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ມຮວ ຂອງ ດ"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "ມຮວ ຂອງ ດ"
           },
           "sun": {
             "relative-type--1": "ວັນອາທິດແລ້ວ",

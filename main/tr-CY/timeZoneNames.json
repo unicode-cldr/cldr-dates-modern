@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "tr",
         "territory": "CY"
@@ -104,7 +104,7 @@
                 "exemplarCity": "Cancun"
               },
               "Caracas": {
-                "exemplarCity": "Karakas"
+                "exemplarCity": "Caracas"
               },
               "Catamarca": {
                 "exemplarCity": "Catamarca"
@@ -306,7 +306,7 @@
                 "exemplarCity": "Metlakatla"
               },
               "Mexico_City": {
-                "exemplarCity": "Meksiko City"
+                "exemplarCity": "Mexico City"
               },
               "Miquelon": {
                 "exemplarCity": "Miquelon"
@@ -375,6 +375,9 @@
               },
               "Puerto_Rico": {
                 "exemplarCity": "Porto Riko"
+              },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
               },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
@@ -510,7 +513,7 @@
                 "exemplarCity": "Andorra"
               },
               "Astrakhan": {
-                "exemplarCity": "Astrakhan"
+                "exemplarCity": "Astrahan"
               },
               "Athens": {
                 "exemplarCity": "Atina"
@@ -635,8 +638,11 @@
               "Sarajevo": {
                 "exemplarCity": "Saraybosna"
               },
+              "Saratov": {
+                "exemplarCity": "Saratov"
+              },
               "Simferopol": {
-                "exemplarCity": "Akmescit"
+                "exemplarCity": "Simferopol"
               },
               "Skopje": {
                 "exemplarCity": "Üsküp"
@@ -689,7 +695,7 @@
             },
             "Africa": {
               "Abidjan": {
-                "exemplarCity": "Abican"
+                "exemplarCity": "Abidjan"
               },
               "Accra": {
                 "exemplarCity": "Akra"
@@ -833,7 +839,7 @@
                 "exemplarCity": "Porto-Novo"
               },
               "Sao_Tome": {
-                "exemplarCity": "São Tomé"
+                "exemplarCity": "Sao Tome"
               },
               "Tripoli": {
                 "exemplarCity": "Trablus"
@@ -867,6 +873,9 @@
               "Ashgabat": {
                 "exemplarCity": "Aşkabat"
               },
+              "Atyrau": {
+                "exemplarCity": "Atırav"
+              },
               "Baghdad": {
                 "exemplarCity": "Bağdat"
               },
@@ -895,7 +904,7 @@
                 "exemplarCity": "Kalküta"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "Çita"
               },
               "Choibalsan": {
                 "exemplarCity": "Çoybalsan"
@@ -917,6 +926,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Duşanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Gazimağusa"
               },
               "Gaza": {
                 "exemplarCity": "Gazze"
@@ -1119,7 +1131,7 @@
                 "exemplarCity": "Mayotte"
               },
               "Reunion": {
-                "exemplarCity": "Réunion"
+                "exemplarCity": "Reunion"
               }
             },
             "Australia": {
@@ -1320,95 +1332,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
-                  "standard": "Eşgüdümlü Evrensel Zaman"
+                  "standard": "Eş Güdümlü Evrensel Zaman"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Bilinmeyen Şehir"
@@ -1571,9 +1501,9 @@
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "İçbatı Avustralya Saati",
-                "standard": "İçbatı Avustralya Standart Saati",
-                "daylight": "İçbatı Avustralya Yaz Saati"
+                "generic": "İç Batı Avustralya Saati",
+                "standard": "İç Batı Avustralya Standart Saati",
+                "daylight": "İç Batı Avustralya Yaz Saati"
               }
             },
             "Australia_Eastern": {
@@ -1613,7 +1543,7 @@
             },
             "Bhutan": {
               "long": {
-                "standard": "Bhutan Saati"
+                "standard": "Butan Saati"
               }
             },
             "Bolivia": {
@@ -1752,7 +1682,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Daha Doğu Avrupa Saati"
+                "standard": "İleri Doğu Avrupa Saati"
               }
             },
             "Europe_Western": {

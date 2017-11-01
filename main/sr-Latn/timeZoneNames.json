@@ -3,8 +3,8 @@
     "sr-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13273 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13708 $",
+          "_cldrVersion": "32"
         },
         "language": "sr",
         "script": "Latn"
@@ -216,7 +216,7 @@
                   "exemplarCity": "Pitersburg, Indijana"
                 },
                 "Tell_City": {
-                  "exemplarCity": "Tel Siti"
+                  "exemplarCity": "Tel Siti, Indijana"
                 },
                 "Knox": {
                   "exemplarCity": "Noks, Indijana"
@@ -365,7 +365,7 @@
                 "exemplarCity": "Finiks"
               },
               "Port-au-Prince": {
-                "exemplarCity": "Port-o-Prens"
+                "exemplarCity": "Port o Prens"
               },
               "Port_of_Spain": {
                 "exemplarCity": "Port of Spejn"
@@ -375,6 +375,9 @@
               },
               "Puerto_Rico": {
                 "exemplarCity": "Porto Riko"
+              },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
               },
               "Rainy_River": {
                 "exemplarCity": "Rejni River"
@@ -544,7 +547,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Irska standardno vreme"
+                  "daylight": "Irska, standardno vreme"
                 },
                 "exemplarCity": "Dablin"
               },
@@ -583,7 +586,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "Britanija letnje računanje vremena"
+                  "daylight": "Britanija, letnje vreme"
                 },
                 "exemplarCity": "London"
               },
@@ -634,6 +637,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
+              },
+              "Saratov": {
+                "exemplarCity": "Saratov"
               },
               "Simferopol": {
                 "exemplarCity": "Simferopolj"
@@ -867,6 +873,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ašhabad"
               },
+              "Atyrau": {
+                "exemplarCity": "Atirau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
               },
@@ -917,6 +926,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dušanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -1066,7 +1078,7 @@
                 "exemplarCity": "Ulan Bator"
               },
               "Urumqi": {
-                "exemplarCity": "Urumkvi"
+                "exemplarCity": "Urumći"
               },
               "Ust-Nera": {
                 "exemplarCity": "Ust-Nera"
@@ -1320,95 +1332,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "Koordinisano univerzalno vreme"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Nepoznat grad"
@@ -1447,14 +1377,14 @@
               "long": {
                 "generic": "Zapadno-afričko vreme",
                 "standard": "Zapadno-afričko standardno vreme",
-                "daylight": "Zapadno-afričko letnje računanje vremena"
+                "daylight": "Zapadno-afričko letnje vreme"
               }
             },
             "Alaska": {
               "long": {
                 "generic": "Aljaska",
                 "standard": "Aljaska, standardno vreme",
-                "daylight": "Aljaska, letnje računanje vremena"
+                "daylight": "Aljaska, letnje vreme"
               }
             },
             "Almaty": {
@@ -1467,8 +1397,8 @@
             "Amazon": {
               "long": {
                 "generic": "Amazon vreme",
-                "standard": "Amazon standardno vreme",
-                "daylight": "Amazon letnje računanje vremena"
+                "standard": "Amazon, standardno vreme",
+                "daylight": "Amazon, letnje vreme"
               }
             },
             "America_Central": {
@@ -1509,8 +1439,8 @@
             "Apia": {
               "long": {
                 "generic": "Apija vreme",
-                "standard": "Apija standardno vreme",
-                "daylight": "Apija letnje računanje vremena"
+                "standard": "Apija, standardno vreme",
+                "daylight": "Apija, letnje vreme"
               }
             },
             "Aqtau": {
@@ -1531,84 +1461,84 @@
               "long": {
                 "generic": "Arabijsko vreme",
                 "standard": "Arabijsko standardno vreme",
-                "daylight": "Arabijsko letnje računanje vremena"
+                "daylight": "Arabijsko letnje vreme"
               }
             },
             "Argentina": {
               "long": {
                 "generic": "Argentina vreme",
-                "standard": "Argentina standardno vreme",
-                "daylight": "Argentina letnje računanje vremena"
+                "standard": "Argentina, standardno vreme",
+                "daylight": "Argentina, letnje vreme"
               }
             },
             "Argentina_Western": {
               "long": {
                 "generic": "Zapadna Argentina vreme",
-                "standard": "Zapadna Argentina standardno vreme",
-                "daylight": "Zapadna Argentina letnje računanje vremena"
+                "standard": "Zapadna Argentina, standardno vreme",
+                "daylight": "Zapadna Argentina, letnje vreme"
               }
             },
             "Armenia": {
               "long": {
                 "generic": "Jermenija vreme",
-                "standard": "Jermenija standardno vreme",
-                "daylight": "Jermenija letnje računanje vremena"
+                "standard": "Jermenija, standardno vreme",
+                "daylight": "Jermenija, letnje vreme"
               }
             },
             "Atlantic": {
               "long": {
                 "generic": "Atlantsko vreme",
                 "standard": "Atlantsko standardno vreme",
-                "daylight": "Atlantsko letnje računanje vremena"
+                "daylight": "Atlantsko letnje vreme"
               }
             },
             "Australia_Central": {
               "long": {
                 "generic": "Australijsko centralno vreme",
                 "standard": "Australijsko centralno standardno vreme",
-                "daylight": "Australijsko centralno letnje računanje vremena"
+                "daylight": "Australijsko centralno letnje vreme"
               }
             },
             "Australia_CentralWestern": {
               "long": {
                 "generic": "Australijsko centralno zapadno vreme",
                 "standard": "Australijsko centralno zapadno standardno vreme",
-                "daylight": "Australijsko centralno zapadno letnje računanje vremena"
+                "daylight": "Australijsko centralno zapadno letnje vreme"
               }
             },
             "Australia_Eastern": {
               "long": {
                 "generic": "Australijsko istočno vreme",
                 "standard": "Australijsko istočno standardno vreme",
-                "daylight": "Australijsko istočno letnje računanje vremena"
+                "daylight": "Australijsko istočno letnje vreme"
               }
             },
             "Australia_Western": {
               "long": {
                 "generic": "Australijsko zapadno vreme",
                 "standard": "Australijsko zapadno standardno vreme",
-                "daylight": "Australijsko zapadno letnje računanje vremena"
+                "daylight": "Australijsko zapadno letnje vreme"
               }
             },
             "Azerbaijan": {
               "long": {
                 "generic": "Azerbejdžan vreme",
-                "standard": "Azerbejdžan standardno vreme",
-                "daylight": "Azerbejdžan letnje računanje vremena"
+                "standard": "Azerbejdžan, standardno vreme",
+                "daylight": "Azerbejdžan, letnje vreme"
               }
             },
             "Azores": {
               "long": {
                 "generic": "Azori vreme",
-                "standard": "Azori standardno vreme",
-                "daylight": "Azori letnje računanje vremena"
+                "standard": "Azori, standardno vreme",
+                "daylight": "Azori, letnje vreme"
               }
             },
             "Bangladesh": {
               "long": {
                 "generic": "Bangladeš vreme",
-                "standard": "Bangladeš standardno vreme",
-                "daylight": "Bangladeš letnje računanje vremena"
+                "standard": "Bangladeš, standardno vreme",
+                "daylight": "Bangladeš, letnje vreme"
               }
             },
             "Bhutan": {
@@ -1624,8 +1554,8 @@
             "Brasilia": {
               "long": {
                 "generic": "Brazilija vreme",
-                "standard": "Brazilija standardno vreme",
-                "daylight": "Brazilija letnje računanje vremena"
+                "standard": "Brazilija, standardno vreme",
+                "daylight": "Brazilija, letnje vreme"
               }
             },
             "Brunei": {
@@ -1636,8 +1566,8 @@
             "Cape_Verde": {
               "long": {
                 "generic": "Zelenortska Ostrva vreme",
-                "standard": "Zelenortska Ostrva standardno vreme",
-                "daylight": "Zelenortska Ostrva letnje računanje vremena"
+                "standard": "Zelenortska Ostrva, standardno vreme",
+                "daylight": "Zelenortska Ostrva, letnje vreme"
               }
             },
             "Chamorro": {
@@ -1648,29 +1578,29 @@
             "Chatham": {
               "long": {
                 "generic": "Čatam vreme",
-                "standard": "Čatam standardno vreme",
-                "daylight": "Čatam letnje računanje vremena"
+                "standard": "Čatam, standardno vreme",
+                "daylight": "Čatam, letnje vreme"
               }
             },
             "Chile": {
               "long": {
                 "generic": "Čile vreme",
-                "standard": "Čile standardno vreme",
-                "daylight": "Čile letnje računanje vremena"
+                "standard": "Čile, standardno vreme",
+                "daylight": "Čile, letnje vreme"
               }
             },
             "China": {
               "long": {
                 "generic": "Kina vreme",
                 "standard": "Kinesko standardno vreme",
-                "daylight": "Kina letnje računanje vremena"
+                "daylight": "Kina, letnje vreme"
               }
             },
             "Choibalsan": {
               "long": {
                 "generic": "Čojbalsan vreme",
-                "standard": "Čojbalsan standardno vreme",
-                "daylight": "Čojbalsan letnje računanje vremena"
+                "standard": "Čojbalsan, standardno vreme",
+                "daylight": "Čojbalsan, letnje vreme"
               }
             },
             "Christmas": {
@@ -1686,22 +1616,22 @@
             "Colombia": {
               "long": {
                 "generic": "Kolumbija vreme",
-                "standard": "Kolumbija standardno vreme",
-                "daylight": "Kolumbija letnje računanje vremena"
+                "standard": "Kolumbija, standardno vreme",
+                "daylight": "Kolumbija, letnje vreme"
               }
             },
             "Cook": {
               "long": {
                 "generic": "Kukova ostrva vreme",
-                "standard": "Kukova ostrva standardno vreme",
-                "daylight": "Kukova ostrva polu-letnje računanje vremena"
+                "standard": "Kukova ostrva, standardno vreme",
+                "daylight": "Kukova ostrva, polu-letnje vreme"
               }
             },
             "Cuba": {
               "long": {
-                "generic": "Kuba vreme",
-                "standard": "Kuba standardno vreme",
-                "daylight": "Kuba letnje računanje vremena"
+                "generic": "Kuba",
+                "standard": "Kuba, standardno vreme",
+                "daylight": "Kuba, letnje vreme"
               }
             },
             "Davis": {
@@ -1722,8 +1652,8 @@
             "Easter": {
               "long": {
                 "generic": "Uskršnja ostrva vreme",
-                "standard": "Uskršnja ostrva standardno vreme",
-                "daylight": "Uskršnja ostrva letnje računanje vremena"
+                "standard": "Uskršnja ostrva, standardno vreme",
+                "daylight": "Uskršnja ostrva, letnje vreme"
               }
             },
             "Ecuador": {
@@ -1735,7 +1665,7 @@
               "long": {
                 "generic": "Srednjeevropsko vreme",
                 "standard": "Srednjeevropsko standardno vreme",
-                "daylight": "Srednjeevropsko letnje računanje vremena"
+                "daylight": "Srednjeevropsko letnje vreme"
               },
               "short": {
                 "generic": "CET",
@@ -1747,7 +1677,7 @@
               "long": {
                 "generic": "Istočnoevropsko vreme",
                 "standard": "Istočnoevropsko standardno vreme",
-                "daylight": "Istočnoevropsko letnje računanje vremena"
+                "daylight": "Istočnoevropsko letnje vreme"
               },
               "short": {
                 "generic": "EET",
@@ -1757,14 +1687,14 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "dalji istok Evrope"
+                "standard": "Dalji istok Evrope"
               }
             },
             "Europe_Western": {
               "long": {
                 "generic": "Zapadnoevropsko vreme",
                 "standard": "Zapadnoevropsko standardno vreme",
-                "daylight": "Zapadnoevropsko letnje računanje vremena"
+                "daylight": "Zapadnoevropsko letnje vreme"
               },
               "short": {
                 "generic": "WET",
@@ -1775,15 +1705,15 @@
             "Falkland": {
               "long": {
                 "generic": "Folklandska Ostrva vreme",
-                "standard": "Folklandska Ostrva standardno vreme",
-                "daylight": "Folklandska Ostrva letnje računanje vremena"
+                "standard": "Folklandska Ostrva, standardno vreme",
+                "daylight": "Folklandska Ostrva, letnje vreme"
               }
             },
             "Fiji": {
               "long": {
                 "generic": "Fidži vreme",
-                "standard": "Fidži standardno vreme",
-                "daylight": "Fidži letnje računanje vremena"
+                "standard": "Fidži, standardno vreme",
+                "daylight": "Fidži, letnje vreme"
               }
             },
             "French_Guiana": {
@@ -1809,8 +1739,8 @@
             "Georgia": {
               "long": {
                 "generic": "Gruzija vreme",
-                "standard": "Gruzija standardno vreme",
-                "daylight": "Gruzija letnje računanje vremena"
+                "standard": "Gruzija, standardno vreme",
+                "daylight": "Gruzija, letnje vreme"
               }
             },
             "Gilbert_Islands": {
@@ -1828,16 +1758,16 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "Istočni Grenland vreme",
-                "standard": "Istočni Grenland standardno vreme",
-                "daylight": "Istočni Grenland letnje računanje vremena"
+                "generic": "Istočni Grenland",
+                "standard": "Istočni Grenland, standardno vreme",
+                "daylight": "Istočni Grenland, letnje vreme"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Zapadni Grenland vreme",
-                "standard": "Zapadni Grenland standardno vreme",
-                "daylight": "Zapadni Grenland letnje računanje vremena"
+                "generic": "Zapadni Grenland",
+                "standard": "Zapadni Grenland, standardno vreme",
+                "daylight": "Zapadni Grenland, letnje vreme"
               }
             },
             "Guam": {
@@ -1859,21 +1789,21 @@
               "long": {
                 "generic": "Havajsko-aleutsko vreme",
                 "standard": "Havajsko-aleutsko standardno vreme",
-                "daylight": "Havajsko-aleutsko letnje računanje vremena"
+                "daylight": "Havajsko-aleutsko letnje vreme"
               }
             },
             "Hong_Kong": {
               "long": {
                 "generic": "Hong Kong vreme",
-                "standard": "Hong Kong standardno vreme",
-                "daylight": "Hong Kong letnje računanje vremena"
+                "standard": "Hong Kong, standardno vreme",
+                "daylight": "Hong Kong, letnje vreme"
               }
             },
             "Hovd": {
               "long": {
                 "generic": "Hovd vreme",
-                "standard": "Hovd standardno vreme",
-                "daylight": "Hovd letnje računanje vremena"
+                "standard": "Hovd, standardno vreme",
+                "daylight": "Hovd, letnje vreme"
               }
             },
             "India": {
@@ -1909,29 +1839,29 @@
             "Iran": {
               "long": {
                 "generic": "Iran vreme",
-                "standard": "Iran standardno vreme",
-                "daylight": "Iran letnje računanje vremena"
+                "standard": "Iran, standardno vreme",
+                "daylight": "Iran, letnje vreme"
               }
             },
             "Irkutsk": {
               "long": {
                 "generic": "Irkuck vreme",
-                "standard": "Irkuck standardno vreme",
-                "daylight": "Irkuck letnje računanje vremena"
+                "standard": "Irkuck, standardno vreme",
+                "daylight": "Irkuck, letnje vreme"
               }
             },
             "Israel": {
               "long": {
                 "generic": "Izraelsko vreme",
                 "standard": "Izraelsko standardno vreme",
-                "daylight": "Izraelsko letnje računanje vremena"
+                "daylight": "Izraelsko letnje vreme"
               }
             },
             "Japan": {
               "long": {
                 "generic": "Japansko vreme",
                 "standard": "Japansko standardno vreme",
-                "daylight": "Japansko letnje računanje vremena"
+                "daylight": "Japansko letnje vreme"
               }
             },
             "Kamchatka": {
@@ -1955,7 +1885,7 @@
               "long": {
                 "generic": "Korejsko vreme",
                 "standard": "Korejsko standardno vreme",
-                "daylight": "Korejsko letnje računanje vremena"
+                "daylight": "Korejsko letnje vreme"
               }
             },
             "Kosrae": {
@@ -1966,8 +1896,8 @@
             "Krasnoyarsk": {
               "long": {
                 "generic": "Krasnojarsk vreme",
-                "standard": "Krasnojarsk standardno vreme",
-                "daylight": "Krasnojarsk letnje računanje vremena"
+                "standard": "Krasnojarsk, standardno vreme",
+                "daylight": "Krasnojarsk, letnje vreme"
               }
             },
             "Kyrgystan": {
@@ -1988,8 +1918,8 @@
             "Lord_Howe": {
               "long": {
                 "generic": "Lord Hov vreme",
-                "standard": "Lord Hov standardno vreme",
-                "daylight": "Lord Hov letnje računanje vremena"
+                "standard": "Lord Hov, standardno vreme",
+                "daylight": "Lord Hov, letnje vreme"
               }
             },
             "Macau": {
@@ -2007,8 +1937,8 @@
             "Magadan": {
               "long": {
                 "generic": "Magadan vreme",
-                "standard": "Magadan standardno vreme",
-                "daylight": "Magadan letnje računanje vremena"
+                "standard": "Magadan, standardno vreme",
+                "daylight": "Magadan, letnje vreme"
               }
             },
             "Malaysia": {
@@ -2034,8 +1964,8 @@
             "Mauritius": {
               "long": {
                 "generic": "Mauricijus vreme",
-                "standard": "Mauricijus standardno vreme",
-                "daylight": "Mauricijus letnje računanje vremena"
+                "standard": "Mauricijus, standardno vreme",
+                "daylight": "Mauricijus, letnje vreme"
               }
             },
             "Mawson": {
@@ -2046,29 +1976,29 @@
             "Mexico_Northwest": {
               "long": {
                 "generic": "Severozapadni Meksiko",
-                "standard": "Severozapadni Meksiko standardno vreme",
-                "daylight": "Severozapadni Meksiko letnje računanje vremena"
+                "standard": "Severozapadni Meksiko, standardno vreme",
+                "daylight": "Severozapadni Meksiko, letnje vreme"
               }
             },
             "Mexico_Pacific": {
               "long": {
                 "generic": "Meksički Pacifik",
-                "standard": "Meksički Pacifik standardno vreme",
-                "daylight": "Meksički Pacifik letnje računanje vremena"
+                "standard": "Meksički Pacifik, standardno vreme",
+                "daylight": "Meksički Pacifik, letnje vreme"
               }
             },
             "Mongolia": {
               "long": {
                 "generic": "Ulan Bator vreme",
-                "standard": "Ulan Bator standardno vreme",
-                "daylight": "Ulan Bator letnje računanje vremena"
+                "standard": "Ulan Bator, standardno vreme",
+                "daylight": "Ulan Bator, letnje vreme"
               }
             },
             "Moscow": {
               "long": {
                 "generic": "Moskva vreme",
-                "standard": "Moskva standardno vreme",
-                "daylight": "Moskva letnje računanje vremena"
+                "standard": "Moskva, standardno vreme",
+                "daylight": "Moskva, letnje vreme"
               }
             },
             "Myanmar": {
@@ -2089,22 +2019,22 @@
             "New_Caledonia": {
               "long": {
                 "generic": "Nova Kaledonija vreme",
-                "standard": "Nova Kaledonija standardno vreme",
-                "daylight": "Nova Kaledonija letnje računanje vremena"
+                "standard": "Nova Kaledonija, standardno vreme",
+                "daylight": "Nova Kaledonija, letnje vreme"
               }
             },
             "New_Zealand": {
               "long": {
                 "generic": "Novi Zeland vreme",
-                "standard": "Novi Zeland standardno vreme",
-                "daylight": "Novi Zeland letnje računanje vremena"
+                "standard": "Novi Zeland, standardno vreme",
+                "daylight": "Novi Zeland, letnje vreme"
               }
             },
             "Newfoundland": {
               "long": {
-                "generic": "Njufaundlend vreme",
-                "standard": "Njufaundlend standardno vreme",
-                "daylight": "Njufaundlend letnje računanje vremena"
+                "generic": "Njufaundlend",
+                "standard": "Njufaundlend, standardno vreme",
+                "daylight": "Njufaundlend, letnje vreme"
               }
             },
             "Niue": {
@@ -2120,8 +2050,8 @@
             "Noronha": {
               "long": {
                 "generic": "Fernando de Noronja vreme",
-                "standard": "Fernando de Noronja standardno vreme",
-                "daylight": "Fernando de Noronja letnje računanje vremena"
+                "standard": "Fernando de Noronja, standardno vreme",
+                "daylight": "Fernando de Noronja, letnje vreme"
               }
             },
             "North_Mariana": {
@@ -2132,22 +2062,22 @@
             "Novosibirsk": {
               "long": {
                 "generic": "Novosibirsk vreme",
-                "standard": "Novosibirsk standardno vreme",
-                "daylight": "Novosibirsk letnje računanje vremena"
+                "standard": "Novosibirsk, standardno vreme",
+                "daylight": "Novosibirsk, letnje vreme"
               }
             },
             "Omsk": {
               "long": {
                 "generic": "Omsk vreme",
-                "standard": "Omsk standardno vreme",
-                "daylight": "Omsk letnje računanje vremena"
+                "standard": "Omsk, standardno vreme",
+                "daylight": "Omsk, letnje vreme"
               }
             },
             "Pakistan": {
               "long": {
                 "generic": "Pakistan vreme",
-                "standard": "Pakistan standardno vreme",
-                "daylight": "Pakistan letnje računanje vremena"
+                "standard": "Pakistan, standardno vreme",
+                "daylight": "Pakistan, letnje vreme"
               }
             },
             "Palau": {
@@ -2163,22 +2093,22 @@
             "Paraguay": {
               "long": {
                 "generic": "Paragvaj vreme",
-                "standard": "Paragvaj standardno vreme",
-                "daylight": "Paragvaj letnje računanje vremena"
+                "standard": "Paragvaj, standardno vreme",
+                "daylight": "Paragvaj, letnje vreme"
               }
             },
             "Peru": {
               "long": {
                 "generic": "Peru vreme",
-                "standard": "Peru standardno vreme",
-                "daylight": "Peru letnje računanje vremena"
+                "standard": "Peru, standardno vreme",
+                "daylight": "Peru, letnje vreme"
               }
             },
             "Philippines": {
               "long": {
                 "generic": "Filipini vreme",
-                "standard": "Filipini standardno vreme",
-                "daylight": "Filipini letnje računanje vremena"
+                "standard": "Filipini, standardno vreme",
+                "daylight": "Filipini, letnje vreme"
               }
             },
             "Phoenix_Islands": {
@@ -2188,9 +2118,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Sen Pjer i Mikelon vreme",
-                "standard": "Sen Pjer i Mikelon standardno vreme",
-                "daylight": "Sen Pjer i Mikelon letnje računanje vremena"
+                "generic": "Sen Pjer i Mikelon",
+                "standard": "Sen Pjer i Mikelon, standardno vreme",
+                "daylight": "Sen Pjer i Mikelon, letnje vreme"
               }
             },
             "Pitcairn": {
@@ -2228,8 +2158,8 @@
             "Sakhalin": {
               "long": {
                 "generic": "Sahalin vreme",
-                "standard": "Sahalin standardno vreme",
-                "daylight": "Sahalin letnje računanje vremena"
+                "standard": "Sahalin, standardno vreme",
+                "daylight": "Sahalin, letnje vreme"
               }
             },
             "Samara": {
@@ -2242,8 +2172,8 @@
             "Samoa": {
               "long": {
                 "generic": "Samoa vreme",
-                "standard": "Samoa standardno vreme",
-                "daylight": "Samoa letnje računanje vremena"
+                "standard": "Samoa, standardno vreme",
+                "daylight": "Samoa, letnje vreme"
               }
             },
             "Seychelles": {
@@ -2253,7 +2183,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "Singapur standardno vreme"
+                "standard": "Singapur, standardno vreme"
               }
             },
             "Solomon": {
@@ -2284,8 +2214,8 @@
             "Taipei": {
               "long": {
                 "generic": "Tajpej vreme",
-                "standard": "Tajpej standardno vreme",
-                "daylight": "Tajpej letnje vreme"
+                "standard": "Tajpej, standardno vreme",
+                "daylight": "Tajpej, letnje vreme"
               }
             },
             "Tajikistan": {
@@ -2301,8 +2231,8 @@
             "Tonga": {
               "long": {
                 "generic": "Tonga vreme",
-                "standard": "Tonga standardno vreme",
-                "daylight": "Tonga letnje računanje vremena"
+                "standard": "Tonga, standardno vreme",
+                "daylight": "Tonga, letnje vreme"
               }
             },
             "Truk": {
@@ -2313,8 +2243,8 @@
             "Turkmenistan": {
               "long": {
                 "generic": "Turkmenistan vreme",
-                "standard": "Turkmenistan standardno vreme",
-                "daylight": "Turkmenistan letnje računanje vremena"
+                "standard": "Turkmenistan, standardno vreme",
+                "daylight": "Turkmenistan, letnje vreme"
               }
             },
             "Tuvalu": {
@@ -2325,22 +2255,22 @@
             "Uruguay": {
               "long": {
                 "generic": "Urugvaj vreme",
-                "standard": "Urugvaj standardno vreme",
-                "daylight": "Urugvaj letnje računanje vremena"
+                "standard": "Urugvaj, standardno vreme",
+                "daylight": "Urugvaj, letnje vreme"
               }
             },
             "Uzbekistan": {
               "long": {
                 "generic": "Uzbekistan vreme",
-                "standard": "Uzbekistan standardno vreme",
-                "daylight": "Uzbekistan letnje računanje vremena"
+                "standard": "Uzbekistan, standardno vreme",
+                "daylight": "Uzbekistan, letnje vreme"
               }
             },
             "Vanuatu": {
               "long": {
                 "generic": "Vanuatu vreme",
-                "standard": "Vanuatu standardno vreme",
-                "daylight": "Vanuatu letnje računanje vremena"
+                "standard": "Vanuatu, standardno vreme",
+                "daylight": "Vanuatu, letnje vreme"
               }
             },
             "Venezuela": {
@@ -2351,15 +2281,15 @@
             "Vladivostok": {
               "long": {
                 "generic": "Vladivostok vreme",
-                "standard": "Vladivostok standardno vreme",
-                "daylight": "Vladivostok letnje računanje vremena"
+                "standard": "Vladivostok, standardno vreme",
+                "daylight": "Vladivostok, letnje vreme"
               }
             },
             "Volgograd": {
               "long": {
                 "generic": "Volgograd vreme",
-                "standard": "Volgograd standardno vreme",
-                "daylight": "Volgograd letnje računanje vremena"
+                "standard": "Volgograd, standardno vreme",
+                "daylight": "Volgograd, letnje vreme"
               }
             },
             "Vostok": {
@@ -2380,15 +2310,15 @@
             "Yakutsk": {
               "long": {
                 "generic": "Jakutsk vreme",
-                "standard": "Jakutsk standardno vreme",
-                "daylight": "Jakutsk letnje računanje vremena"
+                "standard": "Jakutsk, standardno vreme",
+                "daylight": "Jakutsk, letnje vreme"
               }
             },
             "Yekaterinburg": {
               "long": {
                 "generic": "Jekaterinburg vreme",
-                "standard": "Jekaterinburg standardno vreme",
-                "daylight": "Jekaterinburg letnje računanje vremena"
+                "standard": "Jekaterinburg, standardno vreme",
+                "daylight": "Jekaterinburg, letnje vreme"
               }
             }
           }

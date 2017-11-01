@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "af",
         "territory": "NA"
@@ -340,13 +340,13 @@
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "Beulah, North Dakota"
+                  "exemplarCity": "Beulah, Noord-Dakota"
                 },
                 "New_Salem": {
-                  "exemplarCity": "New Salem, North Dakota"
+                  "exemplarCity": "New Salem, Noord-Dakota"
                 },
                 "Center": {
-                  "exemplarCity": "Center, North Dakota"
+                  "exemplarCity": "Center, Noord-Dakota"
                 }
               },
               "Ojinaga": {
@@ -376,8 +376,11 @@
               "Puerto_Rico": {
                 "exemplarCity": "Puerto Rico"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
-                "exemplarCity": "Rainy River"
+                "exemplarCity": "Rainyrivier"
               },
               "Rankin_Inlet": {
                 "exemplarCity": "Rankin Inlet"
@@ -635,6 +638,9 @@
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
               },
+              "Saratov": {
+                "exemplarCity": "Saratof"
+              },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
               },
@@ -672,7 +678,7 @@
                 "exemplarCity": "Vilnius"
               },
               "Volgograd": {
-                "exemplarCity": "Volgograd"
+                "exemplarCity": "Wolgograd"
               },
               "Warsaw": {
                 "exemplarCity": "Warskou"
@@ -867,6 +873,9 @@
               "Ashgabat": {
                 "exemplarCity": "Asjchabad"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
               },
@@ -913,10 +922,13 @@
                 "exemplarCity": "Dili"
               },
               "Dubai": {
-                "exemplarCity": "Dubai"
+                "exemplarCity": "Doebai"
               },
               "Dushanbe": {
                 "exemplarCity": "Dushanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -934,7 +946,7 @@
                 "exemplarCity": "Irkutsk"
               },
               "Jakarta": {
-                "exemplarCity": "Jakarta"
+                "exemplarCity": "Djakarta"
               },
               "Jayapura": {
                 "exemplarCity": "Jayapura"
@@ -943,10 +955,10 @@
                 "exemplarCity": "Jerusalem"
               },
               "Kabul": {
-                "exemplarCity": "Kabul"
+                "exemplarCity": "Kaboel"
               },
               "Kamchatka": {
-                "exemplarCity": "Kamchatka"
+                "exemplarCity": "Kamtsjatka"
               },
               "Karachi": {
                 "exemplarCity": "Karatsji"
@@ -958,10 +970,10 @@
                 "exemplarCity": "Khandyga"
               },
               "Krasnoyarsk": {
-                "exemplarCity": "Krasnoyarsk"
+                "exemplarCity": "Krasnojarsk"
               },
               "Kuala_Lumpur": {
-                "exemplarCity": "Kuala Lumpur"
+                "exemplarCity": "Koeala-Loempoer"
               },
               "Kuching": {
                 "exemplarCity": "Kuching"
@@ -997,7 +1009,7 @@
                 "exemplarCity": "Omsk"
               },
               "Oral": {
-                "exemplarCity": "Oeral"
+                "exemplarCity": "Oral"
               },
               "Phnom_Penh": {
                 "exemplarCity": "Phnom Penh"
@@ -1015,7 +1027,7 @@
                 "exemplarCity": "Qyzylorda"
               },
               "Rangoon": {
-                "exemplarCity": "Rangoen"
+                "exemplarCity": "Yangon"
               },
               "Riyadh": {
                 "exemplarCity": "Riaad"
@@ -1057,13 +1069,13 @@
                 "exemplarCity": "Thimphu"
               },
               "Tokyo": {
-                "exemplarCity": "Tokyo"
+                "exemplarCity": "Tokio"
               },
               "Tomsk": {
                 "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "Ulaanbatar"
+                "exemplarCity": "Ulaanbaatar"
               },
               "Urumqi": {
                 "exemplarCity": "Urumqi"
@@ -1075,7 +1087,7 @@
                 "exemplarCity": "Vientiane"
               },
               "Vladivostok": {
-                "exemplarCity": "Vladivostok"
+                "exemplarCity": "Wladiwostok"
               },
               "Yakutsk": {
                 "exemplarCity": "Jakoetsk"
@@ -1095,7 +1107,7 @@
                 "exemplarCity": "Chagos"
               },
               "Christmas": {
-                "exemplarCity": "Kers"
+                "exemplarCity": "Christmas"
               },
               "Cocos": {
                 "exemplarCity": "Kokos"
@@ -1316,99 +1328,17 @@
                 "exemplarCity": "Troll"
               },
               "Vostok": {
-                "exemplarCity": "Vostok"
+                "exemplarCity": "Wostok"
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
-                  "standard": "Gekoördineerde Universele Tyd"
+                  "standard": "Gekoördineerde universele tyd"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Onbekende stad"
@@ -1418,7 +1348,7 @@
           "metazone": {
             "Afghanistan": {
               "long": {
-                "standard": "Afghanistan-tyd"
+                "standard": "Afganistan-tyd"
               }
             },
             "Africa_Central": {
@@ -1473,23 +1403,23 @@
             },
             "America_Central": {
               "long": {
-                "generic": "Sentrale tyd",
-                "standard": "Sentrale standaardtyd",
-                "daylight": "Sentrale dagligtyd"
+                "generic": "Noord-Amerikaanse sentrale tyd",
+                "standard": "Noord-Amerikaanse sentrale standaardtyd",
+                "daylight": "Noord-Amerikaanse sentrale dagligtyd"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Oostelike tyd",
-                "standard": "Oostelike standaardtyd",
-                "daylight": "Oostelike dagligtyd"
+                "generic": "Noord-Amerikaanse oostelike tyd",
+                "standard": "Noord-Amerikaanse oostelike standaardtyd",
+                "daylight": "Noord-Amerikaanse oostelike dagligtyd"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Bergtyd",
-                "standard": "Berg-standaardtyd",
-                "daylight": "Berg-dagligtyd"
+                "generic": "Noord-Amerikaanse bergtyd",
+                "standard": "Noord-Amerikaanse berg-standaardtyd",
+                "daylight": "Noord-Amerikaanse berg-dagligtyd"
               }
             },
             "America_Pacific": {
@@ -1550,30 +1480,30 @@
             },
             "Australia_Central": {
               "long": {
-                "generic": "Sentraal-Australië-tyd",
-                "standard": "Australiese sentraal-standaardtyd",
-                "daylight": "Australiese sentrale dagligtyd"
+                "generic": "Sentraal-Australiese tyd",
+                "standard": "Sentraal-Australiese standaardtyd",
+                "daylight": "Sentraal-Australiese dagligtyd"
               }
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "Australiese sentraal-Westelike tyd",
-                "standard": "Australiese sentraal-Westelike standaard-tyd",
-                "daylight": "Australiese sentraal-Westelike dagligtyd"
+                "generic": "Sentraal-westelike Australiese tyd",
+                "standard": "Sentraal-westelike Australiese standaard-tyd",
+                "daylight": "Sentraal-westelike Australiese dagligtyd"
               }
             },
             "Australia_Eastern": {
               "long": {
                 "generic": "Oostelike Australiese tyd",
-                "standard": "Australiese Oostelike standaardtyd",
-                "daylight": "Australiese Oostelike dagligtyd"
+                "standard": "Oostelike Australiese standaardtyd",
+                "daylight": "Oostelike Australiese dagligtyd"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "Westelike Australië-tyd",
-                "standard": "Australiese Westelike standaardtyd",
-                "daylight": "Australiese Westelike dagligtyd"
+                "generic": "Westelike Australiese tyd",
+                "standard": "Westelike Australiese standaardtyd",
+                "daylight": "Westelike Australiese dagligtyd"
               }
             },
             "Azerbaijan": {
@@ -1609,9 +1539,9 @@
             },
             "Brasilia": {
               "long": {
-                "generic": "Brasilië-tyd",
-                "standard": "Brasilië-standaardtyd",
-                "daylight": "Brasilië somertyd"
+                "generic": "Brasilia-tyd",
+                "standard": "Brasilia-standaardtyd",
+                "daylight": "Brasilia-somertyd"
               }
             },
             "Brunei": {
@@ -1661,12 +1591,12 @@
             },
             "Christmas": {
               "long": {
-                "standard": "Kersfeeseiland-tyd"
+                "standard": "Christmaseiland-tyd"
               }
             },
             "Cocos": {
               "long": {
-                "standard": "Cocoseilande-tyd"
+                "standard": "Kokoseilande-tyd"
               }
             },
             "Colombia": {
@@ -1733,7 +1663,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Verder-oosterse Europese Tyd"
+                "standard": "Verder-oos-Europese tyd"
               }
             },
             "Europe_Western": {
@@ -1791,7 +1721,7 @@
             },
             "GMT": {
               "long": {
-                "standard": "Greenwich-mediaantyd"
+                "standard": "Greenwich-tyd"
               }
             },
             "Greenland_Eastern": {
@@ -1810,7 +1740,7 @@
             },
             "Gulf": {
               "long": {
-                "standard": "Golf-standaardtyd"
+                "standard": "Persiese Golf-standaardtyd"
               }
             },
             "Guyana": {
@@ -1820,9 +1750,9 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "Hawaii-Aleusiër-tyd",
-                "standard": "Hawaii-Aleusiër-standaardtyd",
-                "daylight": "Hawaii-Aleusiër-dagligtyd"
+                "generic": "Hawaii-Aleoete-tyd",
+                "standard": "Hawaii-Aleoete-standaardtyd",
+                "daylight": "Hawaii-Aleoete-dagligtyd"
               }
             },
             "Hong_Kong": {
@@ -1856,7 +1786,7 @@
             },
             "Indonesia_Central": {
               "long": {
-                "standard": "Sentraal Indonesië-tyd"
+                "standard": "Sentraal-Indonesiese tyd"
               }
             },
             "Indonesia_Eastern": {
@@ -2010,9 +1940,9 @@
             },
             "Mongolia": {
               "long": {
-                "generic": "Ulaanbatar-tyd",
-                "standard": "Ulaanbatar-standaardtyd",
-                "daylight": "Ulaanbatar-somertyd"
+                "generic": "Ulaanbaatar-tyd",
+                "standard": "Ulaanbaatar-standaardtyd",
+                "daylight": "Ulaanbaatar-somertyd"
               }
             },
             "Moscow": {
@@ -2065,7 +1995,7 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkeilande-tyd"
+                "standard": "Norfolkeiland-tyd"
               }
             },
             "Noronha": {
@@ -2156,7 +2086,7 @@
             },
             "Reunion": {
               "long": {
-                "standard": "Reunion-tyd"
+                "standard": "Réunion-tyd"
               }
             },
             "Rothera": {
@@ -2197,7 +2127,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "Solomoneilande-tyd"
+                "standard": "Salomonseilande-tyd"
               }
             },
             "South_Georgia": {
@@ -2289,21 +2219,21 @@
             },
             "Vladivostok": {
               "long": {
-                "generic": "Vladivostok-tyd",
-                "standard": "Vladivostok-standaardtyd",
-                "daylight": "Vladivostok-somertyd"
+                "generic": "Wladiwostok-tyd",
+                "standard": "Wladiwostok-standaardtyd",
+                "daylight": "Wladiwostok-somertyd"
               }
             },
             "Volgograd": {
               "long": {
-                "generic": "Volgograd-tyd",
-                "standard": "Volgograd-standaardtyd",
-                "daylight": "Volgograd-somertyd"
+                "generic": "Wolgograd-tyd",
+                "standard": "Wolgograd-standaardtyd",
+                "daylight": "Wolgograd-somertyd"
               }
             },
             "Vostok": {
               "long": {
-                "standard": "Vostok-tyd"
+                "standard": "Wostok-tyd"
               }
             },
             "Wake": {

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "tr",
         "territory": "CY"
@@ -338,8 +338,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d E",
                 "Ehm": "E a h:mm",
                 "EHm": "E HH:mm",
@@ -382,8 +387,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-one": "y 'yılının' w. 'haftası'",
-                "yw-count-other": "y 'yılının' w. 'haftası'"
+                "yw-count-one": "Y 'yılının' w. 'haftası'",
+                "yw-count-other": "Y 'yılının' w. 'haftası'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -436,15 +441,15 @@
                   "H": "HH–HH v"
                 },
                 "M": {
-                  "M": "MM–MM"
+                  "M": "M – M"
                 },
                 "Md": {
-                  "d": "dd/MM – dd/MM",
-                  "M": "dd/MM – dd/MM"
+                  "d": "d.M – d.M",
+                  "M": "d.M – d.M"
                 },
                 "MEd": {
-                  "d": "dd/MM E – dd/MM E",
-                  "M": "dd/MM E – dd/MM E"
+                  "d": "d.M E – d.M E",
+                  "M": "d.M E – d.M E"
                 },
                 "MMM": {
                   "M": "MMM–MMM"
@@ -461,8 +466,8 @@
                   "y": "y–y"
                 },
                 "yM": {
-                  "M": "MM/y – MM/y",
-                  "y": "MM/y – MM/y"
+                  "M": "MM.y – MM.y",
+                  "y": "MM.y – MM.y"
                 },
                 "yMd": {
                   "d": "dd.MM.y – dd.MM.y",

@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13708 $",
+          "_cldrVersion": "32"
         },
         "language": "sr",
         "script": "Latn",
@@ -39,9 +39,9 @@
           },
           "year-short": {
             "displayName": "god.",
-            "relative-type--1": "prošle godine",
-            "relative-type-0": "ove godine",
-            "relative-type-1": "sledeće godine",
+            "relative-type--1": "prošle god.",
+            "relative-type-0": "ove god.",
+            "relative-type-1": "sledeće god.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} god.",
               "relativeTimePattern-count-few": "za {0} god.",
@@ -55,9 +55,9 @@
           },
           "year-narrow": {
             "displayName": "g.",
-            "relative-type--1": "prošle godine",
-            "relative-type-0": "ove godine",
-            "relative-type-1": "sledeće godine",
+            "relative-type--1": "prošle g.",
+            "relative-type-0": "ove g.",
+            "relative-type-1": "sledeće g.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} g.",
               "relativeTimePattern-count-few": "za {0} g.",
@@ -135,9 +135,9 @@
           },
           "month-short": {
             "displayName": "mes.",
-            "relative-type--1": "prošlog meseca",
-            "relative-type-0": "ovog meseca",
-            "relative-type-1": "sledećeg meseca",
+            "relative-type--1": "prošlog mes.",
+            "relative-type-0": "ovog mes.",
+            "relative-type-1": "sledećeg mes.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} mes.",
               "relativeTimePattern-count-few": "za {0} mes.",
@@ -151,9 +151,9 @@
           },
           "month-narrow": {
             "displayName": "m.",
-            "relative-type--1": "prošlog meseca",
-            "relative-type-0": "ovog meseca",
-            "relative-type-1": "sledećeg meseca",
+            "relative-type--1": "prošlog m.",
+            "relative-type-0": "ovog m.",
+            "relative-type-1": "sledećeg m.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} m.",
               "relativeTimePattern-count-few": "za {0} m.",
@@ -184,9 +184,9 @@
           },
           "week-short": {
             "displayName": "ned.",
-            "relative-type--1": "prošle nedelje",
-            "relative-type-0": "ove nedelje",
-            "relative-type-1": "sledeće nedelje",
+            "relative-type--1": "prošle ned.",
+            "relative-type-0": "ove ned.",
+            "relative-type-1": "sledeće ned.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} ned.",
               "relativeTimePattern-count-few": "za {0} ned.",
@@ -201,9 +201,9 @@
           },
           "week-narrow": {
             "displayName": "n.",
-            "relative-type--1": "prošle nedelje",
-            "relative-type-0": "ove nedelje",
-            "relative-type-1": "sledeće nedelje",
+            "relative-type--1": "prošle n.",
+            "relative-type-0": "ove n.",
+            "relative-type-1": "sledeće n.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} n.",
               "relativeTimePattern-count-few": "za {0} n.",
@@ -217,13 +217,13 @@
             "relativePeriod": "nedelja koja počinje {0}."
           },
           "weekOfMonth": {
-            "displayName": "Week Of Month"
+            "displayName": "nedelja u mesecu"
           },
           "weekOfMonth-short": {
-            "displayName": "Week Of Month"
+            "displayName": "ned. u mes."
           },
           "weekOfMonth-narrow": {
-            "displayName": "Week Of Month"
+            "displayName": "ned. u mes."
           },
           "day": {
             "displayName": "dan",
@@ -280,13 +280,13 @@
             }
           },
           "dayOfYear": {
-            "displayName": "Day Of Year"
+            "displayName": "dan u godini"
           },
           "dayOfYear-short": {
-            "displayName": "Day Of Year"
+            "displayName": "dan u god."
           },
           "dayOfYear-narrow": {
-            "displayName": "Day Of Year"
+            "displayName": "dan u god."
           },
           "weekday": {
             "displayName": "dan u nedelji"
@@ -298,13 +298,13 @@
             "displayName": "dan u nedelji"
           },
           "weekdayOfMonth": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dan u mesecu"
           },
           "weekdayOfMonth-short": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dan u mesecu"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dan u mesecu"
           },
           "sun": {
             "relative-type--1": "prošle nedelje",
@@ -322,9 +322,9 @@
             }
           },
           "sun-short": {
-            "relative-type--1": "prošle ned",
+            "relative-type--1": "pr. ned.",
             "relative-type-0": "u ned",
-            "relative-type-1": "sledeće ned",
+            "relative-type-1": "sl. ned.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} nedelju",
               "relativeTimePattern-count-few": "za {0} nedelje",

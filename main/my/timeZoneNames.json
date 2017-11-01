@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13328 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "my"
       },
@@ -29,7 +29,7 @@
                 "exemplarCity": "အန်ဂီလာ"
               },
               "Antigua": {
-                "exemplarCity": "အင်တီဂွါ"
+                "exemplarCity": "အန်တီဂွါ"
               },
               "Araguaina": {
                 "exemplarCity": "အာရာဂွါအီနာ"
@@ -281,7 +281,7 @@
                 "exemplarCity": "မာနောက်စ်"
               },
               "Marigot": {
-                "exemplarCity": "မာရီဂိုတ်"
+                "exemplarCity": "မာရီဂေါ့"
               },
               "Martinique": {
                 "exemplarCity": "မာတီနီဂ်"
@@ -339,13 +339,13 @@
               },
               "North_Dakota": {
                 "Beulah": {
-                  "exemplarCity": "ဗြူလာ မြောက်ဒါကိုတာ"
+                  "exemplarCity": "ဗြူလာ၊ မြောက်ဒါကိုတာ"
                 },
                 "New_Salem": {
-                  "exemplarCity": "နယူးဆေးလမ် မြောက်ဒါကိုတာ"
+                  "exemplarCity": "နယူးဆေးလမ်၊ မြောက်ဒါကိုတာ"
                 },
                 "Center": {
-                  "exemplarCity": "စင်တာ မြောက်ဒါကိုတာ"
+                  "exemplarCity": "စင်တာ၊ မြောက်ဒါကိုတာ"
                 }
               },
               "Ojinaga": {
@@ -374,6 +374,9 @@
               },
               "Puerto_Rico": {
                 "exemplarCity": "ပေါ်တိုရီကို"
+              },
+              "Punta_Arenas": {
+                "exemplarCity": "ပွန်တာ အရီနာစ်"
               },
               "Rainy_River": {
                 "exemplarCity": "ရိမ်းနီး ရီဗာ"
@@ -406,7 +409,7 @@
                 "exemplarCity": "ဆန်တို ဒိုမင်းဂို"
               },
               "Sao_Paulo": {
-                "exemplarCity": "ဆို ပေါင်လို"
+                "exemplarCity": "ဆော်ပိုလို"
               },
               "Scoresbysund": {
                 "exemplarCity": "အစ်တာကာ တိုးမိရက်တ်"
@@ -506,7 +509,7 @@
                 "exemplarCity": "အမ်စတာဒမ်"
               },
               "Andorra": {
-                "exemplarCity": "အင်ဒိုရာ"
+                "exemplarCity": "အန်ဒိုရာ"
               },
               "Astrakhan": {
                 "exemplarCity": "အားစ်တရခန်း"
@@ -530,7 +533,7 @@
                 "exemplarCity": "ဘူခါရက်စ်"
               },
               "Budapest": {
-                "exemplarCity": "ဘူဒပက်စ်"
+                "exemplarCity": "ဘူဒါပက်စ်"
               },
               "Busingen": {
                 "exemplarCity": "ဘူရှင်ဂျင်"
@@ -543,7 +546,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "အိုင်းရစ်ရှ်စံတော်ချိန်"
+                  "daylight": "အိုင်းရစ်ရှ် စံတော်ချိန်"
                 },
                 "exemplarCity": "ဒတ်ဘလင်"
               },
@@ -582,7 +585,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "ဗြိတိန်နွေရာသီအချိန်"
+                  "daylight": "ဗြိတိန် နွေရာသီ အချိန်"
                 },
                 "exemplarCity": "လန်ဒန်"
               },
@@ -611,10 +614,10 @@
                 "exemplarCity": "အော်စလို"
               },
               "Paris": {
-                "exemplarCity": "ပါရီ"
+                "exemplarCity": "ပဲရစ်"
               },
               "Podgorica": {
-                "exemplarCity": "ပို့စ်ဂိုရိစာ"
+                "exemplarCity": "ပေါ့ဂိုရီကာ"
               },
               "Prague": {
                 "exemplarCity": "ပရက်ဂ်"
@@ -634,6 +637,9 @@
               "Sarajevo": {
                 "exemplarCity": "ဆာရာယေဗို"
               },
+              "Saratov": {
+                "exemplarCity": "ဆာရာတို့ဖ်"
+              },
               "Simferopol": {
                 "exemplarCity": "စင်ဖာရိုးဖို"
               },
@@ -641,7 +647,7 @@
                 "exemplarCity": "စကော့ပ်ရာ"
               },
               "Sofia": {
-                "exemplarCity": "ဆိုပီအာ"
+                "exemplarCity": "ဆိုဖီအာ"
               },
               "Stockholm": {
                 "exemplarCity": "စတော့ဟုမ်း"
@@ -727,7 +733,7 @@
                 "exemplarCity": "ကိုင်ရို"
               },
               "Casablanca": {
-                "exemplarCity": "ကာစာဘလန်ကာ"
+                "exemplarCity": "ကာဆာဘလန်ကာ"
               },
               "Ceuta": {
                 "exemplarCity": "ဆီရူးတာ"
@@ -760,7 +766,7 @@
                 "exemplarCity": "ဟာရားရဲယ်"
               },
               "Johannesburg": {
-                "exemplarCity": "ဂျိုဟန္နက်စဘတ်"
+                "exemplarCity": "ဂျိုဟန်းနက်စဘတ်"
               },
               "Juba": {
                 "exemplarCity": "ဂျုဘာ"
@@ -866,6 +872,9 @@
               "Ashgabat": {
                 "exemplarCity": "အာရှ်ဂါဘာဒ်"
               },
+              "Atyrau": {
+                "exemplarCity": "အာတီရအူ"
+              },
               "Baghdad": {
                 "exemplarCity": "ဘဂ္ဂဒက်"
               },
@@ -916,6 +925,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "ဒူရှန်းဘဲ"
+              },
+              "Famagusta": {
+                "exemplarCity": "ဖာမာဂူစတာ"
               },
               "Gaza": {
                 "exemplarCity": "ဂါဇာ"
@@ -1020,7 +1032,7 @@
                 "exemplarCity": "ရီယားဒ်"
               },
               "Saigon": {
-                "exemplarCity": "ဟိုချီမင်း"
+                "exemplarCity": "ဟိုချီမင်းစီးတီး"
               },
               "Sakhalin": {
                 "exemplarCity": "ဆာခါလင်"
@@ -1041,7 +1053,7 @@
                 "exemplarCity": "ဆရစ်နစ်ကာလင်မ်စ်"
               },
               "Taipei": {
-                "exemplarCity": "ထိုင်ပေ"
+                "exemplarCity": "တိုင်ပေ"
               },
               "Tashkent": {
                 "exemplarCity": "တာရှ်ကဲန့်"
@@ -1071,7 +1083,7 @@
                 "exemplarCity": "အူးစ် နီရား"
               },
               "Vientiane": {
-                "exemplarCity": "ဗီယမ်ကျန်း"
+                "exemplarCity": "ဗီယင်ကျန်း"
               },
               "Vladivostok": {
                 "exemplarCity": "ဗလာဒီဗော့စတော့ခ်"
@@ -1118,7 +1130,7 @@
                 "exemplarCity": "မာယိုတဲ"
               },
               "Reunion": {
-                "exemplarCity": "ဟေညွန်"
+                "exemplarCity": "ရီယူနီယန်"
               }
             },
             "Australia": {
@@ -1319,95 +1331,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
                 "long": {
                   "standard": "ညှိထားသည့် ကမ္ဘာ့ စံတော်ချိန်"
                 },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "အမည်မသိသောမြို့"
@@ -1444,16 +1374,16 @@
             },
             "Alaska": {
               "long": {
-                "generic": "အလားစကားအချိန်",
-                "standard": "အလားစကားစံတော်ချိန်",
-                "daylight": "အလားစကား နွေရာသီစံတော်ချိန်"
+                "generic": "အလာစကာ အချိန်",
+                "standard": "အလာစကာ စံတော်ချိန်",
+                "daylight": "အလာစကာ နွေရာသီ စံတော်ချိန်"
               }
             },
             "Amazon": {
               "long": {
-                "generic": "အာမေဇုံ အချိန်",
-                "standard": "အာမေဇုံ စံတော်ချိန်",
-                "daylight": "အာမေဇုံ နွေရာသီအချိန်"
+                "generic": "အမေဇုံ အချိန်",
+                "standard": "အမေဇုံ စံတော်ချိန်",
+                "daylight": "အမေဇုံ နွေရာသီအချိန်"
               }
             },
             "America_Central": {
@@ -1486,8 +1416,8 @@
             },
             "Apia": {
               "long": {
-                "generic": "အပီယာအချိန်",
-                "standard": "အပီယာစံတော်ချိန်",
+                "generic": "အပီယာ အချိန်",
+                "standard": "အပီယာ စံတော်ချိန်",
                 "daylight": "အပီယာ နွေရာသီ အချိန်"
               }
             },
@@ -1528,30 +1458,30 @@
             },
             "Australia_Central": {
               "long": {
-                "generic": "ဩစတြေးလျား အလယ်ပိုင်း အချိန်",
-                "standard": "ဩစတြေးလျား အလယ်ပိုင်း စံတော်ချိန်",
-                "daylight": "ဩစတြေးလျား အလယ်ပိုင်း နွေရာသီ အချိန်"
+                "generic": "ဩစတြေးလျ အလယ်ပိုင်း အချိန်",
+                "standard": "ဩစတြေးလျ အလယ်ပိုင်း စံတော်ချိန်",
+                "daylight": "ဩစတြေးလျ အလယ်ပိုင်း နွေရာသီ အချိန်"
               }
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "ဩစတြေးလျား အလယ်အနောက်ပိုင်း အချိန်",
-                "standard": "ဩစတြေးလျား အလယ်အနောက်ပိုင်း စံတော်ချိန်",
-                "daylight": "ဩစတြေးလျား အလယ်အနောက်ပိုင်း နွေရာသီ အချိန်"
+                "generic": "သြစတြေးလျား အနောက်အလယ်ပိုင်း အချိန်",
+                "standard": "သြစတြေးလျား အနောက်အလယ်ပိုင်း စံတော်ချိန်",
+                "daylight": "သြစတြေးလျား အနောက်အလယ်ပိုင်း နွေရာသီ အချိန်"
               }
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "အရှေ့ဩစတြေးလျား အချိန်",
-                "standard": "အရှေ့ဩစတြေးလျား စံတော်ချိန်",
-                "daylight": "အရှေ့ဩစတြေးလျား နွေရာသီ အချိန်"
+                "generic": "အရှေ့ဩစတြေးလျ အချိန်",
+                "standard": "အရှေ့ဩစတြေးလျ စံတော်ချိန်",
+                "daylight": "အရှေ့ဩစတြေးလျ နွေရာသီ အချိန်"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "အနောက်ဩစတြေးလျား အချိန်",
-                "standard": "အနောက်ဩစတြေးလျား စံတော်ချိန်",
-                "daylight": "ဩစတြေးလျား နွေရာသီ အချိန်"
+                "generic": "အနောက်ဩစတြေးလျ အချိန်",
+                "standard": "အနောက်ဩစတြေးလျ စံတော်ချိန်",
+                "daylight": "ဩစတြေးလျ နွေရာသီ အချိန်"
               }
             },
             "Azerbaijan": {
@@ -1606,7 +1536,7 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "ချာမိုရိုအချိန်"
+                "standard": "ချာမိုရို အချိန်"
               }
             },
             "Chatham": {
@@ -1632,19 +1562,19 @@
             },
             "Choibalsan": {
               "long": {
-                "generic": "ချွဲဘော်ဆန်းအချိန်",
-                "standard": "ချွဲဘော်ဆန်းစံတော်ချိန်",
-                "daylight": "ချွဲဘော်ဆန်းနွေရာသီအချိန်"
+                "generic": "ချွဲဘော်ဆန်း အချိန်",
+                "standard": "ချွဲဘော်ဆန်း စံတော်ချိန်",
+                "daylight": "ချွဲဘော်ဆန်း နွေရာသီ အချိန်"
               }
             },
             "Christmas": {
               "long": {
-                "standard": "ခရစ်စမတ်ကျွန်းအချိန်"
+                "standard": "ခရစ်စမတ်ကျွန်း အချိန်"
               }
             },
             "Cocos": {
               "long": {
-                "standard": "ကိုကိုးကျွန်းအချိန်"
+                "standard": "ကိုကိုးကျွန်း အချိန်"
               }
             },
             "Colombia": {
@@ -1656,9 +1586,9 @@
             },
             "Cook": {
               "long": {
-                "generic": "ကွတ်ခ်ကျွန်းစုအချိန်",
-                "standard": "ကွတ်ခ်ကျွန်းစုစံတော်ချိန်",
-                "daylight": "ကွတ်က်ကျွန်းစုနွေရာသီအချိန်"
+                "generic": "ကွတ်ခ်ကျွန်းစု အချိန်",
+                "standard": "ကွတ်ခ်ကျွန်းစု စံတော်ချိန်",
+                "daylight": "ကွတ်က်ကျွန်းစု နွေရာသီ အချိန်"
               }
             },
             "Cuba": {
@@ -1670,12 +1600,12 @@
             },
             "Davis": {
               "long": {
-                "standard": "ဒေးဗစ်အချိန်"
+                "standard": "ဒေးဗစ် အချိန်"
               }
             },
             "DumontDUrville": {
               "long": {
-                "standard": "ဒူးမော့တ် ဒါရ်ဗီးလ်အချိန်"
+                "standard": "ဒူးမော့တ် ဒါရ်ဗီးလ် အချိန်"
               }
             },
             "East_Timor": {
@@ -1697,9 +1627,9 @@
             },
             "Europe_Central": {
               "long": {
-                "generic": "ဥရောပအလယ်ပိုင်းအချိန်",
-                "standard": "ဥရောပ အလယ်ပိုင်း စံတော်ချိန်",
-                "daylight": "ဥရောပ အလယ်ပိုင်း နွေရာသီ အချိန်"
+                "generic": "ဥရောပအလယ်ပိုင်း အချိန်",
+                "standard": "ဥရောပအလယ်ပိုင်း စံတော်ချိန်",
+                "daylight": "ဥရောပအလယ်ပိုင်း နွေရာသီ အချိန်"
               }
             },
             "Europe_Eastern": {
@@ -1711,7 +1641,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "ထပ်တိုးအရှေ့ပိုင်းဥရောပအချိန်"
+                "standard": "အရှေ့ဖျား ဥရောပဒေသ အချိန်"
               }
             },
             "Europe_Western": {
@@ -1723,16 +1653,16 @@
             },
             "Falkland": {
               "long": {
-                "generic": "ဖော့ကလန်ကွန်းစု အချိန်",
+                "generic": "ဖော့ကလန်ကျွန်းစု အချိန်",
                 "standard": "ဖော့ကလန်ကျွန်းစု စံတော်ချိန်",
                 "daylight": "ဖော့ကလန်ကျွန်းစု နွေရာသီ အချိန်"
               }
             },
             "Fiji": {
               "long": {
-                "generic": "ဖီဂျီအချိန်",
-                "standard": "ဖီဂျီစံတော်ချိန်",
-                "daylight": "ဖီဂျီနွေရာသီအချိန်"
+                "generic": "ဖီဂျီ အချိန်",
+                "standard": "ဖီဂျီ စံတော်ချိန်",
+                "daylight": "ဖီဂျီ နွေရာသီ အချိန်"
               }
             },
             "French_Guiana": {
@@ -1742,7 +1672,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "ပြင်သစ်တောင်ပိုင်းနှင့် အန္တာတိတ်အချိန်"
+                "standard": "ပြင်သစ်တောင်ပိုင်းနှင့် အန္တာတိတ် အချိန်"
               }
             },
             "Galapagos": {
@@ -1764,7 +1694,7 @@
             },
             "Gilbert_Islands": {
               "long": {
-                "standard": "ဂီလ်ဘတ်ကျွန်းစုအချိန်"
+                "standard": "ဂီလ်ဘတ်ကျွန်းစု အချိန်"
               }
             },
             "GMT": {
@@ -1812,9 +1742,9 @@
             },
             "Hovd": {
               "long": {
-                "generic": "ဟိုးဗ်အချိန်",
-                "standard": "ဟိုးဗ်စံတော်ချိန်",
-                "daylight": "ဟိုးဗ်နွေရာသီအချိန်"
+                "generic": "ဟိုးဗ် အချိန်",
+                "standard": "ဟိုးဗ် စံတော်ချိန်",
+                "daylight": "ဟိုးဗ် နွေရာသီ အချိန်"
               }
             },
             "India": {
@@ -1824,7 +1754,7 @@
             },
             "Indian_Ocean": {
               "long": {
-                "standard": "အိန္ဒိယ သမုဒ္ဒရာ အချိန်"
+                "standard": "အိန္ဒိယသမုဒ္ဒရာ အချိန်"
               }
             },
             "Indochina": {
@@ -1856,9 +1786,9 @@
             },
             "Irkutsk": {
               "long": {
-                "generic": "အီရူခူတ်အချိန်",
-                "standard": "အီရူခူတ်စံတော်ချိန်",
-                "daylight": "အီရူခူတ်နွေရာသီအချိန်"
+                "generic": "အီရူခူတ် အချိန်",
+                "standard": "အီရူခူတ် စံတော်ချိန်",
+                "daylight": "အီရူခူတ် နွေရာသီ အချိန်"
               }
             },
             "Israel": {
@@ -1882,7 +1812,7 @@
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "အနောက်ကာဇက်စတန်အချိန်"
+                "standard": "အနောက်ကာဇက်စတန် အချိန်"
               }
             },
             "Korea": {
@@ -1894,14 +1824,14 @@
             },
             "Kosrae": {
               "long": {
-                "standard": "ခိုစ်ရိုင်အချိန်"
+                "standard": "ခိုစ်ရိုင် အချိန်"
               }
             },
             "Krasnoyarsk": {
               "long": {
-                "generic": "ခရာ့စ်နိုရာစ်အချိန်",
-                "standard": "ခရာ့စ်နိုရာစ်စံတော်ချိန်",
-                "daylight": "ခရာ့စ်နိုရာစ်နွေရာသီအချိန်"
+                "generic": "ခရာ့စ်နိုရာစ် အချိန်",
+                "standard": "ခရာ့စ်နိုရာစ် စံတော်ချိန်",
+                "daylight": "ခရာ့စ်နိုရာစ် နွေရာသီ အချိန်"
               }
             },
             "Kyrgystan": {
@@ -1916,13 +1846,13 @@
             },
             "Line_Islands": {
               "long": {
-                "standard": "လိုင်းကျွန်းစုအချိန်"
+                "standard": "လိုင်းကျွန်းစု အချိန်"
               }
             },
             "Lord_Howe": {
               "long": {
-                "generic": "လော့ဒ်ဟောင်အချိန်",
-                "standard": "လော့ဒ်ဟောင်စံတော်ချိန်",
+                "generic": "လော့ဒ်ဟောင် အချိန်",
+                "standard": "လော့ဒ်ဟောင် စံတော်ချိန်",
                 "daylight": "လော့ဒ်ဟောင် နွေရာသီ အချိန်"
               }
             },
@@ -1940,9 +1870,9 @@
             },
             "Magadan": {
               "long": {
-                "generic": "မာဂါဒန်းအချိန်",
-                "standard": "မာဂါဒန်းစံတော်ချိန်",
-                "daylight": "မာဂါဒန်းနွေရာသီအချိန်"
+                "generic": "မာဂါဒန်း အချိန်",
+                "standard": "မာဂါဒန်း စံတော်ချိန်",
+                "daylight": "မာဂါဒန်း နွေရာသီ အချိန်"
               }
             },
             "Malaysia": {
@@ -1957,12 +1887,12 @@
             },
             "Marquesas": {
               "long": {
-                "standard": "မာခေးအပ်စ်အချိန်"
+                "standard": "မာခေးအပ်စ် အချိန်"
               }
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "မာရှယ်ကျွန်းစုအချိန်"
+                "standard": "မာရှယ်ကျွန်းစု အချိန်"
               }
             },
             "Mauritius": {
@@ -1974,7 +1904,7 @@
             },
             "Mawson": {
               "long": {
-                "standard": "မော်စွန်အချိန်"
+                "standard": "မော်စွန် အချိန်"
               }
             },
             "Mexico_Northwest": {
@@ -1986,22 +1916,22 @@
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "မက္ကဆီကန် ပစိဖိတ်အချိန်",
+                "generic": "မက္ကဆီကန် ပစိဖိတ် အချိန်",
                 "standard": "မက္ကဆီကန် ပစိဖိတ် စံတော်ချိန်",
                 "daylight": "မက္ကစီကန် ပစိဖိတ် နွေရာသီ စံတော်ချိန်"
               }
             },
             "Mongolia": {
               "long": {
-                "generic": "ဥလန်ဘာတောအချိန်",
-                "standard": "ဥလန်ဘာတောစံတော်ချိန်",
-                "daylight": "ဥလန်ဘာတောနွေရာသီအချိန်"
+                "generic": "ဥလန်ဘာတော အချိန်",
+                "standard": "ဥလန်ဘာတော စံတော်ချိန်",
+                "daylight": "ဥလန်ဘာတော နွေရာသီ အချိန်"
               }
             },
             "Moscow": {
               "long": {
-                "generic": "မော်စကို",
-                "standard": "မော်စကိုစံတော်ချိန်",
+                "generic": "မော်စကို အချိန်",
+                "standard": "မော်စကို စံတော်ချိန်",
                 "daylight": "မော်စကို နွေရာသီ အချိန်"
               }
             },
@@ -2012,7 +1942,7 @@
             },
             "Nauru": {
               "long": {
-                "standard": "နာဥူရူအချိန်"
+                "standard": "နာဥူရူ အချိန်"
               }
             },
             "Nepal": {
@@ -2022,9 +1952,9 @@
             },
             "New_Caledonia": {
               "long": {
-                "generic": "နယူးကယ်လီဒိုးနီးယားအချိန်",
-                "standard": "နယူးကာလီဒိုးနီးယားစံတော်ချိန်",
-                "daylight": "နယူးကာလီဒိုးနီးယားနွေရာသီအချိန်"
+                "generic": "နယူးကယ်လီဒိုးနီးယား အချိန်",
+                "standard": "နယူးကာလီဒိုးနီးယား စံတော်ချိန်",
+                "daylight": "နယူးကာလီဒိုးနီးယား နွေရာသီ အချိန်"
               }
             },
             "New_Zealand": {
@@ -2043,7 +1973,7 @@
             },
             "Niue": {
               "long": {
-                "standard": "နီဦးအေအချိန်"
+                "standard": "နီဦးအေ အချိန်"
               }
             },
             "Norfolk": {
@@ -2053,23 +1983,23 @@
             },
             "Noronha": {
               "long": {
-                "generic": "ဖာနန်ဒိုးဒီနိုးရိုးညာအချိန်",
-                "standard": "ဖာနန်ဒိုးဒီနိုးရိုးညာစံတော်ချိန်",
-                "daylight": "ဖာနန်ဒိုးဒီနိုးရိုးညာနွေရာသီအချိန်"
+                "generic": "ဖာနန်ဒိုးဒီနိုးရိုးညာ အချိန်",
+                "standard": "ဖာနန်ဒိုးဒီနိုးရိုးညာ စံတော်ချိန်",
+                "daylight": "ဖာနန်ဒိုးဒီနိုးရိုးညာ နွေရာသီအချိန်"
               }
             },
             "Novosibirsk": {
               "long": {
-                "generic": "နိုဗိုစဲဘီအဲယ်စ်အချိန်",
-                "standard": "နိုဗိုစဲဘီအဲယ်စ်စံတော်ချိန်",
-                "daylight": "နိုဗိုစဲဘီအဲယ်စ်နွေရာသီအချိန်"
+                "generic": "နိုဗိုစဲဘီအဲယ်စ် အချိန်",
+                "standard": "နိုဗိုစဲဘီအဲယ်စ် စံတော်ချိန်",
+                "daylight": "နိုဗိုစဲဘီအဲယ်စ် နွေရာသီ အချိန်"
               }
             },
             "Omsk": {
               "long": {
-                "generic": "အွမ်းစ်ခ်အချိန်",
-                "standard": "အွမ်းစ်ခ်စံတော်ချိန်",
-                "daylight": "အွမ်းစ်ခ်နွေရာသီအချိန်"
+                "generic": "အွမ်းစ်ခ် အချိန်",
+                "standard": "အွမ်းစ်ခ် စံတော်ချိန်",
+                "daylight": "အွမ်းစ်ခ် နွေရာသီ အချိန်"
               }
             },
             "Pakistan": {
@@ -2112,7 +2042,7 @@
             },
             "Phoenix_Islands": {
               "long": {
-                "standard": "ဖီးနစ်ကျွန်းစုအချိန်"
+                "standard": "ဖီးနစ်ကျွန်းစု အချိန်"
               }
             },
             "Pierre_Miquelon": {
@@ -2129,7 +2059,7 @@
             },
             "Ponape": {
               "long": {
-                "standard": "ဖိုနာဖဲအ်အချိန်"
+                "standard": "ဖိုနာဖဲအ် အချိန်"
               }
             },
             "Pyongyang": {
@@ -2139,25 +2069,25 @@
             },
             "Reunion": {
               "long": {
-                "standard": "ဟေညွန် အချိန်"
+                "standard": "ရီယူနီယံ အချိန်"
               }
             },
             "Rothera": {
               "long": {
-                "standard": "ရိုသီရာအချိန်"
+                "standard": "ရိုသီရာ အချိန်"
               }
             },
             "Sakhalin": {
               "long": {
                 "generic": "ဆာခါလင် အချိန်",
-                "standard": "ဆာခါလင်စံတော်ချိန်",
+                "standard": "ဆာခါလင် စံတော်ချိန်",
                 "daylight": "ဆာခါလင် နွေရာသီ အချိန်"
               }
             },
             "Samoa": {
               "long": {
-                "generic": "ဆမိုးအားအချိန်",
-                "standard": "ဆမိုးအားစံတော်ချိန်",
+                "generic": "ဆမိုအာ အချိန်",
+                "standard": "ဆမိုအာ စံတော်ချိန်",
                 "daylight": "ဆမိုးအား နွေရာသီ အချိန်"
               }
             },
@@ -2173,7 +2103,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "ဆော်လမွန်ကျွန်းစုအချိန်"
+                "standard": "ဆော်လမွန်ကျွန်းစု အချိန်"
               }
             },
             "South_Georgia": {
@@ -2188,12 +2118,12 @@
             },
             "Syowa": {
               "long": {
-                "standard": "ရှိုဝါအချိန်"
+                "standard": "ရှိုဝါ အချိန်"
               }
             },
             "Tahiti": {
               "long": {
-                "standard": "တဟီတီအချိန်"
+                "standard": "တဟီတီ အချိန်"
               }
             },
             "Taipei": {
@@ -2215,14 +2145,14 @@
             },
             "Tonga": {
               "long": {
-                "generic": "တွန်ဂါအချိန်",
-                "standard": "တွန်ဂါစံတော်ချိန်",
-                "daylight": "တွန်ဂါနွေရာသီအချိန်"
+                "generic": "တွန်ဂါ အချိန်",
+                "standard": "တွန်ဂါ စံတော်ချိန်",
+                "daylight": "တွန်ဂါ နွေရာသီ အချိန်"
               }
             },
             "Truk": {
               "long": {
-                "standard": "ချုခ်အချိန်"
+                "standard": "ချုခ် အချိန်"
               }
             },
             "Turkmenistan": {
@@ -2234,7 +2164,7 @@
             },
             "Tuvalu": {
               "long": {
-                "standard": "တူဗားလူအချိန်"
+                "standard": "တူဗားလူ အချိန်"
               }
             },
             "Uruguay": {
@@ -2253,9 +2183,9 @@
             },
             "Vanuatu": {
               "long": {
-                "generic": "ဗနွားတူအချိန်",
-                "standard": "ဗနွားတူစံတော်ချိန်",
-                "daylight": "ဗနွားတူနွေရာသီအချိန်"
+                "generic": "ဗနွားတူ အချိန်",
+                "standard": "ဗနွားတူ စံတော်ချိန်",
+                "daylight": "ဗနွားတူ နွေရာသီ အချိန်"
               }
             },
             "Venezuela": {
@@ -2272,19 +2202,19 @@
             },
             "Volgograd": {
               "long": {
-                "generic": "ဗိုလ်ဂိုဂရက်အချိန်",
-                "standard": "ဗိုလ်ဂိုဂရက်စံတော်ချိန်",
-                "daylight": "ဗိုလ်ဂိုဂရက်နွေရာသီအချိန်"
+                "generic": "ဗိုလ်ဂိုဂရက် အချိန်",
+                "standard": "ဗိုလ်ဂိုဂရက် စံတော်ချိန်",
+                "daylight": "ဗိုဂိုဂရက် နွေရာသီ အချိန်"
               }
             },
             "Vostok": {
               "long": {
-                "standard": "ဗိုစ်တိုခ်အချိန်"
+                "standard": "ဗိုစ်တိုခ် အချိန်"
               }
             },
             "Wake": {
               "long": {
-                "standard": "ဝိတ်ခ်ကျွန်းအချိန်"
+                "standard": "ဝိတ်ခ်ကျွန်း အချိန်"
               }
             },
             "Wallis": {
@@ -2294,16 +2224,16 @@
             },
             "Yakutsk": {
               "long": {
-                "generic": "ယူခူးတ်စ်အချိန်",
-                "standard": "ယူခူးတ်စ်စံတော်ချိန်",
-                "daylight": "ယူခူးတ်စ်နွေရာသီအချိန်"
+                "generic": "ယူခူးတ်စ် အချိန်",
+                "standard": "ယူခူးတ်စ် စံတော်ချိန်",
+                "daylight": "ယူခူးတ်စ် နွေရာသီ အချိန်"
               }
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "ရယ်ခါးတီရင်ဘားခ်အချိန်",
-                "standard": "ရယ်ခါးတီရင်ဘားခ်စံတော်ချိန်",
-                "daylight": "ရယ်ခါးတီရင်ဘာခ်နွေရာသီအချိန်"
+                "generic": "ရယ်ခါးတီရင်ဘားခ် အချိန်",
+                "standard": "ရယ်ခါးတီရင်ဘားခ် စံတော်ချိန်",
+                "daylight": "ရယ်ခါးတီရင်ဘာခ် နွေရာသီ အချိန်"
               }
             }
           }

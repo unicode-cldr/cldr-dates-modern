@@ -3,8 +3,8 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "sw",
         "territory": "KE"
@@ -376,6 +376,9 @@
               "Puerto_Rico": {
                 "exemplarCity": "Puerto Rico"
               },
+              "Punta_Arenas": {
+                "exemplarCity": "Punta Arenas"
+              },
               "Rainy_River": {
                 "exemplarCity": "Rainy River"
               },
@@ -493,7 +496,7 @@
                 "exemplarCity": "Reykjavik"
               },
               "South_Georgia": {
-                "exemplarCity": "South Georgia"
+                "exemplarCity": "Georgia Kusini"
               },
               "St_Helena": {
                 "exemplarCity": "St. Helena"
@@ -544,7 +547,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Muda wa Majira ya Joto wa Ayalandi"
+                  "daylight": "Saa za Majira ya Joto za Ayalandi"
                 },
                 "exemplarCity": "Dublin"
               },
@@ -583,7 +586,7 @@
               },
               "London": {
                 "long": {
-                  "daylight": "Muda wa Majira ya Joto wa Uingereza"
+                  "daylight": "Saa za Majira ya Joto za Uingereza"
                 },
                 "exemplarCity": "London"
               },
@@ -634,6 +637,9 @@
               },
               "Sarajevo": {
                 "exemplarCity": "Sarajevo"
+              },
+              "Saratov": {
+                "exemplarCity": "Saratov"
               },
               "Simferopol": {
                 "exemplarCity": "Simferopol"
@@ -867,6 +873,9 @@
               "Ashgabat": {
                 "exemplarCity": "Ashgabat"
               },
+              "Atyrau": {
+                "exemplarCity": "Atyrau"
+              },
               "Baghdad": {
                 "exemplarCity": "Baghdad"
               },
@@ -917,6 +926,9 @@
               },
               "Dushanbe": {
                 "exemplarCity": "Dushanbe"
+              },
+              "Famagusta": {
+                "exemplarCity": "Famagusta"
               },
               "Gaza": {
                 "exemplarCity": "Gaza"
@@ -1320,92 +1332,13 @@
               }
             },
             "Etc": {
-              "GMT": {
-                "exemplarCity": "GMT"
-              },
-              "GMT1": {
-                "exemplarCity": "GMT+1"
-              },
-              "GMT10": {
-                "exemplarCity": "GMT+10"
-              },
-              "GMT11": {
-                "exemplarCity": "GMT+11"
-              },
-              "GMT12": {
-                "exemplarCity": "GMT+12"
-              },
-              "GMT2": {
-                "exemplarCity": "GMT+2"
-              },
-              "GMT3": {
-                "exemplarCity": "GMT+3"
-              },
-              "GMT4": {
-                "exemplarCity": "GMT+4"
-              },
-              "GMT5": {
-                "exemplarCity": "GMT+5"
-              },
-              "GMT6": {
-                "exemplarCity": "GMT+6"
-              },
-              "GMT7": {
-                "exemplarCity": "GMT+7"
-              },
-              "GMT8": {
-                "exemplarCity": "GMT+8"
-              },
-              "GMT9": {
-                "exemplarCity": "GMT+9"
-              },
-              "GMT-1": {
-                "exemplarCity": "GMT-1"
-              },
-              "GMT-10": {
-                "exemplarCity": "GMT-10"
-              },
-              "GMT-11": {
-                "exemplarCity": "GMT-11"
-              },
-              "GMT-12": {
-                "exemplarCity": "GMT-12"
-              },
-              "GMT-13": {
-                "exemplarCity": "GMT-13"
-              },
-              "GMT-14": {
-                "exemplarCity": "GMT-14"
-              },
-              "GMT-2": {
-                "exemplarCity": "GMT-2"
-              },
-              "GMT-3": {
-                "exemplarCity": "GMT-3"
-              },
-              "GMT-4": {
-                "exemplarCity": "GMT-4"
-              },
-              "GMT-5": {
-                "exemplarCity": "GMT-5"
-              },
-              "GMT-6": {
-                "exemplarCity": "GMT-6"
-              },
-              "GMT-7": {
-                "exemplarCity": "GMT-7"
-              },
-              "GMT-8": {
-                "exemplarCity": "GMT-8"
-              },
-              "GMT-9": {
-                "exemplarCity": "GMT-9"
-              },
               "UTC": {
+                "long": {
+                  "standard": "Mfumo wa kuratibu saa ulimwenguni"
+                },
                 "short": {
                   "standard": "UTC"
-                },
-                "exemplarCity": "UTC"
+                }
               },
               "Unknown": {
                 "exemplarCity": "Jiji Lisilojulikana"
@@ -1430,7 +1363,7 @@
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Saa Wastani za Afrika Kusini"
+                "standard": "Saa za Wastani za Afrika Kusini"
               }
             },
             "Africa_Western": {
@@ -1492,14 +1425,14 @@
             "Apia": {
               "long": {
                 "generic": "Saa za Apia",
-                "standard": "Saa Wastani za Apia",
+                "standard": "Saa za Wastani za Apia",
                 "daylight": "Saa za Mchana za Apia"
               }
             },
             "Arabian": {
               "long": {
                 "generic": "Saa za Uarabuni",
-                "standard": "Saa Wastani za Uarabuni",
+                "standard": "Saa za Wastani za Uarabuni",
                 "daylight": "Saa za Mchana za Arabiani"
               }
             },
@@ -1513,14 +1446,14 @@
             "Argentina_Western": {
               "long": {
                 "generic": "Saa za Magharibi mwa Argentina",
-                "standard": "Saa Wastani za Magharibi mwa Argentina",
+                "standard": "Saa za Wastani za Magharibi mwa Argentina",
                 "daylight": "Saa za Majira ya joto za Magharibi mwa Argentina"
               }
             },
             "Armenia": {
               "long": {
                 "generic": "Saa za Armenia",
-                "standard": "Saa Wastani za Armenia",
+                "standard": "Saa za Wastani za Armenia",
                 "daylight": "Saa za Majira ya joto za Armenia"
               }
             },
@@ -1534,49 +1467,49 @@
             "Australia_Central": {
               "long": {
                 "generic": "Saa za Australia ya Kati",
-                "standard": "Saa Wastani za Australia ya Kati",
+                "standard": "Saa za Wastani za Australia ya Kati",
                 "daylight": "Saa za Mchana za Australia ya Kati"
               }
             },
             "Australia_CentralWestern": {
               "long": {
                 "generic": "Saa za Magharibi ya Kati ya Australia",
-                "standard": "Saa Wastani za Magharibi ya Kati ya Australia",
+                "standard": "Saa za Wastani za Magharibi ya Kati ya Australia",
                 "daylight": "Saa za Mchana za Magharibi ya Kati ya Australia"
               }
             },
             "Australia_Eastern": {
               "long": {
                 "generic": "Saa za Australia Mashariki",
-                "standard": "Saa Wastani za Mashariki mwa Australia",
+                "standard": "Saa za Wastani za Mashariki mwa Australia",
                 "daylight": "Saa za Mchana za Mashariki mwa Australia"
               }
             },
             "Australia_Western": {
               "long": {
                 "generic": "Saa za Australia Magharibi",
-                "standard": "Saa Wastani za Australia Magharibi",
+                "standard": "Saa za Wastani za Australia Magharibi",
                 "daylight": "Saa za Mchana za Australia Magharibi"
               }
             },
             "Azerbaijan": {
               "long": {
-                "generic": "Saa za Azeribaijani",
-                "standard": "Saa Wastani za Azeribaijani",
-                "daylight": "Saa za Majira ya joto za Azeribaijani"
+                "generic": "Saa za Azerbaijan",
+                "standard": "Saa za Wastani za Azerbaijan",
+                "daylight": "Saa za Majira ya joto za Azerbaijan"
               }
             },
             "Azores": {
               "long": {
                 "generic": "Saa za Azores",
-                "standard": "Saa Wastani za Azores",
+                "standard": "Saa za Wastani za Azores",
                 "daylight": "Saa za Majira ya joto za Azores"
               }
             },
             "Bangladesh": {
               "long": {
                 "generic": "Saa za Bangladesh",
-                "standard": "Saa Wastani za Bangladesh",
+                "standard": "Saa za Wastani za Bangladesh",
                 "daylight": "Saa za Majira ya joto za Bangladesh"
               }
             },
@@ -1611,13 +1544,13 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "Saa Wastani za Chamorro"
+                "standard": "Saa za Wastani za Chamorro"
               }
             },
             "Chatham": {
               "long": {
                 "generic": "Saa za Chatham",
-                "standard": "Saa Wastani za Chatham",
+                "standard": "Saa za Wastani za Chatham",
                 "daylight": "Saa za Mchana za Chatham"
               }
             },
@@ -1631,14 +1564,14 @@
             "China": {
               "long": {
                 "generic": "Saa za Uchina",
-                "standard": "Saa Wastani za Uchina",
+                "standard": "Saa za Wastani za Uchina",
                 "daylight": "Saa za Mchana za Uchina"
               }
             },
             "Choibalsan": {
               "long": {
                 "generic": "Saa za Choibalsan",
-                "standard": "Saa Wastani za Choibalsan",
+                "standard": "Saa za Wastani za Choibalsan",
                 "daylight": "Saa za Majira ya joto za Choibalsan"
               }
             },
@@ -1662,7 +1595,7 @@
             "Cook": {
               "long": {
                 "generic": "Saa za Visiwa vya Cook",
-                "standard": "Saa Wastani za Visiwa vya Cook",
+                "standard": "Saa za Wastani za Visiwa vya Cook",
                 "daylight": "Saa za Majira nusu ya joto za Visiwa Cook"
               }
             },
@@ -1690,9 +1623,9 @@
             },
             "Easter": {
               "long": {
-                "generic": "Saa za Kisiwa cha Pasaka",
-                "standard": "Saa Wastani za Kisiwa cha Pasaka",
-                "daylight": "Saa za Majira ya joto za Kisiwa cha Pasaka"
+                "generic": "Saa za Kisiwa cha Easter",
+                "standard": "Saa za Wastani za Kisiwa cha Easter",
+                "daylight": "Saa za Majira ya joto za Kisiwa cha Easter"
               }
             },
             "Ecuador": {
@@ -1703,40 +1636,40 @@
             "Europe_Central": {
               "long": {
                 "generic": "Saa za Ulaya ya Kati",
-                "standard": "Saa Wastani za Ulaya ya kati",
+                "standard": "Saa za Wastani za Ulaya ya kati",
                 "daylight": "Saa za Majira ya joto za Ulaya ya Kati"
               }
             },
             "Europe_Eastern": {
               "long": {
                 "generic": "Saa za Mashariki mwa Ulaya",
-                "standard": "Saa Wastani za Mashariki mwa Ulaya",
+                "standard": "Saa za Wastani za Mashariki mwa Ulaya",
                 "daylight": "Saa za Majira ya joto za Mashariki mwa Ulaya"
               }
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Saa za Further-eastern European Time"
+                "standard": "Saa za Mashariki zaidi mwa Ulaya"
               }
             },
             "Europe_Western": {
               "long": {
                 "generic": "Saa za Magharibi mwa Ulaya",
-                "standard": "Saa Wastani za Magharibi mwa Ulaya",
+                "standard": "Saa za Wastani za Magharibi mwa Ulaya",
                 "daylight": "Saa za Majira ya joto za Magharibi mwa Ulaya"
               }
             },
             "Falkland": {
               "long": {
                 "generic": "Saa za Visiwa vya Falkland",
-                "standard": "Saa Wastani za Visiwa vya Falkland",
+                "standard": "Saa za Wastani za Visiwa vya Falkland",
                 "daylight": "Saa za Majira ya joto za Visiwa vya Falkland"
               }
             },
             "Fiji": {
               "long": {
                 "generic": "Saa za Fiji",
-                "standard": "Saa Wastani za Fiji",
+                "standard": "Saa za Wastani za Fiji",
                 "daylight": "Saa za Majira ya joto za Fiji"
               }
             },
@@ -1762,9 +1695,9 @@
             },
             "Georgia": {
               "long": {
-                "generic": "Saa za Jojia",
-                "standard": "Saa Wastani za Jojia",
-                "daylight": "Saa za Majira ya joto za Jojia"
+                "generic": "Saa za Georgia",
+                "standard": "Saa za Wastani za Georgia",
+                "daylight": "Saa za Majira ya joto za Georgia"
               }
             },
             "Gilbert_Islands": {
@@ -1793,7 +1726,7 @@
             },
             "Gulf": {
               "long": {
-                "standard": "Saa Wastani za Gulf"
+                "standard": "Saa za Wastani za Gulf"
               }
             },
             "Guyana": {
@@ -1811,14 +1744,14 @@
             "Hong_Kong": {
               "long": {
                 "generic": "Saa za Hong Kong",
-                "standard": "Saa Wastani za Hong Kong",
+                "standard": "Saa za Wastani za Hong Kong",
                 "daylight": "Saa za Majira ya joto za Hong Kong"
               }
             },
             "Hovd": {
               "long": {
                 "generic": "Saa za Hovd",
-                "standard": "Saa Wastani za Hovd",
+                "standard": "Saa za Wastani za Hovd",
                 "daylight": "Saa za Majira ya joto za Hovd"
               }
             },
@@ -1855,7 +1788,7 @@
             "Iran": {
               "long": {
                 "generic": "Saa za Iran",
-                "standard": "Saa Wastani za Iran",
+                "standard": "Saa za Wastani za Iran",
                 "daylight": "Saa za Mchana za Iran"
               }
             },
@@ -1869,7 +1802,7 @@
             "Israel": {
               "long": {
                 "generic": "Saa za Israeli",
-                "standard": "Saa Wastani za Israeli",
+                "standard": "Saa za Wastani za Israeli",
                 "daylight": "Saa za Mchana za Israeli"
               }
             },
@@ -1900,7 +1833,7 @@
             "Korea": {
               "long": {
                 "generic": "Saa za Korea",
-                "standard": "Saa Wastani za Korea",
+                "standard": "Saa za Wastani za Korea",
                 "daylight": "Saa za Mchana za Korea"
               }
             },
@@ -1929,7 +1862,7 @@
             "Lord_Howe": {
               "long": {
                 "generic": "Saa za Lord Howe",
-                "standard": "Saa Wastani za Lord Howe",
+                "standard": "Saa za Wastani za Lord Howe",
                 "daylight": "Saa za Mchana za Lord Howe"
               }
             },
@@ -1980,7 +1913,7 @@
             "Mexico_Northwest": {
               "long": {
                 "generic": "Saa za Mexico Kaskazini Magharibi",
-                "standard": "Saa Wastani za Mexico Kaskazini Magharibi",
+                "standard": "Saa za Wastani za Mexico Kaskazini Magharibi",
                 "daylight": "Saa za mchana za Mexico Kaskazini Magharibi"
               }
             },
@@ -1994,7 +1927,7 @@
             "Mongolia": {
               "long": {
                 "generic": "Saa za Ulan Bator",
-                "standard": "Saa Wastani za Ulan Bator",
+                "standard": "Saa za Wastani za Ulan Bator",
                 "daylight": "Saa za Majira ya joto za Ulan Bator"
               }
             },
@@ -2023,14 +1956,14 @@
             "New_Caledonia": {
               "long": {
                 "generic": "Saa za New Caledonia",
-                "standard": "Saa Wastani za New Caledonia",
+                "standard": "Saa za Wastani za New Caledonia",
                 "daylight": "Saa za Majira ya joto za New Caledonia"
               }
             },
             "New_Zealand": {
               "long": {
                 "generic": "Saa za New Zealand",
-                "standard": "Saa Wastani za New Zealand",
+                "standard": "Saa za Wastani za New Zealand",
                 "daylight": "Saa za Mchana za New Zealand"
               }
             },
@@ -2054,7 +1987,7 @@
             "Noronha": {
               "long": {
                 "generic": "Saa za Fernando de Noronha",
-                "standard": "Saa Wastani za Fernando de Noronha",
+                "standard": "Saa za Wastani za Fernando de Noronha",
                 "daylight": "Saa za Majira ya joto za Fernando de Noronha"
               }
             },
@@ -2075,7 +2008,7 @@
             "Pakistan": {
               "long": {
                 "generic": "Saa za Pakistan",
-                "standard": "Saa Wastani za Pakistan",
+                "standard": "Saa za Wastani za Pakistan",
                 "daylight": "Saa za Majira ya joto za Pakistan"
               }
             },
@@ -2106,7 +2039,7 @@
             "Philippines": {
               "long": {
                 "generic": "Saa za Ufilipino",
-                "standard": "Saa Wastani za Ufilipino",
+                "standard": "Saa za Wastani za Ufilipino",
                 "daylight": "Saa za Majira ya joto za Ufilipino"
               }
             },
@@ -2164,7 +2097,7 @@
             "Samoa": {
               "long": {
                 "generic": "Saa za Samoa",
-                "standard": "Saa Wastani za Samoa",
+                "standard": "Saa za Wastani za Samoa",
                 "daylight": "Saa za Majira ya joto za Samoa"
               }
             },
@@ -2175,7 +2108,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "Saa Wastani za Singapore"
+                "standard": "Saa za Wastani za Singapore"
               }
             },
             "Solomon": {
@@ -2185,7 +2118,7 @@
             },
             "South_Georgia": {
               "long": {
-                "standard": "Saa za Jojia Kusini"
+                "standard": "Saa za Georgia Kusini"
               }
             },
             "Suriname": {
@@ -2206,7 +2139,7 @@
             "Taipei": {
               "long": {
                 "generic": "Saa za Taipei",
-                "standard": "Saa Wastani za Taipei",
+                "standard": "Saa za Wastani za Taipei",
                 "daylight": "Saa za Mchana za Taipei"
               }
             },
@@ -2223,7 +2156,7 @@
             "Tonga": {
               "long": {
                 "generic": "Saa za Tonga",
-                "standard": "Saa Wastani za Tonga",
+                "standard": "Saa za Wastani za Tonga",
                 "daylight": "Saa za Majira ya joto za Tonga"
               }
             },
@@ -2261,7 +2194,7 @@
             "Vanuatu": {
               "long": {
                 "generic": "Saa za Vanuatu",
-                "standard": "Saa Wastani za Vanuatu",
+                "standard": "Saa za Wastani za Vanuatu",
                 "daylight": "Saa za Majira ya joto za Vanuatu"
               }
             },

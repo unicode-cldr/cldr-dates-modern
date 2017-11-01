@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "mk"
       },
@@ -275,8 +275,8 @@
                   "noon": "пладне",
                   "pm": "попл.",
                   "morning1": "наутро",
-                  "morning2": "претпладне",
-                  "afternoon1": "попладне",
+                  "morning2": "претпл.",
+                  "afternoon1": "попл.",
                   "evening1": "навечер",
                   "night1": "по полноќ"
                 },
@@ -325,8 +325,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "E",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

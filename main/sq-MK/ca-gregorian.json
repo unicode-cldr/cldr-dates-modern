@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "sq",
         "territory": "MK"
@@ -21,8 +21,8 @@
                   "4": "pri",
                   "5": "maj",
                   "6": "qer",
-                  "7": "kor",
-                  "8": "gsh",
+                  "7": "korr",
+                  "8": "gush",
                   "9": "sht",
                   "10": "tet",
                   "11": "nën",
@@ -30,17 +30,17 @@
                 },
                 "narrow": {
                   "1": "j",
-                  "2": "s",
+                  "2": "sh",
                   "3": "m",
                   "4": "p",
                   "5": "m",
                   "6": "q",
                   "7": "k",
                   "8": "g",
-                  "9": "s",
+                  "9": "sh",
                   "10": "t",
                   "11": "n",
-                  "12": "d"
+                  "12": "dh"
                 },
                 "wide": {
                   "1": "janar",
@@ -65,8 +65,8 @@
                   "4": "Pri",
                   "5": "Maj",
                   "6": "Qer",
-                  "7": "Kor",
-                  "8": "Gsh",
+                  "7": "Korr",
+                  "8": "Gush",
                   "9": "Sht",
                   "10": "Tet",
                   "11": "Nën",
@@ -74,17 +74,17 @@
                 },
                 "narrow": {
                   "1": "J",
-                  "2": "S",
+                  "2": "Sh",
                   "3": "M",
                   "4": "P",
                   "5": "M",
                   "6": "Q",
                   "7": "K",
                   "8": "G",
-                  "9": "S",
+                  "9": "Sh",
                   "10": "T",
                   "11": "N",
-                  "12": "D"
+                  "12": "Dh"
                 },
                 "wide": {
                   "1": "Janar",
@@ -120,7 +120,7 @@
                   "wed": "M",
                   "thu": "E",
                   "fri": "P",
-                  "sat": "S"
+                  "sat": "Sh"
                 },
                 "short": {
                   "sun": "Die",
@@ -158,7 +158,7 @@
                   "wed": "M",
                   "thu": "E",
                   "fri": "P",
-                  "sat": "S"
+                  "sat": "Sh"
                 },
                 "short": {
                   "sun": "Die",
@@ -332,8 +332,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d",
                 "Ehm": "E, h:mm a",
                 "EHm": "E, HH:mm",
@@ -375,8 +380,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ, y",
                 "yQQQQ": "QQQQ, y",
-                "yw-count-one": "'java' w 'e' y",
-                "yw-count-other": "'java' w 'e' y"
+                "yw-count-one": "'java' w 'e' Y",
+                "yw-count-other": "'java' w 'e' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -387,7 +392,7 @@
                 "Month": "{0} ({2}: {1})",
                 "Quarter": "{0} ({2}: {1})",
                 "Second": "{0} ({2}: {1})",
-                "Timezone": "{0} {1}",
+                "Timezone": "{0}, {1}",
                 "Week": "{0} ({2}: {1})",
                 "Year": "{1} {0}"
               },
