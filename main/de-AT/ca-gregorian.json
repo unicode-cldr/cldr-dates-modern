@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32"
+          "_cldrVersion": "32.0.1"
         },
         "language": "de",
         "territory": "AT"
@@ -226,8 +226,8 @@
               "format": {
                 "abbreviated": {
                   "midnight": "Mitternacht",
-                  "am": "AM",
-                  "pm": "PM",
+                  "am": "vorm.",
+                  "pm": "nachm.",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -248,8 +248,8 @@
                 },
                 "wide": {
                   "midnight": "Mitternacht",
-                  "am": "AM",
-                  "pm": "PM",
+                  "am": "vorm.",
+                  "pm": "nachm.",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
