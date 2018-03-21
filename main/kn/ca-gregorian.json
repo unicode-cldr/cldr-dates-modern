@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "kn"
       },
@@ -367,8 +367,8 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'week' w 'of' Y",
-                "yw-count-other": "'week' w 'of' Y"
+                "yw-count-one": "'week' w 'of' y",
+                "yw-count-other": "'week' w 'of' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

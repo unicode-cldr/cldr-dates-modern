@@ -3,8 +3,8 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "vi"
       },
@@ -290,19 +290,19 @@
             "eras": {
               "eraNames": {
                 "0": "Trước CN",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "trước CN",
                 "1": "sau CN",
                 "1-alt-variant": "CN"
               },
               "eraAbbr": {
                 "0": "Trước CN",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "trước CN",
                 "1": "sau CN",
                 "1-alt-variant": "CN"
               },
               "eraNarrow": {
                 "0": "tr. CN",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "trước CN",
                 "1": "sau CN",
                 "1-alt-variant": "CN"
               }

@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "uz"
       },
@@ -371,8 +371,8 @@
                 "yMMMM": "MMMM, y",
                 "yQQQ": "y, QQQ",
                 "yQQQQ": "y, QQQQ",
-                "yw-count-one": "Y, w-'hafta'",
-                "yw-count-other": "Y, w-'hafta'"
+                "yw-count-one": "y, w-'hafta'",
+                "yw-count-other": "y, w-'hafta'"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

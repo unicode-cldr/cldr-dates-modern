@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13722 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "he"
       },
@@ -1723,6 +1723,11 @@
                 "daylight": "שעון מערב גרינלנד (קיץ)"
               }
             },
+            "Guam": {
+              "long": {
+                "standard": "שעון גואם"
+              }
+            },
             "Gulf": {
               "long": {
                 "standard": "שעון מדינות המפרץ"
@@ -1995,6 +2000,11 @@
                 "generic": "שעון פרננדו די נורוניה",
                 "standard": "שעון פרננדו די נורוניה (חורף)",
                 "daylight": "שעון פרננדו די נורוניה (קיץ)"
+              }
+            },
+            "North_Mariana": {
+              "long": {
+                "standard": "שעון איי מריאנה הצפוניים"
               }
             },
             "Novosibirsk": {

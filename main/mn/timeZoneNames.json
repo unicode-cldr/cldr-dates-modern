@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13701 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "mn"
       },
@@ -2036,7 +2036,7 @@
             "Pierre_Miquelon": {
               "long": {
                 "generic": "Сен-Пьер ба Микелоны цаг",
-                "standard": "Сен-Пьер ба Микелоны стандарт цаг",
+                "standard": "Сент-Пьер ба Микелоны стандарт цаг",
                 "daylight": "Сен-Пьер ба Микелоны зуны цаг"
               }
             },

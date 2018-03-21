@@ -3,8 +3,8 @@
     "en-DE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13706 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13869 $",
+          "_cldrVersion": "33"
         },
         "language": "en",
         "territory": "DE"
@@ -2146,7 +2146,7 @@
             },
             "Reunion": {
               "long": {
-                "standard": "Reunion Time"
+                "standard": "Réunion Time"
               }
             },
             "Rothera": {

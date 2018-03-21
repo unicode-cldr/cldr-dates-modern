@@ -3,8 +3,8 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "tr",
         "territory": "CY"
@@ -332,13 +332,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
-                "Bh": "h B",
-                "Bhm": "h:mm B",
-                "Bhms": "h:mm:ss B",
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
-                "EBhm": "E h:mm B",
-                "EBhms": "E h:mm:ss B",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

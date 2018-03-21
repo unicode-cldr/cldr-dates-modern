@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "km"
       },
@@ -638,7 +638,7 @@
                 "exemplarCity": "សារ៉ាយ៉េវ៉ូ"
               },
               "Saratov": {
-                "exemplarCity": "Saratov"
+                "exemplarCity": "សារ៉ាតាវ"
               },
               "Simferopol": {
                 "exemplarCity": "ស៊ីមហ្វើរ៉ុប៉ូល"

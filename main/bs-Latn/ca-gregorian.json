@@ -3,8 +3,8 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "bs",
         "script": "Latn"
@@ -293,7 +293,7 @@
                 "0": "prije nove ere",
                 "0-alt-variant": "BCE",
                 "1": "nove ere",
-                "1-alt-variant": "n. e."
+                "1-alt-variant": "CE"
               },
               "eraAbbr": {
                 "0": "p. n. e.",
@@ -302,9 +302,9 @@
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
-                "0": "p. n. e.",
+                "0": "p.n.e.",
                 "0-alt-variant": "BCE",
-                "1": "n. e.",
+                "1": "n.e.",
                 "1-alt-variant": "CE"
               }
             },
@@ -376,9 +376,9 @@
                 "yMMMM": "LLLL y.",
                 "yQQQ": "QQQ y.",
                 "yQQQQ": "QQQQ y.",
-                "yw-count-one": "w. 'sedmica' 'u' Y.",
-                "yw-count-few": "w. 'sedmica' 'u' Y.",
-                "yw-count-other": "w. 'sedmica' 'u' Y."
+                "yw-count-one": "w. 'sedmica' 'u' y.",
+                "yw-count-few": "w. 'sedmica' 'u' y.",
+                "yw-count-other": "w. 'sedmica' 'u' y."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

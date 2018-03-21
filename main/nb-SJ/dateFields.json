@@ -3,8 +3,8 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13839 $",
+          "_cldrVersion": "33"
         },
         "language": "nb",
         "territory": "SJ"
@@ -234,11 +234,11 @@
           },
           "day-narrow": {
             "displayName": "d.",
-            "relative-type--2": "i forgårs",
+            "relative-type--2": "-2 d.",
             "relative-type--1": "i går",
             "relative-type-0": "i dag",
             "relative-type-1": "i morgen",
-            "relative-type-2": "i overmorgen",
+            "relative-type-2": "+2 d.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} d.",
               "relativeTimePattern-count-other": "+{0} d."

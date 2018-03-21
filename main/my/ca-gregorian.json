@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13705 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "my"
       },
@@ -371,7 +371,7 @@
                 "yMMMM": "y MMMM",
                 "yQQQ": "y QQQ",
                 "yQQQQ": "y QQQQ",
-                "yw-count-other": "Y ခု w ပတ်မြောက်"
+                "yw-count-other": "y ခု w ပတ်မြောက်"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

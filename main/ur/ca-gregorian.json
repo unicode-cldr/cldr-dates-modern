@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13769 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13911 $",
+          "_cldrVersion": "33"
         },
         "language": "ur"
       },
@@ -308,9 +308,9 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, MMMM d, y",
-              "long": "MMMM d, y",
-              "medium": "MMM d, y",
+              "full": "EEEE، d MMMM، y",
+              "long": "d MMMM، y",
+              "medium": "d MMM، y",
               "short": "d/M/yy"
             },
             "timeFormats": {
@@ -357,7 +357,7 @@
                 "MMM": "LLL",
                 "MMMd": "d MMM",
                 "MMMEd": "E، d MMM",
-                "MMMMd": "MMMM d",
+                "MMMMd": "d MMMM",
                 "MMMMW-count-one": "MMMM کا ہفتہ W",
                 "MMMMW-count-other": "MMMM کا ہفتہ W",
                 "ms": "mm:ss",
@@ -468,7 +468,7 @@
                   "y": "MMM y – MMM y"
                 },
                 "yMMMd": {
-                  "d": "y MMM d–d",
+                  "d": "d–d MMM y",
                   "M": "d MMM – d MMM، y",
                   "y": "d MMM، y – d MMM، y"
                 },

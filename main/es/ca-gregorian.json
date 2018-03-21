@@ -3,8 +3,8 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13722 $",
-          "_cldrVersion": "32.0.1"
+          "_number": "$Revision: 13920 $",
+          "_cldrVersion": "33"
         },
         "language": "es"
       },
@@ -376,8 +376,8 @@
                 "yMMMMEd": "EEE, d 'de' MMMM 'de' y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ 'de' y",
-                "yw-count-one": "'semana' w 'de' Y",
-                "yw-count-other": "'semana' w 'de' Y"
+                "yw-count-one": "'semana' w 'de' y",
+                "yw-count-other": "'semana' w 'de' y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
