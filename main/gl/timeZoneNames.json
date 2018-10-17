@@ -3,8 +3,8 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "gl"
       },
@@ -418,7 +418,7 @@
                 "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
-                "exemplarCity": "Saint-Barthélemy"
+                "exemplarCity": "Saint Barthélemy"
               },
               "St_Johns": {
                 "exemplarCity": "Saint John’s"
@@ -2067,9 +2067,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Horario de Saint-Pierre-et-Miquelon",
-                "standard": "Horario estándar de Saint-Pierre-et-Miquelon",
-                "daylight": "Horario de verán de Saint-Pierre-et-Miquelon"
+                "generic": "Horario de Saint Pierre et Miquelon",
+                "standard": "Horario estándar de Saint Pierre et Miquelon",
+                "daylight": "Horario de verán de Saint Pierre et Miquelon"
               }
             },
             "Pitcairn": {

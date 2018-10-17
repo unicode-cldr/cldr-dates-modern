@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ko",
         "territory": "KP"
@@ -1489,7 +1489,7 @@
               "long": {
                 "generic": "대서양 시간",
                 "standard": "대서양 표준시",
-                "daylight": "미 대서양 하계 표준시"
+                "daylight": "대서양 하계 표준시"
               }
             },
             "Australia_Central": {

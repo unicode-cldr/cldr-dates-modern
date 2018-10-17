@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "mn"
       },
@@ -13,9 +13,9 @@
           "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
-          "regionFormat": "{0} цаг",
-          "regionFormat-type-daylight": "{0} зуны цаг",
-          "regionFormat-type-standard": "{0} стандарт цаг",
+          "regionFormat": "{0}-н цаг",
+          "regionFormat-type-daylight": "{0}-н зуны цаг",
+          "regionFormat-type-standard": "{0}-н стандарт цаг",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {

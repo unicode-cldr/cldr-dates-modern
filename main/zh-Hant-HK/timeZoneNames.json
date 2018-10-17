@@ -3,8 +3,8 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "zh",
         "script": "Hant",
@@ -120,7 +120,7 @@
                 "exemplarCity": "芝加哥"
               },
               "Chihuahua": {
-                "exemplarCity": "芝華華"
+                "exemplarCity": "芝娃娃"
               },
               "Coral_Harbour": {
                 "exemplarCity": "阿蒂科肯"
@@ -252,7 +252,7 @@
               },
               "Kentucky": {
                 "Monticello": {
-                  "exemplarCity": "肯塔基州蒙蒂塞洛"
+                  "exemplarCity": "肯塔基州蒙地卻羅"
                 }
               },
               "Kralendijk": {
@@ -1097,7 +1097,7 @@
                 "exemplarCity": "葉卡捷琳堡"
               },
               "Yerevan": {
-                "exemplarCity": "耶烈萬"
+                "exemplarCity": "埃里温"
               }
             },
             "Indian": {

@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ka"
       },
@@ -194,10 +194,10 @@
             "displayName": "თვის კვირა"
           },
           "weekOfMonth-short": {
-            "displayName": "თვის კვირა"
+            "displayName": "თვ. კვირა"
           },
           "weekOfMonth-narrow": {
-            "displayName": "თვის კვირა"
+            "displayName": "თვ. კვირა"
           },
           "day": {
             "displayName": "დღე",
@@ -269,10 +269,10 @@
             "displayName": "კვირის დღე თვეში"
           },
           "weekdayOfMonth-short": {
-            "displayName": "კვირის დღე თვეში"
+            "displayName": "კვ. დღე თვეში"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "კვირის დღე თვეში"
+            "displayName": "კვ. დღე თვეში"
           },
           "sun": {
             "relative-type--1": "გასულ კვირას",
@@ -548,13 +548,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "დღის ნახევარი"
+            "displayName": "დღ. ნახევარი"
           },
           "dayperiod": {
             "displayName": "დღის ნახევარი"
           },
           "dayperiod-narrow": {
-            "displayName": "დღის ნახევარი"
+            "displayName": "დღ. ნახევარი"
           },
           "hour": {
             "displayName": "საათი",
@@ -668,10 +668,10 @@
             "displayName": "დროის სარტყელი"
           },
           "zone-short": {
-            "displayName": "დროის სარტყელი"
+            "displayName": "დროის სარტყ."
           },
           "zone-narrow": {
-            "displayName": "დროის სარტყელი"
+            "displayName": "დროის სარტყ."
           }
         }
       }

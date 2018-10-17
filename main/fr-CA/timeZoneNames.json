@@ -3,8 +3,8 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "fr",
         "territory": "CA"
@@ -916,7 +916,7 @@
                 "exemplarCity": "Damas"
               },
               "Dhaka": {
-                "exemplarCity": "Dhaka"
+                "exemplarCity": "Dacca"
               },
               "Dili": {
                 "exemplarCity": "Dili"

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sq",
         "territory": "XK"
@@ -137,7 +137,7 @@
                 "exemplarCity": "Kujaba"
               },
               "Curacao": {
-                "exemplarCity": "Kuraçao"
+                "exemplarCity": "Kurasao"
               },
               "Danmarkshavn": {
                 "exemplarCity": "Denmarkshavën"
@@ -185,10 +185,10 @@
                 "exemplarCity": "Turku i Madh"
               },
               "Grenada": {
-                "exemplarCity": "Grenadë"
+                "exemplarCity": "Granadë"
               },
               "Guadeloupe": {
-                "exemplarCity": "Guadalupe"
+                "exemplarCity": "Guadelupë"
               },
               "Guatemala": {
                 "exemplarCity": "Guatemalë"
@@ -197,7 +197,7 @@
                 "exemplarCity": "Guajakuil"
               },
               "Guyana": {
-                "exemplarCity": "Gujanë"
+                "exemplarCity": "Guajanë"
               },
               "Halifax": {
                 "exemplarCity": "Halifaks"
@@ -419,7 +419,7 @@
                 "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
-                "exemplarCity": "Shën-Bartolemeo"
+                "exemplarCity": "Sen-Bartelemi"
               },
               "St_Johns": {
                 "exemplarCity": "Shën-Gjon"
@@ -434,7 +434,7 @@
                 "exemplarCity": "Shën-Tomas"
               },
               "St_Vincent": {
-                "exemplarCity": "Shën-Vinsent"
+                "exemplarCity": "Shën-Vincent"
               },
               "Swift_Current": {
                 "exemplarCity": "Rryma e Shpejtë"
@@ -478,7 +478,7 @@
                 "exemplarCity": "Azore"
               },
               "Bermuda": {
-                "exemplarCity": "Bermudë"
+                "exemplarCity": "Bermude"
               },
               "Canary": {
                 "exemplarCity": "Kanari"
@@ -499,7 +499,7 @@
                 "exemplarCity": "Xhorxha e Jugut"
               },
               "St_Helena": {
-                "exemplarCity": "Shën-Helenë"
+                "exemplarCity": "Shën-Elenë"
               },
               "Stanley": {
                 "exemplarCity": "Stenli"
@@ -555,7 +555,7 @@
                 "exemplarCity": "Gjibraltar"
               },
               "Guernsey": {
-                "exemplarCity": "Guernsej"
+                "exemplarCity": "Gernsej"
               },
               "Helsinki": {
                 "exemplarCity": "Helsinki"
@@ -880,7 +880,7 @@
                 "exemplarCity": "Bagdad"
               },
               "Bahrain": {
-                "exemplarCity": "Bahrein"
+                "exemplarCity": "Bahrejn"
               },
               "Baku": {
                 "exemplarCity": "Baku"
@@ -1384,7 +1384,7 @@
               "long": {
                 "generic": "Ora e Alaskës",
                 "standard": "Ora standarde e Alaskës",
-                "daylight": "Ora verore e Alsaskës"
+                "daylight": "Ora verore e Alaskës"
               }
             },
             "Almaty": {
@@ -1553,9 +1553,9 @@
             },
             "Brasilia": {
               "long": {
-                "generic": "Ora e Brasilës",
-                "standard": "Ora standarde e Brasilës",
-                "daylight": "Ora verore e Brasilës"
+                "generic": "Ora e Brazilisë",
+                "standard": "Ora standarde e Brazilisë",
+                "daylight": "Ora verore e Brazilisë"
               }
             },
             "Brunei": {
@@ -1752,9 +1752,9 @@
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Ora e Grenlandës Perëndimore",
-                "standard": "Ora standarde e Grenlandës Perëndimore",
-                "daylight": "Ora verore e Grenlandës Perëndimore"
+                "generic": "Ora e Grënlandës Perëndimore",
+                "standard": "Ora standarde e Grënlandës Perëndimore",
+                "daylight": "Ora verore e Grënlandës Perëndimore"
               }
             },
             "Guam": {
@@ -1889,7 +1889,7 @@
             },
             "Kyrgystan": {
               "long": {
-                "standard": "Ora e Kirgistanit"
+                "standard": "Ora e Kirgizisë"
               }
             },
             "Lanka": {
@@ -1945,7 +1945,7 @@
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "Ora e Ishujve Marshallë"
+                "standard": "Ora e Ishujve Marshall"
               }
             },
             "Mauritius": {

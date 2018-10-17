@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "my"
       },
@@ -20,7 +20,7 @@
           "zone": {
             "America": {
               "Adak": {
-                "exemplarCity": "အာဒခ်"
+                "exemplarCity": "အာဒချ"
               },
               "Anchorage": {
                 "exemplarCity": "အန်ကာရေ့ဂျ်"
@@ -106,7 +106,7 @@
                 "exemplarCity": "ကာရာကာစ်"
               },
               "Catamarca": {
-                "exemplarCity": "ကာတာမာရ်ကာ"
+                "exemplarCity": "ကာတာမာရျကာ"
               },
               "Cayenne": {
                 "exemplarCity": "ကေညင်န်"
@@ -272,7 +272,7 @@
                 "exemplarCity": "လိုအာပရင့်စ် ကွာတာ"
               },
               "Maceio": {
-                "exemplarCity": "မာဆဲသြာ"
+                "exemplarCity": "မာဆဲသွာ"
               },
               "Managua": {
                 "exemplarCity": "မာနာဂွါ"
@@ -305,7 +305,7 @@
                 "exemplarCity": "မက်တ်လာကက်လာ"
               },
               "Mexico_City": {
-                "exemplarCity": "မက္ကဆီကို စီးတီး"
+                "exemplarCity": "မက်ကဆီကို စီးတီး"
               },
               "Miquelon": {
                 "exemplarCity": "မီကွီလွန်"
@@ -742,7 +742,7 @@
                 "exemplarCity": "ကိုနာကရီး"
               },
               "Dakar": {
-                "exemplarCity": "ဒက္ကား"
+                "exemplarCity": "ဒက်ကား"
               },
               "Dar_es_Salaam": {
                 "exemplarCity": "ဒါရက်စ်ဆာလမ်"
@@ -867,7 +867,7 @@
                 "exemplarCity": "အက်တာဥု"
               },
               "Aqtobe": {
-                "exemplarCity": "အာခ်တူးဘီ"
+                "exemplarCity": "အာချတူးဘီ"
               },
               "Ashgabat": {
                 "exemplarCity": "အာရှ်ဂါဘာဒ်"
@@ -900,7 +900,7 @@
                 "exemplarCity": "ဘရူနိုင်း"
               },
               "Calcutta": {
-                "exemplarCity": "ကိုလ်ကတ္တား"
+                "exemplarCity": "ကိုလျကတ်တား"
               },
               "Chita": {
                 "exemplarCity": "ချီတာ"
@@ -915,7 +915,7 @@
                 "exemplarCity": "ဒမားစကပ်"
               },
               "Dhaka": {
-                "exemplarCity": "ဒက္ကာ"
+                "exemplarCity": "ဒက်ကာ"
               },
               "Dili": {
                 "exemplarCity": "ဒစ်လီ"
@@ -939,7 +939,7 @@
                 "exemplarCity": "ဟောင်ကောင်"
               },
               "Hovd": {
-                "exemplarCity": "ဟိုးဗ်"
+                "exemplarCity": "ဟိုးဗျ"
               },
               "Irkutsk": {
                 "exemplarCity": "အီရူခူတ်"
@@ -954,7 +954,7 @@
                 "exemplarCity": "ဂျေရုဆလင်"
               },
               "Kabul": {
-                "exemplarCity": "ကဘူးလ်"
+                "exemplarCity": "ကဘူးလျ"
               },
               "Kamchatka": {
                 "exemplarCity": "ခမ်ချာ့ခါ"
@@ -963,7 +963,7 @@
                 "exemplarCity": "ကရာချိ"
               },
               "Katmandu": {
-                "exemplarCity": "ခတ္တမန္ဒူ"
+                "exemplarCity": "ခတ်တမန်ဒူ"
               },
               "Khandyga": {
                 "exemplarCity": "ခန်ဒိုင်ဂါ"

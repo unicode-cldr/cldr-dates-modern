@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ka"
       },
@@ -477,7 +477,7 @@
                 "exemplarCity": "აზორის კუნძულები"
               },
               "Bermuda": {
-                "exemplarCity": "ბერმუდი"
+                "exemplarCity": "ბერმუდა"
               },
               "Canary": {
                 "exemplarCity": "კანარი"

@@ -3,8 +3,8 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14405 $",
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "MX"
@@ -868,13 +868,13 @@
                 "exemplarCity": "Aktau"
               },
               "Aqtobe": {
-                "exemplarCity": "Aktobe"
+                "exemplarCity": "Aktobé"
               },
               "Ashgabat": {
                 "exemplarCity": "Asjabad"
               },
               "Atyrau": {
-                "exemplarCity": "Atyrau"
+                "exemplarCity": "Atirau"
               },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
@@ -1410,9 +1410,9 @@
             },
             "America_Mountain": {
               "long": {
-                "generic": "hora de las Montañas Rocosas",
-                "standard": "hora estándar de las Montañas Rocosas",
-                "daylight": "hora de verano de las Montañas Rocosas"
+                "generic": "hora de la montaña",
+                "standard": "hora estándar de la montaña",
+                "daylight": "hora de verano de la montaña"
               }
             },
             "America_Pacific": {
@@ -1644,7 +1644,7 @@
             },
             "Easter": {
               "long": {
-                "generic": "hora de la isla de Pascua",
+                "generic": "hora de Isla de Pascua",
                 "standard": "hora estándar de la isla de Pascua",
                 "daylight": "hora de verano de la isla de Pascua"
               }
@@ -1682,9 +1682,9 @@
             },
             "Falkland": {
               "long": {
-                "generic": "hora de las islas Malvinas",
-                "standard": "hora estándar de las islas Malvinas",
-                "daylight": "hora de verano de las islas Malvinas"
+                "generic": "hora de Islas Malvinas",
+                "standard": "hora estándar de Islas Malvinas",
+                "daylight": "hora de verano de Islas Malvinas"
               }
             },
             "Fiji": {
@@ -1723,7 +1723,7 @@
             },
             "Gilbert_Islands": {
               "long": {
-                "standard": "hora de las islas Gilbert"
+                "standard": "hora de las Islas Gilbert"
               }
             },
             "GMT": {
@@ -2274,7 +2274,7 @@
             },
             "Wake": {
               "long": {
-                "standard": "hora de la isla Wake"
+                "standard": "hora de la Isla Wake"
               }
             },
             "Wallis": {

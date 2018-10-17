@@ -3,8 +3,8 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "ro"
       },
@@ -182,9 +182,9 @@
           },
           "week-short": {
             "displayName": "săpt.",
-            "relative-type--1": "săptămâna trecută",
-            "relative-type-0": "săptămâna aceasta",
-            "relative-type-1": "săptămâna viitoare",
+            "relative-type--1": "săpt. trecută",
+            "relative-type-0": "săpt. aceasta",
+            "relative-type-1": "săpt. viitoare",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "peste {0} săpt.",
               "relativeTimePattern-count-few": "peste {0} săpt.",
@@ -199,9 +199,9 @@
           },
           "week-narrow": {
             "displayName": "săpt.",
-            "relative-type--1": "săptămâna trecută",
+            "relative-type--1": "săpt. trecută",
             "relative-type-0": "săptămâna aceasta",
-            "relative-type-1": "săptămâna viitoare",
+            "relative-type-1": "săpt. viitoare",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} săpt.",
               "relativeTimePattern-count-few": "+{0} săpt.",
@@ -586,7 +586,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "sâmbătă, acum {0} săptămână",
               "relativeTimePattern-count-few": "sâmbătă, acum {0} săptămâni",
-              "relativeTimePattern-count-other": "sâmbătă, acum de {0} săptămâni"
+              "relativeTimePattern-count-other": "sâmbătă, acum {0} de săptămâni"
             }
           },
           "sat-short": {

@@ -3,8 +3,8 @@
     "es-UY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14479 $",
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "UY"
@@ -324,7 +324,7 @@
                 "exemplarCity": "Montserrat"
               },
               "Nassau": {
-                "exemplarCity": "Nassau"
+                "exemplarCity": "Nasáu"
               },
               "New_York": {
                 "exemplarCity": "Nueva York"
@@ -410,7 +410,7 @@
                 "exemplarCity": "Santo Domingo"
               },
               "Sao_Paulo": {
-                "exemplarCity": "São Paulo"
+                "exemplarCity": "San Pablo"
               },
               "Scoresbysund": {
                 "exemplarCity": "Ittoqqortoormiit"
@@ -1410,9 +1410,9 @@
             },
             "America_Mountain": {
               "long": {
-                "generic": "hora de las Montañas",
-                "standard": "hora estándar de las Montañas",
-                "daylight": "hora de verano de las Montañas"
+                "generic": "hora de la montaña",
+                "standard": "hora estándar de la montaña",
+                "daylight": "hora de verano de la montaña"
               }
             },
             "America_Pacific": {
@@ -1603,7 +1603,7 @@
             },
             "Cocos": {
               "long": {
-                "standard": "hora de las Islas Cocos"
+                "standard": "hora de Islas Cocos"
               }
             },
             "Colombia": {
@@ -1933,7 +1933,7 @@
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "hora de las Islas Marshall"
+                "standard": "hora de Islas Marshall"
               }
             },
             "Mauritius": {
@@ -2163,7 +2163,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "hora de las Islas Salomón"
+                "standard": "hora de Islas Salomón"
               }
             },
             "South_Georgia": {
@@ -2279,7 +2279,7 @@
             },
             "Wake": {
               "long": {
-                "standard": "hora de la isla Wake"
+                "standard": "hora de Isla Wake"
               }
             },
             "Wallis": {

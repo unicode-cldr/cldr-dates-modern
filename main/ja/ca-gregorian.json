@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "ja"
       },
@@ -402,6 +402,44 @@
                 "intervalFormatFallback": "{0}～{1}",
                 "d": {
                   "d": "d日～d日"
+                },
+                "Gy": {
+                  "G": "Gy年～Gy年",
+                  "y": "Gy年～y年"
+                },
+                "GyM": {
+                  "G": "Gy/MM～Gy/MM",
+                  "M": "Gy/MM～y/MM",
+                  "y": "Gy/MM～y/MM"
+                },
+                "GyMd": {
+                  "d": "Gy/MM/dd～y/MM/dd",
+                  "G": "Gy/MM/dd～Gy/MM/dd",
+                  "M": "Gy/MM/dd～y/MM/dd",
+                  "y": "Gy/MM/dd～y/MM/dd"
+                },
+                "GyMEd": {
+                  "d": "Gy/MM/dd(E)～y/MM/dd(E)",
+                  "G": "Gy/MM/dd(E)～Gy/MM/dd(E)",
+                  "M": "Gy/MM/dd(E)～y/MM/dd(E)",
+                  "y": "Gy/MM/dd(E)～y/MM/dd(E)"
+                },
+                "GyMMM": {
+                  "G": "Gy年M月～Gy年M月",
+                  "M": "Gy年M月～M月",
+                  "y": "Gy年M月～y年M月"
+                },
+                "GyMMMd": {
+                  "d": "Gy年M月d日～d日",
+                  "G": "Gy年M月d日～Gy年M月d日",
+                  "M": "Gy年M月d日～M月d日",
+                  "y": "Gy年M月d日～y年M月d日"
+                },
+                "GyMMMEd": {
+                  "d": "Gy年M月d日(E)～d日(E)",
+                  "G": "Gy年M月d日(E)～Gy年M月d日(E)",
+                  "M": "Gy年M月d日(E)～M月d日(E)",
+                  "y": "Gy年M月d日(E)～y年M月d日(E)"
                 },
                 "h": {
                   "a": "aK時～aK時",

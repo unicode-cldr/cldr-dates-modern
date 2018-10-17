@@ -3,8 +3,8 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "lv"
       },
@@ -325,13 +325,13 @@
             "relative-type-1": "nāk. svētd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} svētdienām",
-              "relativeTimePattern-count-one": "pēc {0} svētdienas",
-              "relativeTimePattern-count-other": "pēc {0} svētdienām"
+              "relativeTimePattern-count-one": "pēc {0} svētd.",
+              "relativeTimePattern-count-other": "pēc {0} svētd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} svētdienām",
-              "relativeTimePattern-count-one": "pirms {0} svētdienas",
-              "relativeTimePattern-count-other": "pirms {0} svētdienām"
+              "relativeTimePattern-count-one": "pirms {0} svētd.",
+              "relativeTimePattern-count-other": "pirms {0} svētd."
             }
           },
           "sun-narrow": {
@@ -340,13 +340,13 @@
             "relative-type-1": "nāk. svētd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} svētdienām",
-              "relativeTimePattern-count-one": "pēc {0} svētdienas",
-              "relativeTimePattern-count-other": "pēc {0} svētdienām"
+              "relativeTimePattern-count-one": "pēc {0} svētd.",
+              "relativeTimePattern-count-other": "pēc {0} svētd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} svētdienām",
-              "relativeTimePattern-count-one": "pirms {0} svētdienas",
-              "relativeTimePattern-count-other": "pirms {0} svētdienām"
+              "relativeTimePattern-count-one": "pirms {0} svētd.",
+              "relativeTimePattern-count-other": "pirms {0} svētd."
             }
           },
           "mon": {
@@ -370,13 +370,13 @@
             "relative-type-1": "nāk. pirmd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} pirmdienām",
-              "relativeTimePattern-count-one": "pēc {0} pirmdienas",
-              "relativeTimePattern-count-other": "pēc {0} pirmdienām"
+              "relativeTimePattern-count-one": "pēc {0} pirmd.",
+              "relativeTimePattern-count-other": "pēc {0} pirmd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} pirmdienām",
-              "relativeTimePattern-count-one": "pirms {0} pirmdienas",
-              "relativeTimePattern-count-other": "pirms {0} pirmdienām"
+              "relativeTimePattern-count-one": "pirms {0} pirmd.",
+              "relativeTimePattern-count-other": "pirms {0} pirmd."
             }
           },
           "mon-narrow": {
@@ -385,13 +385,13 @@
             "relative-type-1": "nāk. pirmd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} pirmdienām",
-              "relativeTimePattern-count-one": "pēc {0} pirmdienas",
-              "relativeTimePattern-count-other": "pēc {0} pirmdienām"
+              "relativeTimePattern-count-one": "pēc {0} pirmd.",
+              "relativeTimePattern-count-other": "pēc {0} pirmd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} pirmdienām",
-              "relativeTimePattern-count-one": "pirms {0} pirmdienas",
-              "relativeTimePattern-count-other": "pirms {0} pirmdienām"
+              "relativeTimePattern-count-one": "pirms {0} pirmd.",
+              "relativeTimePattern-count-other": "pirms {0} pirmd."
             }
           },
           "tue": {
@@ -415,13 +415,13 @@
             "relative-type-1": "nāk. otrd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} otrdienām",
-              "relativeTimePattern-count-one": "pēc {0} otrdienas",
-              "relativeTimePattern-count-other": "pēc {0} otrdienām"
+              "relativeTimePattern-count-one": "pēc {0} otrd.",
+              "relativeTimePattern-count-other": "pēc {0} otrd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} otrdienām",
-              "relativeTimePattern-count-one": "pirms {0} otrdienas",
-              "relativeTimePattern-count-other": "pirms {0} otrdienām"
+              "relativeTimePattern-count-one": "pirms {0} otrd.",
+              "relativeTimePattern-count-other": "pirms {0} otrd."
             }
           },
           "tue-narrow": {
@@ -430,13 +430,13 @@
             "relative-type-1": "nāk. otrd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} otrdienām",
-              "relativeTimePattern-count-one": "pēc {0} otrdienas",
-              "relativeTimePattern-count-other": "pēc {0} otrdienām"
+              "relativeTimePattern-count-one": "pēc {0} otrd.",
+              "relativeTimePattern-count-other": "pēc {0} otrd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} otrdienām",
-              "relativeTimePattern-count-one": "pirms {0} otrdienas",
-              "relativeTimePattern-count-other": "pirms {0} otrdienām"
+              "relativeTimePattern-count-one": "pirms {0} otrd.",
+              "relativeTimePattern-count-other": "pirms {0} otrd."
             }
           },
           "wed": {
@@ -460,13 +460,13 @@
             "relative-type-1": "nāk. trešd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} trešdienām",
-              "relativeTimePattern-count-one": "pēc {0} trešdienas",
-              "relativeTimePattern-count-other": "pēc {0} trešdienām"
+              "relativeTimePattern-count-one": "pēc {0} trešd.",
+              "relativeTimePattern-count-other": "pēc {0} trešd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} trešdienām",
-              "relativeTimePattern-count-one": "pirms {0} trešdienas",
-              "relativeTimePattern-count-other": "pirms {0} trešdienām"
+              "relativeTimePattern-count-one": "pirms {0} trešd.",
+              "relativeTimePattern-count-other": "pirms {0} trešd."
             }
           },
           "wed-narrow": {
@@ -475,13 +475,13 @@
             "relative-type-1": "nāk. trešd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} trešdienām",
-              "relativeTimePattern-count-one": "pēc {0} trešdienas",
-              "relativeTimePattern-count-other": "pēc {0} trešdienām"
+              "relativeTimePattern-count-one": "pēc {0} trešd.",
+              "relativeTimePattern-count-other": "pēc {0} trešd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} trešdienām",
-              "relativeTimePattern-count-one": "pirms {0} trešdienas",
-              "relativeTimePattern-count-other": "pirms {0} trešdienām"
+              "relativeTimePattern-count-one": "pirms {0} trešd.",
+              "relativeTimePattern-count-other": "pirms {0} trešd."
             }
           },
           "thu": {
@@ -505,13 +505,13 @@
             "relative-type-1": "nāk. ceturtd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} ceturtdienām",
-              "relativeTimePattern-count-one": "pēc {0} ceturtdienas",
-              "relativeTimePattern-count-other": "pēc {0} ceturtdienām"
+              "relativeTimePattern-count-one": "pēc {0} ceturtd.",
+              "relativeTimePattern-count-other": "pēc {0} ceturtd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} ceturtdienām",
-              "relativeTimePattern-count-one": "pirms {0} ceturtdienas",
-              "relativeTimePattern-count-other": "pirms {0} ceturtdienām"
+              "relativeTimePattern-count-one": "pirms {0} ceturtd.",
+              "relativeTimePattern-count-other": "pirms {0} ceturtd."
             }
           },
           "thu-narrow": {
@@ -520,13 +520,13 @@
             "relative-type-1": "nāk. ceturtd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} ceturtdienām",
-              "relativeTimePattern-count-one": "pēc {0} ceturtdienas",
-              "relativeTimePattern-count-other": "pēc {0} ceturtdienām"
+              "relativeTimePattern-count-one": "pēc {0} ceturtd.",
+              "relativeTimePattern-count-other": "pēc {0} ceturtd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} ceturtdienām",
-              "relativeTimePattern-count-one": "pirms {0} ceturtdienas",
-              "relativeTimePattern-count-other": "pirms {0} ceturtdienām"
+              "relativeTimePattern-count-one": "pirms {0} ceturtd.",
+              "relativeTimePattern-count-other": "pirms {0} ceturtd."
             }
           },
           "fri": {
@@ -550,13 +550,13 @@
             "relative-type-1": "nāk. piektd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} piektdienām",
-              "relativeTimePattern-count-one": "pēc {0} piektdienas",
-              "relativeTimePattern-count-other": "pēc {0} piektdienām"
+              "relativeTimePattern-count-one": "pēc {0} piektd.",
+              "relativeTimePattern-count-other": "pēc {0} piektd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} piektdienām",
-              "relativeTimePattern-count-one": "pirms {0} piektdienas",
-              "relativeTimePattern-count-other": "pirms {0} piektdienām"
+              "relativeTimePattern-count-one": "pirms {0} piektd.",
+              "relativeTimePattern-count-other": "pirms {0} piektd."
             }
           },
           "fri-narrow": {
@@ -565,13 +565,13 @@
             "relative-type-1": "nāk. piektd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} piektdienām",
-              "relativeTimePattern-count-one": "pēc {0} piektdienas",
-              "relativeTimePattern-count-other": "pēc {0} piektdienām"
+              "relativeTimePattern-count-one": "pēc {0} piektd.",
+              "relativeTimePattern-count-other": "pēc {0} piektd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} piektdienām",
-              "relativeTimePattern-count-one": "pirms {0} piektdienas",
-              "relativeTimePattern-count-other": "pirms {0} piektdienām"
+              "relativeTimePattern-count-one": "pirms {0} piektd.",
+              "relativeTimePattern-count-other": "pirms {0} piektd."
             }
           },
           "sat": {
@@ -595,13 +595,13 @@
             "relative-type-1": "nāk. sestd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} sestdienām",
-              "relativeTimePattern-count-one": "pēc {0} sestdienas",
-              "relativeTimePattern-count-other": "pēc {0} sestdienām"
+              "relativeTimePattern-count-one": "pēc {0} sestd.",
+              "relativeTimePattern-count-other": "pēc {0} sestd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} sestdienām",
-              "relativeTimePattern-count-one": "pirms {0} sestdienas",
-              "relativeTimePattern-count-other": "pirms {0} sestdienām"
+              "relativeTimePattern-count-one": "pirms {0} sestd.",
+              "relativeTimePattern-count-other": "pirms {0} sestd."
             }
           },
           "sat-narrow": {
@@ -610,13 +610,13 @@
             "relative-type-1": "nāk. sestd.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} sestdienām",
-              "relativeTimePattern-count-one": "pēc {0} sestdienas",
-              "relativeTimePattern-count-other": "pēc {0} sestdienām"
+              "relativeTimePattern-count-one": "pēc {0} sestd.",
+              "relativeTimePattern-count-other": "pēc {0} sestd."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-zero": "pirms {0} sestdienām",
-              "relativeTimePattern-count-one": "pirms {0} sestdienas",
-              "relativeTimePattern-count-other": "pirms {0} sestdienām"
+              "relativeTimePattern-count-one": "pirms {0} sestd.",
+              "relativeTimePattern-count-other": "pirms {0} sestd."
             }
           },
           "dayperiod-short": {

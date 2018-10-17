@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ca",
         "territory": "AD"
@@ -15,7 +15,7 @@
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "Hora de: {0}",
-          "regionFormat-type-daylight": "Horari d’estiu, {0}",
+          "regionFormat-type-daylight": "Hora d’estiu, {0}",
           "regionFormat-type-standard": "Hora estàndard, {0}",
           "fallbackFormat": "{1} ({0})",
           "zone": {
@@ -1027,7 +1027,7 @@
                 "exemplarCity": "Kizil-Orda"
               },
               "Rangoon": {
-                "exemplarCity": "Rangoon"
+                "exemplarCity": "Yangôn"
               },
               "Riyadh": {
                 "exemplarCity": "Al-Riyād"
@@ -1075,7 +1075,7 @@
                 "exemplarCity": "Tomsk"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "Ulaanbaatar"
+                "exemplarCity": "Ulan Bator"
               },
               "Urumqi": {
                 "exemplarCity": "Urumchi"
@@ -1410,9 +1410,9 @@
             },
             "America_Pacific": {
               "long": {
-                "generic": "Hora del Pacífic",
-                "standard": "Hora estàndard del Pacífic",
-                "daylight": "Hora d’estiu del Pacífic"
+                "generic": "Hora del Pacífic d’Amèrica del Nord",
+                "standard": "Hora estàndard del Pacífic d’Amèrica del Nord",
+                "daylight": "Hora d’estiu del Pacífic d’Amèrica del Nord"
               }
             },
             "Anadyr": {
@@ -1613,7 +1613,7 @@
             },
             "DumontDUrville": {
               "long": {
-                "standard": "Hora de Dumont-d’Urville"
+                "standard": "Hora de Dumont d’Urville"
               }
             },
             "East_Timor": {
@@ -1775,7 +1775,7 @@
             },
             "India": {
               "long": {
-                "standard": "Hora estàndard de l’Índia"
+                "standard": "Hora de l’Índia"
               }
             },
             "Indian_Ocean": {
@@ -2075,9 +2075,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Hora de Saint-Pierre i Miquelon",
-                "standard": "Hora estàndard de Saint-Pierre i Miquelon",
-                "daylight": "Hora d’estiu de Saint-Pierre i Miquelon"
+                "generic": "Hora de Saint-Pierre-et-Miquelon",
+                "standard": "Hora estàndard de Saint-Pierre-et-Miquelon",
+                "daylight": "Hora d’estiu de Saint-Pierre-et-Miquelon"
               }
             },
             "Pitcairn": {

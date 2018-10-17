@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "az",
         "script": "Latn"
@@ -326,8 +326,8 @@
             "relative-type-0": "bu bazar ertəsi",
             "relative-type-1": "gələn bazar ertəsi",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} bazar ertəsi əzrində",
-              "relativeTimePattern-count-other": "{0} bazar ertəsi əzrində"
+              "relativeTimePattern-count-one": "{0} bazar ertəsi ərzində",
+              "relativeTimePattern-count-other": "{0} bazar ertəsi ərzində"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} bazar ertəsi öncə",
@@ -339,8 +339,8 @@
             "relative-type-0": "bu BE",
             "relative-type-1": "gələn BE",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} bazar ertəsi əzrində",
-              "relativeTimePattern-count-other": "{0} bazar ertəsi əzrində"
+              "relativeTimePattern-count-one": "{0} bazar ertəsi ərzində",
+              "relativeTimePattern-count-other": "{0} bazar ertəsi ərzində"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} bazar ertəsi öncə",

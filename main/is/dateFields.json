@@ -3,8 +3,8 @@
     "is": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "is"
       },
@@ -166,7 +166,7 @@
             "relative-type-0": "í þessari viku",
             "relative-type-1": "í næstu viku",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "eftir {0} vikur",
+              "relativeTimePattern-count-one": "eftir {0} viku",
               "relativeTimePattern-count-other": "eftir {0} vikur"
             },
             "relativeTime-type-past": {

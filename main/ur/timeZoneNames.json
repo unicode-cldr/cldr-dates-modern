@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14403 $",
+          "_cldrVersion": "34"
         },
         "language": "ur"
       },
@@ -14,8 +14,8 @@
           "gmtFormat": "GMT {0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} وقت",
-          "regionFormat-type-daylight": "{0} (+1)",
-          "regionFormat-type-standard": "{0} (+0)",
+          "regionFormat-type-daylight": "{0} ڈے لائٹ ٹائم",
+          "regionFormat-type-standard": "{0} اسٹینڈرڈ ٹائم",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -569,7 +569,7 @@
                 "exemplarCity": "جرسی"
               },
               "Kaliningrad": {
-                "exemplarCity": "كالينينغراد"
+                "exemplarCity": "کالينينغراد"
               },
               "Kiev": {
                 "exemplarCity": "کیوو"

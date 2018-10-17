@@ -3,8 +3,8 @@
     "en-GB": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14418 $",
+          "_cldrVersion": "34"
         },
         "language": "en",
         "territory": "GB"
@@ -1027,7 +1027,7 @@
                 "exemplarCity": "Qyzylorda"
               },
               "Rangoon": {
-                "exemplarCity": "Rangoon"
+                "exemplarCity": "Yangon"
               },
               "Riyadh": {
                 "exemplarCity": "Riyadh"
@@ -1214,9 +1214,6 @@
               },
               "Guam": {
                 "exemplarCity": "Guam"
-              },
-              "Honolulu": {
-                "exemplarCity": "Honolulu"
               },
               "Johnston": {
                 "exemplarCity": "Johnston"
@@ -1907,7 +1904,7 @@
             },
             "Kyrgystan": {
               "long": {
-                "standard": "Kyrgystan Time"
+                "standard": "Kyrgyzstan Time"
               }
             },
             "Lanka": {
@@ -1994,9 +1991,9 @@
             },
             "Mongolia": {
               "long": {
-                "generic": "Ulan Bator Time",
-                "standard": "Ulan Bator Standard Time",
-                "daylight": "Ulan Bator Summer Time"
+                "generic": "Ulaanbaatar Time",
+                "standard": "Ulaanbaatar Standard Time",
+                "daylight": "Ulaanbaatar Summer Time"
               }
             },
             "Moscow": {

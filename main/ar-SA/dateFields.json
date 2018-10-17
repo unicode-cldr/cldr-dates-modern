@@ -3,8 +3,8 @@
     "ar-SA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13880 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "ar",
         "territory": "SA"

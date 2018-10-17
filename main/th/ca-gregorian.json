@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14389 $",
+          "_cldrVersion": "34"
         },
         "language": "th"
       },
@@ -238,7 +238,7 @@
                 "narrow": {
                   "midnight": "เที่ยงคืน",
                   "am": "a",
-                  "noon": "n",
+                  "noon": "เที่ยง",
                   "pm": "p",
                   "morning1": "เช้า",
                   "afternoon1": "เที่ยง",
@@ -301,13 +301,13 @@
             },
             "eras": {
               "eraNames": {
-                "0": "ปีก่อนคริสต์ศักราช",
+                "0": "ปีก่อนคริสตกาล",
                 "0-alt-variant": "ก่อนสามัญศักราช",
                 "1": "คริสต์ศักราช",
                 "1-alt-variant": "สามัญศักราช"
               },
               "eraAbbr": {
-                "0": "ปีก่อน ค.ศ.",
+                "0": "ก่อน ค.ศ.",
                 "0-alt-variant": "ก.ส.ศ.",
                 "1": "ค.ศ.",
                 "1-alt-variant": "ส.ศ."
@@ -374,7 +374,7 @@
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E d MMMM",
                 "MMMMEEEEd": "EEEEที่ d MMMM",
-                "MMMMW-count-other": "สัปดาห์ที่ W ของ MMM",
+                "MMMMW-count-other": "สัปดาห์ที่ W ของเดือนMMMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -391,7 +391,7 @@
                 "yMMMMEEEEd": "EEEEที่ d MMMM G y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ G y",
-                "yw-count-other": "สัปดาห์ที่ w ของ Y"
+                "yw-count-other": "สัปดาห์ที่ w ของปี Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -410,6 +410,44 @@
                 "intervalFormatFallback": "{0} – {1}",
                 "d": {
                   "d": "d–d"
+                },
+                "Gy": {
+                  "G": "G y – G y",
+                  "y": "G y–y"
+                },
+                "GyM": {
+                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "M": "GGGGG y-MM – y-MM",
+                  "y": "GGGGG y-MM – y-MM"
+                },
+                "GyMd": {
+                  "d": "GGGGG y-MM-dd – y-MM-dd",
+                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
+                  "M": "GGGGG y-MM-dd – y-MM-dd",
+                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                },
+                "GyMEd": {
+                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
+                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                },
+                "GyMMM": {
+                  "G": "G y MMM – G y MMM",
+                  "M": "G y MMM–MMM",
+                  "y": "G y MMM – y MMM"
+                },
+                "GyMMMd": {
+                  "d": "G y MMM d–d",
+                  "G": "G y MMM d – G y MMM d",
+                  "M": "G y MMM d – MMM d",
+                  "y": "G y MMM d – y MMM d"
+                },
+                "GyMMMEd": {
+                  "d": "G y MMM d, E – MMM d, E",
+                  "G": "G y MMM d, E – G y MMM d, E",
+                  "M": "G y MMM d, E – MMM d, E",
+                  "y": "G y MMM d, E – y MMM d, E"
                 },
                 "h": {
                   "a": "h a – h a",

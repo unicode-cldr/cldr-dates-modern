@@ -3,8 +3,8 @@
     "de": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13941 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "de"
       },
@@ -477,7 +477,7 @@
                 "exemplarCity": "Azoren"
               },
               "Bermuda": {
-                "exemplarCity": "Bermudas"
+                "exemplarCity": "Bermuda"
               },
               "Canary": {
                 "exemplarCity": "Kanaren"
@@ -897,7 +897,7 @@
                 "exemplarCity": "Bischkek"
               },
               "Brunei": {
-                "exemplarCity": "Brunei"
+                "exemplarCity": "Brunei Darussalam"
               },
               "Calcutta": {
                 "exemplarCity": "Kalkutta"
@@ -981,7 +981,7 @@
                 "exemplarCity": "Kuwait"
               },
               "Macau": {
-                "exemplarCity": "Macao"
+                "exemplarCity": "Macau"
               },
               "Magadan": {
                 "exemplarCity": "Magadan"
@@ -1559,7 +1559,7 @@
             },
             "Brunei": {
               "long": {
-                "standard": "Brunei-Zeit"
+                "standard": "Brunei-Darussalam-Zeit"
               }
             },
             "Cape_Verde": {
@@ -2119,9 +2119,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Saint-Pierre-und-Miquelon-Zeit",
-                "standard": "Saint-Pierre-und-Miquelon-Normalzeit",
-                "daylight": "Saint-Pierre-und-Miquelon-Sommerzeit"
+                "generic": "St.-Pierre-und-Miquelon-Zeit",
+                "standard": "St.-Pierre-und-Miquelon-Normalzeit",
+                "daylight": "St.-Pierre-und-Miquelon-Sommerzeit"
               }
             },
             "Pitcairn": {
@@ -2189,7 +2189,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "Salomoninseln-Zeit"
+                "standard": "Salomonen-Zeit"
               }
             },
             "South_Georgia": {

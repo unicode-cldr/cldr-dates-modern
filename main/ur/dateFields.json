@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14403 $",
+          "_cldrVersion": "34"
         },
         "language": "ur"
       },
@@ -584,7 +584,7 @@
             "displayName": "گھنٹہ",
             "relative-type-0": "اس گھنٹے",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} گھنٹہ میں",
+              "relativeTimePattern-count-one": "{0} گھنٹے میں",
               "relativeTimePattern-count-other": "{0} گھنٹوں میں"
             },
             "relativeTime-type-past": {

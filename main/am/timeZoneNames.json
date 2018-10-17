@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "am"
       },
@@ -1388,16 +1388,16 @@
             },
             "America_Central": {
               "long": {
-                "generic": "የመካከለኛ ሰዓት አቆጣጠር",
-                "standard": "የመካከለኛ መደበኛ ሰዓት አቆጣጠር",
+                "generic": "የሰሜን አሜሪካ የመካከለኛ ሰዓት አቆጣጠር",
+                "standard": "የሰሜን አሜሪካ የመካከለኛ መደበኛ ሰዓት አቆጣጠር",
                 "daylight": "የመካከለኛ የቀን ሰዓት አቆጣጠር"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "የምዕራባዊ ሰዓት አቆጣጠር",
-                "standard": "የምዕራባዊ መደበኛ የሰዓት አቆጣጠር",
-                "daylight": "የምዕራባዊ የቀን ሰዓት አቆጣጠር"
+                "generic": "ምስራቃዊ ሰዓት አቆጣጠር",
+                "standard": "ምስራቃዊ መደበኛ ሰዓት አቆጣጠር",
+                "daylight": "ምስራቃዊ የቀን ሰዓት አቆጣጠር"
               }
             },
             "America_Mountain": {

@@ -3,8 +3,8 @@
     "ar": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "ar"
       },
@@ -305,7 +305,7 @@
                 "exemplarCity": "ميتلاكاتلا"
               },
               "Mexico_City": {
-                "exemplarCity": "مدينة المكسيك"
+                "exemplarCity": "مكسيكو سيتي"
               },
               "Miquelon": {
                 "exemplarCity": "مكويلون"
@@ -554,7 +554,7 @@
                 "exemplarCity": "جبل طارق"
               },
               "Guernsey": {
-                "exemplarCity": "غيرنسي"
+                "exemplarCity": "غيرنزي"
               },
               "Helsinki": {
                 "exemplarCity": "هلسنكي"
@@ -1555,9 +1555,9 @@
             },
             "Chile": {
               "long": {
-                "generic": "توقيت شيلي",
-                "standard": "توقيت شيلي الرسمي",
-                "daylight": "توقيت شيلي الصيفي"
+                "generic": "توقيت تشيلي",
+                "standard": "توقيت تشيلي الرسمي",
+                "daylight": "توقيت تشيلي الصيفي"
               }
             },
             "China": {
@@ -1594,8 +1594,8 @@
             "Cook": {
               "long": {
                 "generic": "توقيت جزر كووك",
-                "standard": "توقيت جزر كووك الرسمي",
-                "daylight": "توقيت جزر كووك الصيفي"
+                "standard": "توقيت جزر كوك الرسمي",
+                "daylight": "توقيت جزر كوك الصيفي"
               }
             },
             "Cuba": {
@@ -1674,7 +1674,7 @@
             },
             "French_Guiana": {
               "long": {
-                "standard": "توقيت غايانا الفرنسية"
+                "standard": "توقيت غويانا الفرنسية"
               }
             },
             "French_Southern": {
@@ -1889,7 +1889,7 @@
             },
             "Maldives": {
               "long": {
-                "standard": "توقيت الـمالديف"
+                "standard": "توقيت جزر المالديف"
               }
             },
             "Marquesas": {
@@ -2081,7 +2081,7 @@
             },
             "Reunion": {
               "long": {
-                "standard": "توقيت ريونيون"
+                "standard": "توقيت روينيون"
               }
             },
             "Rothera": {

@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14402 $",
+          "_cldrVersion": "34"
         },
         "language": "gu"
       },
@@ -593,7 +593,7 @@
                 "exemplarCity": "લક્ઝમબર્ગ"
               },
               "Madrid": {
-                "exemplarCity": "મૅડ્રીડ"
+                "exemplarCity": "મેડ્રિડ"
               },
               "Malta": {
                 "exemplarCity": "માલ્ટા"

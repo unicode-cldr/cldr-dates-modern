@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sq",
         "territory": "MK"
@@ -22,9 +22,9 @@
           },
           "year": {
             "displayName": "vit",
-            "relative-type--1": "vitin e kaluar",
-            "relative-type-0": "këtë vit",
-            "relative-type-1": "vitin e ardhshëm",
+            "relative-type--1": "vjet",
+            "relative-type-0": "sivjet",
+            "relative-type-1": "mot",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "pas {0} viti",
               "relativeTimePattern-count-other": "pas {0} vjetësh"
@@ -430,7 +430,7 @@
             "relative-type-0": "këtë të enjte",
             "relative-type-1": "të enjten e ardhshme",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} të enjte",
+              "relativeTimePattern-count-one": "pas {0} të enjteje",
               "relativeTimePattern-count-other": "pas {0} të enjtesh"
             },
             "relativeTime-type-past": {
@@ -443,7 +443,7 @@
             "relative-type-0": "këtë të enjte",
             "relative-type-1": "të enjten e ardhshme",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} të enjte",
+              "relativeTimePattern-count-one": "pas {0} të enjteje",
               "relativeTimePattern-count-other": "pas {0} të enjtesh"
             },
             "relativeTime-type-past": {
@@ -456,7 +456,7 @@
             "relative-type-0": "këtë të enjte",
             "relative-type-1": "të enjten e ardhshme",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} të enjte",
+              "relativeTimePattern-count-one": "pas {0} të enjteje",
               "relativeTimePattern-count-other": "pas {0} të enjtesh"
             },
             "relativeTime-type-past": {
@@ -469,7 +469,7 @@
             "relative-type-0": "këtë të premte",
             "relative-type-1": "të premten e ardhshme",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} të premte",
+              "relativeTimePattern-count-one": "pas {0} të premteje",
               "relativeTimePattern-count-other": "pas {0} të premtesh"
             },
             "relativeTime-type-past": {
@@ -482,7 +482,7 @@
             "relative-type-0": "këtë të premte",
             "relative-type-1": "të premten e ardhshme",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} të premte",
+              "relativeTimePattern-count-one": "pas {0} të premteje",
               "relativeTimePattern-count-other": "pas {0} të premtesh"
             },
             "relativeTime-type-past": {
@@ -495,7 +495,7 @@
             "relative-type-0": "këtë të premte",
             "relative-type-1": "të premten e ardhshme",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} të premte",
+              "relativeTimePattern-count-one": "pas {0} të premteje",
               "relativeTimePattern-count-other": "pas {0} të premtesh"
             },
             "relativeTime-type-past": {
@@ -600,27 +600,27 @@
             }
           },
           "minute-short": {
-            "displayName": "min.",
+            "displayName": "min",
             "relative-type-0": "këtë minutë",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} min.",
-              "relativeTimePattern-count-other": "pas {0} min."
+              "relativeTimePattern-count-one": "pas {0} min",
+              "relativeTimePattern-count-other": "pas {0} min"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} min. më parë",
-              "relativeTimePattern-count-other": "{0} min. më parë"
+              "relativeTimePattern-count-one": "{0} min më parë",
+              "relativeTimePattern-count-other": "{0} min më parë"
             }
           },
           "minute-narrow": {
-            "displayName": "min.",
+            "displayName": "min",
             "relative-type-0": "këtë minutë",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} min.",
-              "relativeTimePattern-count-other": "pas {0} min."
+              "relativeTimePattern-count-one": "pas {0} min",
+              "relativeTimePattern-count-other": "pas {0} min"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} min. më parë",
-              "relativeTimePattern-count-other": "{0} min. më parë"
+              "relativeTimePattern-count-one": "{0} min më parë",
+              "relativeTimePattern-count-other": "{0} min më parë"
             }
           },
           "second": {
@@ -636,27 +636,27 @@
             }
           },
           "second-short": {
-            "displayName": "sek.",
+            "displayName": "sek",
             "relative-type-0": "tani",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} sek.",
-              "relativeTimePattern-count-other": "pas {0} sek."
+              "relativeTimePattern-count-one": "pas {0} sek",
+              "relativeTimePattern-count-other": "pas {0} sek"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sek. më parë",
-              "relativeTimePattern-count-other": "{0} sek. më parë"
+              "relativeTimePattern-count-one": "{0} sek më parë",
+              "relativeTimePattern-count-other": "{0} sek më parë"
             }
           },
           "second-narrow": {
-            "displayName": "sek.",
+            "displayName": "sek",
             "relative-type-0": "tani",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "pas {0} sek.",
-              "relativeTimePattern-count-other": "pas {0} sek."
+              "relativeTimePattern-count-one": "pas {0} sek",
+              "relativeTimePattern-count-other": "pas {0} sek"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sek. më parë",
-              "relativeTimePattern-count-other": "{0} sek. më parë"
+              "relativeTimePattern-count-one": "{0} sek më parë",
+              "relativeTimePattern-count-other": "{0} sek më parë"
             }
           },
           "zone": {

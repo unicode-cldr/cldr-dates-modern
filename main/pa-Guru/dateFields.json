@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "pa",
         "script": "Guru"
@@ -96,11 +96,11 @@
             "relative-type-0": "ਇਹ ਤਿਮਾਹੀ",
             "relative-type-1": "ਅਗਲੀ ਤਿਮਾਹੀ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ਤਿਮਾਹੀਆਂ ਵਿੱਚ",
+              "relativeTimePattern-count-one": "{0} ਤਿਮਾਹੀ ਵਿੱਚ",
               "relativeTimePattern-count-other": "{0} ਤਿਮਾਹੀਆਂ ਵਿੱਚ"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} ਤਿਮਾਹੀਆਂ ਪਹਿਲਾਂ",
+              "relativeTimePattern-count-one": "{0} ਤਿਮਾਹੀ ਪਹਿਲਾਂ",
               "relativeTimePattern-count-other": "{0} ਤਿਮਾਹੀਆਂ ਪਹਿਲਾਂ"
             }
           },

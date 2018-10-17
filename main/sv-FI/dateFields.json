@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sv",
         "territory": "FI"
@@ -345,8 +345,8 @@
             "relative-type-0": "denna mån.",
             "relative-type-1": "nästa mån.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} månd",
-              "relativeTimePattern-count-other": "+{0} månd"
+              "relativeTimePattern-count-one": "+{0} må.",
+              "relativeTimePattern-count-other": "+{0} må."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "–{0} månd",

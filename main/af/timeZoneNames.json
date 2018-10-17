@@ -3,8 +3,8 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "af"
       },
@@ -498,7 +498,7 @@
                 "exemplarCity": "Suid-Georgië"
               },
               "St_Helena": {
-                "exemplarCity": "St. Helena"
+                "exemplarCity": "Sint Helena"
               },
               "Stanley": {
                 "exemplarCity": "Stanley"
@@ -1287,7 +1287,7 @@
                 "exemplarCity": "Wake"
               },
               "Wallis": {
-                "exemplarCity": "Wallis"
+                "exemplarCity": "Mata-Utu"
               }
             },
             "Arctic": {

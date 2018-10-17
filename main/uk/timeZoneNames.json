@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "uk"
       },
@@ -79,7 +79,7 @@
                 "exemplarCity": "Беліз"
               },
               "Blanc-Sablon": {
-                "exemplarCity": "Бланк-Саблон"
+                "exemplarCity": "Блан-Саблон"
               },
               "Boa_Vista": {
                 "exemplarCity": "Боа-Віста"
@@ -112,7 +112,7 @@
                 "exemplarCity": "Каєнна"
               },
               "Cayman": {
-                "exemplarCity": "Кайманові острови"
+                "exemplarCity": "Кайманові Острови"
               },
               "Chicago": {
                 "exemplarCity": "Чікаґо"
@@ -320,7 +320,7 @@
                 "exemplarCity": "Монтевідео"
               },
               "Montserrat": {
-                "exemplarCity": "Монсеррат"
+                "exemplarCity": "Монтсеррат"
               },
               "Nassau": {
                 "exemplarCity": "Насау"
@@ -706,7 +706,7 @@
                 "exemplarCity": "Алжир"
               },
               "Asmera": {
-                "exemplarCity": "Асмара"
+                "exemplarCity": "Асмера"
               },
               "Bamako": {
                 "exemplarCity": "Бамако"
@@ -721,7 +721,7 @@
                 "exemplarCity": "Бісау"
               },
               "Blantyre": {
-                "exemplarCity": "Блантир"
+                "exemplarCity": "Блантайр"
               },
               "Brazzaville": {
                 "exemplarCity": "Браззавіль"
@@ -1281,7 +1281,7 @@
                 "exemplarCity": "Тонґатапу"
               },
               "Truk": {
-                "exemplarCity": "Трук"
+                "exemplarCity": "Чуук"
               },
               "Wake": {
                 "exemplarCity": "Вейк"
@@ -2131,7 +2131,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "за часом на Соломонових островах"
+                "standard": "за часом на Соломонових Островах"
               }
             },
             "South_Georgia": {

@@ -3,8 +3,8 @@
     "ru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14515 $",
+          "_cldrVersion": "34"
         },
         "language": "ru"
       },
@@ -112,7 +112,7 @@
                 "exemplarCity": "Кайенна"
               },
               "Cayman": {
-                "exemplarCity": "Каймановы о-ва"
+                "exemplarCity": "Острова Кайман"
               },
               "Chicago": {
                 "exemplarCity": "Чикаго"
@@ -2164,7 +2164,7 @@
             },
             "Seychelles": {
               "long": {
-                "standard": "Сейшельские острова"
+                "standard": "Сейшельские Острова"
               }
             },
             "Singapore": {
@@ -2174,7 +2174,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "Соломоновы острова"
+                "standard": "Соломоновы Острова"
               }
             },
             "South_Georgia": {
@@ -2228,9 +2228,9 @@
             },
             "Turkmenistan": {
               "long": {
-                "generic": "Туркмения",
-                "standard": "Туркмения, стандартное время",
-                "daylight": "Туркмения, летнее время"
+                "generic": "Туркменистан",
+                "standard": "Туркменистан, стандартное время",
+                "daylight": "Туркменистан, летнее время"
               }
             },
             "Tuvalu": {

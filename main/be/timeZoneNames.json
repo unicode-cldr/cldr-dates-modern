@@ -3,8 +3,8 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "be"
       },
@@ -163,7 +163,7 @@
                 "exemplarCity": "Эйрунэпе"
               },
               "El_Salvador": {
-                "exemplarCity": "Эль-Сальвадор"
+                "exemplarCity": "Сальвадор"
               },
               "Fort_Nelson": {
                 "exemplarCity": "Форт-Нельсан"
@@ -1465,9 +1465,9 @@
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "Заходні час Цэнтральнай Аўстраліі",
-                "standard": "Заходні стандартны час Цэнтральнай Аўстраліі",
-                "daylight": "Заходні летні час Цэнтральнай Аўстраліі"
+                "generic": "Цэнтральна-заходні час Аўстраліі",
+                "standard": "Стандартны цэнтральна-заходні час Аўстраліі",
+                "daylight": "Летні цэнтральна-заходні час Аўстраліі"
               }
             },
             "Australia_Eastern": {
@@ -1824,7 +1824,7 @@
             },
             "Kosrae": {
               "long": {
-                "standard": "Час вострава Касрае"
+                "standard": "Час астравоў Кусаіе"
               }
             },
             "Krasnoyarsk": {
@@ -1870,7 +1870,7 @@
             },
             "Maldives": {
               "long": {
-                "standard": "Час Мальдыў"
+                "standard": "Час Мальдываў"
               }
             },
             "Marquesas": {

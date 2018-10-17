@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "kk"
       },
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Жс",
-                  "mon": "Дс",
-                  "tue": "Сс",
-                  "wed": "Ср",
-                  "thu": "Бс",
-                  "fri": "Жм",
-                  "sat": "Сб"
+                  "sun": "жс",
+                  "mon": "дс",
+                  "tue": "сс",
+                  "wed": "ср",
+                  "thu": "бс",
+                  "fri": "жм",
+                  "sat": "сб"
                 },
                 "narrow": {
                   "sun": "Ж",
@@ -122,13 +122,13 @@
                   "sat": "С"
                 },
                 "short": {
-                  "sun": "Жс",
-                  "mon": "Дс",
-                  "tue": "Сс",
-                  "wed": "Ср",
-                  "thu": "Бс",
-                  "fri": "Жм",
-                  "sat": "Сб"
+                  "sun": "жс",
+                  "mon": "дс",
+                  "tue": "сс",
+                  "wed": "ср",
+                  "thu": "бс",
+                  "fri": "жм",
+                  "sat": "сб"
                 },
                 "wide": {
                   "sun": "жексенбі",
@@ -142,13 +142,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Жс",
-                  "mon": "Дс",
-                  "tue": "Сс",
-                  "wed": "Ср",
-                  "thu": "Бс",
-                  "fri": "Жм",
-                  "sat": "Сб"
+                  "sun": "жс",
+                  "mon": "дс",
+                  "tue": "сс",
+                  "wed": "ср",
+                  "thu": "бс",
+                  "fri": "жм",
+                  "sat": "сб"
                 },
                 "narrow": {
                   "sun": "Ж",
@@ -160,22 +160,22 @@
                   "sat": "С"
                 },
                 "short": {
-                  "sun": "Жс",
-                  "mon": "Дс",
-                  "tue": "Сс",
-                  "wed": "Ср",
-                  "thu": "Бс",
-                  "fri": "Жм",
-                  "sat": "Сб"
+                  "sun": "жс",
+                  "mon": "дс",
+                  "tue": "сс",
+                  "wed": "ср",
+                  "thu": "бс",
+                  "fri": "жм",
+                  "sat": "сб"
                 },
                 "wide": {
-                  "sun": "Жексенбі",
-                  "mon": "Дүйсенбі",
-                  "tue": "Сейсенбі",
-                  "wed": "Сәрсенбі",
-                  "thu": "Бейсенбі",
-                  "fri": "Жұма",
-                  "sat": "Сенбі"
+                  "sun": "жексенбі",
+                  "mon": "дүйсенбі",
+                  "tue": "сейсенбі",
+                  "wed": "сәрсенбі",
+                  "thu": "бейсенбі",
+                  "fri": "жұма",
+                  "sat": "сенбі"
                 }
               }
             },
@@ -319,13 +319,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
-                "Bh": "h B",
-                "Bhm": "h:mm B",
-                "Bhms": "h:mm:ss B",
+                "Bh": "B h",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:ss",
                 "d": "d",
                 "E": "ccc",
-                "EBhm": "E h:mm B",
-                "EBhms": "E h:mm:ss B",
+                "EBhm": "E B h:mm",
+                "EBhms": "E B h:mm:ss",
                 "Ed": "d, E",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
@@ -378,6 +378,44 @@
                 "intervalFormatFallback": "{0} - {1}",
                 "d": {
                   "d": "d–d"
+                },
+                "Gy": {
+                  "G": "G y – G y",
+                  "y": "G y–y"
+                },
+                "GyM": {
+                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "M": "GGGGG y-MM – y-MM",
+                  "y": "GGGGG y-MM – y-MM"
+                },
+                "GyMd": {
+                  "d": "GGGGG y-MM-dd – y-MM-dd",
+                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
+                  "M": "GGGGG y-MM-dd – y-MM-dd",
+                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                },
+                "GyMEd": {
+                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
+                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                },
+                "GyMMM": {
+                  "G": "G y MMM – G y MMM",
+                  "M": "G y MMM–MMM",
+                  "y": "G y MMM – y MMM"
+                },
+                "GyMMMd": {
+                  "d": "G y MMM d–d",
+                  "G": "G y MMM d – G y MMM d",
+                  "M": "G y MMM d – MMM d",
+                  "y": "G y MMM d – y MMM d"
+                },
+                "GyMMMEd": {
+                  "d": "G y MMM d, E – MMM d, E",
+                  "G": "G y MMM d, E – G y MMM d, E",
+                  "M": "G y MMM d, E – MMM d, E",
+                  "y": "G y MMM d, E – y MMM d, E"
                 },
                 "h": {
                   "a": "h a – h a",

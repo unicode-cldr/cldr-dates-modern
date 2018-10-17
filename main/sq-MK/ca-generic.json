@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "sq",
         "territory": "MK"
@@ -114,22 +114,22 @@
                   "sat": "Sht"
                 },
                 "narrow": {
-                  "sun": "D",
-                  "mon": "H",
-                  "tue": "M",
-                  "wed": "M",
-                  "thu": "E",
-                  "fri": "P",
-                  "sat": "Sh"
+                  "sun": "d",
+                  "mon": "h",
+                  "tue": "m",
+                  "wed": "m",
+                  "thu": "e",
+                  "fri": "p",
+                  "sat": "sh"
                 },
                 "short": {
-                  "sun": "Die",
-                  "mon": "Hën",
-                  "tue": "Mar",
-                  "wed": "Mër",
-                  "thu": "Enj",
-                  "fri": "Pre",
-                  "sat": "Sht"
+                  "sun": "die",
+                  "mon": "hën",
+                  "tue": "mar",
+                  "wed": "mër",
+                  "thu": "enj",
+                  "fri": "pre",
+                  "sat": "sht"
                 },
                 "wide": {
                   "sun": "e diel",
@@ -143,40 +143,40 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Die",
-                  "mon": "Hën",
-                  "tue": "Mar",
-                  "wed": "Mër",
-                  "thu": "Enj",
-                  "fri": "Pre",
-                  "sat": "Sht"
+                  "sun": "die",
+                  "mon": "hën",
+                  "tue": "mar",
+                  "wed": "mër",
+                  "thu": "enj",
+                  "fri": "pre",
+                  "sat": "sht"
                 },
                 "narrow": {
-                  "sun": "D",
-                  "mon": "H",
-                  "tue": "M",
-                  "wed": "M",
-                  "thu": "E",
-                  "fri": "P",
-                  "sat": "Sh"
+                  "sun": "d",
+                  "mon": "h",
+                  "tue": "m",
+                  "wed": "m",
+                  "thu": "e",
+                  "fri": "p",
+                  "sat": "sh"
                 },
                 "short": {
-                  "sun": "Die",
-                  "mon": "Hën",
-                  "tue": "Mar",
-                  "wed": "Mër",
-                  "thu": "Enj",
-                  "fri": "Pre",
-                  "sat": "Sht"
+                  "sun": "die",
+                  "mon": "hën",
+                  "tue": "mar",
+                  "wed": "mër",
+                  "thu": "enj",
+                  "fri": "pre",
+                  "sat": "sht"
                 },
                 "wide": {
-                  "sun": "E diel",
-                  "mon": "E hënë",
-                  "tue": "E martë",
-                  "wed": "E mërkurë",
-                  "thu": "E enjte",
-                  "fri": "E premte",
-                  "sat": "E shtunë"
+                  "sun": "e diel",
+                  "mon": "e hënë",
+                  "tue": "e martë",
+                  "wed": "e mërkurë",
+                  "thu": "e enjte",
+                  "fri": "e premte",
+                  "sat": "e shtunë"
                 }
               }
             },
@@ -226,9 +226,9 @@
               "format": {
                 "abbreviated": {
                   "midnight": "e mesnatës",
-                  "am": "e paradites",
+                  "am": "p.d.",
                   "noon": "e mesditës",
-                  "pm": "e pasdites",
+                  "pm": "m.d.",
                   "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
@@ -237,9 +237,9 @@
                 },
                 "narrow": {
                   "midnight": "e mesnatës",
-                  "am": "e paradites",
+                  "am": "p.d.",
                   "noon": "e mesditës",
-                  "pm": "e pasdites",
+                  "pm": "m.d.",
                   "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
@@ -261,9 +261,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "mesnatë",
-                  "am": "paradite",
+                  "am": "p.d.",
                   "noon": "mesditë",
-                  "pm": "pasdite",
+                  "pm": "m.d.",
                   "morning1": "mëngjes",
                   "morning2": "paradite",
                   "afternoon1": "pasdite",
@@ -272,9 +272,9 @@
                 },
                 "narrow": {
                   "midnight": "mesnatë",
-                  "am": "paradite",
+                  "am": "p.d.",
                   "noon": "mesditë",
-                  "pm": "pasdite",
+                  "pm": "m.d.",
                   "morning1": "mëngjes",
                   "morning2": "paradite",
                   "afternoon1": "pasdite",
@@ -386,6 +386,44 @@
                 "intervalFormatFallback": "{0} - {1}",
                 "d": {
                   "d": "d – d"
+                },
+                "Gy": {
+                  "G": "G y – G y",
+                  "y": "G y–y"
+                },
+                "GyM": {
+                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "M": "GGGGG y-MM – y-MM",
+                  "y": "GGGGG y-MM – y-MM"
+                },
+                "GyMd": {
+                  "d": "GGGGG y-MM-dd – y-MM-dd",
+                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
+                  "M": "GGGGG y-MM-dd – y-MM-dd",
+                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                },
+                "GyMEd": {
+                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
+                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                },
+                "GyMMM": {
+                  "G": "G y MMM – G y MMM",
+                  "M": "G y MMM–MMM",
+                  "y": "G y MMM – y MMM"
+                },
+                "GyMMMd": {
+                  "d": "G y MMM d–d",
+                  "G": "G y MMM d – G y MMM d",
+                  "M": "G y MMM d – MMM d",
+                  "y": "G y MMM d – y MMM d"
+                },
+                "GyMMMEd": {
+                  "d": "G y MMM d, E – MMM d, E",
+                  "G": "G y MMM d, E – G y MMM d, E",
+                  "M": "G y MMM d, E – MMM d, E",
+                  "y": "G y MMM d, E – y MMM d, E"
                 },
                 "h": {
                   "a": "h a – h a",

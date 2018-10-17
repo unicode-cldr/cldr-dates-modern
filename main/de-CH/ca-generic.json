@@ -3,8 +3,8 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13937 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14450 $",
+          "_cldrVersion": "34"
         },
         "language": "de",
         "territory": "CH"
@@ -226,8 +226,8 @@
               "format": {
                 "abbreviated": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -237,8 +237,8 @@
                 },
                 "narrow": {
                   "midnight": "Mitternacht",
-                  "am": "vm.",
-                  "pm": "nm.",
+                  "am": "a",
+                  "pm": "p",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -248,8 +248,8 @@
                 },
                 "wide": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -261,8 +261,8 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "Morgen",
                   "morning2": "Vormittag",
                   "afternoon1": "Mittag",
@@ -272,8 +272,8 @@
                 },
                 "narrow": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "a",
+                  "pm": "p",
                   "morning1": "Morgen",
                   "morning2": "Vormittag",
                   "afternoon1": "Mittag",
@@ -283,8 +283,8 @@
                 },
                 "wide": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "Morgen",
                   "morning2": "Vormittag",
                   "afternoon1": "Mittag",
@@ -385,6 +385,44 @@
                 "intervalFormatFallback": "{0} – {1}",
                 "d": {
                   "d": "d.–d."
+                },
+                "Gy": {
+                  "G": "G y – G y",
+                  "y": "G y–y"
+                },
+                "GyM": {
+                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "M": "GGGGG y-MM – y-MM",
+                  "y": "GGGGG y-MM – y-MM"
+                },
+                "GyMd": {
+                  "d": "GGGGG y-MM-dd – y-MM-dd",
+                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
+                  "M": "GGGGG y-MM-dd – y-MM-dd",
+                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                },
+                "GyMEd": {
+                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
+                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                },
+                "GyMMM": {
+                  "G": "G y MMM – G y MMM",
+                  "M": "G y MMM–MMM",
+                  "y": "G y MMM – y MMM"
+                },
+                "GyMMMd": {
+                  "d": "G y MMM d–d",
+                  "G": "G y MMM d – G y MMM d",
+                  "M": "G y MMM d – MMM d",
+                  "y": "G y MMM d – y MMM d"
+                },
+                "GyMMMEd": {
+                  "d": "G y MMM d, E – MMM d, E",
+                  "G": "G y MMM d, E – G y MMM d, E",
+                  "M": "G y MMM d, E – MMM d, E",
+                  "y": "G y MMM d, E – y MMM d, E"
                 },
                 "h": {
                   "a": "h a – h a",

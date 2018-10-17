@@ -3,8 +3,8 @@
     "sq": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "sq"
       },
@@ -58,46 +58,46 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Jan",
-                  "2": "Shk",
-                  "3": "Mar",
-                  "4": "Pri",
-                  "5": "Maj",
-                  "6": "Qer",
-                  "7": "Korr",
-                  "8": "Gush",
-                  "9": "Sht",
-                  "10": "Tet",
-                  "11": "Nën",
-                  "12": "Dhj"
+                  "1": "jan",
+                  "2": "shk",
+                  "3": "mar",
+                  "4": "pri",
+                  "5": "maj",
+                  "6": "qer",
+                  "7": "korr",
+                  "8": "gush",
+                  "9": "sht",
+                  "10": "tet",
+                  "11": "nën",
+                  "12": "dhj"
                 },
                 "narrow": {
-                  "1": "J",
-                  "2": "Sh",
-                  "3": "M",
-                  "4": "P",
-                  "5": "M",
-                  "6": "Q",
-                  "7": "K",
-                  "8": "G",
-                  "9": "Sh",
-                  "10": "T",
-                  "11": "N",
-                  "12": "Dh"
+                  "1": "j",
+                  "2": "sh",
+                  "3": "m",
+                  "4": "p",
+                  "5": "m",
+                  "6": "q",
+                  "7": "k",
+                  "8": "g",
+                  "9": "sh",
+                  "10": "t",
+                  "11": "n",
+                  "12": "dh"
                 },
                 "wide": {
-                  "1": "Janar",
-                  "2": "Shkurt",
-                  "3": "Mars",
-                  "4": "Prill",
-                  "5": "Maj",
-                  "6": "Qershor",
-                  "7": "Korrik",
-                  "8": "Gusht",
-                  "9": "Shtator",
-                  "10": "Tetor",
-                  "11": "Nëntor",
-                  "12": "Dhjetor"
+                  "1": "janar",
+                  "2": "shkurt",
+                  "3": "mars",
+                  "4": "prill",
+                  "5": "maj",
+                  "6": "qershor",
+                  "7": "korrik",
+                  "8": "gusht",
+                  "9": "shtator",
+                  "10": "tetor",
+                  "11": "nëntor",
+                  "12": "dhjetor"
                 }
               }
             },
@@ -113,22 +113,22 @@
                   "sat": "Sht"
                 },
                 "narrow": {
-                  "sun": "D",
-                  "mon": "H",
-                  "tue": "M",
-                  "wed": "M",
-                  "thu": "E",
-                  "fri": "P",
-                  "sat": "Sh"
+                  "sun": "d",
+                  "mon": "h",
+                  "tue": "m",
+                  "wed": "m",
+                  "thu": "e",
+                  "fri": "p",
+                  "sat": "sh"
                 },
                 "short": {
-                  "sun": "Die",
-                  "mon": "Hën",
-                  "tue": "Mar",
-                  "wed": "Mër",
-                  "thu": "Enj",
-                  "fri": "Pre",
-                  "sat": "Sht"
+                  "sun": "die",
+                  "mon": "hën",
+                  "tue": "mar",
+                  "wed": "mër",
+                  "thu": "enj",
+                  "fri": "pre",
+                  "sat": "sht"
                 },
                 "wide": {
                   "sun": "e diel",
@@ -142,40 +142,40 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Die",
-                  "mon": "Hën",
-                  "tue": "Mar",
-                  "wed": "Mër",
-                  "thu": "Enj",
-                  "fri": "Pre",
-                  "sat": "Sht"
+                  "sun": "die",
+                  "mon": "hën",
+                  "tue": "mar",
+                  "wed": "mër",
+                  "thu": "enj",
+                  "fri": "pre",
+                  "sat": "sht"
                 },
                 "narrow": {
-                  "sun": "D",
-                  "mon": "H",
-                  "tue": "M",
-                  "wed": "M",
-                  "thu": "E",
-                  "fri": "P",
-                  "sat": "Sh"
+                  "sun": "d",
+                  "mon": "h",
+                  "tue": "m",
+                  "wed": "m",
+                  "thu": "e",
+                  "fri": "p",
+                  "sat": "sh"
                 },
                 "short": {
-                  "sun": "Die",
-                  "mon": "Hën",
-                  "tue": "Mar",
-                  "wed": "Mër",
-                  "thu": "Enj",
-                  "fri": "Pre",
-                  "sat": "Sht"
+                  "sun": "die",
+                  "mon": "hën",
+                  "tue": "mar",
+                  "wed": "mër",
+                  "thu": "enj",
+                  "fri": "pre",
+                  "sat": "sht"
                 },
                 "wide": {
-                  "sun": "E diel",
-                  "mon": "E hënë",
-                  "tue": "E martë",
-                  "wed": "E mërkurë",
-                  "thu": "E enjte",
-                  "fri": "E premte",
-                  "sat": "E shtunë"
+                  "sun": "e diel",
+                  "mon": "e hënë",
+                  "tue": "e martë",
+                  "wed": "e mërkurë",
+                  "thu": "e enjte",
+                  "fri": "e premte",
+                  "sat": "e shtunë"
                 }
               }
             },
@@ -225,9 +225,9 @@
               "format": {
                 "abbreviated": {
                   "midnight": "e mesnatës",
-                  "am": "e paradites",
+                  "am": "p.d.",
                   "noon": "e mesditës",
-                  "pm": "e pasdites",
+                  "pm": "m.d.",
                   "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
@@ -236,9 +236,9 @@
                 },
                 "narrow": {
                   "midnight": "e mesnatës",
-                  "am": "e paradites",
+                  "am": "p.d.",
                   "noon": "e mesditës",
-                  "pm": "e pasdites",
+                  "pm": "m.d.",
                   "morning1": "e mëngjesit",
                   "morning2": "e paradites",
                   "afternoon1": "e pasdites",
@@ -260,9 +260,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "mesnatë",
-                  "am": "paradite",
+                  "am": "p.d.",
                   "noon": "mesditë",
-                  "pm": "pasdite",
+                  "pm": "m.d.",
                   "morning1": "mëngjes",
                   "morning2": "paradite",
                   "afternoon1": "pasdite",
@@ -271,9 +271,9 @@
                 },
                 "narrow": {
                   "midnight": "mesnatë",
-                  "am": "paradite",
+                  "am": "p.d.",
                   "noon": "mesditë",
-                  "pm": "pasdite",
+                  "pm": "m.d.",
                   "morning1": "mëngjes",
                   "morning2": "paradite",
                   "afternoon1": "pasdite",
@@ -399,6 +399,44 @@
                 "intervalFormatFallback": "{0} - {1}",
                 "d": {
                   "d": "d – d"
+                },
+                "Gy": {
+                  "G": "G y – G y",
+                  "y": "G y–y"
+                },
+                "GyM": {
+                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "M": "GGGGG y-MM – y-MM",
+                  "y": "GGGGG y-MM – y-MM"
+                },
+                "GyMd": {
+                  "d": "GGGGG y-MM-dd – y-MM-dd",
+                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
+                  "M": "GGGGG y-MM-dd – y-MM-dd",
+                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                },
+                "GyMEd": {
+                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
+                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                },
+                "GyMMM": {
+                  "G": "G y MMM – G y MMM",
+                  "M": "G y MMM–MMM",
+                  "y": "G y MMM – y MMM"
+                },
+                "GyMMMd": {
+                  "d": "G y MMM d–d",
+                  "G": "G y MMM d – G y MMM d",
+                  "M": "G y MMM d – MMM d",
+                  "y": "G y MMM d – y MMM d"
+                },
+                "GyMMMEd": {
+                  "d": "G y MMM d, E – MMM d, E",
+                  "G": "G y MMM d, E – G y MMM d, E",
+                  "M": "G y MMM d, E – MMM d, E",
+                  "y": "G y MMM d, E – y MMM d, E"
                 },
                 "h": {
                   "a": "h a – h a",

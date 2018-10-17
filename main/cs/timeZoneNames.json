@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13915 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "cs"
       },
@@ -1345,7 +1345,7 @@
                 }
               },
               "Unknown": {
-                "exemplarCity": "Neznámé město"
+                "exemplarCity": "neznámé město"
               }
             }
           },

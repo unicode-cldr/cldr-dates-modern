@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14402 $",
+          "_cldrVersion": "34"
         },
         "language": "gu"
       },
@@ -305,7 +305,7 @@
             "relative-type-0": "આ રવિ",
             "relative-type-1": "આવતા રવિ",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} રવિવાર",
+              "relativeTimePattern-count-one": "{0} રવિવારમાં",
               "relativeTimePattern-count-other": "{0} રવિવારમાં"
             },
             "relativeTime-type-past": {
@@ -452,8 +452,8 @@
               "relativeTimePattern-count-other": "{0} ગુરુવારમાં"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} ગુરુવાર",
-              "relativeTimePattern-count-other": "-{0} ગુરુવાર"
+              "relativeTimePattern-count-one": "{0} ગુરુ. પહેલાં",
+              "relativeTimePattern-count-other": "{0} ગુરુ. પહેલાં"
             }
           },
           "thu-narrow": {

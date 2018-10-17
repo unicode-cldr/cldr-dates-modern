@@ -3,8 +3,8 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14418 $",
+          "_cldrVersion": "34"
         },
         "language": "en",
         "territory": "AU"
@@ -198,7 +198,7 @@
             "displayName": "wk of mo."
           },
           "weekOfMonth-narrow": {
-            "displayName": "wk of mo."
+            "displayName": "wk of mo"
           },
           "day": {
             "displayName": "day",
@@ -267,7 +267,7 @@
             "displayName": "wkday of mo."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "wkday of mo."
+            "displayName": "wkday of mo"
           },
           "sun": {
             "relative-type--1": "last Sunday",
@@ -283,9 +283,9 @@
             }
           },
           "sun-short": {
-            "relative-type--1": "last Sun.",
-            "relative-type-0": "this Sun.",
-            "relative-type-1": "next Sun.",
+            "relative-type--1": "last Sun",
+            "relative-type-0": "this Sun",
+            "relative-type-1": "next Sun",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} Sun.",
               "relativeTimePattern-count-other": "in {0} Sun."
@@ -322,9 +322,9 @@
             }
           },
           "mon-short": {
-            "relative-type--1": "last Mon.",
-            "relative-type-0": "this Mon.",
-            "relative-type-1": "next Mon.",
+            "relative-type--1": "last Mon",
+            "relative-type-0": "this Mon",
+            "relative-type-1": "next Mon",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} Mon.",
               "relativeTimePattern-count-other": "in {0} Mon."
@@ -361,9 +361,9 @@
             }
           },
           "tue-short": {
-            "relative-type--1": "last Tue.",
-            "relative-type-0": "this Tue.",
-            "relative-type-1": "next Tue.",
+            "relative-type--1": "last Tue",
+            "relative-type-0": "this Tue",
+            "relative-type-1": "next Tue",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} Tue.",
               "relativeTimePattern-count-other": "in {0} Tue."
@@ -400,9 +400,9 @@
             }
           },
           "wed-short": {
-            "relative-type--1": "last Wed.",
-            "relative-type-0": "this Wed.",
-            "relative-type-1": "next Wed.",
+            "relative-type--1": "last Wed",
+            "relative-type-0": "this Wed",
+            "relative-type-1": "next Wed",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} Wed.",
               "relativeTimePattern-count-other": "in {0} Wed."
@@ -439,9 +439,9 @@
             }
           },
           "thu-short": {
-            "relative-type--1": "last Thu.",
-            "relative-type-0": "this Thu.",
-            "relative-type-1": "next Thu.",
+            "relative-type--1": "last Thu",
+            "relative-type-0": "this Thu",
+            "relative-type-1": "next Thu",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} Thu.",
               "relativeTimePattern-count-other": "in {0} Thu."
@@ -478,9 +478,9 @@
             }
           },
           "fri-short": {
-            "relative-type--1": "last Fri.",
-            "relative-type-0": "this Fri.",
-            "relative-type-1": "next Fri.",
+            "relative-type--1": "last Fri",
+            "relative-type-0": "this Fri",
+            "relative-type-1": "next Fri",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} Fri.",
               "relativeTimePattern-count-other": "in {0} Fri."
@@ -517,9 +517,9 @@
             }
           },
           "sat-short": {
-            "relative-type--1": "last Sat.",
-            "relative-type-0": "this Sat.",
-            "relative-type-1": "next Sat.",
+            "relative-type--1": "last Sat",
+            "relative-type-0": "this Sat",
+            "relative-type-1": "next Sat",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} Sat.",
               "relativeTimePattern-count-other": "in {0} Sat."

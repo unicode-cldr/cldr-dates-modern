@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "bn",
         "territory": "IN"
@@ -122,7 +122,7 @@
                 "exemplarCity": "চিহুয়াহুয়া"
               },
               "Coral_Harbour": {
-                "exemplarCity": "কোরাল হার্বার"
+                "exemplarCity": "আটিকোকান"
               },
               "Cordoba": {
                 "exemplarCity": "কর্ডোবা"
@@ -1107,7 +1107,7 @@
                 "exemplarCity": "ছাগোস"
               },
               "Christmas": {
-                "exemplarCity": "বড়দিন"
+                "exemplarCity": "ক্রিসমাস"
               },
               "Cocos": {
                 "exemplarCity": "কোকোস"

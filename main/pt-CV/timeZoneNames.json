@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13912 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "pt",
         "territory": "CV"
@@ -1417,7 +1417,7 @@
             },
             "America_Mountain": {
               "long": {
-                "generic": "Hora de Montanha",
+                "generic": "Hora da Montanha",
                 "standard": "Hora padrão da Montanha",
                 "daylight": "Hora de verão da Montanha"
               }
@@ -1536,9 +1536,9 @@
             },
             "Bangladesh": {
               "long": {
-                "generic": "Hora do Bangladesh",
-                "standard": "Hora padrão do Bangladesh",
-                "daylight": "Hora de verão do Bangladesh"
+                "generic": "Hora do Bangladeche",
+                "standard": "Hora padrão do Bangladeche",
+                "daylight": "Hora de verão do Bangladeche"
               }
             },
             "Bhutan": {

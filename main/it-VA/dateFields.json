@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "it",
         "territory": "VA"
@@ -78,9 +78,9 @@
           },
           "quarter-short": {
             "displayName": "trim.",
-            "relative-type--1": "trimestre scorso",
-            "relative-type-0": "questo trimestre",
-            "relative-type-1": "trimestre prossimo",
+            "relative-type--1": "trim. scorso",
+            "relative-type-0": "questo trim.",
+            "relative-type-1": "trim. prossimo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "tra {0} trim.",
               "relativeTimePattern-count-other": "tra {0} trim."
@@ -92,9 +92,9 @@
           },
           "quarter-narrow": {
             "displayName": "trim.",
-            "relative-type--1": "trimestre scorso",
-            "relative-type-0": "questo trimestre",
-            "relative-type-1": "trimestre prossimo",
+            "relative-type--1": "trim. scorso",
+            "relative-type-0": "questo trim.",
+            "relative-type-1": "trim. prossimo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "tra {0} trim.",
               "relativeTimePattern-count-other": "tra {0} trim."

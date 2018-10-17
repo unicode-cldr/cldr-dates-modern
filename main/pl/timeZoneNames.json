@@ -3,8 +3,8 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13915 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "pl"
       },
@@ -1771,7 +1771,7 @@
             },
             "India": {
               "long": {
-                "standard": "czas indyjski"
+                "standard": "czas indyjski standardowy"
               }
             },
             "Indian_Ocean": {
@@ -1947,9 +1947,9 @@
             },
             "Moscow": {
               "long": {
-                "generic": "czas moskiewski",
-                "standard": "czas moskiewski standardowy",
-                "daylight": "czas moskiewski letni"
+                "generic": "Moskwa",
+                "standard": "Moskwa (standardowy)",
+                "daylight": "Moskwa (letni)"
               }
             },
             "Myanmar": {

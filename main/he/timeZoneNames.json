@@ -3,8 +3,8 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14394 $",
+          "_cldrVersion": "34"
         },
         "language": "he"
       },
@@ -1379,6 +1379,13 @@
                 "daylight": "שעון אלסקה (קיץ)"
               }
             },
+            "Almaty": {
+              "long": {
+                "generic": "שעון אלמטי",
+                "standard": "שעון אלמטי (חורף)",
+                "daylight": "שעון אלמטי (קיץ)"
+              }
+            },
             "Amazon": {
               "long": {
                 "generic": "שעון אמזונס",
@@ -1426,6 +1433,20 @@
                 "generic": "שעון אפיה",
                 "standard": "שעון אפיה (חורף)",
                 "daylight": "שעון אפיה (קיץ)"
+              }
+            },
+            "Aqtau": {
+              "long": {
+                "generic": "שעון אקטאו",
+                "standard": "שעון אקטאו (חורף)",
+                "daylight": "שעון אקטאו (קיץ)"
+              }
+            },
+            "Aqtobe": {
+              "long": {
+                "generic": "שעון אקטובה",
+                "standard": "שעון אוקטובה (חורף)",
+                "daylight": "שעון אוקטובה (קיץ)"
               }
             },
             "Arabian": {
@@ -2084,6 +2105,13 @@
             "Pyongyang": {
               "long": {
                 "standard": "שעון פיונגיאנג"
+              }
+            },
+            "Qyzylorda": {
+              "long": {
+                "generic": "שעון קיזילורדה",
+                "standard": "שעון קיזילורדה (חורף)",
+                "daylight": "שעון קיזילורדה (קיץ)"
               }
             },
             "Reunion": {

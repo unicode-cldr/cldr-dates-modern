@@ -3,8 +3,8 @@
     "da": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "da"
       },
@@ -483,7 +483,7 @@
                 "exemplarCity": "De Kanariske Øer"
               },
               "Cape_Verde": {
-                "exemplarCity": "Cabo Verde"
+                "exemplarCity": "Kap Verde"
               },
               "Faeroe": {
                 "exemplarCity": "Færøerne"
@@ -662,7 +662,7 @@
                 "exemplarCity": "Uljanovsk"
               },
               "Uzhgorod": {
-                "exemplarCity": "Uzhgorod"
+                "exemplarCity": "Uzjhorod"
               },
               "Vaduz": {
                 "exemplarCity": "Vaduz"
@@ -876,7 +876,7 @@
                 "exemplarCity": "Atyrau"
               },
               "Baghdad": {
-                "exemplarCity": "Baghdad"
+                "exemplarCity": "Bagdad"
               },
               "Bahrain": {
                 "exemplarCity": "Bahrain"
@@ -1106,7 +1106,7 @@
                 "exemplarCity": "Chagos"
               },
               "Christmas": {
-                "exemplarCity": "Christmas"
+                "exemplarCity": "Juleøerne"
               },
               "Cocos": {
                 "exemplarCity": "Cocos"
@@ -1479,9 +1479,9 @@
             },
             "Armenia": {
               "long": {
-                "generic": "Armenien-tid",
-                "standard": "Armenien-normaltid",
-                "daylight": "Armenien-sommertid"
+                "generic": "Armensk tid",
+                "standard": "Armensk normaltid",
+                "daylight": "Armensk sommertid"
               }
             },
             "Atlantic": {
@@ -1521,9 +1521,9 @@
             },
             "Azerbaijan": {
               "long": {
-                "generic": "Aserbajdsjan-tid",
-                "standard": "Aserbajdsjan-normaltid",
-                "daylight": "Aserbajdsjan-sommertid"
+                "generic": "Aserbajdsjansk tid",
+                "standard": "Aserbajdsjansk normaltid",
+                "daylight": "Aserbajdsjansk sommertid"
               }
             },
             "Azores": {
@@ -1564,9 +1564,9 @@
             },
             "Cape_Verde": {
               "long": {
-                "generic": "Cabo Verde-tid",
-                "standard": "Cabo Verde-normaltid",
-                "daylight": "Cabo Verde-sommertid"
+                "generic": "Kap Verde-tid",
+                "standard": "Kap Verde-normaltid",
+                "daylight": "Kap Verde-sommertid"
               }
             },
             "Chamorro": {
@@ -1710,9 +1710,9 @@
             },
             "Fiji": {
               "long": {
-                "generic": "Fiji-tid",
-                "standard": "Fiji-normaltid",
-                "daylight": "Fiji-sommertid"
+                "generic": "Fijiansk tid",
+                "standard": "Fijiansk normaltid",
+                "daylight": "Fijiansk sommertid"
               }
             },
             "French_Guiana": {
@@ -1737,9 +1737,9 @@
             },
             "Georgia": {
               "long": {
-                "generic": "Georgien-tid",
-                "standard": "Georgien-normaltid",
-                "daylight": "Georgien-sommertid"
+                "generic": "Georgisk tid",
+                "standard": "Georgisk normaltid",
+                "daylight": "Georgisk sommertid"
               }
             },
             "Gilbert_Islands": {
@@ -1804,7 +1804,7 @@
             },
             "India": {
               "long": {
-                "standard": "Indien-normaltid"
+                "standard": "Indisk normaltid"
               }
             },
             "Indian_Ocean": {
@@ -1834,9 +1834,9 @@
             },
             "Iran": {
               "long": {
-                "generic": "Iran-tid",
-                "standard": "Iran-normaltid",
-                "daylight": "Iran-sommertid"
+                "generic": "Iransk tid",
+                "standard": "Iransk normaltid",
+                "daylight": "Iransk sommertid"
               }
             },
             "Irkutsk": {
@@ -2009,7 +2009,7 @@
             },
             "Nepal": {
               "long": {
-                "standard": "Nepal-tid"
+                "standard": "Nepalesisk tid"
               }
             },
             "New_Caledonia": {
@@ -2021,9 +2021,9 @@
             },
             "New_Zealand": {
               "long": {
-                "generic": "New Zealand-tid",
-                "standard": "New Zealand-normaltid",
-                "daylight": "New Zealand-sommertid"
+                "generic": "Newzealandsk tid",
+                "standard": "Newzealandsk normaltid",
+                "daylight": "Newzealandsk sommertid"
               }
             },
             "Newfoundland": {
@@ -2071,9 +2071,9 @@
             },
             "Pakistan": {
               "long": {
-                "generic": "Pakistan-tid",
-                "standard": "Pakistan-normaltid",
-                "daylight": "Pakistan-sommertid"
+                "generic": "Pakistansk tid",
+                "standard": "Pakistansk normaltid",
+                "daylight": "Pakistansk sommertid"
               }
             },
             "Palau": {
@@ -2103,8 +2103,8 @@
             "Philippines": {
               "long": {
                 "generic": "Filippinsk tid",
-                "standard": "Filippinerne-normaltid",
-                "daylight": "Filippinerne-sommertid"
+                "standard": "Filippinsk normaltid",
+                "daylight": "Filippinsk sommertid"
               }
             },
             "Phoenix_Islands": {
@@ -2167,9 +2167,9 @@
             },
             "Samoa": {
               "long": {
-                "generic": "Samoa-tid",
-                "standard": "Samoa-normaltid",
-                "daylight": "Samoa-sommertid"
+                "generic": "Samoansk tid",
+                "standard": "Samoansk normaltid",
+                "daylight": "Samoansk sommertid"
               }
             },
             "Seychelles": {
@@ -2226,9 +2226,9 @@
             },
             "Tonga": {
               "long": {
-                "generic": "Tonga-tid",
-                "standard": "Tonga-normaltid",
-                "daylight": "Tonga-sommertid"
+                "generic": "Tongansk tid",
+                "standard": "Tongansk normaltid",
+                "daylight": "Tongansk sommertid"
               }
             },
             "Truk": {
@@ -2305,9 +2305,9 @@
             },
             "Yakutsk": {
               "long": {
-                "generic": "Yakutsk-tid",
-                "standard": "Yakutsk-normaltid",
-                "daylight": "Yakutsk-sommertid"
+                "generic": "Jakutsk-tid",
+                "standard": "Jakutsk-normaltid",
+                "daylight": "Jakutsk-sommertid"
               }
             },
             "Yekaterinburg": {

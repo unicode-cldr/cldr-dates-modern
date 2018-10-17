@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "eu"
       },
@@ -292,12 +292,12 @@
             "relative-type-0": "ig. honetan",
             "relative-type-1": "hurrengo ig.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} igande barru",
-              "relativeTimePattern-count-other": "{0} igande barru"
+              "relativeTimePattern-count-one": "{0} ig. barru",
+              "relativeTimePattern-count-other": "{0} ig. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} igande",
-              "relativeTimePattern-count-other": "Duela {0} igande"
+              "relativeTimePattern-count-one": "Duela {0} ig.",
+              "relativeTimePattern-count-other": "Duela {0} ig."
             }
           },
           "sun-narrow": {
@@ -305,12 +305,12 @@
             "relative-type-0": "ig. honetan",
             "relative-type-1": "hurrengo ig.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} igande barru",
-              "relativeTimePattern-count-other": "{0} igande barru"
+              "relativeTimePattern-count-one": "{0} ig. barru",
+              "relativeTimePattern-count-other": "{0} ig. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} igande",
-              "relativeTimePattern-count-other": "Duela {0} igande"
+              "relativeTimePattern-count-one": "Duela {0} ig.",
+              "relativeTimePattern-count-other": "Duela {0} ig."
             }
           },
           "mon": {
@@ -331,12 +331,12 @@
             "relative-type-0": "al. honetan",
             "relative-type-1": "hurrengo al.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} astelehen barru",
-              "relativeTimePattern-count-other": "{0} astelehen barru"
+              "relativeTimePattern-count-one": "{0} al. barru",
+              "relativeTimePattern-count-other": "{0} al. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} astelehen",
-              "relativeTimePattern-count-other": "Duela {0} astelehen"
+              "relativeTimePattern-count-one": "Duela {0} al.",
+              "relativeTimePattern-count-other": "Duela {0} al."
             }
           },
           "mon-narrow": {
@@ -370,12 +370,12 @@
             "relative-type-0": "ar. honetan",
             "relative-type-1": "hurrengo ar.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} astearte barru",
-              "relativeTimePattern-count-other": "{0} astearte barru"
+              "relativeTimePattern-count-one": "{0} ar. barru",
+              "relativeTimePattern-count-other": "{0} ar. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} astearte",
-              "relativeTimePattern-count-other": "Duela {0} astearte"
+              "relativeTimePattern-count-one": "Duela {0} ar.",
+              "relativeTimePattern-count-other": "Duela {0} ar."
             }
           },
           "tue-narrow": {
@@ -409,12 +409,12 @@
             "relative-type-0": "az. honetan",
             "relative-type-1": "hurrengo az.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} asteazken barru",
-              "relativeTimePattern-count-other": "{0} asteazken barru"
+              "relativeTimePattern-count-one": "{0} az. barru",
+              "relativeTimePattern-count-other": "{0} az. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} asteazken",
-              "relativeTimePattern-count-other": "Duela {0} asteazken"
+              "relativeTimePattern-count-one": "Duela {0} az.",
+              "relativeTimePattern-count-other": "Duela {0} az."
             }
           },
           "wed-narrow": {
@@ -422,12 +422,12 @@
             "relative-type-0": "az. honetan",
             "relative-type-1": "hurrengo az.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} asteazken barru",
-              "relativeTimePattern-count-other": "{0} asteazken barru"
+              "relativeTimePattern-count-one": "{0} az. barru",
+              "relativeTimePattern-count-other": "{0} az. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} asteazken",
-              "relativeTimePattern-count-other": "Duela {0} asteazken"
+              "relativeTimePattern-count-one": "Duela {0} az.",
+              "relativeTimePattern-count-other": "Duela {0} az."
             }
           },
           "thu": {
@@ -435,12 +435,12 @@
             "relative-type-0": "ostegun honetan",
             "relative-type-1": "hurrengo ostegunean",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ostegun barru",
-              "relativeTimePattern-count-other": "{0} ostegun barru"
+              "relativeTimePattern-count-one": "{0} og. barru",
+              "relativeTimePattern-count-other": "{0} og. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} ostegun",
-              "relativeTimePattern-count-other": "Duela {0} ostegun"
+              "relativeTimePattern-count-one": "Duela {0} og.",
+              "relativeTimePattern-count-other": "Duela {0} og."
             }
           },
           "thu-short": {
@@ -448,12 +448,12 @@
             "relative-type-0": "og. honetan",
             "relative-type-1": "hurrengo og.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ostegun barru",
-              "relativeTimePattern-count-other": "{0} ostegun barru"
+              "relativeTimePattern-count-one": "{0} og. barru",
+              "relativeTimePattern-count-other": "{0} og. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} ostegun",
-              "relativeTimePattern-count-other": "Duela {0} ostegun"
+              "relativeTimePattern-count-one": "Duela {0} og.",
+              "relativeTimePattern-count-other": "Duela {0} og."
             }
           },
           "thu-narrow": {
@@ -461,12 +461,12 @@
             "relative-type-0": "og. honetan",
             "relative-type-1": "hurrengo og.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ostegun barru",
-              "relativeTimePattern-count-other": "{0} ostegun barru"
+              "relativeTimePattern-count-one": "{0} og. barru",
+              "relativeTimePattern-count-other": "{0} og. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} ostegun",
-              "relativeTimePattern-count-other": "Duela {0} ostegun"
+              "relativeTimePattern-count-one": "Duela {0} og.",
+              "relativeTimePattern-count-other": "Duela {0} og."
             }
           },
           "fri": {
@@ -487,12 +487,12 @@
             "relative-type-0": "or. honetan",
             "relative-type-1": "hurrengo or.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ostiral barru",
-              "relativeTimePattern-count-other": "{0} ostiral barru"
+              "relativeTimePattern-count-one": "{0} or. barru",
+              "relativeTimePattern-count-other": "{0} or. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} ostiral",
-              "relativeTimePattern-count-other": "Duela {0} ostiral"
+              "relativeTimePattern-count-one": "Duela {0} or.",
+              "relativeTimePattern-count-other": "Duela {0} or."
             }
           },
           "fri-narrow": {
@@ -500,12 +500,12 @@
             "relative-type-0": "or. honetan",
             "relative-type-1": "hurrengo or.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} ostiral barru",
-              "relativeTimePattern-count-other": "{0} ostiral barru"
+              "relativeTimePattern-count-one": "{0} or. barru",
+              "relativeTimePattern-count-other": "{0} or. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} ostiral",
-              "relativeTimePattern-count-other": "Duela {0} ostiral"
+              "relativeTimePattern-count-one": "Duela {0} or.",
+              "relativeTimePattern-count-other": "Duela {0} or."
             }
           },
           "sat": {
@@ -526,12 +526,12 @@
             "relative-type-0": "lr. honetan",
             "relative-type-1": "hurrengo lr.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} larunbat barru",
-              "relativeTimePattern-count-other": "{0} larunbat barru"
+              "relativeTimePattern-count-one": "{0} lr. barru",
+              "relativeTimePattern-count-other": "{0} lr. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} larunbat",
-              "relativeTimePattern-count-other": "Duela {0} larunbat"
+              "relativeTimePattern-count-one": "Duela {0} lr.",
+              "relativeTimePattern-count-other": "Duela {0} lr."
             }
           },
           "sat-narrow": {
@@ -539,12 +539,12 @@
             "relative-type-0": "lr. honetan",
             "relative-type-1": "hurrengo lr.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} larunbat barru",
-              "relativeTimePattern-count-other": "{0} larunbat barru"
+              "relativeTimePattern-count-one": "{0} lr. barru",
+              "relativeTimePattern-count-other": "{0} lr. barru"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Duela {0} larunbat",
-              "relativeTimePattern-count-other": "Duela {0} larunbat"
+              "relativeTimePattern-count-one": "Duela {0} lr.",
+              "relativeTimePattern-count-other": "Duela {0} lr."
             }
           },
           "dayperiod-short": {

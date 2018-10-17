@@ -3,8 +3,8 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "ky"
       },
@@ -355,7 +355,7 @@
                 "exemplarCity": "Панама"
               },
               "Pangnirtung": {
-                "exemplarCity": "Пангиртуӊ"
+                "exemplarCity": "Пангиртуң"
               },
               "Paramaribo": {
                 "exemplarCity": "Парамарибо"
@@ -975,7 +975,7 @@
                 "exemplarCity": "Куала Лумпур"
               },
               "Kuching": {
-                "exemplarCity": "Кучиӊ"
+                "exemplarCity": "Кучиң"
               },
               "Kuwait": {
                 "exemplarCity": "Кувейт"
@@ -1699,7 +1699,7 @@
             },
             "GMT": {
               "long": {
-                "standard": "GMT, кышкы убакыты"
+                "standard": "Гринвич боюнча орточо убакыт"
               }
             },
             "Greenland_Eastern": {
@@ -1718,7 +1718,7 @@
             },
             "Gulf": {
               "long": {
-                "standard": "Персия булуңунун жайкы убакыты"
+                "standard": "Булуңдун стандарттык убакыты"
               }
             },
             "Guyana": {
@@ -1940,15 +1940,15 @@
             },
             "New_Caledonia": {
               "long": {
-                "generic": "Жаӊы Каледония убактысы",
-                "standard": "Жаӊы Каледония кышкы убакыты",
-                "daylight": "Жаӊы Каледония жайкы убактысы"
+                "generic": "Жаңы Каледония убактысы",
+                "standard": "Жаңы Каледония кышкы убакыты",
+                "daylight": "Жаңы Каледония жайкы убактысы"
               }
             },
             "New_Zealand": {
               "long": {
-                "generic": "Жаӊы Зеландия убактысы",
-                "standard": "Жаӊы Зеландия кышкы убакыты",
+                "generic": "Жаңы Зеландия убактысы",
+                "standard": "Жаңы Зеландия кышкы убакыты",
                 "daylight": "Жаңы Зеландия жайкы убакыты"
               }
             },
@@ -2004,7 +2004,7 @@
             },
             "Papua_New_Guinea": {
               "long": {
-                "standard": "Папуа-Жаңы Гвинея убактысы"
+                "standard": "Папуа-Жаңы Гвинея убакыты"
               }
             },
             "Paraguay": {

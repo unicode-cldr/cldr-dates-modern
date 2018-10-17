@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "ca",
         "territory": "FR"
@@ -174,7 +174,7 @@
               "relativeTimePattern-count-one": "fa {0} setm.",
               "relativeTimePattern-count-other": "fa {0} setm."
             },
-            "relativePeriod": "la setmana del {0}"
+            "relativePeriod": "la setmana de: {0}"
           },
           "week-narrow": {
             "displayName": "setm.",
@@ -189,7 +189,7 @@
               "relativeTimePattern-count-one": "fa {0} setm.",
               "relativeTimePattern-count-other": "fa {0} setm."
             },
-            "relativePeriod": "la setmana del {0}"
+            "relativePeriod": "la setmana de: {0}"
           },
           "weekOfMonth": {
             "displayName": "setmana del mes"

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "el",
         "territory": "CY"
@@ -502,7 +502,7 @@
                 "exemplarCity": "Αγ. Ελένη"
               },
               "Stanley": {
-                "exemplarCity": "Στάνλεϋ"
+                "exemplarCity": "Στάνλεϊ"
               }
             },
             "Europe": {
@@ -1093,7 +1093,7 @@
                 "exemplarCity": "Γιακούτσκ"
               },
               "Yekaterinburg": {
-                "exemplarCity": "Αικατερίνμπουργκ"
+                "exemplarCity": "Αικατερινούπολη"
               },
               "Yerevan": {
                 "exemplarCity": "Ερεβάν"
@@ -1288,7 +1288,7 @@
                 "exemplarCity": "Γουέικ"
               },
               "Wallis": {
-                "exemplarCity": "Ουάλις"
+                "exemplarCity": "Γουάλις"
               }
             },
             "Arctic": {

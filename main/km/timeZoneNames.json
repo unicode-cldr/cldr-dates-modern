@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "km"
       },
@@ -376,7 +376,7 @@
                 "exemplarCity": "ព័រតូរីកូ"
               },
               "Punta_Arenas": {
-                "exemplarCity": "Punta Arenas"
+                "exemplarCity": "ពុនតា អារ៉េណា"
               },
               "Rainy_River": {
                 "exemplarCity": "រ៉េនីរីវើ"
@@ -873,7 +873,7 @@
                 "exemplarCity": "អាសហ្គាបាត"
               },
               "Atyrau": {
-                "exemplarCity": "Atyrau"
+                "exemplarCity": "អាទីរ៉ូ"
               },
               "Baghdad": {
                 "exemplarCity": "បាកដាដ"
@@ -927,7 +927,7 @@
                 "exemplarCity": "ឌូស្ហាន់បេ"
               },
               "Famagusta": {
-                "exemplarCity": "Famagusta"
+                "exemplarCity": "ហ្វ៉ាម៉ាហ្គុស្តា"
               },
               "Gaza": {
                 "exemplarCity": "កាសា"

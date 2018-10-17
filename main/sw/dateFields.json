@@ -3,8 +3,8 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "sw"
       },
@@ -668,10 +668,10 @@
             "displayName": "saa za eneo"
           },
           "zone-short": {
-            "displayName": "saa za eneo"
+            "displayName": "eneo"
           },
           "zone-narrow": {
-            "displayName": "saa za eneo"
+            "displayName": "eneo"
           }
         }
       }

@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "pt",
         "territory": "GW"
@@ -297,8 +297,8 @@
               "relativeTimePattern-count-other": "dentro de {0} domingos"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} dom. atrás",
-              "relativeTimePattern-count-other": "{0} dom. atrás"
+              "relativeTimePattern-count-one": "há {0} dom.",
+              "relativeTimePattern-count-other": "há {0} dom."
             }
           },
           "sun-narrow": {
@@ -323,8 +323,8 @@
               "relativeTimePattern-count-other": "dentro de {0} segundas-feiras"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} segunda-feira atrás",
-              "relativeTimePattern-count-other": "{{0} segundas-feiras atrás"
+              "relativeTimePattern-count-one": "há {0} segunda-feira",
+              "relativeTimePattern-count-other": "{0} segundas-feiras atrás"
             }
           },
           "mon-short": {
@@ -552,7 +552,7 @@
             "displayName": "am/pm"
           },
           "dayperiod": {
-            "displayName": "AM/PM"
+            "displayName": "am/pm"
           },
           "dayperiod-narrow": {
             "displayName": "am/pm"

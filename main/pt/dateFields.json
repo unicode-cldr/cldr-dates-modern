@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14546 $",
+          "_cldrVersion": "34"
         },
         "language": "pt"
       },
@@ -29,8 +29,8 @@
               "relativeTimePattern-count-other": "em {0} anos"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} ano atrás",
-              "relativeTimePattern-count-other": "{0} anos atrás"
+              "relativeTimePattern-count-one": "há {0} ano",
+              "relativeTimePattern-count-other": "há {0} anos"
             }
           },
           "year-short": {
@@ -43,8 +43,8 @@
               "relativeTimePattern-count-other": "em {0} anos"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} ano atrás",
-              "relativeTimePattern-count-other": "{0} anos atrás"
+              "relativeTimePattern-count-one": "há {0} ano",
+              "relativeTimePattern-count-other": "há {0} anos"
             }
           },
           "year-narrow": {
@@ -57,7 +57,7 @@
               "relativeTimePattern-count-other": "em {0} anos"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} ano atrás",
+              "relativeTimePattern-count-one": "há {0} ano",
               "relativeTimePattern-count-other": "{0} anos atrás"
             }
           },
@@ -71,8 +71,8 @@
               "relativeTimePattern-count-other": "em {0} trimestres"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} trimestre atrás",
-              "relativeTimePattern-count-other": "{0} trimestres atrás"
+              "relativeTimePattern-count-one": "há {0} trimestre",
+              "relativeTimePattern-count-other": "há {0} trimestres"
             }
           },
           "quarter-short": {
@@ -85,7 +85,7 @@
               "relativeTimePattern-count-other": "em {0} trim."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} trim. atrás",
+              "relativeTimePattern-count-one": "há {0} trim.",
               "relativeTimePattern-count-other": "{0} trim. atrás"
             }
           },
@@ -99,8 +99,8 @@
               "relativeTimePattern-count-other": "em {0} trim."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} trim. atrás",
-              "relativeTimePattern-count-other": "{0} trim. atrás"
+              "relativeTimePattern-count-one": "há {0} trim.",
+              "relativeTimePattern-count-other": "há {0} trim."
             }
           },
           "month": {
@@ -113,8 +113,8 @@
               "relativeTimePattern-count-other": "em {0} meses"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} mês atrás",
-              "relativeTimePattern-count-other": "{0} meses atrás"
+              "relativeTimePattern-count-one": "há {0} mês",
+              "relativeTimePattern-count-other": "há {0} meses"
             }
           },
           "month-short": {
@@ -127,8 +127,8 @@
               "relativeTimePattern-count-other": "em {0} meses"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} mês atrás",
-              "relativeTimePattern-count-other": "{0} meses atrás"
+              "relativeTimePattern-count-one": "há {0} mês",
+              "relativeTimePattern-count-other": "há {0} meses"
             }
           },
           "month-narrow": {
@@ -141,8 +141,8 @@
               "relativeTimePattern-count-other": "em {0} meses"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} mês atrás",
-              "relativeTimePattern-count-other": "{0} meses atrás"
+              "relativeTimePattern-count-one": "há {0} mês",
+              "relativeTimePattern-count-other": "há {0} meses"
             }
           },
           "week": {
@@ -155,8 +155,8 @@
               "relativeTimePattern-count-other": "em {0} semanas"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} semana atrás",
-              "relativeTimePattern-count-other": "{0} semanas atrás"
+              "relativeTimePattern-count-one": "há {0} semana",
+              "relativeTimePattern-count-other": "há {0} semanas"
             },
             "relativePeriod": "a semana de {0}"
           },
@@ -170,8 +170,8 @@
               "relativeTimePattern-count-other": "em {0} sem."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sem. atrás",
-              "relativeTimePattern-count-other": "{0} sem. atrás"
+              "relativeTimePattern-count-one": "há {0} sem.",
+              "relativeTimePattern-count-other": "há {0} sem."
             },
             "relativePeriod": "a semana de {0}"
           },
@@ -185,8 +185,8 @@
               "relativeTimePattern-count-other": "em {0} sem."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sem. atrás",
-              "relativeTimePattern-count-other": "{0} sem. atrás"
+              "relativeTimePattern-count-one": "há {0} sem.",
+              "relativeTimePattern-count-other": "há {0} sem."
             },
             "relativePeriod": "a semana de {0}"
           },
@@ -211,8 +211,8 @@
               "relativeTimePattern-count-other": "em {0} dias"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} dia atrás",
-              "relativeTimePattern-count-other": "{0} dias atrás"
+              "relativeTimePattern-count-one": "há {0} dia",
+              "relativeTimePattern-count-other": "há {0} dias"
             }
           },
           "day-short": {
@@ -227,8 +227,8 @@
               "relativeTimePattern-count-other": "em {0} dias"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} dia atrás",
-              "relativeTimePattern-count-other": "{0} dias atrás"
+              "relativeTimePattern-count-one": "há {0} dia",
+              "relativeTimePattern-count-other": "há {0} dias"
             }
           },
           "day-narrow": {
@@ -243,8 +243,8 @@
               "relativeTimePattern-count-other": "em {0} dias"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} dia atrás",
-              "relativeTimePattern-count-other": "{0} dias atrás"
+              "relativeTimePattern-count-one": "há {0} dia",
+              "relativeTimePattern-count-other": "há {0} dias"
             }
           },
           "dayOfYear": {
@@ -283,8 +283,8 @@
               "relativeTimePattern-count-other": "em {0} domingos"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} domingo atrás",
-              "relativeTimePattern-count-other": "{0} domingos atrás"
+              "relativeTimePattern-count-one": "há {0} domigo",
+              "relativeTimePattern-count-other": "há {0} domigos"
             }
           },
           "sun-short": {
@@ -296,8 +296,8 @@
               "relativeTimePattern-count-other": "em {0} dom."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} dom. atrás",
-              "relativeTimePattern-count-other": "{0} dom. atrás"
+              "relativeTimePattern-count-one": "há {0} dom.",
+              "relativeTimePattern-count-other": "há {0} dom."
             }
           },
           "sun-narrow": {
@@ -309,8 +309,8 @@
               "relativeTimePattern-count-other": "em {0} dom."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} dom. atrás",
-              "relativeTimePattern-count-other": "{0} dom. atrás"
+              "relativeTimePattern-count-one": "há {0} dom.",
+              "relativeTimePattern-count-other": "há {0} dom."
             }
           },
           "mon": {
@@ -322,8 +322,8 @@
               "relativeTimePattern-count-other": "em {0} segundas-feiras"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} segunda-feira atrás",
-              "relativeTimePattern-count-other": "{{0} segundas-feiras atrás"
+              "relativeTimePattern-count-one": "há {0} segunda-feira",
+              "relativeTimePattern-count-other": "{0} segundas-feiras atrás"
             }
           },
           "mon-short": {
@@ -335,8 +335,8 @@
               "relativeTimePattern-count-other": "em {0} seg."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} seg. atrás",
-              "relativeTimePattern-count-other": "{0} seg. atrás"
+              "relativeTimePattern-count-one": "há {0} seg.",
+              "relativeTimePattern-count-other": "há {0} seg."
             }
           },
           "mon-narrow": {
@@ -348,8 +348,8 @@
               "relativeTimePattern-count-other": "em {0} seg."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} segundas-feiras",
-              "relativeTimePattern-count-other": "há {0} segundas-feiras"
+              "relativeTimePattern-count-one": "há {0} seg.",
+              "relativeTimePattern-count-other": "há {0} seg."
             }
           },
           "tue": {
@@ -370,12 +370,12 @@
             "relative-type-0": "esta ter.",
             "relative-type-1": "próxima ter.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} terças-feiras",
-              "relativeTimePattern-count-other": "em {0} terças-feiras"
+              "relativeTimePattern-count-one": "em {0} ter.",
+              "relativeTimePattern-count-other": "em {0} ter."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} terças-feiras",
-              "relativeTimePattern-count-other": "há {0} terças-feiras"
+              "relativeTimePattern-count-one": "há {0} ter.",
+              "relativeTimePattern-count-other": "há {0} ter."
             }
           },
           "tue-narrow": {
@@ -383,12 +383,12 @@
             "relative-type-0": "esta ter.",
             "relative-type-1": "próxima ter.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} terças-feiras",
-              "relativeTimePattern-count-other": "em {0} terças-feiras"
+              "relativeTimePattern-count-one": "em {0} ter.",
+              "relativeTimePattern-count-other": "em {0} ter."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} terças-feiras",
-              "relativeTimePattern-count-other": "há {0} terças-feiras"
+              "relativeTimePattern-count-one": "há {0} ter.",
+              "relativeTimePattern-count-other": "há {0} ter."
             }
           },
           "wed": {
@@ -396,7 +396,7 @@
             "relative-type-0": "esta quarta-feira",
             "relative-type-1": "próxima quarta-feira",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} quartas-feiras",
+              "relativeTimePattern-count-one": "em {0} quarta-feira",
               "relativeTimePattern-count-other": "em {0} quartas-feiras"
             },
             "relativeTime-type-past": {
@@ -409,12 +409,12 @@
             "relative-type-0": "esta qua.",
             "relative-type-1": "próxima qua.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} quartas-feiras",
-              "relativeTimePattern-count-other": "em {0} quartas-feiras"
+              "relativeTimePattern-count-one": "em {0} qua.",
+              "relativeTimePattern-count-other": "em {0} qua."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} quartas-feiras",
-              "relativeTimePattern-count-other": "há {0} quartas-feiras"
+              "relativeTimePattern-count-one": "há {0} qua.",
+              "relativeTimePattern-count-other": "há {0} qua."
             }
           },
           "wed-narrow": {
@@ -422,12 +422,12 @@
             "relative-type-0": "esta qua.",
             "relative-type-1": "próxima qua.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} quartas-feiras",
-              "relativeTimePattern-count-other": "em {0} quartas-feiras"
+              "relativeTimePattern-count-one": "em {0} qua.",
+              "relativeTimePattern-count-other": "em {0} qua."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} quartas-feiras",
-              "relativeTimePattern-count-other": "há {0} quartas-feiras"
+              "relativeTimePattern-count-one": "há {0} qua.",
+              "relativeTimePattern-count-other": "há {0} qua."
             }
           },
           "thu": {
@@ -435,38 +435,38 @@
             "relative-type-0": "esta quinta-feira",
             "relative-type-1": "próxima quinta-feira",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} quintas-feiras",
+              "relativeTimePattern-count-one": "em {0} quinta-feira",
               "relativeTimePattern-count-other": "em {0} quintas-feiras"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} quintas-feiras",
+              "relativeTimePattern-count-one": "há {0} quinta-feira",
               "relativeTimePattern-count-other": "há {0} quintas-feiras"
             }
           },
           "thu-short": {
             "relative-type--1": "qui. passada",
             "relative-type-0": "esta qui.",
-            "relative-type-1": "próx. qui",
+            "relative-type-1": "próxima qui.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} quintas-feiras",
-              "relativeTimePattern-count-other": "em {0} quintas-feiras"
+              "relativeTimePattern-count-one": "em {0} qui.",
+              "relativeTimePattern-count-other": "em {0} qui."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} quintas-feiras",
-              "relativeTimePattern-count-other": "há {0} quintas-feiras"
+              "relativeTimePattern-count-one": "há {0} qui.",
+              "relativeTimePattern-count-other": "há {0} qui."
             }
           },
           "thu-narrow": {
             "relative-type--1": "qui. passada",
             "relative-type-0": "esta qui.",
-            "relative-type-1": "próx. qui",
+            "relative-type-1": "próxima qui.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} quintas-feiras",
-              "relativeTimePattern-count-other": "em {0} quintas-feiras"
+              "relativeTimePattern-count-one": "em {0} qui.",
+              "relativeTimePattern-count-other": "em {0} qui."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} quintas-feiras",
-              "relativeTimePattern-count-other": "há {0} quintas-feiras"
+              "relativeTimePattern-count-one": "há {0} qui.",
+              "relativeTimePattern-count-other": "há {0} qui."
             }
           },
           "fri": {
@@ -474,11 +474,11 @@
             "relative-type-0": "esta sexta-feira",
             "relative-type-1": "próxima sexta-feira",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} sextas-feiras",
+              "relativeTimePattern-count-one": "em {0} sexta-feira",
               "relativeTimePattern-count-other": "em {0} sextas-feiras"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} sextas-feiras",
+              "relativeTimePattern-count-one": "há {0} sexta-feira",
               "relativeTimePattern-count-other": "há {0} sextas-feiras"
             }
           },
@@ -487,12 +487,12 @@
             "relative-type-0": "esta sex.",
             "relative-type-1": "próxima sex.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} sextas-feiras",
-              "relativeTimePattern-count-other": "em {0} sextas-feiras"
+              "relativeTimePattern-count-one": "em {0} sex.",
+              "relativeTimePattern-count-other": "em {0} sex."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} sextas-feiras",
-              "relativeTimePattern-count-other": "há {0} sextas-feiras"
+              "relativeTimePattern-count-one": "há {0} sex.",
+              "relativeTimePattern-count-other": "há {0} sex."
             }
           },
           "fri-narrow": {
@@ -500,12 +500,12 @@
             "relative-type-0": "esta sex.",
             "relative-type-1": "próxima sex.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "em {0} sextas-feiras",
-              "relativeTimePattern-count-other": "em {0} sextas-feiras"
+              "relativeTimePattern-count-one": "em {0} sex.",
+              "relativeTimePattern-count-other": "em {0} sex."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} sextas-feiras",
-              "relativeTimePattern-count-other": "há {0} sextas-feiras"
+              "relativeTimePattern-count-one": "há {0} sex.",
+              "relativeTimePattern-count-other": "há {0} sex."
             }
           },
           "sat": {
@@ -517,8 +517,8 @@
               "relativeTimePattern-count-other": "em {0} sábados"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sábado atrás",
-              "relativeTimePattern-count-other": "{0} sábados atrás"
+              "relativeTimePattern-count-one": "há {0} sábado",
+              "relativeTimePattern-count-other": "há {0} sábados"
             }
           },
           "sat-short": {
@@ -530,8 +530,8 @@
               "relativeTimePattern-count-other": "em {0} sáb."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sáb. atrás",
-              "relativeTimePattern-count-other": "{0} sáb. atrás"
+              "relativeTimePattern-count-one": "há {0} sáb.",
+              "relativeTimePattern-count-other": "há {0} sáb."
             }
           },
           "sat-narrow": {
@@ -543,8 +543,8 @@
               "relativeTimePattern-count-other": "em {0} sáb."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} sáb. atrás",
-              "relativeTimePattern-count-other": "{0} sáb. atrás"
+              "relativeTimePattern-count-one": "há {0} sáb.",
+              "relativeTimePattern-count-other": "há {0} sáb."
             }
           },
           "dayperiod-short": {
@@ -564,8 +564,8 @@
               "relativeTimePattern-count-other": "em {0} horas"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} hora atrás",
-              "relativeTimePattern-count-other": "{0} horas atrás"
+              "relativeTimePattern-count-one": "há {0} hora",
+              "relativeTimePattern-count-other": "há {0} horas"
             }
           },
           "hour-short": {
@@ -576,8 +576,8 @@
               "relativeTimePattern-count-other": "em {0} h"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} h atrás",
-              "relativeTimePattern-count-other": "{0} h atrás"
+              "relativeTimePattern-count-one": "há {0} h",
+              "relativeTimePattern-count-other": "há {0} h"
             }
           },
           "hour-narrow": {
@@ -588,8 +588,8 @@
               "relativeTimePattern-count-other": "em {0} h"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} h atrás",
-              "relativeTimePattern-count-other": "{0} h atrás"
+              "relativeTimePattern-count-one": "há {0} h",
+              "relativeTimePattern-count-other": "há {0} h"
             }
           },
           "minute": {
@@ -600,8 +600,8 @@
               "relativeTimePattern-count-other": "em {0} minutos"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} minuto atrás",
-              "relativeTimePattern-count-other": "{0} minutos atrás"
+              "relativeTimePattern-count-one": "há {0} minuto",
+              "relativeTimePattern-count-other": "há {0} minutos"
             }
           },
           "minute-short": {
@@ -612,8 +612,8 @@
               "relativeTimePattern-count-other": "em {0} min."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} min. atrás",
-              "relativeTimePattern-count-other": "{0} min. atrás"
+              "relativeTimePattern-count-one": "há {0} min.",
+              "relativeTimePattern-count-other": "há {0} min."
             }
           },
           "minute-narrow": {
@@ -624,8 +624,8 @@
               "relativeTimePattern-count-other": "em {0} min."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} min. atrás",
-              "relativeTimePattern-count-other": "{0} min. atrás"
+              "relativeTimePattern-count-one": "há {0} min.",
+              "relativeTimePattern-count-other": "há {0} min."
             }
           },
           "second": {
@@ -636,8 +636,8 @@
               "relativeTimePattern-count-other": "em {0} segundos"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} segundo atrás",
-              "relativeTimePattern-count-other": "{0} segundos atrás"
+              "relativeTimePattern-count-one": "há {0} segundo",
+              "relativeTimePattern-count-other": "há {0} segundos"
             }
           },
           "second-short": {
@@ -648,8 +648,8 @@
               "relativeTimePattern-count-other": "em {0} seg."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} seg. atrás",
-              "relativeTimePattern-count-other": "{0} seg. atrás"
+              "relativeTimePattern-count-one": "há {0} seg.",
+              "relativeTimePattern-count-other": "há {0} seg."
             }
           },
           "second-narrow": {
@@ -660,8 +660,8 @@
               "relativeTimePattern-count-other": "em {0} seg."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} seg. atrás",
-              "relativeTimePattern-count-other": "{0} seg. atrás"
+              "relativeTimePattern-count-one": "há {0} seg.",
+              "relativeTimePattern-count-other": "há {0} seg."
             }
           },
           "zone": {

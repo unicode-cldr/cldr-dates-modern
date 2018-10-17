@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13920 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14389 $",
+          "_cldrVersion": "34"
         },
         "language": "th"
       },
@@ -888,7 +888,7 @@
                 "exemplarCity": "กรุงเทพ"
               },
               "Barnaul": {
-                "exemplarCity": "บราโมล"
+                "exemplarCity": "บาร์เนาว์"
               },
               "Beirut": {
                 "exemplarCity": "เบรุต"
@@ -1340,7 +1340,7 @@
                 }
               },
               "Unknown": {
-                "exemplarCity": "เมืองที่ไม่รู้จัก"
+                "exemplarCity": "ไม่ทราบชื่อเมือง"
               }
             }
           },
