@@ -3,8 +3,8 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "te"
       },
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "ఖతార్"
+              },
+              "Qostanay": {
+                "exemplarCity": "కోస్తానే"
               },
               "Qyzylorda": {
                 "exemplarCity": "క్విజిలోర్డా"

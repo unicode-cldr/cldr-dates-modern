@@ -3,8 +3,8 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "af",
         "territory": "NA"
@@ -1022,6 +1022,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Katar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"

@@ -3,8 +3,8 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "hu"
       },
@@ -370,8 +370,8 @@
                 "MMMd": "MMM d.",
                 "MMMEd": "MMM d., E",
                 "MMMMd": "MMMM d.",
-                "MMMMW-count-one": "MMM W. 'hete'",
-                "MMMMW-count-other": "MMM W. 'hete'",
+                "MMMMW-count-one": "MMMM W. 'hete'",
+                "MMMMW-count-other": "MMMM W. 'hete'",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y.",
@@ -402,6 +402,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d."
                 },

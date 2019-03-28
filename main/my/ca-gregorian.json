@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14836 $",
+          "_cldrVersion": "35"
         },
         "language": "my"
       },
@@ -359,7 +359,7 @@
                 "MMMEd": "MMM d၊ E",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "MMMM d ရက် Eနေ့",
-                "MMMMW-count-other": "MMM လ W ပတ်မြောက်",
+                "MMMMW-count-other": "MMMM လ W ပတ်မြောက်",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -388,17 +388,26 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h – h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm – h:mm B",
+                  "m": "h:mm – h:mm B"
+                },
                 "d": {
                   "d": "d – d"
                 },
                 "Gy": {
                   "G": "G y – G y",
-                  "y": "G y–y"
+                  "y": "G y – y"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "G": "GGGGG y-MM – GGGGG y-MM   ",
                   "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "y": "GGGGG y-MM – y-MM "
                 },
                 "GyMd": {
                   "d": "GGGGG y-MM-dd – y-MM-dd",
@@ -418,8 +427,8 @@
                   "y": "G y MMM – y MMM"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
+                  "d": "G y MMM d – d",
+                  "G": "G y MMM d – G y MMM d   ",
                   "M": "G y MMM d – MMM d",
                   "y": "G y MMM d – y MMM d"
                 },

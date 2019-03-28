@@ -3,8 +3,8 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14546 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "pt"
       },
@@ -379,6 +379,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} - {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

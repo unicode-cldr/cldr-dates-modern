@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14890 $",
+          "_cldrVersion": "35"
         },
         "language": "sv"
       },
@@ -340,9 +340,9 @@
             }
           },
           "mon-narrow": {
-            "relative-type--1": "förra mån.",
-            "relative-type-0": "denna mån.",
-            "relative-type-1": "nästa mån.",
+            "relative-type--1": "mån. förra veckan",
+            "relative-type-0": "mån. denna vecka",
+            "relative-type-1": "mån. nästa vecka",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} må.",
               "relativeTimePattern-count-other": "+{0} må."

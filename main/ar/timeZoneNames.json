@@ -3,8 +3,8 @@
     "ar": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14822 $",
+          "_cldrVersion": "35"
         },
         "language": "ar"
       },
@@ -1022,6 +1022,9 @@
               "Qatar": {
                 "exemplarCity": "قطر"
               },
+              "Qostanay": {
+                "exemplarCity": "قوستاناي"
+              },
               "Qyzylorda": {
                 "exemplarCity": "كيزيلوردا"
               },
@@ -1731,6 +1734,9 @@
             "Gulf": {
               "long": {
                 "standard": "توقيت الخليج"
+              },
+              "short": {
+                "standard": "GST"
               }
             },
             "Guyana": {

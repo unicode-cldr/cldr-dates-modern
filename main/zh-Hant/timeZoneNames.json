@@ -3,8 +3,8 @@
     "zh-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hant"
@@ -1022,6 +1022,9 @@
               },
               "Qatar": {
                 "exemplarCity": "卡達"
+              },
+              "Qostanay": {
+                "exemplarCity": "庫斯塔奈"
               },
               "Qyzylorda": {
                 "exemplarCity": "克孜勒奧爾達"

@@ -3,8 +3,8 @@
     "es-CL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14770 $",
+          "_cldrVersion": "35"
         },
         "language": "es",
         "territory": "CL"
@@ -552,7 +552,7 @@
             "displayName": "a.m./p.m."
           },
           "dayperiod": {
-            "displayName": "a. m./p. m."
+            "displayName": "a. m./p. m."
           },
           "dayperiod-narrow": {
             "displayName": "a.m./p.m."

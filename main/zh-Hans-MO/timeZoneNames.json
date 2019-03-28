@@ -3,8 +3,8 @@
     "zh-Hans-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hans",
@@ -1023,6 +1023,9 @@
               },
               "Qatar": {
                 "exemplarCity": "卡塔尔"
+              },
+              "Qostanay": {
+                "exemplarCity": "库斯塔奈"
               },
               "Qyzylorda": {
                 "exemplarCity": "克孜洛尔达"

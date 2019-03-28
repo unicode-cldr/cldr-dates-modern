@@ -3,8 +3,8 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "yue",
         "script": "Hant"
@@ -396,6 +396,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0}至{1}",
+                "Bh": {
+                  "B": "Bh時至Bh時",
+                  "h": "Bh至h時"
+                },
+                "Bhm": {
+                  "B": "Bh:mm至Bh:mm",
+                  "h": "Bh:mm至h:mm",
+                  "m": "Bh:mm至h:mm"
+                },
                 "d": {
                   "d": "d日至d日"
                 },

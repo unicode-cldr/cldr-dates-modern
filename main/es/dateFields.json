@@ -3,8 +3,8 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "es"
       },
@@ -548,13 +548,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "a. m./p. m."
+            "displayName": "a. m./p. m."
           },
           "dayperiod": {
-            "displayName": "a. m./p. m."
+            "displayName": "a. m./p. m."
           },
           "dayperiod-narrow": {
-            "displayName": "a. m./p. m."
+            "displayName": "a. m./p. m."
           },
           "hour": {
             "displayName": "hora",

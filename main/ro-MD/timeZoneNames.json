@@ -3,8 +3,8 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14843 $",
+          "_cldrVersion": "35"
         },
         "language": "ro",
         "territory": "MD"
@@ -1022,6 +1022,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Qatar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Kyzylorda"

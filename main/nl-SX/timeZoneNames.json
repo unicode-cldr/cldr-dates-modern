@@ -3,8 +3,8 @@
     "nl-SX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "nl",
         "territory": "SX"
@@ -1023,6 +1023,9 @@
               "Qatar": {
                 "exemplarCity": "Qatar"
               },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
+              },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
               },
@@ -1390,6 +1393,11 @@
                 "generic": "Alaska-tijd",
                 "standard": "Alaska-standaardtijd",
                 "daylight": "Alaska-zomertijd"
+              },
+              "short": {
+                "generic": "AKT",
+                "standard": "AKST",
+                "daylight": "AKDT"
               }
             },
             "Almaty": {
@@ -1411,6 +1419,11 @@
                 "generic": "Central-tijd",
                 "standard": "Central-standaardtijd",
                 "daylight": "Central-zomertijd"
+              },
+              "short": {
+                "generic": "CT",
+                "standard": "CST",
+                "daylight": "CDT"
               }
             },
             "America_Eastern": {
@@ -1418,6 +1431,11 @@
                 "generic": "Eastern-tijd",
                 "standard": "Eastern-standaardtijd",
                 "daylight": "Eastern-zomertijd"
+              },
+              "short": {
+                "generic": "ET",
+                "standard": "EST",
+                "daylight": "EDT"
               }
             },
             "America_Mountain": {
@@ -1425,6 +1443,11 @@
                 "generic": "Mountain-tijd",
                 "standard": "Mountain-standaardtijd",
                 "daylight": "Mountain-zomertijd"
+              },
+              "short": {
+                "generic": "MT",
+                "standard": "MST",
+                "daylight": "MDT"
               }
             },
             "America_Pacific": {
@@ -1432,6 +1455,11 @@
                 "generic": "Pacific-tijd",
                 "standard": "Pacific-standaardtijd",
                 "daylight": "Pacific-zomertijd"
+              },
+              "short": {
+                "generic": "PT",
+                "standard": "PST",
+                "daylight": "PDT"
               }
             },
             "Anadyr": {
@@ -1495,6 +1523,11 @@
                 "generic": "Atlantic-tijd",
                 "standard": "Atlantic-standaardtijd",
                 "daylight": "Atlantic-zomertijd"
+              },
+              "short": {
+                "generic": "AT",
+                "standard": "AST",
+                "daylight": "ADT"
               }
             },
             "Australia_Central": {
@@ -1761,6 +1794,9 @@
             "GMT": {
               "long": {
                 "standard": "Greenwich Mean Time"
+              },
+              "short": {
+                "standard": "GMT"
               }
             },
             "Greenland_Eastern": {
@@ -1797,6 +1833,11 @@
                 "generic": "Hawaii-Aleoetische tijd",
                 "standard": "Hawaii-Aleoetische standaardtijd",
                 "daylight": "Hawaii-Aleoetische zomertijd"
+              },
+              "short": {
+                "generic": "HAT",
+                "standard": "HAST",
+                "daylight": "HADT"
               }
             },
             "Hong_Kong": {

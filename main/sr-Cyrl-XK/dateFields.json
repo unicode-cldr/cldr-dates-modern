@@ -3,8 +3,8 @@
     "sr-Cyrl-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -337,9 +337,9 @@
             }
           },
           "sun-narrow": {
-            "relative-type--1": "прошле нед",
+            "relative-type--1": "пр. нед.",
             "relative-type-0": "у нед",
-            "relative-type-1": "следеће нед",
+            "relative-type-1": "сл. нед.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} недељу",
               "relativeTimePattern-count-few": "за {0} недеље",

@@ -3,8 +3,8 @@
     "mr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "mr"
       },
@@ -371,8 +371,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "MMM चा W रा आठवडा",
-                "MMMMW-count-other": "MMM चा W रा आठवडा",
+                "MMMMW-count-one": "MMMM चा W रा आठवडा",
+                "MMMMW-count-other": "MMMM चा W रा आठवडा",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -403,6 +403,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d – d"
                 },

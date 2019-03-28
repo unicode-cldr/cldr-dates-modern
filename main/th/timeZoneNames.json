@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14389 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14886 $",
+          "_cldrVersion": "35"
         },
         "language": "th"
       },
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "กาตาร์"
+              },
+              "Qostanay": {
+                "exemplarCity": "คอสตาเนย์"
               },
               "Qyzylorda": {
                 "exemplarCity": "ไคซีลอร์ดา"

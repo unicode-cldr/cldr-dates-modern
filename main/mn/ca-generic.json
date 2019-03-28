@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "mn"
       },
@@ -357,7 +357,7 @@
                 "yyyyMMM": "G y 'оны' MMM",
                 "yyyyMMMd": "G y 'оны' MMM'ын' d",
                 "yyyyMMMEd": "G y 'оны' MMM'ын' d. E",
-                "yyyyMMMM": "G y 'оны' MMM",
+                "yyyyMMMM": "G y 'оны' MMMM",
                 "yyyyQQQ": "G y 'оны' QQQ",
                 "yyyyQQQQ": "G y 'оны' QQQQ"
               },
@@ -376,6 +376,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d – d"
                 },

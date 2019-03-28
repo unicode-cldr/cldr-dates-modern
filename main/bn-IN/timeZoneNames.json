@@ -3,8 +3,8 @@
     "bn-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14769 $",
+          "_cldrVersion": "35"
         },
         "language": "bn",
         "territory": "IN"
@@ -1022,6 +1022,9 @@
               },
               "Qatar": {
                 "exemplarCity": "কাতার"
+              },
+              "Qostanay": {
+                "exemplarCity": "কোস্টানয়"
               },
               "Qyzylorda": {
                 "exemplarCity": "কিজিলর্ডা"

@@ -3,8 +3,8 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14827 $",
+          "_cldrVersion": "35"
         },
         "language": "mk"
       },
@@ -383,12 +383,21 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} - {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h – h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm – h:mm B",
+                  "m": "h:mm – h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },
                 "Gy": {
                   "G": "G y – G y",
-                  "y": "G y–y"
+                  "y": "G y – y"
                 },
                 "GyM": {
                   "G": "GGGGG y-MM – GGGGG y-MM",
@@ -409,7 +418,7 @@
                 },
                 "GyMMM": {
                   "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
+                  "M": "G y MMM – MMM",
                   "y": "G y MMM – y MMM"
                 },
                 "GyMMMd": {

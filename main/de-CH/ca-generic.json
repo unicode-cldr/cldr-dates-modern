@@ -3,8 +3,8 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14450 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "de",
         "territory": "CH"
@@ -229,9 +229,9 @@
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "morgens",
-                  "morning2": "vormittags",
+                  "morning2": "vorm.",
                   "afternoon1": "mittags",
-                  "afternoon2": "nachmittags",
+                  "afternoon2": "nachm.",
                   "evening1": "abends",
                   "night1": "nachts"
                 },
@@ -240,9 +240,9 @@
                   "am": "a",
                   "pm": "p",
                   "morning1": "morgens",
-                  "morning2": "vormittags",
+                  "morning2": "vorm.",
                   "afternoon1": "mittags",
-                  "afternoon2": "nachmittags",
+                  "afternoon2": "nachm.",
                   "evening1": "abends",
                   "night1": "nachts"
                 },
@@ -264,9 +264,9 @@
                   "am": "AM",
                   "pm": "PM",
                   "morning1": "Morgen",
-                  "morning2": "Vormittag",
+                  "morning2": "Vorm.",
                   "afternoon1": "Mittag",
-                  "afternoon2": "Nachmittag",
+                  "afternoon2": "Nachm.",
                   "evening1": "Abend",
                   "night1": "Nacht"
                 },
@@ -275,9 +275,9 @@
                   "am": "a",
                   "pm": "p",
                   "morning1": "Morgen",
-                  "morning2": "Vormittag",
+                  "morning2": "Vorm.",
                   "afternoon1": "Mittag",
-                  "afternoon2": "Nachmittag",
+                  "afternoon2": "Nachm.",
                   "evening1": "Abend",
                   "night1": "Nacht"
                 },
@@ -383,6 +383,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d.–d."
                 },

@@ -3,8 +3,8 @@
     "en-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14418 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14914 $",
+          "_cldrVersion": "35"
         },
         "language": "en",
         "territory": "IN"
@@ -405,11 +405,11 @@
             "relative-type-1": "next Wed",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} Wed",
-              "relativeTimePattern-count-other": "in {0} Wed."
+              "relativeTimePattern-count-other": "in {0} Wed"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Wed. ago",
-              "relativeTimePattern-count-other": "{0} Wed. ago"
+              "relativeTimePattern-count-one": "{0} Wed ago",
+              "relativeTimePattern-count-other": "{0} Wed ago"
             }
           },
           "wed-narrow": {

@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "hi"
       },
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "कतर"
+              },
+              "Qostanay": {
+                "exemplarCity": "कोस्टाने"
               },
               "Qyzylorda": {
                 "exemplarCity": "केज़ेलोर्डा"

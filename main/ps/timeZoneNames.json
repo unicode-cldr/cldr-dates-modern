@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ps"
       },
@@ -521,7 +521,7 @@
                 "exemplarCity": "برلین"
               },
               "Bratislava": {
-                "exemplarCity": "Bratislava"
+                "exemplarCity": "براتسکوا"
               },
               "Brussels": {
                 "exemplarCity": "بروسلز"
@@ -542,9 +542,6 @@
                 "exemplarCity": "کوپینګنګ"
               },
               "Dublin": {
-                "long": {
-                  "daylight": "ایراني معیاري وخ"
-                },
                 "exemplarCity": "ډوبلین"
               },
               "Gibraltar": {
@@ -978,7 +975,7 @@
                 "exemplarCity": "کویټ"
               },
               "Macau": {
-                "exemplarCity": "مکا"
+                "exemplarCity": "مکاو"
               },
               "Magadan": {
                 "exemplarCity": "مګدان"
@@ -1018,6 +1015,9 @@
               },
               "Qatar": {
                 "exemplarCity": "قطر"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "قزیلیلرا"
@@ -1109,7 +1109,7 @@
                 "exemplarCity": "کوکوس"
               },
               "Comoro": {
-                "exemplarCity": "Comoro"
+                "exemplarCity": "کومو"
               },
               "Kerguelen": {
                 "exemplarCity": "Kerguelen"
@@ -1224,7 +1224,7 @@
                 "exemplarCity": "کوسیرا"
               },
               "Kwajalein": {
-                "exemplarCity": "Kwajalein"
+                "exemplarCity": "کجیجینین"
               },
               "Majuro": {
                 "exemplarCity": "مجورو"
@@ -1876,6 +1876,11 @@
                 "generic": "ماریسیس وخت",
                 "standard": "ماریشیس معياري وخت",
                 "daylight": "ماریسیس سمر وخت"
+              }
+            },
+            "Mawson": {
+              "long": {
+                "standard": "دسونسن وخت"
               }
             },
             "Mexico_Northwest": {

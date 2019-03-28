@@ -3,8 +3,8 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "yue",
         "script": "Hant"
@@ -383,46 +383,55 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0}至{1}",
+                "Bh": {
+                  "B": "Bh時至Bh時",
+                  "h": "Bh至h時"
+                },
+                "Bhm": {
+                  "B": "Bh:mm至Bh:mm",
+                  "h": "Bh:mm至h:mm",
+                  "m": "Bh:mm至h:mm"
+                },
                 "d": {
                   "d": "d日至d日"
                 },
                 "Gy": {
-                  "G": "G y – G y",
-                  "y": "G y–y"
+                  "G": "G y年至G y年",
+                  "y": "G y至y年"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
-                  "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "G": "G y/M至G y/M",
+                  "M": "G y/M至y/M",
+                  "y": "G y/M至y/M"
                 },
                 "GyMd": {
-                  "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "d": "G y/M/d至y/M/d",
+                  "G": "G y/M/d至G y/M/d",
+                  "M": "G y/M/d至y/M/d",
+                  "y": "G y/M/d至y/M/d"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "G y/M/d（E）至y/M/d（E）",
+                  "G": "G y/M/d（E）至G y/M/d（E）",
+                  "M": "G y/M/d（E）至y/M/d（E）",
+                  "y": "G y/M/d（E）至y/M/d（E）"
                 },
                 "GyMMM": {
-                  "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
-                  "y": "G y MMM – y MMM"
+                  "G": "G y年M月至G y年M月",
+                  "M": "G y年M月至M月",
+                  "y": "G y年M月至y年M月"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "G y年M月d日至d日",
+                  "G": "G y年M月d日至G y年M月d日",
+                  "M": "G y年M月d日至M月d日",
+                  "y": "G y年M月d日至y年M月d日"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "G y年M月d日（E）至M月d日（E）",
+                  "G": "G y年M月d日（E）至G y年M月d日（E）",
+                  "M": "G y年M月d日（E）至M月d日（E）",
+                  "y": "G y年M月d日（E）至y年M月d日（E）"
                 },
                 "h": {
                   "a": "ah時至ah時",

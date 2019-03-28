@@ -3,8 +3,8 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ne"
       },
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "कतार"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "किजिलोर्डा"

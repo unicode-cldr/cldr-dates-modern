@@ -3,8 +3,8 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "kk"
       },
@@ -358,8 +358,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "MMM 'айының' W-'аптасы'",
-                "MMMMW-count-other": "MMM 'айының' W-'аптасы'",
+                "MMMMW-count-one": "MMMM 'айының' W-'аптасы'",
+                "MMMMW-count-other": "MMMM 'айының' W-'аптасы'",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -389,6 +389,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} - {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h – h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm – h:mm B",
+                  "m": "h:mm – h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },
@@ -419,16 +428,16 @@
                   "y": "G y MMM – y MMM"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "G y 'ж'. d–d MMM",
+                  "G": "G y 'ж'. d MMM – G y 'ж'. d MMM",
+                  "M": "G y 'ж'. d MMM – d MMM",
+                  "y": "G y 'ж'. d MMM – y 'ж'. d MMM"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "G y 'ж'. d MMM, E – d MMM, E",
+                  "G": "G y 'ж'. d MMM, E – G y 'ж'. d MMM, E",
+                  "M": "G y 'ж'. d MMM, E – d MMM, E",
+                  "y": "G y 'ж'. d MMM, E – y 'ж'. d MMM, E"
                 },
                 "h": {
                   "a": "h a – h a",

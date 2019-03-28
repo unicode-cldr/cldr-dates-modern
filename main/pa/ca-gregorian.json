@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "pa"
       },
@@ -352,8 +352,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "MMM ਦਾ W ਹਫ਼ਤਾ",
-                "MMMMW-count-other": "MMM ਦਾ W ਹਫ਼ਤਾ",
+                "MMMMW-count-one": "MMMM ਦਾ W ਹਫ਼ਤਾ",
+                "MMMMW-count-other": "MMMM ਦਾ W ਹਫ਼ਤਾ",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",
@@ -384,6 +384,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

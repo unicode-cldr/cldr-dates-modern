@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "pa"
       },
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "ਕਤਰ"
+              },
+              "Qostanay": {
+                "exemplarCity": "ਕੋਸਟਨੇਏ"
               },
               "Qyzylorda": {
                 "exemplarCity": "ਕਿਜ਼ੀਲੋਰਡਾ"

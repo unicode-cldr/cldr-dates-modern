@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "kn"
       },
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "ಖತಾರ್"
+              },
+              "Qostanay": {
+                "exemplarCity": "ಕೊಸ್ಟನಯ್"
               },
               "Qyzylorda": {
                 "exemplarCity": "ಕಿಜೈಲೋರ್ದ"

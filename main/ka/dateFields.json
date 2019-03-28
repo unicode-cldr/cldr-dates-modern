@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ka"
       },
@@ -251,19 +251,19 @@
             "displayName": "წლის დღე"
           },
           "dayOfYear-short": {
-            "displayName": "წლის დღე"
+            "displayName": "წლ. დღე"
           },
           "dayOfYear-narrow": {
-            "displayName": "წლის დღე"
+            "displayName": "წლ. დღე"
           },
           "weekday": {
             "displayName": "კვირის დღე"
           },
           "weekday-short": {
-            "displayName": "კვირის დღე"
+            "displayName": "კვ. დღე"
           },
           "weekday-narrow": {
-            "displayName": "კვირის დღე"
+            "displayName": "კვ. დღე"
           },
           "weekdayOfMonth": {
             "displayName": "კვირის დღე თვეში"

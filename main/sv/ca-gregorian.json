@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14890 $",
+          "_cldrVersion": "35"
         },
         "language": "sv"
       },
@@ -365,8 +365,8 @@
                 "MMMEd": "E d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E d MMMM",
-                "MMMMW-count-one": "'vecka' W 'i' MMM",
-                "MMMMW-count-other": "'vecka' W 'i' MMM",
+                "MMMMW-count-one": "'vecka' W 'i' MMMM",
+                "MMMMW-count-other": "'vecka' W 'i' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -397,6 +397,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h – h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm – h:mm B",
+                  "m": "h:mm – h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

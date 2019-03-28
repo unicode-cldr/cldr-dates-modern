@@ -3,8 +3,8 @@
     "ar-SY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13880 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14936 $",
+          "_cldrVersion": "35"
         },
         "language": "ar",
         "territory": "SY"
@@ -367,12 +367,12 @@
                 "MMMEd": "E، d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E، d MMMM",
-                "MMMMW-count-zero": "الأسبوع W من MMM",
-                "MMMMW-count-one": "الأسبوع W من MMM",
-                "MMMMW-count-two": "الأسبوع W من MMM",
-                "MMMMW-count-few": "الأسبوع W من MMM",
-                "MMMMW-count-many": "الأسبوع W من MMM",
-                "MMMMW-count-other": "الأسبوع W من MMM",
+                "MMMMW-count-zero": "الأسبوع W من MMMM",
+                "MMMMW-count-one": "الأسبوع W من MMMM",
+                "MMMMW-count-two": "الأسبوع W من MMMM",
+                "MMMMW-count-few": "الأسبوع W من MMMM",
+                "MMMMW-count-many": "الأسبوع W من MMMM",
+                "MMMMW-count-other": "الأسبوع W من MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M‏/y",
@@ -407,6 +407,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

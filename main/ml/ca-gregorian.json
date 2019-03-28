@@ -3,8 +3,8 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "ml"
       },
@@ -378,8 +378,8 @@
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "MMMM d, E",
-                "MMMMW-count-one": "MMM - ആഴ്ച W",
-                "MMMMW-count-other": "MMM - ആഴ്ച W",
+                "MMMMW-count-one": "MMMM - ആഴ്ച W",
+                "MMMMW-count-other": "MMMM - ആഴ്ച W",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -410,6 +410,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} - {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d – d"
                 },

@@ -3,8 +3,8 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hant",
@@ -309,9 +309,9 @@
                 "1-alt-variant": "公元"
               },
               "eraNarrow": {
-                "0": "西元前",
+                "0": "公元前",
                 "0-alt-variant": "公元前",
-                "1": "西元",
+                "1": "公元",
                 "1-alt-variant": "公元"
               }
             },
@@ -397,6 +397,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d日至d日"
                 },

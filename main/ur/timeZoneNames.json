@@ -3,8 +3,8 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14403 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "ur"
       },
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "قطر"
+              },
+              "Qostanay": {
+                "exemplarCity": "کوستانے"
               },
               "Qyzylorda": {
                 "exemplarCity": "کیزیلورڈا"

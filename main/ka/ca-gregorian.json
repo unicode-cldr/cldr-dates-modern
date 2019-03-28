@@ -3,8 +3,8 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ka"
       },
@@ -358,8 +358,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "MMM-ის კვირა W",
-                "MMMMW-count-other": "MMM-ის კვირა W",
+                "MMMMW-count-one": "MMMM-ის კვირა W",
+                "MMMMW-count-other": "MMMM-ის კვირა W",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",
@@ -389,6 +389,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

@@ -3,8 +3,8 @@
     "sr-Latn-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14782 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Latn",
@@ -363,9 +363,9 @@
                 "MMMEd": "E d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "MMMMW-count-one": "W. 'sjedmica' 'u' MMM",
-                "MMMMW-count-few": "W. 'sjedmica' 'u' MMM",
-                "MMMMW-count-other": "W. 'sjedmica' 'u' MMM",
+                "MMMMW-count-one": "W. 'sjedmica' 'u' MMMM",
+                "MMMMW-count-few": "W. 'sjedmica' 'u' MMMM",
+                "MMMMW-count-other": "W. 'sjedmica' 'u' MMMM",
                 "ms": "mm:ss",
                 "y": "y.",
                 "yM": "M.y.",
@@ -398,6 +398,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

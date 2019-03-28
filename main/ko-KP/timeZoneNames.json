@@ -3,8 +3,8 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ko",
         "territory": "KP"
@@ -1022,6 +1022,9 @@
               },
               "Qatar": {
                 "exemplarCity": "카타르"
+              },
+              "Qostanay": {
+                "exemplarCity": "코스타나이"
               },
               "Qyzylorda": {
                 "exemplarCity": "키질로르다"

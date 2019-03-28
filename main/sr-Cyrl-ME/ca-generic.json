@@ -3,8 +3,8 @@
     "sr-Cyrl-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -106,13 +106,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "нед.",
-                  "mon": "пон.",
-                  "tue": "ут.",
-                  "wed": "ср.",
-                  "thu": "чет.",
-                  "fri": "пет.",
-                  "sat": "суб."
+                  "sun": "нед",
+                  "mon": "пон",
+                  "tue": "уто",
+                  "wed": "сре",
+                  "thu": "чет",
+                  "fri": "пет",
+                  "sat": "суб"
                 },
                 "narrow": {
                   "sun": "н",
@@ -144,13 +144,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "нед.",
-                  "mon": "пон.",
-                  "tue": "ут.",
-                  "wed": "ср.",
-                  "thu": "чет.",
-                  "fri": "пет.",
-                  "sat": "суб."
+                  "sun": "нед",
+                  "mon": "пон",
+                  "tue": "уто",
+                  "wed": "сре",
+                  "thu": "чет",
+                  "fri": "пет",
+                  "sat": "суб"
                 },
                 "narrow": {
                   "sun": "н",
@@ -383,6 +383,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

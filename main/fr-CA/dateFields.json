@@ -3,8 +3,8 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "fr",
         "territory": "CA"
@@ -79,7 +79,7 @@
           "quarter-short": {
             "displayName": "trim.",
             "relative-type--1": "trim. dernier",
-            "relative-type-0": "ce trim.",
+            "relative-type-0": "ce trimestre-ci",
             "relative-type-1": "trim. prochain",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dans {0} trim.",
@@ -93,7 +93,7 @@
           "quarter-narrow": {
             "displayName": "trim.",
             "relative-type--1": "trim. dernier",
-            "relative-type-0": "ce trim.",
+            "relative-type-0": "ce trimestre-ci",
             "relative-type-1": "trim.prochain",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} trim.",

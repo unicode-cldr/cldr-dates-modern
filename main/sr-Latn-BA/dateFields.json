@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14877 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Latn",
@@ -167,9 +167,9 @@
           },
           "week": {
             "displayName": "nedelja",
-            "relative-type--1": "prošle nedelje",
+            "relative-type--1": "prethodne nedelje",
             "relative-type-0": "ove nedelje",
-            "relative-type-1": "sledeće nedelje",
+            "relative-type-1": "naredne nedelje",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} nedelju",
               "relativeTimePattern-count-few": "za {0} nedelje",
@@ -337,9 +337,9 @@
             }
           },
           "sun-narrow": {
-            "relative-type--1": "prošle ned",
+            "relative-type--1": "pr. ned.",
             "relative-type-0": "u ned",
-            "relative-type-1": "sledeće ned",
+            "relative-type-1": "sl. ned.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} nedelju",
               "relativeTimePattern-count-few": "za {0} nedelje",

@@ -3,8 +3,8 @@
     "ta-MY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "ta",
         "territory": "MY"
@@ -378,8 +378,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "MMM W -ஆம் வாரம்",
-                "MMMMW-count-other": "MMM W -ஆம் வாரம்",
+                "MMMMW-count-one": "MMMM W -ஆம் வாரம்",
+                "MMMMW-count-other": "MMMM W -ஆம் வாரம்",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",
@@ -410,6 +410,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

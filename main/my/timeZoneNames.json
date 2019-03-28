@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14836 $",
+          "_cldrVersion": "35"
         },
         "language": "my"
       },
@@ -106,7 +106,7 @@
                 "exemplarCity": "ကာရာကာစ်"
               },
               "Catamarca": {
-                "exemplarCity": "ကာတာမာရျကာ"
+                "exemplarCity": "ကာတာမာရကွာ"
               },
               "Cayenne": {
                 "exemplarCity": "ကေညင်န်"
@@ -742,7 +742,7 @@
                 "exemplarCity": "ကိုနာကရီး"
               },
               "Dakar": {
-                "exemplarCity": "ဒက်ကား"
+                "exemplarCity": "ဒကျကား"
               },
               "Dar_es_Salaam": {
                 "exemplarCity": "ဒါရက်စ်ဆာလမ်"
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "ကာတာ"
+              },
+              "Qostanay": {
+                "exemplarCity": "Qostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "ကီဇလော်ဒါ"

@@ -3,8 +3,8 @@
     "ps": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ps"
       },
@@ -322,8 +322,8 @@
                 "MMMd": "MMM d",
                 "MMMEd": "MMM d, E",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "اونۍ W د MMM",
-                "MMMMW-count-other": "اونۍ W د MMM",
+                "MMMMW-count-one": "اونۍ W د MMMM",
+                "MMMMW-count-other": "اونۍ W د MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -353,6 +353,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

@@ -3,8 +3,8 @@
     "ko": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "ko"
       },
@@ -369,7 +369,7 @@
                 "MMMEd": "MMM d일 (E)",
                 "MMMEEEEd": "MMM d일 EEEE",
                 "MMMMd": "MMMM d일",
-                "MMMMW-count-other": "MMM W번째 주",
+                "MMMMW-count-other": "MMMM W번째 주",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y년",
@@ -402,46 +402,55 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} ~ {1}",
+                "Bh": {
+                  "B": "B h시 ~ B h시",
+                  "h": "B h시~h시"
+                },
+                "Bhm": {
+                  "B": "B h:mm~B h:mm",
+                  "h": "B h:mm ~ h:mm",
+                  "m": "B h:mm ~ h:mm"
+                },
                 "d": {
                   "d": "d일~d일"
                 },
                 "Gy": {
-                  "G": "G y – G y",
-                  "y": "G y–y"
+                  "G": "G y년 ~ G y년",
+                  "y": "G y년~y년"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
-                  "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "G": "GGGGG y년 M월 ~ GGGGG y년 M월",
+                  "M": "GGGGG y년 M월 ~ GGGGG y년 M월",
+                  "y": "GGGGG y년 M월 ~ y년 M월"
                 },
                 "GyMd": {
-                  "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "d": "GGGGG y년 M월 d일 ~ y년 M월 d일",
+                  "G": "GGGGG y년 M월 d일 ~ GGGGG y년 M월 d일",
+                  "M": "GGGGG y년 M월 d일 ~ y년 M월 d일",
+                  "y": "GGGGG y년 M월 d일 ~ y년 M월 d일"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "GGGGG y년 M월 d일 E요일 ~ y년 M월 d일 E요일",
+                  "G": "GGGGG y년 M월 d일 E요일 ~ GGGGG y년 M월 d일 E요일",
+                  "M": "GGGGG y년 M월 d일 E요일 ~ y년 M월 d일 E요일",
+                  "y": "GGGGG y년 M월 d일 E요일 ~ y년 M월 d일 E요일"
                 },
                 "GyMMM": {
-                  "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
-                  "y": "G y MMM – y MMM"
+                  "G": "G y년 MMM ~ G y년 MMM",
+                  "M": "G y년 MMM ~ MMM",
+                  "y": "G y년 MMM ~ y년 MMM"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "G y년 MMM d일 ~ d일",
+                  "G": "G y년 MMM d일 ~ G y년 MMM d일",
+                  "M": "G y년 MMM d일 ~ MMM d일",
+                  "y": "G y년 MMM d일 ~ y년 MMM d일"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "G y년 MMM d일 E요일 ~ MMM d일 E요일",
+                  "G": "G y년 MMM d일 E요일 ~ G y년 MMM d일 E요일",
+                  "M": "G y년 MMM d일 E요일 ~ MMM d일 E요일",
+                  "y": "G y년 MMM d일 E요일 ~ y년 MMM d일 E요일"
                 },
                 "h": {
                   "a": "a h시 ~ a h시",

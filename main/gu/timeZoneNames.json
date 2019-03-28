@@ -3,8 +3,8 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14402 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "gu"
       },
@@ -1021,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "કતાર"
+              },
+              "Qostanay": {
+                "exemplarCity": "કોસ્ટાને"
               },
               "Qyzylorda": {
                 "exemplarCity": "કિઝિલોર્ડા"

@@ -3,8 +3,8 @@
     "sr-Cyrl-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -363,9 +363,9 @@
                 "MMMEd": "E d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "MMMMW-count-one": "W. 'сједмица' 'у' MMM",
-                "MMMMW-count-few": "W. 'сједмица' 'у' MMM",
-                "MMMMW-count-other": "W. 'сједмица' 'у' MMM",
+                "MMMMW-count-one": "W. 'сједмица' 'у' MMMM",
+                "MMMMW-count-few": "W. 'сједмица' 'у' MMMM",
+                "MMMMW-count-other": "W. 'сједмица' 'у' MMMM",
                 "ms": "mm:ss",
                 "y": "y.",
                 "yM": "M.y.",
@@ -398,6 +398,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

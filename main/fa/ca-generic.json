@@ -3,8 +3,8 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "fa"
       },
@@ -224,66 +224,66 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "نیمه‌شب",
                   "am": "ق.ظ.",
-                  "noon": "ظهر",
                   "pm": "ب.ظ.",
-                  "morning1": "صبح",
-                  "afternoon1": "ب.ظ.",
-                  "evening1": "عصر",
-                  "night1": "شب"
+                  "morning1": "بامداد",
+                  "morning2": "صبح",
+                  "afternoon1": "ظهر",
+                  "afternoon2": "عصر",
+                  "night1": "شب",
+                  "night2": "نیمه‌شب"
                 },
                 "narrow": {
-                  "midnight": "ن",
                   "am": "ق",
-                  "noon": "ظ",
                   "pm": "ب",
-                  "morning1": "ص",
-                  "afternoon1": "ب.ظ.",
-                  "evening1": "ع",
-                  "night1": "ش"
+                  "morning1": "ب",
+                  "morning2": "ص",
+                  "afternoon1": "ظ",
+                  "afternoon2": "ع",
+                  "night1": "ش",
+                  "night2": "ن"
                 },
                 "wide": {
-                  "midnight": "نیمه‌شب",
                   "am": "قبل‌ازظهر",
-                  "noon": "ظهر",
                   "pm": "بعدازظهر",
-                  "morning1": "صبح",
-                  "afternoon1": "بعدازظهر",
-                  "evening1": "عصر",
-                  "night1": "شب"
+                  "morning1": "بامداد",
+                  "morning2": "صبح",
+                  "afternoon1": "ظهر",
+                  "afternoon2": "عصر",
+                  "night1": "شب",
+                  "night2": "نیمه‌شب"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "نیمه‌شب",
                   "am": "ق.ظ.",
-                  "noon": "ظهر",
                   "pm": "ب.ظ.",
-                  "morning1": "صبح",
-                  "afternoon1": "بعدازظهر",
-                  "evening1": "عصر",
-                  "night1": "شب"
+                  "morning1": "بامداد",
+                  "morning2": "صبح",
+                  "afternoon1": "ظهر",
+                  "afternoon2": "عصر",
+                  "night1": "شب",
+                  "night2": "نیمه‌شب"
                 },
                 "narrow": {
-                  "midnight": "ن",
-                  "am": "ق.ظ.",
-                  "noon": "ظ",
-                  "pm": "ب.ظ.",
-                  "morning1": "ص",
-                  "afternoon1": "ب.ظ.",
-                  "evening1": "ع",
-                  "night1": "ش"
+                  "am": "ق",
+                  "pm": "ب",
+                  "morning1": "ب",
+                  "morning2": "ص",
+                  "afternoon1": "ظ",
+                  "afternoon2": "ع",
+                  "night1": "ش",
+                  "night2": "ن"
                 },
                 "wide": {
-                  "midnight": "نیمه‌شب",
                   "am": "قبل‌ازظهر",
-                  "noon": "ظهر",
                   "pm": "بعدازظهر",
-                  "morning1": "صبح",
-                  "afternoon1": "بعدازظهر",
-                  "evening1": "عصر",
-                  "night1": "شب"
+                  "morning1": "بامداد",
+                  "morning2": "صبح",
+                  "afternoon1": "ظهر",
+                  "afternoon2": "عصر",
+                  "night1": "شب",
+                  "night2": "نیمه‌شب"
                 }
               }
             },
@@ -302,10 +302,10 @@
               }
             },
             "dateFormats": {
-              "full": "G EEEE d MMMM y",
-              "long": "G d MMMM y",
-              "medium": "G d MMM y",
-              "short": "G d/M/y"
+              "full": "EEEE d MMMM y G",
+              "long": "d MMMM y G",
+              "medium": "d MMM y G",
+              "short": "y/M/d G"
             },
             "timeFormats": {
               "full": "H:mm:ss (zzzz)",
@@ -359,7 +359,7 @@
                 "yyyyMMM": "MMM y G",
                 "yyyyMMMd": "d MMM y G",
                 "yyyyMMMEd": "E d MMM y G",
-                "yyyyMMMM": "G y MMMM",
+                "yyyyMMMM": "y MMMM G",
                 "yyyyQQQ": "QQQQ y G",
                 "yyyyQQQQ": "QQQQ y G"
               },
@@ -378,6 +378,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} تا {1}",
+                "Bh": {
+                  "B": "h B تا h B",
+                  "h": "h تا h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B تا h:mm B",
+                  "h": "h:mm تا h:mm B",
+                  "m": "h:mm تا h:mm B"
+                },
                 "d": {
                   "d": "d تا d"
                 },

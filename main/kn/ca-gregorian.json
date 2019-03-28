@@ -3,8 +3,8 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "kn"
       },
@@ -353,7 +353,6 @@
                 "MMMd": "MMM d",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "'week' W 'of' MMM",
                 "MMMMW-count-other": "'week' W 'of' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
@@ -367,7 +366,6 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'week' w 'of' Y",
                 "yw-count-other": "'week' w 'of' Y"
               },
               "appendItems": {
@@ -385,6 +383,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

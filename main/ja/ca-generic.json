@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "ja"
       },
@@ -310,8 +310,8 @@
             "dateFormats": {
               "full": "Gy年M月d日(EEEE)",
               "long": "Gy年M月d日",
-              "medium": "Gy/MM/dd",
-              "short": "Gy/M/d"
+              "medium": "GGGGGy/MM/dd",
+              "short": "GGGGGy/M/d"
             },
             "timeFormats": {
               "full": "H時mm分ss秒 zzzz",
@@ -361,10 +361,10 @@
                 "ms": "mm:ss",
                 "y": "Gy年",
                 "yyyy": "Gy年",
-                "yyyyM": "Gy/M",
-                "yyyyMd": "Gy/M/d",
-                "yyyyMEd": "Gy/M/d(E)",
-                "yyyyMEEEEd": "Gy/M/d(EEEE)",
+                "yyyyM": "GGGGGy/M",
+                "yyyyMd": "GGGGGy/M/d",
+                "yyyyMEd": "GGGGGy/M/d(E)",
+                "yyyyMEEEEd": "GGGGGy/M/d(EEEE)",
                 "yyyyMMM": "Gy年M月",
                 "yyyyMMMd": "Gy年M月d日",
                 "yyyyMMMEd": "Gy年M月d日(E)",
@@ -388,29 +388,55 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0}～{1}",
+                "Bh": {
+                  "B": "BK時～BK時",
+                  "h": "BK時～K時"
+                },
+                "Bhm": {
+                  "B": "BK:mm～BK:mm",
+                  "h": "BK:mm～K:mm",
+                  "m": "BK:mm～K:mm"
+                },
                 "d": {
                   "d": "d日～d日"
+                },
+                "GGGGGyM": {
+                  "G": "GGGGGy/MM～GGGGGy/MM",
+                  "M": "GGGGGy/MM～y/MM",
+                  "y": "GGGGGy/MM～y/MM"
+                },
+                "GGGGGyMd": {
+                  "d": "GGGGGy/MM/dd～y/MM/dd",
+                  "G": "GGGGGy/MM/dd～GGGGGy/MM/dd",
+                  "M": "GGGGGy/MM/dd～y/MM/dd",
+                  "y": "GGGGGy/MM/dd～y/MM/dd"
+                },
+                "GGGGGyMEd": {
+                  "d": "GGGGGy/MM/dd(E)～y/MM/dd(E)",
+                  "G": "GGGGGy/MM/dd(E)～GGGGGy/MM/dd(E)",
+                  "M": "GGGGGy/MM/dd(E)～y/MM/dd(E)",
+                  "y": "GGGGGy/MM/dd(E)～y/MM/dd(E)"
                 },
                 "Gy": {
                   "G": "Gy年～Gy年",
                   "y": "Gy年～y年"
                 },
                 "GyM": {
-                  "G": "Gy/MM～Gy/MM",
-                  "M": "Gy/MM～y/MM",
-                  "y": "Gy/MM～y/MM"
+                  "G": "GGGGGy/MM～GGGGGy/MM",
+                  "M": "GGGGGy/MM～y/MM",
+                  "y": "GGGGGy/MM～y/MM"
                 },
                 "GyMd": {
-                  "d": "Gy/MM/dd～y/MM/dd",
-                  "G": "Gy/MM/dd～Gy/MM/dd",
-                  "M": "Gy/MM/dd～y/MM/dd",
-                  "y": "Gy/MM/dd～y/MM/dd"
+                  "d": "GGGGGy/MM/dd～y/MM/dd",
+                  "G": "GGGGGy/MM/dd～GGGGGy/MM/dd",
+                  "M": "GGGGGy/MM/dd～y/MM/dd",
+                  "y": "GGGGGy/MM/dd～y/MM/dd"
                 },
                 "GyMEd": {
-                  "d": "Gy/MM/dd(E)～y/MM/dd(E)",
-                  "G": "Gy/MM/dd(E)～Gy/MM/dd(E)",
-                  "M": "Gy/MM/dd(E)～y/MM/dd(E)",
-                  "y": "Gy/MM/dd(E)～y/MM/dd(E)"
+                  "d": "GGGGGy/MM/dd(E)～y/MM/dd(E)",
+                  "G": "GGGGGy/MM/dd(E)～GGGGGy/MM/dd(E)",
+                  "M": "GGGGGy/MM/dd(E)～y/MM/dd(E)",
+                  "y": "GGGGGy/MM/dd(E)～y/MM/dd(E)"
                 },
                 "GyMMM": {
                   "G": "Gy年M月～Gy年M月",
@@ -490,18 +516,18 @@
                   "y": "Gy年～y年"
                 },
                 "yM": {
-                  "M": "Gy/MM～y/MM",
-                  "y": "Gy/MM～y/MM"
+                  "M": "GGGGGy/MM～y/MM",
+                  "y": "GGGGGy/MM～y/MM"
                 },
                 "yMd": {
-                  "d": "Gy/MM/dd～y/MM/dd",
-                  "M": "Gy/MM/dd～y/MM/dd",
-                  "y": "Gy/MM/dd～y/MM/dd"
+                  "d": "GGGGGy/MM/dd～y/MM/dd",
+                  "M": "GGGGGy/MM/dd～y/MM/dd",
+                  "y": "GGGGGy/MM/dd～y/MM/dd"
                 },
                 "yMEd": {
-                  "d": "Gy/MM/dd(E)～y/MM/dd(E)",
-                  "M": "Gy/MM/dd(E)～y/MM/dd(E)",
-                  "y": "Gy/MM/dd(E)～y/MM/dd(E)"
+                  "d": "GGGGGy/MM/dd(E)～y/MM/dd(E)",
+                  "M": "GGGGGy/MM/dd(E)～y/MM/dd(E)",
+                  "y": "GGGGGy/MM/dd(E)～y/MM/dd(E)"
                 },
                 "yMMM": {
                   "M": "Gy年M月～M月",

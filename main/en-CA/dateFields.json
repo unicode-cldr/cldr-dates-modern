@@ -3,8 +3,8 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "en",
         "territory": "CA"
@@ -335,16 +335,16 @@
             }
           },
           "mon-narrow": {
-            "relative-type--1": "last Mo",
-            "relative-type-0": "this Mo",
-            "relative-type-1": "next Mo",
+            "relative-type--1": "last M",
+            "relative-type-0": "this M",
+            "relative-type-1": "next M",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "in {0} Mo",
-              "relativeTimePattern-count-other": "in {0} Mo’s"
+              "relativeTimePattern-count-one": "in {0} M",
+              "relativeTimePattern-count-other": "in {0} M"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Mo ago",
-              "relativeTimePattern-count-other": "{0} Mo’s ago"
+              "relativeTimePattern-count-one": "{0} M ago",
+              "relativeTimePattern-count-other": "{0} M ago"
             }
           },
           "tue": {

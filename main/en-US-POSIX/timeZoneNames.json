@@ -3,8 +3,8 @@
     "en-US-POSIX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14770 $",
+          "_cldrVersion": "35"
         },
         "language": "en",
         "territory": "US",
@@ -571,7 +571,8 @@
                 "exemplarCity": "Kaliningrad"
               },
               "Kiev": {
-                "exemplarCity": "Kiev"
+                "exemplarCity": "Kiev",
+                "exemplarCity-alt-formal": "Kyiv"
               },
               "Kirov": {
                 "exemplarCity": "Kirov"
@@ -980,7 +981,7 @@
                 "exemplarCity": "Kuwait"
               },
               "Macau": {
-                "exemplarCity": "Macau"
+                "exemplarCity": "Macao"
               },
               "Magadan": {
                 "exemplarCity": "Magadan"
@@ -1020,6 +1021,9 @@
               },
               "Qatar": {
                 "exemplarCity": "Qatar"
+              },
+              "Qostanay": {
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1951,9 +1955,9 @@
             },
             "Macau": {
               "long": {
-                "generic": "Macau Time",
-                "standard": "Macau Standard Time",
-                "daylight": "Macau Summer Time"
+                "generic": "Macao Time",
+                "standard": "Macao Standard Time",
+                "daylight": "Macao Summer Time"
               }
             },
             "Macquarie": {

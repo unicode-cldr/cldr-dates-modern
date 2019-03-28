@@ -3,8 +3,8 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "uk"
       },
@@ -394,6 +394,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },
@@ -402,21 +411,21 @@
                   "y": "G y–y"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
+                  "G": "MM.y G – MM.y G",
                   "M": "GGGGG y-MM – y-MM",
                   "y": "GGGGG y-MM – y-MM"
                 },
                 "GyMd": {
                   "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
+                  "G": "dd.MM.y G – dd.MM.y G",
                   "M": "GGGGG y-MM-dd – y-MM-dd",
                   "y": "GGGGG y-MM-dd – y-MM-dd"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "ccc, dd.MM.y – ccc, dd.MM.y G",
+                  "G": "ccc, dd.MM.y G – ccc, dd.MM.y G",
+                  "M": "ccc, dd.MM.y – ccc, dd.MM.y G",
+                  "y": "ccc, dd.MM.y – ccc, dd.MM.y G"
                 },
                 "GyMMM": {
                   "G": "G y MMM – G y MMM",

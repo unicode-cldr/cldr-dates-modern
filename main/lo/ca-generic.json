@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "lo"
       },
@@ -376,6 +376,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },
@@ -384,15 +393,15 @@
                   "y": "G y–y"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
-                  "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "G": "GGGGG M/y – GGGGG M/y",
+                  "M": "GGGGG M/y – M/y",
+                  "y": "GGGGG M/y – M/y"
                 },
                 "GyMd": {
-                  "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "d": "GGGGG d/M/y – d/M/y",
+                  "G": "GGGGG d/M/y – GGGGG d/M/y",
+                  "M": "GGGGG d/M/y – d/M/y",
+                  "y": "GGGGG d/M/y – d/M/y"
                 },
                 "GyMEd": {
                   "d": "GGGGG y-MM-dd, E – y-MM-dd, E",

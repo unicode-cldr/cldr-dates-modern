@@ -3,8 +3,8 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hans"
@@ -366,7 +366,7 @@
                 "MMMd": "M月d日",
                 "MMMEd": "M月d日E",
                 "MMMMd": "M月d日",
-                "MMMMW-count-other": "MMM第W周",
+                "MMMMW-count-other": "MMMM第W周",
                 "ms": "mm:ss",
                 "y": "y年",
                 "yM": "y年M月",
@@ -396,6 +396,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "Bh时至Bh时",
+                  "h": "Bh时至h时"
+                },
+                "Bhm": {
+                  "B": "Bh:mm至Bh:mm",
+                  "h": "Bh:mm至h:mm",
+                  "m": "Bh:mm至h:mm"
+                },
                 "d": {
                   "d": "d–d日"
                 },

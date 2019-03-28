@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "hy"
       },
@@ -358,8 +358,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "MMM W շաբ",
-                "MMMMW-count-other": "MMM W շաբ",
+                "MMMMW-count-one": "MMMM W շաբ",
+                "MMMMW-count-other": "MMMM W շաբ",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -389,46 +389,55 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "B h–ից B h-ը",
+                  "h": "B h–ից h-ը"
+                },
+                "Bhm": {
+                  "B": "B h:mm – B h:mm",
+                  "h": "B h:mm–h:mm",
+                  "m": "B h:mm – h:mm"
+                },
                 "d": {
                   "d": "d–d"
                 },
                 "Gy": {
                   "G": "G y – G y",
-                  "y": "G y–y"
+                  "y": "G y–y թթ․"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
-                  "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "G": "GGGGG MM.y – GGGGG MM.y",
+                  "M": "GGGGG MM.y – MM.y",
+                  "y": "GGGGG MM.y – MM.y"
                 },
                 "GyMd": {
-                  "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "d": "GGGGG dd.MM.y – dd.MM.y",
+                  "G": "GGGGG dd.MM.y – GGGGG dd.MM.y",
+                  "M": "GGGGG dd.MM.y – dd.MM.y",
+                  "y": "GGGGG dd.MM.y – dd.MM.y"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "GGGGG ccc, dd.MM.y – ccc, dd.MM.y",
+                  "G": "GGGGG ccc, dd.MM.y – GGGGG ccc, dd.MM.y",
+                  "M": "GGGGG ccc, dd.MM.y – ccc, dd.MM.y",
+                  "y": "GGGGG ccc, dd.MM.y – ccc, dd.MM.y"
                 },
                 "GyMMM": {
                   "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
+                  "M": "G y թ. MMM – MMM",
                   "y": "G y MMM – y MMM"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "G dd–dd MMM, y թ.",
+                  "G": "G dd MMM, y թ․ – G dd MMM, y թ.",
+                  "M": "G dd MMM – dd MMM, y թ.",
+                  "y": "G dd MMM, y թ․ – G dd MMM, y թ."
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "G E, d MMM – E, d MMM, y թ.",
+                  "G": "G E, d MMM – G E, d MMM, y թ.",
+                  "M": "G E, d MMM y թ. – E, d MMM",
+                  "y": "G E, d MMM y թ. – E, d MMM y թ."
                 },
                 "h": {
                   "a": "h a – h a",

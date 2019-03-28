@@ -3,8 +3,8 @@
     "lt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14491 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "lt"
       },
@@ -235,7 +235,7 @@
                 },
                 "narrow": {
                   "midnight": "vidurnaktis",
-                  "am": "pr. p.",
+                  "am": "pr. p.",
                   "noon": "perpiet",
                   "pm": "pop.",
                   "morning1": "rytas",
@@ -267,7 +267,7 @@
                 },
                 "narrow": {
                   "midnight": "vidurnaktis",
-                  "am": "pr. p.",
+                  "am": "pr. p.",
                   "noon": "vidurdienis",
                   "pm": "pop.",
                   "morning1": "rytas",
@@ -364,10 +364,10 @@
                 "MMMM": "LLLL",
                 "MMMMd": "MMMM d 'd'.",
                 "MMMMEd": "MMMM d 'd'., E",
-                "MMMMW-count-one": "MMM W 'sav'.",
-                "MMMMW-count-few": "MMM W 'sav'.",
-                "MMMMW-count-many": "MMM W 'sav'.",
-                "MMMMW-count-other": "MMM W 'sav'.",
+                "MMMMW-count-one": "MMMM W 'sav'.",
+                "MMMMW-count-few": "MMMM W 'sav'.",
+                "MMMMW-count-many": "MMMM W 'sav'.",
+                "MMMMW-count-other": "MMMM W 'sav'.",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y-MM",
@@ -401,6 +401,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "hh–hh B"
+                },
+                "Bhm": {
+                  "B": "hh:mm B–hh:mm B",
+                  "h": "hh:mm–hh:mm B",
+                  "m": "hh:mm–hh:mm B"
+                },
                 "d": {
                   "d": "dd–dd"
                 },

@@ -3,8 +3,8 @@
     "sv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14890 $",
+          "_cldrVersion": "35"
         },
         "language": "sv"
       },
@@ -1022,6 +1022,9 @@
               "Qatar": {
                 "exemplarCity": "Qatar"
               },
+              "Qostanay": {
+                "exemplarCity": "Kostanaj"
+              },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
               },
@@ -1933,9 +1936,9 @@
             },
             "Macau": {
               "long": {
-                "generic": "Macautid",
-                "standard": "Macaunormaltid",
-                "daylight": "Macausommartid"
+                "generic": "Macaotid",
+                "standard": "Macaonormaltid",
+                "daylight": "Macaosommartid"
               }
             },
             "Macquarie": {

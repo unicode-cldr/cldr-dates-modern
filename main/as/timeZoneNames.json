@@ -3,8 +3,8 @@
     "as": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "as"
       },
@@ -978,7 +978,7 @@
                 "exemplarCity": "কুৱেইট"
               },
               "Macau": {
-                "exemplarCity": "মাকাউ"
+                "exemplarCity": "মাকাও"
               },
               "Magadan": {
                 "exemplarCity": "মাগাদান"
@@ -1018,6 +1018,9 @@
               },
               "Qatar": {
                 "exemplarCity": "কাটাৰ"
+              },
+              "Qostanay": {
+                "exemplarCity": "ক’ষ্টেনী"
               },
               "Qyzylorda": {
                 "exemplarCity": "কেজিলোৰ্ডা"
