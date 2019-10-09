@@ -3,8 +3,7 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ro"
       },
@@ -407,8 +406,8 @@
                   "d": "d–d"
                 },
                 "Gy": {
-                  "G": "G y – G y",
-                  "y": "G y–y"
+                  "G": "y G – y G",
+                  "y": "y – y G"
                 },
                 "GyM": {
                   "G": "MM.y GGGGG – MM.y GGGGG",

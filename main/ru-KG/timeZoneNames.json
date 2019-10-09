@@ -3,8 +3,7 @@
     "ru-KG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ru",
         "territory": "KG"
@@ -270,7 +269,7 @@
                 "exemplarCity": "Луисвилл"
               },
               "Lower_Princes": {
-                "exemplarCity": "Лоуэр-Принсес-Куортер"
+                "exemplarCity": "Лоуэр-Принс-Куотер"
               },
               "Maceio": {
                 "exemplarCity": "Масейо"
@@ -356,7 +355,7 @@
                 "exemplarCity": "Панама"
               },
               "Pangnirtung": {
-                "exemplarCity": "Пангниртунг"
+                "exemplarCity": "Пангниртанг"
               },
               "Paramaribo": {
                 "exemplarCity": "Парамарибо"

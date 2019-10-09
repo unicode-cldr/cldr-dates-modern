@@ -3,14 +3,13 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "be"
       },
       "dates": {
         "timeZoneNames": {
-          "hourFormat": "+HH.mm;-HH.mm",
+          "hourFormat": "+HH:mm;-HH:mm",
           "gmtFormat": "GMT{0}",
           "gmtZeroFormat": "GMT",
           "regionFormat": "Час: {0}",
@@ -269,7 +268,7 @@
                 "exemplarCity": "Луісвіл"
               },
               "Lower_Princes": {
-                "exemplarCity": "Лоўэр Прынсіз Квортэр"
+                "exemplarCity": "Лоўэр Прынсіз Квотэр"
               },
               "Maceio": {
                 "exemplarCity": "Масеё"
@@ -311,7 +310,7 @@
                 "exemplarCity": "Мікелон"
               },
               "Moncton": {
-                "exemplarCity": "Манктан"
+                "exemplarCity": "Монктан"
               },
               "Monterrey": {
                 "exemplarCity": "Мантэрэй"
@@ -355,7 +354,7 @@
                 "exemplarCity": "Панама"
               },
               "Pangnirtung": {
-                "exemplarCity": "Пангніртунг"
+                "exemplarCity": "Пангніртанг"
               },
               "Paramaribo": {
                 "exemplarCity": "Парамарыба"
@@ -376,7 +375,7 @@
                 "exemplarCity": "Пуэрта-Рыка"
               },
               "Punta_Arenas": {
-                "exemplarCity": "Пунта Арэнас"
+                "exemplarCity": "Пунта-Арэнас"
               },
               "Rainy_River": {
                 "exemplarCity": "Рэйні-Рывер"
@@ -412,7 +411,7 @@
                 "exemplarCity": "Сан-Паўлу"
               },
               "Scoresbysund": {
-                "exemplarCity": "Ітакортаарміут"
+                "exemplarCity": "Ітакартаарміт"
               },
               "Sitka": {
                 "exemplarCity": "Сітка"
@@ -442,7 +441,7 @@
                 "exemplarCity": "Тэгусігальпа"
               },
               "Thule": {
-                "exemplarCity": "Каанаак"
+                "exemplarCity": "Туле"
               },
               "Thunder_Bay": {
                 "exemplarCity": "Тандэр-Бэй"
@@ -469,7 +468,7 @@
                 "exemplarCity": "Якутат"
               },
               "Yellowknife": {
-                "exemplarCity": "Йелаўнайф"
+                "exemplarCity": "Елаўнайф"
               }
             },
             "Atlantic": {
@@ -495,13 +494,13 @@
                 "exemplarCity": "Рэйк’явік"
               },
               "South_Georgia": {
-                "exemplarCity": "Паўднёвая Джорджыя"
+                "exemplarCity": "Паўднёвая Георгія"
               },
               "St_Helena": {
                 "exemplarCity": "Востраў Святой Алены"
               },
               "Stanley": {
-                "exemplarCity": "Стэнлі"
+                "exemplarCity": "Порт-Стэнлі"
               }
             },
             "Europe": {
@@ -599,7 +598,7 @@
                 "exemplarCity": "Мальта"
               },
               "Mariehamn": {
-                "exemplarCity": "Марыехамн"
+                "exemplarCity": "Марыянхаміна"
               },
               "Minsk": {
                 "exemplarCity": "Мінск"
@@ -715,7 +714,7 @@
                 "exemplarCity": "Бангі"
               },
               "Banjul": {
-                "exemplarCity": "Банжул"
+                "exemplarCity": "Банджул"
               },
               "Bissau": {
                 "exemplarCity": "Бісау"
@@ -736,7 +735,7 @@
                 "exemplarCity": "Касабланка"
               },
               "Ceuta": {
-                "exemplarCity": "Сеўта"
+                "exemplarCity": "Сеута"
               },
               "Conakry": {
                 "exemplarCity": "Конакры"
@@ -870,7 +869,7 @@
                 "exemplarCity": "Актабэ"
               },
               "Ashgabat": {
-                "exemplarCity": "Ашгабад"
+                "exemplarCity": "Ашгабат"
               },
               "Atyrau": {
                 "exemplarCity": "Атырау"
@@ -1023,10 +1022,10 @@
                 "exemplarCity": "Катар"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Кустанай"
               },
               "Qyzylorda": {
-                "exemplarCity": "Кзыларда"
+                "exemplarCity": "Кзыл-Арда"
               },
               "Rangoon": {
                 "exemplarCity": "Рангун"
@@ -1083,7 +1082,7 @@
                 "exemplarCity": "Урумчы"
               },
               "Ust-Nera": {
-                "exemplarCity": "Вусць-Нера"
+                "exemplarCity": "Усць-Нера"
               },
               "Vientiane": {
                 "exemplarCity": "В’енцьян"
@@ -1115,7 +1114,7 @@
                 "exemplarCity": "Какосавыя астравы"
               },
               "Comoro": {
-                "exemplarCity": "Камор"
+                "exemplarCity": "Каморскія астравы"
               },
               "Kerguelen": {
                 "exemplarCity": "Кергелен"
@@ -1188,7 +1187,7 @@
                 "exemplarCity": "Чатэм"
               },
               "Easter": {
-                "exemplarCity": "Пасхі востраў"
+                "exemplarCity": "Вялікадня востраў"
               },
               "Efate": {
                 "exemplarCity": "Эфатэ"
@@ -1263,7 +1262,7 @@
                 "exemplarCity": "Піткэрн"
               },
               "Ponape": {
-                "exemplarCity": "Понпеі"
+                "exemplarCity": "Панпеі"
               },
               "Port_Moresby": {
                 "exemplarCity": "Порт-Морсбі"
@@ -1284,7 +1283,7 @@
                 "exemplarCity": "Тангатапу"
               },
               "Truk": {
-                "exemplarCity": "Чуук"
+                "exemplarCity": "Трук"
               },
               "Wake": {
                 "exemplarCity": "Уэйк"
@@ -1618,9 +1617,9 @@
             },
             "Easter": {
               "long": {
-                "generic": "Час вострава Пасхі",
-                "standard": "Стандартны час вострава Пасхі",
-                "daylight": "Летні час вострава Пасхі"
+                "generic": "Час вострава Вялікадня",
+                "standard": "Стандартны час вострава Вялікадня",
+                "daylight": "Летні час вострава Вялікадня"
               }
             },
             "Ecuador": {
@@ -1974,9 +1973,9 @@
             },
             "Noronha": {
               "long": {
-                "generic": "Час Фернанду-ды-Наронья",
-                "standard": "Стандартны час Фернанду-ды-Наронья",
-                "daylight": "Летні час Фернанду-ды-Наронья"
+                "generic": "Час Фернанду-дзі-Наронья",
+                "standard": "Стандартны час Фернанду-дзі-Наронья",
+                "daylight": "Летні час Фернанду-дзі-Наронья"
               }
             },
             "Novosibirsk": {
@@ -2050,7 +2049,7 @@
             },
             "Ponape": {
               "long": {
-                "standard": "Час вострава Понпеі"
+                "standard": "Час вострава Панпеі"
               }
             },
             "Pyongyang": {
@@ -2065,7 +2064,7 @@
             },
             "Rothera": {
               "long": {
-                "standard": "Час станцыі Ратэра"
+                "standard": "Час станцыі Ротэра"
               }
             },
             "Sakhalin": {
@@ -2099,7 +2098,7 @@
             },
             "South_Georgia": {
               "long": {
-                "standard": "Час Паўднёвай Джорджыі"
+                "standard": "Час Паўднёвай Георгіі"
               }
             },
             "Suriname": {
@@ -2143,7 +2142,7 @@
             },
             "Truk": {
               "long": {
-                "standard": "Час Чуук"
+                "standard": "Час Трука"
               }
             },
             "Turkmenistan": {

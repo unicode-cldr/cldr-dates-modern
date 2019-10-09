@@ -3,8 +3,7 @@
     "sr-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn"
@@ -291,21 +290,21 @@
             "eras": {
               "eraNames": {
                 "0": "pre nove ere",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "nove ere",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               },
               "eraAbbr": {
                 "0": "p. n. e.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "n. e.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               },
               "eraNarrow": {
                 "0": "p.n.e.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "n.e.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               }
             },
             "dateFormats": {

@@ -3,8 +3,7 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fa"
       },
@@ -349,9 +348,9 @@
                 "hms": "h:mm:ss a",
                 "Hms": "H:mm:ss",
                 "hmsv": "h:mm:ss a v",
-                "Hmsv": "HH:mm:ss v",
+                "Hmsv": "H:mm:ss v",
                 "hmv": "h:mm a v",
-                "Hmv": "HH:mm v",
+                "Hmv": "H:mm v",
                 "M": "L",
                 "Md": "M/d",
                 "MEd": "E M/d",
@@ -360,10 +359,10 @@
                 "MMMEd": "E d LLL",
                 "MMMMd": "d LLLL",
                 "MMMMEd": "E d LLLL",
-                "MMMMW-count-one": "هفتۀ W از LLLL",
-                "MMMMW-count-other": "هفتۀ W از LLLL",
+                "MMMMW-count-one": "هفتهٔ Wم LLLL",
+                "MMMMW-count-other": "هفتهٔ Wم LLLL",
                 "mmss": "mm:ss",
-                "ms": "mm:ss",
+                "ms": "m:ss",
                 "y": "y",
                 "yM": "y/M",
                 "yMd": "y/M/d",
@@ -375,8 +374,8 @@
                 "yMMMMEEEEd": "EEEE d MMMM y",
                 "yQQQ": "QQQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "هفته w از Y",
-                "yw-count-other": "هفته w از Y"
+                "yw-count-one": "هفتهٔ wم Y",
+                "yw-count-other": "هفتهٔ wم Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -406,42 +405,42 @@
                   "d": "d تا d"
                 },
                 "Gy": {
-                  "G": "G y – G y",
-                  "y": "G y–y"
+                  "G": "y G تا y G",
+                  "y": "y تا y G"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
-                  "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "G": "y/M GGGGG تا y/M GGGGG",
+                  "M": "y/M تا y/M GGGGG",
+                  "y": "y/M تا y/M GGGGG"
                 },
                 "GyMd": {
-                  "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "d": "y/M/d تا y/M/d GGGGG",
+                  "G": "y/M/d GGGGG تا y/M/d GGGGG",
+                  "M": "y/M/d تا y/M/d GGGGG",
+                  "y": "y/M/d تا y/M/d GGGGG"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "E y/M/d تا E y/M/d GGGGG",
+                  "G": "E y/M/d GGGGG تا E y/M/d GGGGG",
+                  "M": "E y/M/d تا E y/M/d GGGGG",
+                  "y": "E y/M/d تا E y/M/d GGGGG"
                 },
                 "GyMMM": {
-                  "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
-                  "y": "G y MMM – y MMM"
+                  "G": "MMM y G تا MMM y G",
+                  "M": "LLL تا MMM y G",
+                  "y": "MMM y تا MMM y G"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "d تا d MMM y G",
+                  "G": "d MMM y G تا d MMM y G",
+                  "M": "d LLL تا d MMM y G",
+                  "y": "d MMM y تا d MMM y G"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "E d LLL تا E d MMM y G",
+                  "G": "E d MMM y G تا E d MMM y G",
+                  "M": "E d LLL تا E d MMM y G",
+                  "y": "E d MMM y تا E d MMM y G"
                 },
                 "h": {
                   "a": "h a تا h a",

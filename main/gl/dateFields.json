@@ -3,8 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gl"
       },
@@ -35,9 +34,9 @@
           },
           "year-short": {
             "displayName": "ano",
-            "relative-type--1": "ano pasado",
+            "relative-type--1": "o ano pasado",
             "relative-type-0": "este ano",
-            "relative-type-1": "seguinte ano",
+            "relative-type-1": "o próximo ano",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "en {0} ano",
               "relativeTimePattern-count-other": "en {0} anos"
@@ -49,9 +48,9 @@
           },
           "year-narrow": {
             "displayName": "ano",
-            "relative-type--1": "ano pasado",
+            "relative-type--1": "o ano pas.",
             "relative-type-0": "este ano",
-            "relative-type-1": "seguinte ano",
+            "relative-type-1": "o próx. ano",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "en {0} ano",
               "relativeTimePattern-count-other": "en {0} anos"
@@ -119,9 +118,9 @@
           },
           "month-short": {
             "displayName": "mes",
-            "relative-type--1": "m. pasado",
-            "relative-type-0": "este m.",
-            "relative-type-1": "m. seguinte",
+            "relative-type--1": "o mes pasado",
+            "relative-type-0": "este mes",
+            "relative-type-1": "o próximo mes",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "en {0} mes",
               "relativeTimePattern-count-other": "en {0} meses"
@@ -133,9 +132,9 @@
           },
           "month-narrow": {
             "displayName": "mes",
-            "relative-type--1": "m. pasado",
-            "relative-type-0": "este m.",
-            "relative-type-1": "m. seguinte",
+            "relative-type--1": "o mes pas.",
+            "relative-type-0": "este mes",
+            "relative-type-1": "o próx. mes",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "en {0} mes",
               "relativeTimePattern-count-other": "en {0} meses"
@@ -162,9 +161,9 @@
           },
           "week-short": {
             "displayName": "sem.",
-            "relative-type--1": "sem. pasada",
+            "relative-type--1": "a sem. pasada",
             "relative-type-0": "esta sem.",
-            "relative-type-1": "sem. seguinte",
+            "relative-type-1": "a próxima sem.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "en {0} sem.",
               "relativeTimePattern-count-other": "en {0} sem."
@@ -177,9 +176,9 @@
           },
           "week-narrow": {
             "displayName": "sem.",
-            "relative-type--1": "sem. pasada",
+            "relative-type--1": "a sem. pas.",
             "relative-type-0": "esta sem.",
-            "relative-type-1": "sem. seguinte",
+            "relative-type-1": "a próx. sem.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "en {0} sem.",
               "relativeTimePattern-count-other": "en {0} sem."

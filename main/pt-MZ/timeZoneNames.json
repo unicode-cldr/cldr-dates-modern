@@ -3,8 +3,7 @@
     "pt-MZ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt",
         "territory": "MZ"
@@ -164,7 +163,7 @@
                 "exemplarCity": "Eirunepé"
               },
               "El_Salvador": {
-                "exemplarCity": "El Salvador"
+                "exemplarCity": "Salvador"
               },
               "Fort_Nelson": {
                 "exemplarCity": "Fort Nelson"
@@ -1024,7 +1023,7 @@
                 "exemplarCity": "Catar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1406,30 +1405,30 @@
             },
             "America_Central": {
               "long": {
-                "generic": "Hora Central",
-                "standard": "Hora padrão Central",
-                "daylight": "Hora de verão Central"
+                "generic": "Hora central norte-americana",
+                "standard": "Hora padrão central norte-americana",
+                "daylight": "Hora de verão central norte-americana"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Hora Oriental",
-                "standard": "Hora padrão Oriental",
-                "daylight": "Hora de verão Oriental"
+                "generic": "Hora oriental norte-americana",
+                "standard": "Hora padrão oriental norte-americana",
+                "daylight": "Hora de verão oriental norte-americana"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Hora da Montanha",
-                "standard": "Hora padrão da Montanha",
-                "daylight": "Hora de verão da Montanha"
+                "generic": "Hora de montanha norte-americana",
+                "standard": "Hora padrão de montanha norte-americana",
+                "daylight": "Hora de verão de montanha norte-americana"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Hora do Pacífico",
-                "standard": "Hora padrão do Pacífico",
-                "daylight": "Hora de verão do Pacífico"
+                "generic": "Hora do Pacífico norte-americana",
+                "standard": "Hora padrão do Pacífico norte-americana",
+                "daylight": "Hora de verão do Pacífico norte-americana"
               }
             },
             "Anadyr": {

@@ -3,8 +3,7 @@
     "sr-Latn-XK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn",
@@ -138,7 +137,7 @@
                 "exemplarCity": "Kuiaba"
               },
               "Curacao": {
-                "exemplarCity": "Kiraso"
+                "exemplarCity": "Kurasao"
               },
               "Danmarkshavn": {
                 "exemplarCity": "Danmarkshagen"
@@ -1025,7 +1024,7 @@
                 "exemplarCity": "Katar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanaj"
               },
               "Qyzylorda": {
                 "exemplarCity": "Kizilorda"

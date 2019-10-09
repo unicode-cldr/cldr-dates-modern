@@ -3,8 +3,7 @@
     "or": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "or"
       },
@@ -1020,7 +1019,7 @@
                 "exemplarCity": "କତାର୍"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "କୋଷ୍ଟନେ"
               },
               "Qyzylorda": {
                 "exemplarCity": "କୀଜିଲୋର୍ଡା"

@@ -3,8 +3,7 @@
     "sr-Cyrl-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -292,21 +291,21 @@
             "eras": {
               "eraNames": {
                 "0": "прије нове ере",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "п. н. е.",
                 "1": "нове ере",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н. е."
               },
               "eraAbbr": {
                 "0": "п. н. е.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "п. н. е.",
                 "1": "н. е.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н. е."
               },
               "eraNarrow": {
                 "0": "п.н.е.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "п. н. е.",
                 "1": "н.е.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н. е."
               }
             },
             "dateFormats": {

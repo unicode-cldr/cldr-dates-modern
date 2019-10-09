@@ -3,8 +3,7 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "az"
       },
@@ -86,9 +85,9 @@
                   "12": "12"
                 },
                 "wide": {
-                  "1": "Yanvar",
+                  "1": "yanvar",
                   "2": "Fevral",
-                  "3": "Mart",
+                  "3": "mart",
                   "4": "Aprel",
                   "5": "May",
                   "6": "İyun",
@@ -97,7 +96,7 @@
                   "9": "Sentyabr",
                   "10": "Oktyabr",
                   "11": "Noyabr",
-                  "12": "Dekabr"
+                  "12": "dekabr"
                 }
               }
             },
@@ -105,10 +104,10 @@
               "format": {
                 "abbreviated": {
                   "sun": "B.",
-                  "mon": "B.E.",
-                  "tue": "Ç.A.",
+                  "mon": "B.e.",
+                  "tue": "Ç.a.",
                   "wed": "Ç.",
-                  "thu": "C.A.",
+                  "thu": "C.a.",
                   "fri": "C.",
                   "sat": "Ş."
                 },

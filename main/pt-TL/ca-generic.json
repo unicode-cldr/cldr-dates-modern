@@ -3,8 +3,7 @@
     "pt-TL": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt",
         "territory": "TL"
@@ -123,13 +122,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "dom",
-                  "mon": "seg",
-                  "tue": "ter",
-                  "wed": "qua",
-                  "thu": "qui",
-                  "fri": "sex",
-                  "sat": "sáb"
+                  "sun": "domingo",
+                  "mon": "segunda",
+                  "tue": "terça",
+                  "wed": "quarta",
+                  "thu": "quinta",
+                  "fri": "sexta",
+                  "sat": "sábado"
                 },
                 "wide": {
                   "sun": "domingo",
@@ -161,13 +160,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "dom",
-                  "mon": "seg",
-                  "tue": "ter",
-                  "wed": "qua",
-                  "thu": "qui",
-                  "fri": "sex",
-                  "sat": "sáb"
+                  "sun": "domingo",
+                  "mon": "segunda",
+                  "tue": "terça",
+                  "wed": "quarta",
+                  "thu": "quinta",
+                  "fri": "sexta",
+                  "sat": "sábado"
                 },
                 "wide": {
                   "sun": "domingo",
@@ -387,7 +386,7 @@
                 },
                 "Bhm": {
                   "B": "h:mm B – h:mm B",
-                  "h": "h:mm–h:mm B",
+                  "h": "h:mm – h:mm B",
                   "m": "h:mm–h:mm B"
                 },
                 "d": {

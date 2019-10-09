@@ -3,8 +3,7 @@
     "ca-ES-VALENCIA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ca",
         "territory": "ES",
@@ -756,7 +755,7 @@
                 "exemplarCity": "Douala"
               },
               "El_Aaiun": {
-                "exemplarCity": "Al-aaiun"
+                "exemplarCity": "Al-Aaiun"
               },
               "Freetown": {
                 "exemplarCity": "Freetown"
@@ -1064,7 +1063,7 @@
                 "exemplarCity": "Taixkent"
               },
               "Tbilisi": {
-                "exemplarCity": "Tbilisi"
+                "exemplarCity": "Tbilissi"
               },
               "Tehran": {
                 "exemplarCity": "Teheran"
@@ -1097,7 +1096,7 @@
                 "exemplarCity": "Jakutsk"
               },
               "Yekaterinburg": {
-                "exemplarCity": "Jekaterinburg"
+                "exemplarCity": "Iekaterinburg"
               },
               "Yerevan": {
                 "exemplarCity": "Erevan"
@@ -1734,16 +1733,16 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "Hora de l’Est de Grenlàndia",
-                "standard": "Hora estàndard de l’Est de Grenlàndia",
-                "daylight": "Hora d’estiu de l’Est de Grenlàndia"
+                "generic": "Hora de l’Est de Groenlàndia",
+                "standard": "Hora estàndard de l’Est de Groenlàndia",
+                "daylight": "Hora d’estiu de l’Est de Groenlàndia"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Hora de l’Oest de Grenlàndia",
-                "standard": "Hora estàndard de l’Oest de Grenlàndia",
-                "daylight": "Hora d’estiu de l’Oest de Grenlàndia"
+                "generic": "Hora de l’Oest de Groenlàndia",
+                "standard": "Hora estàndard de l’Oest de Groenlàndia",
+                "daylight": "Hora d’estiu de l’Oest de Groenlàndia"
               }
             },
             "Gulf": {
@@ -2022,9 +2021,9 @@
             },
             "Novosibirsk": {
               "long": {
-                "generic": "Hora de Novosibirsk",
-                "standard": "Hora estàndard de Novosibirsk",
-                "daylight": "Hora d’estiu de Novosibirsk"
+                "generic": "Hora de Novossibirsk",
+                "standard": "Hora estàndard de Novossibirsk",
+                "daylight": "Hora d’estiu de Novossibirsk"
               }
             },
             "Omsk": {

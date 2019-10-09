@@ -3,8 +3,7 @@
     "pa-Guru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pa",
         "script": "Guru"
@@ -1024,7 +1023,7 @@
                 "exemplarCity": "ਕਤਰ"
               },
               "Qostanay": {
-                "exemplarCity": "ਕੋਸਟਨੇਏ"
+                "exemplarCity": "ਕੋਸਤਾਨਾਏ"
               },
               "Qyzylorda": {
                 "exemplarCity": "ਕਿਜ਼ੀਲੋਰਡਾ"

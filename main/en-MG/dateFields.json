@@ -3,8 +3,7 @@
     "en-MG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "MG"
@@ -36,9 +35,9 @@
           },
           "year-short": {
             "displayName": "yr",
-            "relative-type--1": "last yr.",
-            "relative-type-0": "this yr.",
-            "relative-type-1": "next yr.",
+            "relative-type--1": "last yr",
+            "relative-type-0": "this yr",
+            "relative-type-1": "next yr",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} yr",
               "relativeTimePattern-count-other": "in {0} yr"
@@ -50,9 +49,9 @@
           },
           "year-narrow": {
             "displayName": "yr",
-            "relative-type--1": "last yr.",
-            "relative-type-0": "this yr.",
-            "relative-type-1": "next yr.",
+            "relative-type--1": "last yr",
+            "relative-type-0": "this yr",
+            "relative-type-1": "next yr",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} yr",
               "relativeTimePattern-count-other": "in {0} yr"
@@ -120,9 +119,9 @@
           },
           "month-short": {
             "displayName": "mo",
-            "relative-type--1": "last mo.",
-            "relative-type-0": "this mo.",
-            "relative-type-1": "next mo.",
+            "relative-type--1": "last mo",
+            "relative-type-0": "this mo",
+            "relative-type-1": "next mo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} mo",
               "relativeTimePattern-count-other": "in {0} mo"
@@ -134,9 +133,9 @@
           },
           "month-narrow": {
             "displayName": "mo",
-            "relative-type--1": "last mo.",
-            "relative-type-0": "this mo.",
-            "relative-type-1": "next mo.",
+            "relative-type--1": "last mo",
+            "relative-type-0": "this mo",
+            "relative-type-1": "next mo",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} mo",
               "relativeTimePattern-count-other": "in {0} mo"
@@ -163,9 +162,9 @@
           },
           "week-short": {
             "displayName": "wk",
-            "relative-type--1": "last wk.",
-            "relative-type-0": "this wk.",
-            "relative-type-1": "next wk.",
+            "relative-type--1": "last wk",
+            "relative-type-0": "this wk",
+            "relative-type-1": "next wk",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} wk",
               "relativeTimePattern-count-other": "in {0} wk"
@@ -178,9 +177,9 @@
           },
           "week-narrow": {
             "displayName": "wk",
-            "relative-type--1": "last wk.",
-            "relative-type-0": "this wk.",
-            "relative-type-1": "next wk.",
+            "relative-type--1": "last wk",
+            "relative-type-0": "this wk",
+            "relative-type-1": "next wk",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} wk",
               "relativeTimePattern-count-other": "in {0} wk"

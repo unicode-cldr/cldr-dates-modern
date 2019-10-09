@@ -3,8 +3,7 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "uk"
       },
@@ -936,7 +935,7 @@
                 "exemplarCity": "Хеврон"
               },
               "Hong_Kong": {
-                "exemplarCity": "Гонконґ"
+                "exemplarCity": "Гонконг"
               },
               "Hovd": {
                 "exemplarCity": "Ховд"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Катар"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Костанай"
               },
               "Qyzylorda": {
                 "exemplarCity": "Кизилорда"
@@ -1050,7 +1049,7 @@
                 "exemplarCity": "Шанхай"
               },
               "Singapore": {
-                "exemplarCity": "Сінґапур"
+                "exemplarCity": "Сінгапур"
               },
               "Srednekolymsk": {
                 "exemplarCity": "Середньоколимськ"
@@ -1684,7 +1683,7 @@
             },
             "French_Guiana": {
               "long": {
-                "standard": "за часом Французької Гвіани"
+                "standard": "за часом Французької Ґвіани"
               }
             },
             "French_Southern": {

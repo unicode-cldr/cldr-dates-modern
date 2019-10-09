@@ -3,8 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zu"
       },
@@ -427,7 +426,7 @@
                 "exemplarCity": "i-St. Kitts"
               },
               "St_Lucia": {
-                "exemplarCity": "i-"
+                "exemplarCity": "I-St. Lucia"
               },
               "St_Thomas": {
                 "exemplarCity": "i-St. Thomas"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "i-Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "I-Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "i-Qyzylorda"
@@ -1109,7 +1108,7 @@
                 "exemplarCity": "i-Chagos"
               },
               "Christmas": {
-                "exemplarCity": "i-Christmas"
+                "exemplarCity": "Ukhisimusi"
               },
               "Cocos": {
                 "exemplarCity": "i-Cocos"
@@ -1365,13 +1364,13 @@
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Isikhathi esijwayelekile saseNingizimu Afrika"
+                "standard": "Isikhathi esivamile saseNingizimu Afrika"
               }
             },
             "Africa_Western": {
               "long": {
                 "generic": "Isikhathi saseNtshonalanga Afrika",
-                "standard": "Isikhathi esijwayelekile saseNtshonalanga Afrika",
+                "standard": "Isikhathi esivamile saseNtshonalanga Afrika",
                 "daylight": "Isikhathi sasehlobo saseNtshonalanga Afrika"
               }
             },
@@ -1455,7 +1454,7 @@
             "Armenia": {
               "long": {
                 "generic": "Isikhathi saseArmenia",
-                "standard": "Isikhathi esezingeni sase-Armenia",
+                "standard": "Isikhathi esivamile sase-Armenia",
                 "daylight": "Isikhathi sehlobo sase-Armenia"
               }
             },
@@ -1546,7 +1545,7 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "Isikhathi esijwayelekile sase-Chamorro"
+                "standard": "Isikhathi esivamile sase-Chamorro"
               }
             },
             "Chatham": {
@@ -1573,7 +1572,7 @@
             "Choibalsan": {
               "long": {
                 "generic": "Isikhathi sase-Choibalsan",
-                "standard": "Isikhathi Esimisiwe sase-Choibalsan",
+                "standard": "Isikhathi Esivamile sase-Choibalsan",
                 "daylight": "Isikhathi sehlobo e-Choibalsan"
               }
             },
@@ -1797,7 +1796,7 @@
             "Irkutsk": {
               "long": {
                 "generic": "Isikhathi sase-Irkutsk",
-                "standard": "Isikhathi Esimisiwe sase-Irkutsk",
+                "standard": "Isikhathi Esivamile sase-Irkutsk",
                 "daylight": "Isikhathi sasehlobo e-Irkutsk"
               }
             },
@@ -1835,7 +1834,7 @@
             "Korea": {
               "long": {
                 "generic": "Isikhathi sase-Korea",
-                "standard": "Isikhathi esisezengeni sase-Korea",
+                "standard": "Isikhathi Esivamile sase-Korea",
                 "daylight": "Isikhathi semini sase-Korea"
               }
             },
@@ -1847,7 +1846,7 @@
             "Krasnoyarsk": {
               "long": {
                 "generic": "Isikhathi sase-Krasnoyarsk",
-                "standard": "Isikhathi Esimisiwe sase-Krasnoyarsk",
+                "standard": "Isikhathi Esivamile sase-Krasnoyarsk",
                 "daylight": "Isikhathi sasehlobo e-Krasnoyarsk"
               }
             },
@@ -1876,7 +1875,7 @@
             "Magadan": {
               "long": {
                 "generic": "Isikhathi sase-Magadan",
-                "standard": "Isikhathi Esimisiwe sase-Magadan",
+                "standard": "Isikhathi Esivamile sase-Magadan",
                 "daylight": "Isikhathi sasehlobo e-Magadan"
               }
             },
@@ -1958,7 +1957,7 @@
             "New_Caledonia": {
               "long": {
                 "generic": "Isikhathi sase-New Caledonia",
-                "standard": "Isikhathi sase-New Caledonia esijwayelekile",
+                "standard": "Isikhathi sase-New Caledonia esivamile",
                 "daylight": "Isikhathi sase-New Caledonia sasehlobo"
               }
             },
@@ -1989,21 +1988,21 @@
             "Noronha": {
               "long": {
                 "generic": "Isikhathi sase-Fernando de Noronha",
-                "standard": "Isikhathi sase-Fernando de Noronha esijwayelekile",
+                "standard": "Isikhathi sase-Fernando de Noronha esivamile",
                 "daylight": "Isikhathi sase-Fernando de Noronha sasehlobo"
               }
             },
             "Novosibirsk": {
               "long": {
                 "generic": "Isikhathi sase-Novosibirsk",
-                "standard": "Isikhathi Esimisiwe sase-Novosibirsk",
+                "standard": "Isikhathi Esivamile sase-Novosibirsk",
                 "daylight": "Isikhathi sasehlobo sase-Novosibirsk"
               }
             },
             "Omsk": {
               "long": {
                 "generic": "Isikhathi sase-Omsk",
-                "standard": "Isikhathi Esimisiwe sase-Omsk",
+                "standard": "Isikhathi Esivamile sase-Omsk",
                 "daylight": "Isikhathi sasehlobo sase-Omsk"
               }
             },
@@ -2027,14 +2026,14 @@
             "Paraguay": {
               "long": {
                 "generic": "Isikhathi sase-Paraguay",
-                "standard": "Isikhathi sase-Paraguay esijwayelekile",
+                "standard": "Isikhathi sase-Paraguay esivamile",
                 "daylight": "Isikhathi sase-Paraguay sasehlobo"
               }
             },
             "Peru": {
               "long": {
                 "generic": "Isikhathi sase-Peru",
-                "standard": "Isikhathi sase-Peru esijwayelekile",
+                "standard": "Isikhathi sase-Peru esivamile",
                 "daylight": "Isikhathi sase-Peru sasehlobo"
               }
             },
@@ -2085,7 +2084,7 @@
             "Sakhalin": {
               "long": {
                 "generic": "Isikhathi sase-Sakhalin",
-                "standard": "Isikhathi Esimisiwe sase-Sakhalin",
+                "standard": "Isikhathi Esivamile sase-Sakhalin",
                 "daylight": "Isikhathi sasehlobo e-Sakhalin"
               }
             },
@@ -2099,7 +2098,7 @@
             "Samoa": {
               "long": {
                 "generic": "Isikhathi sase-Samoa",
-                "standard": "Isikhathi sase-Samoa esijwayelekile",
+                "standard": "Isikhathi sase-Samoa esivamile",
                 "daylight": "Isikhathi sase-Samoa sasemini"
               }
             },
@@ -2158,7 +2157,7 @@
             "Tonga": {
               "long": {
                 "generic": "Isikhathi sase-Tonga",
-                "standard": "Isikhathi sase-Tonga esijwayelekile",
+                "standard": "Isikhathi sase-Tonga esivamile",
                 "daylight": "Isikhathi sase-Tonga sasehlobo"
               }
             },
@@ -2208,14 +2207,14 @@
             "Vladivostok": {
               "long": {
                 "generic": "Isikhathi sase-Vladivostok",
-                "standard": "Isikhathi Esimisiwe sase-Vladivostok",
+                "standard": "Isikhathi Esivamile sase-Vladivostok",
                 "daylight": "Isikhathi sasehlobo e-Vladivostok"
               }
             },
             "Volgograd": {
               "long": {
                 "generic": "Isikhathi sase-Volgograd",
-                "standard": "Isikhathi Esimisiwe sase-Volgograd",
+                "standard": "Isikhathi Esivamile sase-Volgograd",
                 "daylight": "Isikhathi sase-Volgograd sasehlobo"
               }
             },
@@ -2237,14 +2236,14 @@
             "Yakutsk": {
               "long": {
                 "generic": "Isikhathi sase-Yakutsk",
-                "standard": "Isikhathi Esimisiwe sase-Yakutsk",
+                "standard": "Isikhathi Esivamile sase-Yakutsk",
                 "daylight": "Isikhathi sasehlobo e-Yakutsk"
               }
             },
             "Yekaterinburg": {
               "long": {
                 "generic": "Isikhathi sase-Yekaterinburg",
-                "standard": "Isikhathi Esimisiwe sase-Yekaterinburg",
+                "standard": "Isikhathi Esivamile sase-Yekaterinburg",
                 "daylight": "Isikhathi sasehlobo e-Yekaterinburg"
               }
             }

@@ -3,8 +3,7 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tr",
         "territory": "CY"
@@ -78,9 +77,9 @@
           },
           "quarter-short": {
             "displayName": "çyr.",
-            "relative-type--1": "geçen çeyrek",
-            "relative-type-0": "bu çeyrek",
-            "relative-type-1": "gelecek çeyrek",
+            "relative-type--1": "geçen çyr.",
+            "relative-type-0": "bu çyr.",
+            "relative-type-1": "gelecek çyr.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} çyr. sonra",
               "relativeTimePattern-count-other": "{0} çyr. sonra"
@@ -92,9 +91,9 @@
           },
           "quarter-narrow": {
             "displayName": "çyr.",
-            "relative-type--1": "geçen çeyrek",
-            "relative-type-0": "bu çeyrek",
-            "relative-type-1": "gelecek çeyrek",
+            "relative-type--1": "geçen çyr.",
+            "relative-type-0": "bu çyr.",
+            "relative-type-1": "gelecek çyr.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} çyr. sonra",
               "relativeTimePattern-count-other": "{0} çyr. sonra"
@@ -163,9 +162,9 @@
           },
           "week-short": {
             "displayName": "hf.",
-            "relative-type--1": "geçen hafta",
-            "relative-type-0": "bu hafta",
-            "relative-type-1": "gelecek hafta",
+            "relative-type--1": "geçen hf.",
+            "relative-type-0": "bu hf.",
+            "relative-type-1": "gelecek hf.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} hf. sonra",
               "relativeTimePattern-count-other": "{0} hf. sonra"
@@ -178,9 +177,9 @@
           },
           "week-narrow": {
             "displayName": "hf.",
-            "relative-type--1": "geçen hafta",
-            "relative-type-0": "bu hafta",
-            "relative-type-1": "gelecek hafta",
+            "relative-type--1": "geçen hf.",
+            "relative-type-0": "bu hf.",
+            "relative-type-1": "gelecek hf.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} hf. sonra",
               "relativeTimePattern-count-other": "{0} hf. sonra"

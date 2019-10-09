@@ -3,8 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hu"
       },
@@ -581,7 +580,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "óra",
+            "displayName": "ó",
             "relative-type-0": "ebben az órában",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} óra múlva",
@@ -617,7 +616,7 @@
             }
           },
           "minute-narrow": {
-            "displayName": "perc",
+            "displayName": "p",
             "relative-type-0": "ebben a percben",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} perc múlva",
@@ -653,7 +652,7 @@
             }
           },
           "second-narrow": {
-            "displayName": "másodperc",
+            "displayName": "mp",
             "relative-type-0": "most",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} másodperc múlva",

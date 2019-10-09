@@ -3,8 +3,7 @@
     "sr-Latn-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14782 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn",
@@ -16,18 +15,18 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "jan.",
-                  "2": "feb.",
+                  "1": "jan",
+                  "2": "feb",
                   "3": "mart",
-                  "4": "apr.",
+                  "4": "apr",
                   "5": "maj",
                   "6": "jun",
                   "7": "jul",
-                  "8": "avg.",
-                  "9": "sept.",
-                  "10": "okt.",
-                  "11": "nov.",
-                  "12": "dec."
+                  "8": "avg",
+                  "9": "sept",
+                  "10": "okt",
+                  "11": "nov",
+                  "12": "dec"
                 },
                 "narrow": {
                   "1": "j",
@@ -60,18 +59,18 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "jan.",
-                  "2": "feb.",
+                  "1": "jan",
+                  "2": "feb",
                   "3": "mart",
-                  "4": "apr.",
+                  "4": "apr",
                   "5": "maj",
                   "6": "jun",
                   "7": "jul",
-                  "8": "avg.",
-                  "9": "sept.",
-                  "10": "okt.",
-                  "11": "nov.",
-                  "12": "dec."
+                  "8": "avg",
+                  "9": "sept",
+                  "10": "okt",
+                  "11": "nov",
+                  "12": "dec"
                 },
                 "narrow": {
                   "1": "j",
@@ -106,13 +105,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "ned.",
-                  "mon": "pon.",
-                  "tue": "ut.",
-                  "wed": "sr.",
-                  "thu": "čet.",
-                  "fri": "pet.",
-                  "sat": "sub."
+                  "sun": "ned",
+                  "mon": "pon",
+                  "tue": "uto",
+                  "wed": "sre",
+                  "thu": "čet",
+                  "fri": "pet",
+                  "sat": "sub"
                 },
                 "narrow": {
                   "sun": "n",
@@ -144,13 +143,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "ned.",
-                  "mon": "pon.",
-                  "tue": "ut.",
-                  "wed": "sr.",
-                  "thu": "čet.",
-                  "fri": "pet.",
-                  "sat": "sub."
+                  "sun": "ned",
+                  "mon": "pon",
+                  "tue": "uto",
+                  "wed": "sre",
+                  "thu": "čet",
+                  "fri": "pet",
+                  "sat": "sub"
                 },
                 "narrow": {
                   "sun": "n",
@@ -292,21 +291,21 @@
             "eras": {
               "eraNames": {
                 "0": "prije nove ere",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "nove ere",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               },
               "eraAbbr": {
                 "0": "p. n. e.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "n. e.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               },
               "eraNarrow": {
                 "0": "p.n.e.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "n.e.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               }
             },
             "dateFormats": {

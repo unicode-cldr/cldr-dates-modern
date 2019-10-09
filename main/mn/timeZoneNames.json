@@ -3,8 +3,7 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mn"
       },
@@ -79,7 +78,7 @@
                 "exemplarCity": "Белизе"
               },
               "Blanc-Sablon": {
-                "exemplarCity": "Бланк-Саблон"
+                "exemplarCity": "Блан-Саблон"
               },
               "Boa_Vista": {
                 "exemplarCity": "Боа-Виста"
@@ -91,7 +90,7 @@
                 "exemplarCity": "Боисе"
               },
               "Buenos_Aires": {
-                "exemplarCity": "Буэнос Айрес"
+                "exemplarCity": "Буэнос-Айрес"
               },
               "Cambridge_Bay": {
                 "exemplarCity": "Кэмбрижийн булан"
@@ -483,10 +482,10 @@
                 "exemplarCity": "Канари"
               },
               "Cape_Verde": {
-                "exemplarCity": "Кабо Верде"
+                "exemplarCity": "Кабо-Верде"
               },
               "Faeroe": {
-                "exemplarCity": "Фароэ"
+                "exemplarCity": "Фарер"
               },
               "Madeira": {
                 "exemplarCity": "Мадейра"
@@ -578,7 +577,7 @@
                 "exemplarCity": "Киров"
               },
               "Lisbon": {
-                "exemplarCity": "Лисбон"
+                "exemplarCity": "Лиссабон"
               },
               "Ljubljana": {
                 "exemplarCity": "Любляна"
@@ -632,7 +631,7 @@
                 "exemplarCity": "Самара"
               },
               "San_Marino": {
-                "exemplarCity": "Сан Марино"
+                "exemplarCity": "Сан-Марино"
               },
               "Sarajevo": {
                 "exemplarCity": "Сараево"
@@ -700,7 +699,7 @@
                 "exemplarCity": "Аккра"
               },
               "Addis_Ababa": {
-                "exemplarCity": "Аддис-абеба"
+                "exemplarCity": "Аддис-Aбеба"
               },
               "Algiers": {
                 "exemplarCity": "Алжир"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Катар"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Костанай"
               },
               "Qyzylorda": {
                 "exemplarCity": "Кызылорд"
@@ -1236,10 +1235,10 @@
                 "exemplarCity": "Мажуро"
               },
               "Marquesas": {
-                "exemplarCity": "Маркизас"
+                "exemplarCity": "Маркез"
               },
               "Midway": {
-                "exemplarCity": "Мидвей"
+                "exemplarCity": "Мидуэй"
               },
               "Nauru": {
                 "exemplarCity": "Науру"
@@ -1287,7 +1286,7 @@
                 "exemplarCity": "Чүүк"
               },
               "Wake": {
-                "exemplarCity": "Уэйк"
+                "exemplarCity": "Уэк"
               },
               "Wallis": {
                 "exemplarCity": "Уоллис"
@@ -1532,9 +1531,9 @@
             },
             "Cape_Verde": {
               "long": {
-                "generic": "Кабо Вердийн цаг",
-                "standard": "Кабо Вердийн стандарт цаг",
-                "daylight": "Кабо Вердийн зуны цаг"
+                "generic": "Кабо-Вердийн цаг",
+                "standard": "Кабо-Вердийн стандарт цаг",
+                "daylight": "Кабо-Вердийн зуны цаг"
               }
             },
             "Chamorro": {
@@ -1589,9 +1588,9 @@
             },
             "Cook": {
               "long": {
-                "generic": "Күүк арлын цаг",
-                "standard": "Күүк арлын стандарт цаг",
-                "daylight": "Күүк арлын хагас зуны цаг"
+                "generic": "Күүкийн арлуудын цаг",
+                "standard": "Күүкийн арлуудын стандарт цаг",
+                "daylight": "Күүкийн арлуудын хагас зуны цаг"
               }
             },
             "Cuba": {
@@ -1697,7 +1696,7 @@
             },
             "Gilbert_Islands": {
               "long": {
-                "standard": "Жильбер арлын цаг"
+                "standard": "Гильбертийн арлуудын цаг"
               }
             },
             "GMT": {
@@ -1707,21 +1706,21 @@
             },
             "Greenland_Eastern": {
               "long": {
-                "generic": "Зүүн Гринландын цаг",
-                "standard": "Зүүн Гринландын стандарт цаг",
-                "daylight": "Зүүн Гринландын зуны цаг"
+                "generic": "Зүүн Гренландын цаг",
+                "standard": "Зүүн Гренландын стандарт цаг",
+                "daylight": "Зүүн Гренландын зуны цаг"
               }
             },
             "Greenland_Western": {
               "long": {
-                "generic": "Баруун Гринландын цаг",
-                "standard": "Баруун Гринландын стандарт цаг",
-                "daylight": "Баруун Гринландын зуны цаг"
+                "generic": "Баруун Гренландын цаг",
+                "standard": "Баруун Гренландын стандарт цаг",
+                "daylight": "Баруун Гренландын зуны цаг"
               }
             },
             "Gulf": {
               "long": {
-                "standard": "Галфийн стандарт цаг"
+                "standard": "Персийн булангийн цаг"
               }
             },
             "Guyana": {
@@ -1844,7 +1843,7 @@
             },
             "Line_Islands": {
               "long": {
-                "standard": "Лайн арлын цаг"
+                "standard": "Лайн арлуудын цаг"
               }
             },
             "Lord_Howe": {
@@ -1878,12 +1877,12 @@
             },
             "Marquesas": {
               "long": {
-                "standard": "Маркесасын цаг"
+                "standard": "Маркезын арлуудын цаг"
               }
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "Маршаллын арлын цаг"
+                "standard": "Маршаллын арлуудын цаг"
               }
             },
             "Mauritius": {
@@ -2038,9 +2037,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Сен-Пьер ба Микелоны цаг",
+                "generic": "Сент-Пьер ба Микелоны цаг",
                 "standard": "Сент-Пьер ба Микелоны стандарт цаг",
-                "daylight": "Сен-Пьер ба Микелоны зуны цаг"
+                "daylight": "Сент-Пьер ба Микелоны зуны цаг"
               }
             },
             "Pitcairn": {
@@ -2099,7 +2098,7 @@
             },
             "South_Georgia": {
               "long": {
-                "standard": "Өмнөд Жоржийн цаг"
+                "standard": "Өмнөд Жоржиагийн цаг"
               }
             },
             "Suriname": {
@@ -2205,7 +2204,7 @@
             },
             "Wake": {
               "long": {
-                "standard": "Вейк арлын цаг"
+                "standard": "Уэкийн арлуудын цаг"
               }
             },
             "Wallis": {

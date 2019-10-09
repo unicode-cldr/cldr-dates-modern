@@ -3,8 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "vi"
       },
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1765,9 +1764,9 @@
             },
             "Georgia": {
               "long": {
-                "generic": "Giờ Gruzia",
-                "standard": "Giờ Chuẩn Gruzia",
-                "daylight": "Giờ Mùa Hè Gruzia"
+                "generic": "Giờ Georgia",
+                "standard": "Giờ Chuẩn Georgia",
+                "daylight": "Giờ Mùa Hè Georgia"
               }
             },
             "Gilbert_Islands": {

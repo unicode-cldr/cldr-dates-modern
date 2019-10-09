@@ -3,8 +3,7 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fr",
         "territory": "CA"
@@ -26,12 +25,12 @@
             "relative-type-0": "cette année",
             "relative-type-1": "l’année prochaine",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "Dans {0} an",
-              "relativeTimePattern-count-other": "Dans {0} ans"
+              "relativeTimePattern-count-one": "dans {0} an",
+              "relativeTimePattern-count-other": "dans {0} ans"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "Il y a {0} an",
-              "relativeTimePattern-count-other": "Il y a {0} ans"
+              "relativeTimePattern-count-one": "il y a {0} an",
+              "relativeTimePattern-count-other": "il y a {0} ans"
             }
           },
           "year-short": {
@@ -79,7 +78,7 @@
           "quarter-short": {
             "displayName": "trim.",
             "relative-type--1": "trim. dernier",
-            "relative-type-0": "ce trimestre-ci",
+            "relative-type-0": "ce trim.",
             "relative-type-1": "trim. prochain",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dans {0} trim.",
@@ -93,7 +92,7 @@
           "quarter-narrow": {
             "displayName": "trim.",
             "relative-type--1": "trim. dernier",
-            "relative-type-0": "ce trimestre-ci",
+            "relative-type-0": "ce trim.",
             "relative-type-1": "trim.prochain",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} trim.",

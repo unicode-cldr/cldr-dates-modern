@@ -3,8 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "bg"
       },
@@ -162,7 +161,7 @@
           },
           "week-short": {
             "displayName": "седм.",
-            "relative-type--1": "миналата седмица",
+            "relative-type--1": "мин. седм.",
             "relative-type-0": "тази седм.",
             "relative-type-1": "следв. седм.",
             "relativeTime-type-future": {

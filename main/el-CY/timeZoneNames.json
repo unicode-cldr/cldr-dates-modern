@@ -3,8 +3,7 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "el",
         "territory": "CY"
@@ -389,7 +388,7 @@
                 "exemplarCity": "Ρεσίφε"
               },
               "Regina": {
-                "exemplarCity": "Ρετζίνα"
+                "exemplarCity": "Ρετζάινα"
               },
               "Resolute": {
                 "exemplarCity": "Ρέζολουτ"
@@ -467,7 +466,7 @@
                 "exemplarCity": "Γουίνιπεγκ"
               },
               "Yakutat": {
-                "exemplarCity": "Γιακούτατ"
+                "exemplarCity": "Γιάκουτατ"
               },
               "Yellowknife": {
                 "exemplarCity": "Γέλοουναϊφ"
@@ -746,7 +745,7 @@
                 "exemplarCity": "Ντακάρ"
               },
               "Dar_es_Salaam": {
-                "exemplarCity": "Νταρ Ες Σαλάμ"
+                "exemplarCity": "Νταρ ες Σαλάμ"
               },
               "Djibouti": {
                 "exemplarCity": "Τζιμπουτί"
@@ -874,7 +873,7 @@
                 "exemplarCity": "Ασχαμπάτ"
               },
               "Atyrau": {
-                "exemplarCity": "Aτιράου"
+                "exemplarCity": "Ατιράου"
               },
               "Baghdad": {
                 "exemplarCity": "Βαγδάτη"
@@ -2080,7 +2079,7 @@
             },
             "Phoenix_Islands": {
               "long": {
-                "standard": "Ώρα Νήσων Φoίνιξ"
+                "standard": "Ώρα Νήσων Φοίνιξ"
               }
             },
             "Pierre_Miquelon": {

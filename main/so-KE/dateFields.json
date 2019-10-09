@@ -3,8 +3,7 @@
     "so-KE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "so",
         "territory": "KE"
@@ -119,7 +118,7 @@
             }
           },
           "month-short": {
-            "displayName": "Bil-gaaban",
+            "displayName": "Bil",
             "relative-type--1": "Bishii hore",
             "relative-type-0": "Bishan",
             "relative-type-1": "Bisha danbe",
@@ -133,7 +132,7 @@
             }
           },
           "month-narrow": {
-            "displayName": "Bil-gaaban",
+            "displayName": "bil",
             "relative-type--1": "Bishii hore",
             "relative-type-0": "Bishan",
             "relative-type-1": "Bisha danbe",
@@ -179,7 +178,7 @@
           "week-narrow": {
             "displayName": "tdbd",
             "relative-type--1": "Toddobaadkii hore",
-            "relative-type-0": "Usbuucan",
+            "relative-type-0": "Toddobaadkan",
             "relative-type-1": "Toddobaadka danbe",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} tdbd",
@@ -195,10 +194,10 @@
             "displayName": "Toddobaadka Bisha"
           },
           "weekOfMonth-short": {
-            "displayName": "tdbdka bsha"
+            "displayName": "Toddobaadka Bisha"
           },
           "weekOfMonth-narrow": {
-            "displayName": "tdbdka bsha"
+            "displayName": "Toddobaadka Bisha"
           },
           "day": {
             "displayName": "maalin",
@@ -283,29 +282,29 @@
             }
           },
           "sun-short": {
-            "relative-type--1": "Axdi hre",
-            "relative-type-0": "Axdn",
-            "relative-type-1": "Axda dbe",
+            "relative-type--1": "Axadii hore",
+            "relative-type-0": "Axadan",
+            "relative-type-1": "Axada danbe",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} Axd",
-              "relativeTimePattern-count-other": "{0} Axd"
+              "relativeTimePattern-count-one": "Axad",
+              "relativeTimePattern-count-other": "{0} Axadood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Axd khr",
-              "relativeTimePattern-count-other": "{0} axd khr"
+              "relativeTimePattern-count-one": "{0} Axad kahor",
+              "relativeTimePattern-count-other": "{0} Axadood kahor"
             }
           },
           "sun-narrow": {
-            "relative-type--1": "Axdi hre",
-            "relative-type-0": "Axdn",
-            "relative-type-1": "Axda dbe",
+            "relative-type--1": "axadii hore",
+            "relative-type-0": "axadan",
+            "relative-type-1": "axada xigta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} Axd",
-              "relativeTimePattern-count-other": "{0} Axd"
+              "relativeTimePattern-count-one": "Axad",
+              "relativeTimePattern-count-other": "{0} Axadood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Axd khr",
-              "relativeTimePattern-count-other": "{0} axd khr"
+              "relativeTimePattern-count-one": "{0} Axad kahor",
+              "relativeTimePattern-count-other": "{0} Axadood kahor"
             }
           },
           "mon": {
@@ -348,42 +347,42 @@
             }
           },
           "tue": {
-            "relative-type--1": "Salaasadii hore",
-            "relative-type-0": "Salaasadan",
-            "relative-type-1": "Salaasada danbe",
+            "relative-type--1": "Talaadadii hore",
+            "relative-type-0": "Talaadadan",
+            "relative-type-1": "Talaadada xigta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} Salaasa",
-              "relativeTimePattern-count-other": "{0} Salaasood"
+              "relativeTimePattern-count-one": "{0} Talaado",
+              "relativeTimePattern-count-other": "{0} Talaadood"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Salaasa kahor",
-              "relativeTimePattern-count-other": "{0} Salaasood kahor"
+              "relativeTimePattern-count-one": "{0} Talaado kahor",
+              "relativeTimePattern-count-other": "{0} Talaadood kahor"
             }
           },
           "tue-short": {
-            "relative-type--1": "Slsdi hre",
-            "relative-type-0": "Slsdn",
-            "relative-type-1": "Slsda dbe",
+            "relative-type--1": "Tlddi hre",
+            "relative-type-0": "Tlddn",
+            "relative-type-1": "Tldda xgta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} Slsa",
-              "relativeTimePattern-count-other": "{0} Slsa"
+              "relativeTimePattern-count-one": "{0} Tldo",
+              "relativeTimePattern-count-other": "{0} Tldo"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Slsa khr",
-              "relativeTimePattern-count-other": "{0} Slsa khr"
+              "relativeTimePattern-count-one": "{0} Tldo khr",
+              "relativeTimePattern-count-other": "{0} Tldod khr"
             }
           },
           "tue-narrow": {
-            "relative-type--1": "Slsdi hre",
-            "relative-type-0": "Slsdn",
-            "relative-type-1": "Slsda dbe",
+            "relative-type--1": "Tlddi hre",
+            "relative-type-0": "Tlddn",
+            "relative-type-1": "Tldda xgta",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "{0} Slsa",
-              "relativeTimePattern-count-other": "{0} Slsa"
+              "relativeTimePattern-count-one": "{0} Tldo",
+              "relativeTimePattern-count-other": "{0} Tldo"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Slsa khr",
-              "relativeTimePattern-count-other": "{0} Slsa khr"
+              "relativeTimePattern-count-one": "{0} Tldo khr",
+              "relativeTimePattern-count-other": "{0} Tldod khr"
             }
           },
           "wed": {
@@ -608,7 +607,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} dqqd khr",
-              "relativeTimePattern-count-other": "{0} dqqd khr"
+              "relativeTimePattern-count-other": "{0} daqiiqadood kahor"
             }
           },
           "minute-narrow": {
@@ -620,7 +619,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} dqqd khr",
-              "relativeTimePattern-count-other": "{0} dqqd khr"
+              "relativeTimePattern-count-other": "{0} daqiiqadood kahor"
             }
           },
           "second": {

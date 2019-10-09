@@ -3,8 +3,7 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hy"
       },
@@ -119,7 +118,7 @@
           },
           "month-short": {
             "displayName": "ամս",
-            "relative-type--1": "անցյալ ամիս",
+            "relative-type--1": "նախորդ ամիս",
             "relative-type-0": "այս ամիս",
             "relative-type-1": "հաջորդ ամիս",
             "relativeTime-type-future": {
@@ -133,7 +132,7 @@
           },
           "month-narrow": {
             "displayName": "ամս",
-            "relative-type--1": "անցյալ ամիս",
+            "relative-type--1": "նախորդ ամիս",
             "relative-type-0": "այս ամիս",
             "relative-type-1": "հաջորդ ամիս",
             "relativeTime-type-future": {
@@ -201,7 +200,7 @@
           },
           "day": {
             "displayName": "օր",
-            "relative-type--2": "երեկ չէ առաջի օրը",
+            "relative-type--2": "նախանցյալ օրը",
             "relative-type--1": "երեկ",
             "relative-type-0": "այսօր",
             "relative-type-1": "վաղը",

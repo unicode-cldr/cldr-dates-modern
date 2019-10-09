@@ -3,8 +3,7 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ka"
       },
@@ -26,7 +25,7 @@
                 "exemplarCity": "ენქორაჯი"
               },
               "Anguilla": {
-                "exemplarCity": "ანგილა"
+                "exemplarCity": "ანგილია"
               },
               "Antigua": {
                 "exemplarCity": "ანტიგუა"

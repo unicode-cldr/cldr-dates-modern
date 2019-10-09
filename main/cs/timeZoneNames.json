@@ -3,8 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cs"
       },
@@ -2073,7 +2072,7 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolský čas"
+                "standard": "Norfolkský čas"
               }
             },
             "Noronha": {
@@ -2154,7 +2153,7 @@
             },
             "Pitcairn": {
               "long": {
-                "standard": "Čas Pitcairnova ostrova"
+                "standard": "Čas Pitcairnových ostrovů"
               }
             },
             "Ponape": {

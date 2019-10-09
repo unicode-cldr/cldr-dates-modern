@@ -3,8 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "et"
       },
@@ -35,9 +34,9 @@
           },
           "year-short": {
             "displayName": "a",
-            "relative-type--1": "eelmine aasta",
-            "relative-type-0": "käesolev aasta",
-            "relative-type-1": "järgmine aasta",
+            "relative-type--1": "eelmine a",
+            "relative-type-0": "käesolev a",
+            "relative-type-1": "järgmine a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} a pärast",
               "relativeTimePattern-count-other": "{0} a pärast"
@@ -49,9 +48,9 @@
           },
           "year-narrow": {
             "displayName": "a",
-            "relative-type--1": "eelmine aasta",
-            "relative-type-0": "käesolev aasta",
-            "relative-type-1": "järgmine aasta",
+            "relative-type--1": "eelm. a",
+            "relative-type-0": "see a",
+            "relative-type-1": "järgm. a",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} a pärast",
               "relativeTimePattern-count-other": "{0} a pärast"
@@ -119,9 +118,9 @@
           },
           "month-short": {
             "displayName": "k",
-            "relative-type--1": "eelmine kuu",
-            "relative-type-0": "käesolev kuu",
-            "relative-type-1": "järgmine kuu",
+            "relative-type--1": "eelm. kuu",
+            "relative-type-0": "see kuu",
+            "relative-type-1": "järgm. kuu",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} kuu pärast",
               "relativeTimePattern-count-other": "{0} kuu pärast"
@@ -133,9 +132,9 @@
           },
           "month-narrow": {
             "displayName": "k",
-            "relative-type--1": "eelmine kuu",
-            "relative-type-0": "käesolev kuu",
-            "relative-type-1": "järgmine kuu",
+            "relative-type--1": "eelm. k",
+            "relative-type-0": "see k",
+            "relative-type-1": "järgm. k",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} k pärast",
               "relativeTimePattern-count-other": "{0} k pärast"
@@ -162,9 +161,9 @@
           },
           "week-short": {
             "displayName": "näd",
-            "relative-type--1": "eelmine nädal",
-            "relative-type-0": "käesolev nädal",
-            "relative-type-1": "järgmine nädal",
+            "relative-type--1": "eelm. näd",
+            "relative-type-0": "see näd",
+            "relative-type-1": "järgm. näd",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} näd pärast",
               "relativeTimePattern-count-other": "{0} näd pärast"
@@ -177,9 +176,9 @@
           },
           "week-narrow": {
             "displayName": "näd",
-            "relative-type--1": "eelmine nädal",
-            "relative-type-0": "käesolev nädal",
-            "relative-type-1": "järgmine nädal",
+            "relative-type--1": "eelm. n",
+            "relative-type-0": "see n",
+            "relative-type-1": "järgm. n",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} näd pärast",
               "relativeTimePattern-count-other": "{0} näd pärast"

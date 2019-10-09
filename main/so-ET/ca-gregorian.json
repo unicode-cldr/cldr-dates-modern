@@ -3,8 +3,7 @@
     "so-ET": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "so",
         "territory": "ET"
@@ -107,7 +106,7 @@
                 "abbreviated": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Slsa",
+                  "tue": "Tldo",
                   "wed": "Arbc",
                   "thu": "Khms",
                   "fri": "Jmc",
@@ -116,7 +115,7 @@
                 "narrow": {
                   "sun": "A",
                   "mon": "I",
-                  "tue": "S",
+                  "tue": "T",
                   "wed": "A",
                   "thu": "Kh",
                   "fri": "J",
@@ -125,7 +124,7 @@
                 "short": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Slsa",
+                  "tue": "Tldo",
                   "wed": "Arbc",
                   "thu": "Khms",
                   "fri": "Jmc",
@@ -134,10 +133,10 @@
                 "wide": {
                   "sun": "Axad",
                   "mon": "Isniin",
-                  "tue": "Salaasa",
-                  "wed": "Arbaca",
+                  "tue": "Talaado",
+                  "wed": "Arbaco",
                   "thu": "Khamiis",
-                  "fri": "Jimce",
+                  "fri": "Jimco",
                   "sat": "Sabti"
                 }
               },
@@ -145,7 +144,7 @@
                 "abbreviated": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Slsa",
+                  "tue": "Tldo",
                   "wed": "Arbc",
                   "thu": "Khms",
                   "fri": "Jmc",
@@ -154,7 +153,7 @@
                 "narrow": {
                   "sun": "A",
                   "mon": "I",
-                  "tue": "S",
+                  "tue": "T",
                   "wed": "A",
                   "thu": "Kh",
                   "fri": "J",
@@ -163,7 +162,7 @@
                 "short": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Slsa",
+                  "tue": "Tldo",
                   "wed": "Arbc",
                   "thu": "Khms",
                   "fri": "Jmc",
@@ -172,10 +171,10 @@
                 "wide": {
                   "sun": "Axad",
                   "mon": "Isniin",
-                  "tue": "Salaasa",
-                  "wed": "Arbaca",
+                  "tue": "Talaado",
+                  "wed": "Arbaco",
                   "thu": "Khamiis",
-                  "fri": "Jimce",
+                  "fri": "Jimco",
                   "sat": "Sabti"
                 }
               }

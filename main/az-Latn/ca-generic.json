@@ -3,8 +3,7 @@
     "az-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "az",
         "script": "Latn"
@@ -106,10 +105,10 @@
               "format": {
                 "abbreviated": {
                   "sun": "B.",
-                  "mon": "B.E.",
-                  "tue": "Ç.A.",
+                  "mon": "B.e.",
+                  "tue": "Ç.a.",
                   "wed": "Ç.",
-                  "thu": "C.A.",
+                  "thu": "C.a.",
                   "fri": "C.",
                   "sat": "Ş."
                 },

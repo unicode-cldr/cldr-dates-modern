@@ -3,8 +3,7 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hy"
       },
@@ -249,9 +248,9 @@
                   "noon": "կեսօրին",
                   "pm": "PM",
                   "morning1": "առավոտյան",
-                  "afternoon1": "ցերեկը",
+                  "afternoon1": "ցերեկվա",
                   "evening1": "երեկոյան",
-                  "night1": "գիշերը"
+                  "night1": "գիշերվա"
                 }
               },
               "stand-alone": {
@@ -358,8 +357,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "d MMM, E",
                 "MMMMd": "MMMM d",
-                "MMMMW-count-one": "MMMM W շաբ",
-                "MMMMW-count-other": "MMMM W շաբ",
+                "MMMMW-count-one": "MMMM W-ին շաբաթ",
+                "MMMMW-count-other": "MMMM W-րդ շաբաթ",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "MM.y",
@@ -371,8 +370,8 @@
                 "yMMMM": "y թ․ LLLL",
                 "yQQQ": "y թ. QQQ",
                 "yQQQQ": "y թ. QQQQ",
-                "yw-count-one": "Y w շաբ",
-                "yw-count-other": "Y w շաբ"
+                "yw-count-one": "Y թ․ w-ին շաբաթ",
+                "yw-count-other": "Y թ․ w-րդ շաբաթ"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",
@@ -417,10 +416,10 @@
                   "y": "GGGGG dd.MM.y – dd.MM.y"
                 },
                 "GyMEd": {
-                  "d": "GGGGG ccc, dd.MM.y – ccc, dd.MM.y",
-                  "G": "GGGGG ccc, dd.MM.y – GGGGG ccc, dd.MM.y",
-                  "M": "GGGGG ccc, dd.MM.y – ccc, dd.MM.y",
-                  "y": "GGGGG ccc, dd.MM.y – ccc, dd.MM.y"
+                  "d": "GGGGG dd.MM.y, ccc – dd.MM.y, ccc",
+                  "G": "GGGGG dd.MM.y ccc – GGGGG dd.MM.y ccc",
+                  "M": "GGGGG dd.MM.y ccc – dd.MM.y ccc",
+                  "y": "GGGGG dd.MM.y ccc – dd.MM.y ccc"
                 },
                 "GyMMM": {
                   "G": "G y MMM – G y MMM",
@@ -428,16 +427,16 @@
                   "y": "G y MMM – y MMM"
                 },
                 "GyMMMd": {
-                  "d": "G dd–dd MMM, y թ.",
-                  "G": "G dd MMM, y թ․ – G dd MMM, y թ.",
-                  "M": "G dd MMM – dd MMM, y թ.",
-                  "y": "G dd MMM, y թ․ – G dd MMM, y թ."
+                  "d": "G y թ. MMM dd–dd",
+                  "G": "G y թ․ MMM dd – G y թ. MMM dd",
+                  "M": "G y թ. MMM dd – MMM dd",
+                  "y": "G y թ․ MMM dd – G y թ. MMM dd"
                 },
                 "GyMMMEd": {
-                  "d": "G E, d MMM – E, d MMM, y թ.",
-                  "G": "G E, d MMM – G E, d MMM, y թ.",
-                  "M": "G E, d MMM y թ. – E, d MMM",
-                  "y": "G E, d MMM y թ. – E, d MMM y թ."
+                  "d": "G y թ. MMM d E – MMM d E",
+                  "G": "G y թ. MMM d E – G MMM d E",
+                  "M": "G y թ. MMM d E – MMM d E",
+                  "y": "G y թ. MMM d E – y թ. MMM d E"
                 },
                 "h": {
                   "a": "h a – h a",

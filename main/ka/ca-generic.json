@@ -3,8 +3,7 @@
     "ka": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ka"
       },
@@ -279,7 +278,7 @@
                   "midnight": "შუაღამე",
                   "am": "AM",
                   "noon": "შუადღე",
-                  "pm": "შუადღ. შემდეგ",
+                  "pm": "PM",
                   "morning1": "დილა",
                   "afternoon1": "ნაშუადღევი",
                   "evening1": "საღამო",

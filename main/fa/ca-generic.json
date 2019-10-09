@@ -3,8 +3,7 @@
     "fa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fa"
       },
@@ -305,7 +304,7 @@
               "full": "EEEE d MMMM y G",
               "long": "d MMMM y G",
               "medium": "d MMM y G",
-              "short": "y/M/d G"
+              "short": "y/M/d GGGGG"
             },
             "timeFormats": {
               "full": "H:mm:ss (zzzz)",
@@ -326,11 +325,11 @@
                 "E": "ccc",
                 "EBhm": "E h:mm B",
                 "EBhms": "E h:mm:ss B",
-                "Ed": "E d",
+                "Ed": "E dم",
                 "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
+                "EHm": "E H:mm",
                 "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
+                "EHms": "E H:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
                 "GyMMMd": "d MMM y G",
@@ -350,17 +349,17 @@
                 "MMMEd": "E d LLL",
                 "MMMMd": "d LLLL",
                 "MMMMEd": "E d LLLL",
-                "ms": "mm:ss",
+                "ms": "m:ss",
                 "y": "y G",
                 "yyyy": "y G",
-                "yyyyM": "y/M G",
-                "yyyyMd": "y/M/d G",
-                "yyyyMEd": "E y/M/d G",
+                "yyyyM": "y/M GGGGG",
+                "yyyyMd": "y/M/d GGGGG",
+                "yyyyMEd": "E y/M/d GGGGG",
                 "yyyyMMM": "MMM y G",
                 "yyyyMMMd": "d MMM y G",
                 "yyyyMMMEd": "E d MMM y G",
                 "yyyyMMMM": "y MMMM G",
-                "yyyyQQQ": "QQQQ y G",
+                "yyyyQQQ": "QQQ y G",
                 "yyyyQQQQ": "QQQQ y G"
               },
               "appendItems": {
@@ -391,42 +390,42 @@
                   "d": "d تا d"
                 },
                 "Gy": {
-                  "G": "G y – G y",
-                  "y": "G y–y"
+                  "G": "y G تا y G",
+                  "y": "y تا y G"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
-                  "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "G": "y/M GGGGG تا y/M GGGGG",
+                  "M": "y/M تا y/M GGGGG",
+                  "y": "y/M تا y/M GGGGG"
                 },
                 "GyMd": {
-                  "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "d": "y/M/d تا y/M/d GGGGG",
+                  "G": "y/M/d GGGGG تا y/M/d GGGGG",
+                  "M": "y/M/d تا y/M/d GGGGG",
+                  "y": "y/M/d تا y/M/d GGGGG"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "E y/M/d تا E y/M/d GGGGG",
+                  "G": "E y/M/d GGGGG تا E y/M/d GGGGG",
+                  "M": "E y/M/d تا E y/M/d GGGGG",
+                  "y": "E y/M/d تا E y/M/d GGGGG"
                 },
                 "GyMMM": {
-                  "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
-                  "y": "G y MMM – y MMM"
+                  "G": "MMM y G تا MMM y G",
+                  "M": "LLL تا MMM y G",
+                  "y": "MMM y تا MMM y G"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "d تا d MMM y G",
+                  "G": "d MMM y G تا d MMM y G",
+                  "M": "d LLL تا d MMM y G",
+                  "y": "d MMM y تا d MMM y G"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "E d LLL تا E d MMM y G",
+                  "G": "E d MMM y G تا E d MMM y G",
+                  "M": "E d LLL تا E d MMM y G",
+                  "y": "E d MMM y تا E d MMM y G"
                 },
                 "h": {
                   "a": "h a تا h a",
@@ -472,7 +471,7 @@
                   "M": "E M/d تا E M/d"
                 },
                 "MMM": {
-                  "M": "MMM تا MMM"
+                  "M": "LLL تا LLL"
                 },
                 "MMMd": {
                   "d": "d تا d LLL",
@@ -486,18 +485,18 @@
                   "y": "y تا y G"
                 },
                 "yM": {
-                  "M": "y/M تا y/M G",
-                  "y": "y/M تا y/M G"
+                  "M": "y/M تا y/M GGGGG",
+                  "y": "y/M تا y/M GGGGG"
                 },
                 "yMd": {
-                  "d": "y/M/d تا y/M/d G",
-                  "M": "y/M/d تا y/M/d G",
-                  "y": "y/M/d تا y/M/d G"
+                  "d": "y/M/d تا y/M/d GGGGG",
+                  "M": "y/M/d تا y/M/d GGGGG",
+                  "y": "y/M/d تا y/M/d GGGGG"
                 },
                 "yMEd": {
-                  "d": "E y/M/d تا E y/M/d G",
-                  "M": "E y/M/d تا E y/M/d G",
-                  "y": "E y/M/d تا E y/M/d G"
+                  "d": "E y/M/d تا E y/M/d GGGGG",
+                  "M": "E y/M/d تا E y/M/d GGGGG",
+                  "y": "E y/M/d تا E y/M/d GGGGG"
                 },
                 "yMMM": {
                   "M": "LLL تا MMM y G",

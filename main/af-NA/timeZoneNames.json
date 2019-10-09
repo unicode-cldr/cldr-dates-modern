@@ -3,8 +3,7 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14822 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "af",
         "territory": "NA"
@@ -1024,7 +1023,7 @@
                 "exemplarCity": "Katar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1606,7 +1605,7 @@
               "long": {
                 "generic": "Colombië-tyd",
                 "standard": "Colombië-standaardtyd",
-                "daylight": "Colombië-somertyd"
+                "daylight": "Colombia-somertyd"
               }
             },
             "Cook": {

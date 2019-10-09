@@ -3,8 +3,7 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es"
       },
@@ -162,9 +161,9 @@
           },
           "week-short": {
             "displayName": "sem.",
-            "relative-type--1": "la semana pasada",
-            "relative-type-0": "esta semana",
-            "relative-type-1": "la próxima semana",
+            "relative-type--1": "sem. ant.",
+            "relative-type-0": "esta sem.",
+            "relative-type-1": "próx. sem.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} sem.",
               "relativeTimePattern-count-other": "dentro de {0} sem."
@@ -177,9 +176,9 @@
           },
           "week-narrow": {
             "displayName": "sem.",
-            "relative-type--1": "la semana pasada",
-            "relative-type-0": "esta semana",
-            "relative-type-1": "la próxima semana",
+            "relative-type--1": "sem. ant.",
+            "relative-type-0": "esta sem.",
+            "relative-type-1": "próx. sem.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} sem.",
               "relativeTimePattern-count-other": "dentro de {0} sem."

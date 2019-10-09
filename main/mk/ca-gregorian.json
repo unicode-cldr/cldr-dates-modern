@@ -3,8 +3,7 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14827 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mk"
       },
@@ -304,20 +303,20 @@
                 "0": "пр.н.е.",
                 "0-alt-variant": "п.н.е.",
                 "1": "н.е.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н.е."
               },
               "eraNarrow": {
                 "0": "пр.н.е.",
                 "0-alt-variant": "п.н.е.",
                 "1": "н.е.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н.е."
               }
             },
             "dateFormats": {
-              "full": "EEEE, dd MMMM y",
-              "long": "dd MMMM y",
-              "medium": "dd.M.y",
-              "short": "dd.M.yy"
+              "full": "EEEE, d MMMM y",
+              "long": "d MMMM y",
+              "medium": "d.M.y",
+              "short": "d.M.yy"
             },
             "timeFormats": {
               "full": "HH:mm:ss zzzz",
@@ -345,8 +344,8 @@
                 "EHms": "E HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
-                "GyMMMd": "dd MMM y G",
-                "GyMMMEd": "E, dd MMM y G",
+                "GyMMMd": "d MMM y G",
+                "GyMMMEd": "E, d MMM y G",
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
@@ -359,15 +358,15 @@
                 "Hmv": "HH:mm v",
                 "M": "L",
                 "Md": "d.M",
-                "Mdd": "dd.M",
+                "Mdd": "d.M",
                 "MEd": "E, d.M",
                 "MMM": "LLL",
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
                 "MMMMEd": "E, d MMMM",
-                "MMMMW-count-one": "W 'седмица' 'од' MMMM",
-                "MMMMW-count-other": "W 'седмица' 'од' MMMM",
+                "MMMMW-count-one": "W. 'седмица' 'од' MMMM",
+                "MMMMW-count-other": "W. 'седмица' 'од' MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M.y",

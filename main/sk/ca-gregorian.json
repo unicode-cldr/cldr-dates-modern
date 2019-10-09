@@ -3,8 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sk"
       },
@@ -366,10 +365,10 @@
                 "MMMEd": "E d. M.",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E d. MMMM",
-                "MMMMW-count-one": "W. 'týždeň' 'v' MMMM",
-                "MMMMW-count-few": "W. 'týždeň' 'v' MMMM",
-                "MMMMW-count-many": "W. 'týždeň' 'v' MMMM",
-                "MMMMW-count-other": "W. 'týždeň' 'v' MMMM",
+                "MMMMW-count-one": "W. 'týždeň' MMMM",
+                "MMMMW-count-few": "W. 'týždeň' MMMM",
+                "MMMMW-count-many": "W. 'týždeň' MMMM",
+                "MMMMW-count-other": "W. 'týždeň' MMMM",
                 "mmss": "mm:ss",
                 "ms": "mm:ss",
                 "y": "y",

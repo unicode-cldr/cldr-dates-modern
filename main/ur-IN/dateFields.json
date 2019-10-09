@@ -3,8 +3,7 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ur",
         "territory": "IN"
@@ -134,9 +133,9 @@
           },
           "month-narrow": {
             "displayName": "مہینہ",
-            "relative-type--1": "پچھلے مہینہ",
-            "relative-type-0": "اس مہینہ",
-            "relative-type-1": "اگلے مہینہ",
+            "relative-type--1": "گزشتہ ماہ",
+            "relative-type-0": "اس ماہ",
+            "relative-type-1": "اگلے ماہ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ماہ میں",
               "relativeTimePattern-count-other": "{0} ماہ میں"
@@ -229,7 +228,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} دن پہلے",
-              "relativeTimePattern-count-other": "{0} دنوں پہلے"
+              "relativeTimePattern-count-other": "{0} دن پہلے"
             }
           },
           "day-narrow": {

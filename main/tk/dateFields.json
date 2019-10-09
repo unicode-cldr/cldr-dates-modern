@@ -3,8 +3,7 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "tk"
       },
@@ -271,7 +270,7 @@
           "sun": {
             "relative-type--1": "geçen ýekşenbe",
             "relative-type-0": "şu ýekşenbe",
-            "relative-type-1": "indiki çekşenbe",
+            "relative-type-1": "indiki ýekşenbe",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ýekşenbeden",
               "relativeTimePattern-count-other": "{0} ýekşenbe"

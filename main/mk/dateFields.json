@@ -3,8 +3,7 @@
     "mk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14827 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mk"
       },
@@ -35,9 +34,9 @@
           },
           "year-short": {
             "displayName": "год.",
-            "relative-type--1": "минатата година",
-            "relative-type-0": "оваа година",
-            "relative-type-1": "следната година",
+            "relative-type--1": "минатата год.",
+            "relative-type-0": "оваа год.",
+            "relative-type-1": "следната год.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} год.",
               "relativeTimePattern-count-other": "за {0} год."
@@ -49,9 +48,9 @@
           },
           "year-narrow": {
             "displayName": "год.",
-            "relative-type--1": "минатата година",
-            "relative-type-0": "оваа година",
-            "relative-type-1": "следната година",
+            "relative-type--1": "минатата год.",
+            "relative-type-0": "оваа год.",
+            "relative-type-1": "следната год.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} год.",
               "relativeTimePattern-count-other": "за {0} год."

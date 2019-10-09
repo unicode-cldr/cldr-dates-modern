@@ -3,8 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hu"
       },
@@ -873,7 +872,7 @@
                 "exemplarCity": "Asgabat"
               },
               "Atyrau": {
-                "exemplarCity": "Atyrau"
+                "exemplarCity": "Atirau"
               },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
@@ -1336,7 +1335,7 @@
             "Etc": {
               "UTC": {
                 "long": {
-                  "standard": "egyezményes koordinált világidő"
+                  "standard": "Koordinált világidő"
                 },
                 "short": {
                   "standard": "UTC"

@@ -3,8 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sl"
       },
@@ -900,7 +899,7 @@
                 "exemplarCity": "Brunej"
               },
               "Calcutta": {
-                "exemplarCity": "Kolkata"
+                "exemplarCity": "Kalkuta"
               },
               "Chita": {
                 "exemplarCity": "Čita"
@@ -909,7 +908,7 @@
                 "exemplarCity": "Čojbalsan"
               },
               "Colombo": {
-                "exemplarCity": "Colombo"
+                "exemplarCity": "Kolombo"
               },
               "Damascus": {
                 "exemplarCity": "Damask"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Katar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanaj"
               },
               "Qyzylorda": {
                 "exemplarCity": "Kizlorda"

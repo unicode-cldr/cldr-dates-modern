@@ -3,8 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gl"
       },
@@ -29,7 +28,7 @@
                 "exemplarCity": "Anguila"
               },
               "Antigua": {
-                "exemplarCity": "Antiga"
+                "exemplarCity": "Antigua"
               },
               "Araguaina": {
                 "exemplarCity": "Araguaína"
@@ -112,7 +111,7 @@
                 "exemplarCity": "Caiena"
               },
               "Cayman": {
-                "exemplarCity": "Caimán"
+                "exemplarCity": "Illas Caimán"
               },
               "Chicago": {
                 "exemplarCity": "Chicago"
@@ -477,7 +476,7 @@
                 "exemplarCity": "Azores"
               },
               "Bermuda": {
-                "exemplarCity": "Bermudas"
+                "exemplarCity": "Illas Bermudas"
               },
               "Canary": {
                 "exemplarCity": "Illas Canarias"
@@ -506,7 +505,7 @@
             },
             "Europe": {
               "Amsterdam": {
-                "exemplarCity": "Ámsterdan"
+                "exemplarCity": "Ámsterdam"
               },
               "Andorra": {
                 "exemplarCity": "Andorra"
@@ -635,7 +634,7 @@
                 "exemplarCity": "San Marino"
               },
               "Sarajevo": {
-                "exemplarCity": "Saraxevo"
+                "exemplarCity": "Saraievo"
               },
               "Saratov": {
                 "exemplarCity": "Saratov"
@@ -662,7 +661,7 @@
                 "exemplarCity": "Ulianovsk"
               },
               "Uzhgorod": {
-                "exemplarCity": "Úzhgorod"
+                "exemplarCity": "Uzghorod"
               },
               "Vaduz": {
                 "exemplarCity": "Vaduz"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Qostanai"
               },
               "Qyzylorda": {
                 "exemplarCity": "Kyzylorda"
@@ -1038,7 +1037,7 @@
                 "exemplarCity": "Ho Chi Minh"
               },
               "Sakhalin": {
-                "exemplarCity": "Sakhalin"
+                "exemplarCity": "Sakhalín"
               },
               "Samarkand": {
                 "exemplarCity": "Samarcanda"
@@ -1068,7 +1067,7 @@
                 "exemplarCity": "Teherán"
               },
               "Thimphu": {
-                "exemplarCity": "Thimbu"
+                "exemplarCity": "Thimphu"
               },
               "Tokyo": {
                 "exemplarCity": "Tokyo"
@@ -1080,7 +1079,7 @@
                 "exemplarCity": "Ulaanbaatar"
               },
               "Urumqi": {
-                "exemplarCity": "Urumqi"
+                "exemplarCity": "Ürümqi"
               },
               "Ust-Nera": {
                 "exemplarCity": "Ust-Nera"
@@ -1109,13 +1108,13 @@
                 "exemplarCity": "Chagos"
               },
               "Christmas": {
-                "exemplarCity": "Illa de Nadal"
+                "exemplarCity": "Illa Christmas"
               },
               "Cocos": {
                 "exemplarCity": "Cocos"
               },
               "Comoro": {
-                "exemplarCity": "Illas Comores"
+                "exemplarCity": "Comores"
               },
               "Kerguelen": {
                 "exemplarCity": "Kerguelen"
@@ -1200,7 +1199,7 @@
                 "exemplarCity": "Fakaofo"
               },
               "Fiji": {
-                "exemplarCity": "Fidxi"
+                "exemplarCity": "Fixi"
               },
               "Funafuti": {
                 "exemplarCity": "Funafuti"
@@ -1324,7 +1323,7 @@
                 "exemplarCity": "Rothera"
               },
               "Syowa": {
-                "exemplarCity": "Syowa"
+                "exemplarCity": "Showa"
               },
               "Troll": {
                 "exemplarCity": "Troll"
@@ -1365,7 +1364,7 @@
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Horario estándar de África do Sur"
+                "standard": "Horario de África Meridional"
               }
             },
             "Africa_Western": {
@@ -1398,23 +1397,23 @@
             },
             "America_Eastern": {
               "long": {
-                "generic": "Horario do leste, Norteamérica",
-                "standard": "Horario estándar do leste, Norteamérica",
-                "daylight": "Horario de verán do leste, Norteamérica"
+                "generic": "Horario do leste, América do Norte",
+                "standard": "Horario estándar do leste, América do Norte",
+                "daylight": "Horario de verán do leste, América do Norte"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Horario da montaña, Norteamérica",
-                "standard": "Horario estándar da montaña, Norteamérica",
-                "daylight": "Horario de verán da montaña, Norteamérica"
+                "generic": "Horario da montaña, América do Norte",
+                "standard": "Horario estándar da montaña, América do Norte",
+                "daylight": "Horario de verán da montaña, América do Norte"
               }
             },
             "America_Pacific": {
               "long": {
-                "generic": "Horario do Pacífico, Norteamérica",
-                "standard": "Horario estándar do Pacífico, Norteamérica",
-                "daylight": "Horario de verán do Pacífico, Norteamérica"
+                "generic": "Horario do Pacífico, América do Norte",
+                "standard": "Horario estándar do Pacífico, América do Norte",
+                "daylight": "Horario de verán do Pacífico, América do Norte"
               }
             },
             "Anadyr": {
@@ -1503,9 +1502,9 @@
             },
             "Azores": {
               "long": {
-                "generic": "Horario das Azores",
-                "standard": "Horario estándar das Azores",
-                "daylight": "Horario de verán das Azores"
+                "generic": "Horario dos Azores",
+                "standard": "Horario estándar dos Azores",
+                "daylight": "Horario de verán dos Azores"
               }
             },
             "Bangladesh": {
@@ -1579,7 +1578,7 @@
             },
             "Christmas": {
               "long": {
-                "standard": "Horario da Illa de Nadal"
+                "standard": "Horario da Illa Christmas"
               }
             },
             "Cocos": {
@@ -1685,9 +1684,9 @@
             },
             "Fiji": {
               "long": {
-                "generic": "Horario de Fidxi",
-                "standard": "Horario estándar de Fidxi",
-                "daylight": "Horario de verán de Fidxi"
+                "generic": "Horario de Fixi",
+                "standard": "Horario estándar de Fixi",
+                "daylight": "Horario de verán de Fixi"
               }
             },
             "French_Guiana": {
@@ -1746,7 +1745,7 @@
             },
             "Gulf": {
               "long": {
-                "standard": "Horario estándar do Golfo"
+                "standard": "Horario do Golfo"
               }
             },
             "Guyana": {
@@ -1756,9 +1755,9 @@
             },
             "Hawaii_Aleutian": {
               "long": {
-                "generic": "Horario de Hawai-Aleutiano",
-                "standard": "Horario estándar de Hawai-Aleutiano",
-                "daylight": "Horario de verán de Hawai-Aleutiano"
+                "generic": "Horario de Hawai-illas Aleutianas",
+                "standard": "Horario estándar de Hawai-illas Aleutianas",
+                "daylight": "Horario de verán de Hawai-illas Aleutianas"
               }
             },
             "Hong_Kong": {
@@ -1777,7 +1776,7 @@
             },
             "India": {
               "long": {
-                "standard": "Horario estándar da India"
+                "standard": "Horario da India"
               }
             },
             "Indian_Ocean": {
@@ -1842,12 +1841,12 @@
             },
             "Kazakhstan_Eastern": {
               "long": {
-                "standard": "Horario de Casaquistán Oriental"
+                "standard": "Horario de Kazakistán Oriental"
               }
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "Horario de Casaquistán Occidental"
+                "standard": "Horario de Kazakistán Occidental"
               }
             },
             "Korea": {
@@ -1864,9 +1863,9 @@
             },
             "Krasnoyarsk": {
               "long": {
-                "generic": "Horario de Krasnoyarsk",
-                "standard": "Horario estándar de Krasnoyarsk",
-                "daylight": "Horario de verán de Krasnoyarsk"
+                "generic": "Horario de Krasnoiarsk",
+                "standard": "Horario estándar de Krasnoiarsk",
+                "daylight": "Horario de verán de Krasnoiarsk"
               }
             },
             "Kyrgystan": {
@@ -1960,7 +1959,7 @@
             },
             "Myanmar": {
               "long": {
-                "standard": "Horario de Birmania"
+                "standard": "Horario de Myanmar"
               }
             },
             "Nauru": {
@@ -1989,9 +1988,9 @@
             },
             "Newfoundland": {
               "long": {
-                "generic": "Horario de Terranova",
-                "standard": "Horario estándar de Terranova",
-                "daylight": "Horario de verán de Terranova"
+                "generic": "Horario de Terra Nova",
+                "standard": "Horario estándar de Terra Nova",
+                "daylight": "Horario de verán de Terra Nova"
               }
             },
             "Niue": {
@@ -2001,7 +2000,7 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Horario das Illas Norfolk"
+                "standard": "Horario da Illa Norfolk"
               }
             },
             "Noronha": {
@@ -2044,9 +2043,9 @@
             },
             "Paraguay": {
               "long": {
-                "generic": "Horario de Paraguai",
-                "standard": "Horario estándar de Paraguai",
-                "daylight": "Horario de verán de Paraguai"
+                "generic": "Horario do Paraguai",
+                "standard": "Horario estándar do Paraguai",
+                "daylight": "Horario de verán do Paraguai"
               }
             },
             "Peru": {
@@ -2102,9 +2101,9 @@
             },
             "Sakhalin": {
               "long": {
-                "generic": "Horario de Sakhalin",
+                "generic": "Horario de Sakhalín",
                 "standard": "Horario estándar de Sakhalín",
-                "daylight": "Horario de verán de Sakhalin"
+                "daylight": "Horario de verán de Sakhalín"
               }
             },
             "Samara": {
@@ -2128,7 +2127,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "Horario estándar de Singapur"
+                "standard": "Horario de Singapur"
               }
             },
             "Solomon": {
@@ -2187,9 +2186,9 @@
             },
             "Turkmenistan": {
               "long": {
-                "generic": "Horario de Turcomenistán",
-                "standard": "Horario estándar de Turcomenistán",
-                "daylight": "Horario de verán de Turcomenistán"
+                "generic": "Horario de Turkmenistán",
+                "standard": "Horario estándar de Turkmenistán",
+                "daylight": "Horario de verán de Turkmenistán"
               }
             },
             "Tuvalu": {
@@ -2206,9 +2205,9 @@
             },
             "Uzbekistan": {
               "long": {
-                "generic": "Horario de Uzbequistán",
-                "standard": "Horario estándar de Uzbequistán",
-                "daylight": "Horario de verán de Uzbequistán"
+                "generic": "Horario de Uzbekistán",
+                "standard": "Horario estándar de Uzbekistán",
+                "daylight": "Horario de verán de Uzbekistán"
               }
             },
             "Vanuatu": {

@@ -3,8 +3,7 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14877 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Latn",
@@ -62,13 +61,13 @@
                 "abbreviated": {
                   "1": "jan",
                   "2": "feb",
-                  "3": "mart",
+                  "3": "mar",
                   "4": "apr",
                   "5": "maj",
                   "6": "jun",
                   "7": "jul",
                   "8": "avg",
-                  "9": "sept",
+                  "9": "sep",
                   "10": "okt",
                   "11": "nov",
                   "12": "dec"
@@ -292,21 +291,21 @@
             "eras": {
               "eraNames": {
                 "0": "prije nove ere",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "nove ere",
                 "1-alt-variant": "nove ere"
               },
               "eraAbbr": {
                 "0": "p. n. e.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "n. e.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               },
               "eraNarrow": {
                 "0": "p.n.e.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "p. n. e.",
                 "1": "n.e.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. e."
               }
             },
             "dateFormats": {

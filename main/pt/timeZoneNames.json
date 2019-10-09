@@ -3,8 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt"
       },
@@ -26,7 +25,7 @@
                 "exemplarCity": "Anchorage"
               },
               "Anguilla": {
-                "exemplarCity": "Anguilla"
+                "exemplarCity": "Anguila"
               },
               "Antigua": {
                 "exemplarCity": "Antígua"
@@ -546,7 +545,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "Horário Padrão da Irlanda"
+                  "daylight": "Horário Padrão Irlandês"
                 },
                 "exemplarCity": "Dublin"
               },
@@ -852,7 +851,7 @@
             },
             "Asia": {
               "Aden": {
-                "exemplarCity": "Adem"
+                "exemplarCity": "Áden"
               },
               "Almaty": {
                 "exemplarCity": "Almaty"
@@ -864,10 +863,10 @@
                 "exemplarCity": "Anadyr"
               },
               "Aqtau": {
-                "exemplarCity": "Aqtau"
+                "exemplarCity": "Aktau"
               },
               "Aqtobe": {
-                "exemplarCity": "Aqtöbe"
+                "exemplarCity": "Aktobe"
               },
               "Ashgabat": {
                 "exemplarCity": "Asgabate"
@@ -900,7 +899,7 @@
                 "exemplarCity": "Brunei"
               },
               "Calcutta": {
-                "exemplarCity": "Kolkata"
+                "exemplarCity": "Calcutá"
               },
               "Chita": {
                 "exemplarCity": "Chita"
@@ -933,7 +932,7 @@
                 "exemplarCity": "Gaza"
               },
               "Hebron": {
-                "exemplarCity": "Hebrom"
+                "exemplarCity": "Hebron"
               },
               "Hong_Kong": {
                 "exemplarCity": "Hong Kong"
@@ -954,16 +953,16 @@
                 "exemplarCity": "Jerusalém"
               },
               "Kabul": {
-                "exemplarCity": "Kabul"
+                "exemplarCity": "Cabul"
               },
               "Kamchatka": {
                 "exemplarCity": "Kamchatka"
               },
               "Karachi": {
-                "exemplarCity": "Carachi"
+                "exemplarCity": "Karachi"
               },
               "Katmandu": {
-                "exemplarCity": "Catmandu"
+                "exemplarCity": "Katmandu"
               },
               "Khandyga": {
                 "exemplarCity": "Khandyga"
@@ -972,7 +971,7 @@
                 "exemplarCity": "Krasnoyarsk"
               },
               "Kuala_Lumpur": {
-                "exemplarCity": "Kuala Lampur"
+                "exemplarCity": "Kuala Lumpur"
               },
               "Kuching": {
                 "exemplarCity": "Kuching"
@@ -987,7 +986,7 @@
                 "exemplarCity": "Magadan"
               },
               "Makassar": {
-                "exemplarCity": "Macáçar"
+                "exemplarCity": "Makassar"
               },
               "Manila": {
                 "exemplarCity": "Manila"
@@ -1020,7 +1019,7 @@
                 "exemplarCity": "Pyongyang"
               },
               "Qatar": {
-                "exemplarCity": "Qatar"
+                "exemplarCity": "Catar"
               },
               "Qostanay": {
                 "exemplarCity": "Qostanay"
@@ -1029,7 +1028,7 @@
                 "exemplarCity": "Qyzylorda"
               },
               "Rangoon": {
-                "exemplarCity": "Yangon"
+                "exemplarCity": "Rangum"
               },
               "Riyadh": {
                 "exemplarCity": "Riade"
@@ -1050,7 +1049,7 @@
                 "exemplarCity": "Xangai"
               },
               "Singapore": {
-                "exemplarCity": "Cingapura"
+                "exemplarCity": "Singapura"
               },
               "Srednekolymsk": {
                 "exemplarCity": "Srednekolymsk"
@@ -1068,7 +1067,7 @@
                 "exemplarCity": "Teerã"
               },
               "Thimphu": {
-                "exemplarCity": "Timphu"
+                "exemplarCity": "Thimphu"
               },
               "Tokyo": {
                 "exemplarCity": "Tóquio"
@@ -1176,7 +1175,7 @@
             },
             "Pacific": {
               "Apia": {
-                "exemplarCity": "Ápia"
+                "exemplarCity": "Apia"
               },
               "Auckland": {
                 "exemplarCity": "Auckland"
@@ -1185,7 +1184,7 @@
                 "exemplarCity": "Bougainville"
               },
               "Chatham": {
-                "exemplarCity": "Chatham"
+                "exemplarCity": "Chatnam"
               },
               "Easter": {
                 "exemplarCity": "Ilha de Páscoa"
@@ -1324,7 +1323,7 @@
                 "exemplarCity": "Rothera"
               },
               "Syowa": {
-                "exemplarCity": "Showa"
+                "exemplarCity": "Syowa"
               },
               "Troll": {
                 "exemplarCity": "Troll"
@@ -1725,7 +1724,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "Horário da Antártida e do Sul da França"
+                "standard": "Horário dos Territórios Franceses do Sul e Antártida"
               }
             },
             "Galapagos": {
@@ -1911,7 +1910,7 @@
             },
             "Line_Islands": {
               "long": {
-                "standard": "Horário das Ilhas Line"
+                "standard": "Horário das Ilhas da Linha"
               }
             },
             "Lord_Howe": {
@@ -2086,7 +2085,7 @@
             },
             "Papua_New_Guinea": {
               "long": {
-                "standard": "Horário de Papua Nova Guiné"
+                "standard": "Horário de Papua-Nova Guiné"
               }
             },
             "Paraguay": {
@@ -2117,9 +2116,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "Horário de Saint Pierre e Miquelon",
-                "standard": "Horário Padrão de Saint Pierre e Miquelon",
-                "daylight": "Horário de Verão de Saint Pierre e Miquelon"
+                "generic": "Horário de São Pedro e Miquelão",
+                "standard": "Horário Padrão de São Pedro e Miquelão",
+                "daylight": "Horário Verão de São Pedro e Miquelão"
               }
             },
             "Pitcairn": {

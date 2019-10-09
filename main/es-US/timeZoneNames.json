@@ -3,8 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "US"
@@ -395,7 +394,7 @@
                 "exemplarCity": "Resolute"
               },
               "Rio_Branco": {
-                "exemplarCity": "Río Branco"
+                "exemplarCity": "Rio Branco"
               },
               "Santa_Isabel": {
                 "exemplarCity": "Santa Isabel"
@@ -404,7 +403,7 @@
                 "exemplarCity": "Santarém"
               },
               "Santiago": {
-                "exemplarCity": "Santiago de Chile"
+                "exemplarCity": "Santiago"
               },
               "Santo_Domingo": {
                 "exemplarCity": "Santo Domingo"
@@ -547,7 +546,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "hora de verano de Irlanda"
+                  "daylight": "hora estándar de Irlanda"
                 },
                 "exemplarCity": "Dublín"
               },
@@ -856,7 +855,7 @@
                 "exemplarCity": "Adén"
               },
               "Almaty": {
-                "exemplarCity": "Almaty"
+                "exemplarCity": "Almatý"
               },
               "Amman": {
                 "exemplarCity": "Ammán"
@@ -1018,7 +1017,7 @@
                 "exemplarCity": "Pontianak"
               },
               "Pyongyang": {
-                "exemplarCity": "Pyongyang"
+                "exemplarCity": "Piongyang"
               },
               "Qatar": {
                 "exemplarCity": "Catar"
@@ -1224,7 +1223,7 @@
                   "standard": "HST",
                   "daylight": "HDT"
                 },
-                "exemplarCity": "Honolulú"
+                "exemplarCity": "Honolulu"
               },
               "Johnston": {
                 "exemplarCity": "Johnston"
@@ -1293,7 +1292,7 @@
                 "exemplarCity": "Chuuk"
               },
               "Wake": {
-                "exemplarCity": "Isla Wake"
+                "exemplarCity": "Wake"
               },
               "Wallis": {
                 "exemplarCity": "Wallis"
@@ -1636,7 +1635,7 @@
             },
             "Christmas": {
               "long": {
-                "standard": "hora de la Isla de Navidad"
+                "standard": "hora de la isla de Navidad"
               }
             },
             "Cocos": {
@@ -1653,9 +1652,9 @@
             },
             "Cook": {
               "long": {
-                "generic": "hora de las islas Cook",
-                "standard": "hora estándar de las islas Cook",
-                "daylight": "hora de verano media de las islas Cook"
+                "generic": "hora de las Islas Cook",
+                "standard": "hora estándar de las Islas Cook",
+                "daylight": "hora de verano media de las Islas Cook"
               }
             },
             "Cuba": {
@@ -1864,8 +1863,8 @@
             "Irkutsk": {
               "long": {
                 "generic": "hora de Irkutsk",
-                "standard": "hora estándar de Irkutsk",
-                "daylight": "hora de verano de Irkutsk"
+                "standard": "hora estándar de Irkutsh",
+                "daylight": "hora de verano de Irkutsh"
               }
             },
             "Israel": {

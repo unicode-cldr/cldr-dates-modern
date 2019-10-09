@@ -3,8 +3,7 @@
     "az": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "az"
       },
@@ -115,7 +114,7 @@
                 "exemplarCity": "Kayman"
               },
               "Chicago": {
-                "exemplarCity": "Cikaqo"
+                "exemplarCity": "Çikaqo"
               },
               "Chihuahua": {
                 "exemplarCity": "Çihuahua"
@@ -397,7 +396,7 @@
                 "exemplarCity": "Rio Branko"
               },
               "Santa_Isabel": {
-                "exemplarCity": "Santa Isabel"
+                "exemplarCity": "Santa İzabel"
               },
               "Santarem": {
                 "exemplarCity": "Santarem"
@@ -463,7 +462,7 @@
                 "exemplarCity": "Uaythors"
               },
               "Winnipeg": {
-                "exemplarCity": "Vinipeq"
+                "exemplarCity": "Vinnipeq"
               },
               "Yakutat": {
                 "exemplarCity": "Yakutat"
@@ -551,7 +550,7 @@
                 "exemplarCity": "Dublin"
               },
               "Gibraltar": {
-                "exemplarCity": "Gibraltar"
+                "exemplarCity": "Cəbəli-Tariq"
               },
               "Guernsey": {
                 "exemplarCity": "Gernzey"
@@ -647,7 +646,7 @@
                 "exemplarCity": "Skopye"
               },
               "Sofia": {
-                "exemplarCity": "Sofia"
+                "exemplarCity": "Sofiya"
               },
               "Stockholm": {
                 "exemplarCity": "Stokholm"
@@ -674,7 +673,7 @@
                 "exemplarCity": "Vyana"
               },
               "Vilnius": {
-                "exemplarCity": "Vilnyus"
+                "exemplarCity": "Vilnüs"
               },
               "Volgograd": {
                 "exemplarCity": "Volqoqrad"
@@ -897,10 +896,10 @@
                 "exemplarCity": "Bişkek"
               },
               "Brunei": {
-                "exemplarCity": "Brunei"
+                "exemplarCity": "Bruney"
               },
               "Calcutta": {
-                "exemplarCity": "Kolkata"
+                "exemplarCity": "Kəlkətə"
               },
               "Chita": {
                 "exemplarCity": "Çita"
@@ -996,7 +995,7 @@
                 "exemplarCity": "Muskat"
               },
               "Nicosia": {
-                "exemplarCity": "Nikosia"
+                "exemplarCity": "Nikosiya"
               },
               "Novokuznetsk": {
                 "exemplarCity": "Novokuznetsk"
@@ -1056,7 +1055,7 @@
                 "exemplarCity": "Srednekolımsk"
               },
               "Taipei": {
-                "exemplarCity": "Taipei"
+                "exemplarCity": "Taybey"
               },
               "Tashkent": {
                 "exemplarCity": "Daşkənd"
@@ -1168,7 +1167,7 @@
                 "exemplarCity": "Melburn"
               },
               "Perth": {
-                "exemplarCity": "Perth"
+                "exemplarCity": "Pert"
               },
               "Sydney": {
                 "exemplarCity": "Sidney"
@@ -1179,7 +1178,7 @@
                 "exemplarCity": "Apia"
               },
               "Auckland": {
-                "exemplarCity": "Aukland"
+                "exemplarCity": "Oklənd"
               },
               "Bougainville": {
                 "exemplarCity": "Buqanvil"
@@ -1272,7 +1271,7 @@
                 "exemplarCity": "Rarotonqa"
               },
               "Saipan": {
-                "exemplarCity": "Saipan"
+                "exemplarCity": "Saypan"
               },
               "Tahiti": {
                 "exemplarCity": "Tahiti"
@@ -2060,7 +2059,7 @@
             },
             "Reunion": {
               "long": {
-                "standard": "Reunion Vaxtı"
+                "standard": "Reyunyon"
               }
             },
             "Rothera": {

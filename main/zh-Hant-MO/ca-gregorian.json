@@ -3,8 +3,7 @@
     "zh-Hant-MO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "zh",
         "script": "Hant",
@@ -340,7 +339,7 @@
                 "E": "ccc",
                 "EBhm": "E Bh:mm",
                 "EBhms": "E Bh:mm:ss",
-                "Ed": "d日E",
+                "Ed": "d E",
                 "Ehm": "E ah:mm",
                 "EHm": "E HH:mm",
                 "Ehms": "E ah:mm:ss",

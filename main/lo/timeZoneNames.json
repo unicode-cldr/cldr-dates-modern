@@ -3,8 +3,7 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lo"
       },
@@ -263,7 +262,7 @@
                 "exemplarCity": "ລີມາ"
               },
               "Los_Angeles": {
-                "exemplarCity": "ລອສ ແອນເຈລີສ"
+                "exemplarCity": "ລອສແອນເຈລີສ"
               },
               "Louisville": {
                 "exemplarCity": "ຫລຸຍວິວ"
@@ -436,7 +435,7 @@
                 "exemplarCity": "ເຊນ ວິນເຊນ"
               },
               "Swift_Current": {
-                "exemplarCity": "ສະວິວ ເຄີເຣນ"
+                "exemplarCity": "ສະວິຟ ເຄີເຣນ"
               },
               "Tegucigalpa": {
                 "exemplarCity": "ເຕກູຊີການປາ"
@@ -900,7 +899,7 @@
                 "exemplarCity": "ບຣູໄນ"
               },
               "Calcutta": {
-                "exemplarCity": "ໂຄກາຕາ"
+                "exemplarCity": "ໂກລກາຕາ"
               },
               "Chita": {
                 "exemplarCity": "ຊີຕ່າ"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "ກາຕາຣ໌"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "ຄອສຕາເນ"
               },
               "Qyzylorda": {
                 "exemplarCity": "ໄຄຊີລໍດາ"
@@ -1124,7 +1123,7 @@
                 "exemplarCity": "ມາເຮ"
               },
               "Maldives": {
-                "exemplarCity": "ມັລດີບ"
+                "exemplarCity": "ມັລດີຟ"
               },
               "Mauritius": {
                 "exemplarCity": "ເມົາຣິທຽສ"
@@ -1384,9 +1383,9 @@
             },
             "Alaska": {
               "long": {
-                "generic": "ເວລາອະແລສກາ",
-                "standard": "ເວລາມາດຕະຖານອະແລສກາ",
-                "daylight": "ເວລາກາງເວັນອະແລສກາ"
+                "generic": "ເວລາອະລັສກາ",
+                "standard": "ເວລາມາດຕະຖານອະລັສກາ",
+                "daylight": "ເວລາກາງເວັນອະລັສກາ"
               }
             },
             "Almaty": {
@@ -1923,7 +1922,7 @@
             },
             "Maldives": {
               "long": {
-                "standard": "ເວລາມັນດີຟ"
+                "standard": "ເວລາມັລດີຟ"
               }
             },
             "Marquesas": {

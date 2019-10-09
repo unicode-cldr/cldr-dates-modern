@@ -3,8 +3,7 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mn"
       },
@@ -308,8 +307,8 @@
               }
             },
             "dateFormats": {
-              "full": "y.MM.dd, EEEE",
-              "long": "y.MM.dd",
+              "full": "y 'оны' MMMM'ын' d, EEEE 'гараг'",
+              "long": "y 'оны' MMMM'ын' d",
               "medium": "y 'оны' MMM'ын' d",
               "short": "y.MM.dd"
             },

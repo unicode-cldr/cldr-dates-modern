@@ -3,8 +3,7 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "af"
       },
@@ -320,12 +319,12 @@
               "short": "{1} {0}",
               "availableFormats": {
                 "Bh": "h B",
-                "Bhm": "h:mm B",
-                "Bhms": "h:mm:ss B",
+                "Bhm": "hh:mm B",
+                "Bhms": "hh:mm:ss B",
                 "d": "d",
                 "E": "ccc",
-                "EBhm": "E h:mm B",
-                "EBhms": "E h:mm:ss B",
+                "EBhm": "E hh:mm B",
+                "EBhms": "E hh:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E hh:mm a",
                 "EHm": "E HH:mm",

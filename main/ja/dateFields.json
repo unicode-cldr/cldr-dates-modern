@@ -3,8 +3,7 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ja"
       },
@@ -23,7 +22,7 @@
             "displayName": "年",
             "relative-type--1": "昨年",
             "relative-type-0": "今年",
-            "relative-type-1": "翌年",
+            "relative-type-1": "来年",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 年後"
             },
@@ -35,7 +34,7 @@
             "displayName": "年",
             "relative-type--1": "昨年",
             "relative-type-0": "今年",
-            "relative-type-1": "翌年",
+            "relative-type-1": "来年",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 年後"
             },
@@ -47,7 +46,7 @@
             "displayName": "年",
             "relative-type--1": "昨年",
             "relative-type-0": "今年",
-            "relative-type-1": "翌年",
+            "relative-type-1": "来年",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}年後"
             },
@@ -95,7 +94,7 @@
             "displayName": "月",
             "relative-type--1": "先月",
             "relative-type-0": "今月",
-            "relative-type-1": "翌月",
+            "relative-type-1": "来月",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} か月後"
             },
@@ -107,7 +106,7 @@
             "displayName": "月",
             "relative-type--1": "先月",
             "relative-type-0": "今月",
-            "relative-type-1": "翌月",
+            "relative-type-1": "来月",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} か月後"
             },
@@ -119,7 +118,7 @@
             "displayName": "月",
             "relative-type--1": "先月",
             "relative-type-0": "今月",
-            "relative-type-1": "翌月",
+            "relative-type-1": "来月",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}か月後"
             },
@@ -131,7 +130,7 @@
             "displayName": "週",
             "relative-type--1": "先週",
             "relative-type-0": "今週",
-            "relative-type-1": "翌週",
+            "relative-type-1": "来週",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 週間後"
             },
@@ -144,7 +143,7 @@
             "displayName": "週",
             "relative-type--1": "先週",
             "relative-type-0": "今週",
-            "relative-type-1": "翌週",
+            "relative-type-1": "来週",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0} 週間後"
             },
@@ -157,7 +156,7 @@
             "displayName": "週",
             "relative-type--1": "先週",
             "relative-type-0": "今週",
-            "relative-type-1": "翌週",
+            "relative-type-1": "来週",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "{0}週間後"
             },

@@ -3,8 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "eu"
       },
@@ -320,17 +319,17 @@
               "short": "HH:mm"
             },
             "dateTimeFormats": {
-              "full": "{1} {0}",
-              "long": "{1} {0}",
-              "medium": "{1} {0}",
-              "short": "{1} {0}",
+              "full": "{1}, {0}",
+              "long": "{1}, {0}",
+              "medium": "{1}, {0}",
+              "short": "{1}, {0}",
               "availableFormats": {
-                "Bh": "h B",
-                "Bhm": "h:mm B",
-                "Bhms": "h:mm:ss B",
+                "Bh": "B h('r')('a')'k'",
+                "Bhm": "B h:mm",
+                "Bhms": "B h:mm:s",
                 "d": "d",
                 "E": "ccc",
-                "EBhm": "E h:mm B",
+                "EBhm": "E B h:mm",
                 "EBhms": "E h:mm:ss B",
                 "Ed": "d, EEEE",
                 "Ehm": "E h:mm a",
@@ -351,24 +350,24 @@
                 "Md": "MM/dd",
                 "MEd": "MM/dd, EEEE",
                 "MMM": "LLL",
-                "MMMd": "MMM d",
-                "MMMEd": "MMM d, EEEE",
-                "MMMMd": "MMMM d",
+                "MMMd": "MMM'k' d",
+                "MMMEd": "MMM'k' d, EEEE",
+                "MMMMd": "MMMM'k' d",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "y/MM",
                 "yMd": "y/MM/dd",
                 "yMEd": "y/MM/dd, EEEE",
                 "yMMM": "y('e')'ko' MMMM",
-                "yMMMd": "y('e')'ko' MMMM d",
-                "yMMMEd": "y('e')'ko' MMMM d, EEEE",
-                "yQQQ": "y QQQ",
+                "yMMMd": "y('e')'ko' MMMM'k' d",
+                "yMMMEd": "y('e')'ko' MMMM'k' d, EEEE",
+                "yQQQ": "y('e')'ko' QQQ",
                 "yQQQQ": "y('e')'ko' QQQQ",
                 "yyyy": "G y",
                 "yyyyM": "G y/MM",
-                "yyyyMd": "G y/MM/dd",
-                "yyyyMEd": "G y/MM/dd, EEEE",
-                "yyyyMMM": "G y MMM",
+                "yyyyMd": "G('e')'ko' y/MM/dd",
+                "yyyyMEd": "G('e')'ko' y/MM/dd, EEEE",
+                "yyyyMMM": "G, y('e')'ko' MMM",
                 "yyyyMMMd": "G y MMM d",
                 "yyyyMMMEd": "G y MMM d, EEEE",
                 "yyyyMMMM": "G y('e')'ko' MMMM",
@@ -490,11 +489,11 @@
                 },
                 "MMMd": {
                   "d": "MMMM d–d",
-                  "M": "MMMM d – MMMM d"
+                  "M": "MMM'k' d – MMMM'k' d"
                 },
                 "MMMEd": {
-                  "d": "MMMM d, EEEE – MMMM d, EEEE",
-                  "M": "MMMM d, EEEE – MMMM d, EEEE"
+                  "d": "MMM'k' d, EEEE – MMM'k' d, EEEE",
+                  "M": "MMM'k' d, EEEE – MMM'k' d, EEEE"
                 },
                 "y": {
                   "y": "G y–y"

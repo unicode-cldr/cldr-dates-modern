@@ -3,8 +3,7 @@
     "uk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "uk"
       },
@@ -21,7 +20,7 @@
           },
           "year": {
             "displayName": "рік",
-            "relative-type--1": "торік",
+            "relative-type--1": "минулого року",
             "relative-type-0": "цього року",
             "relative-type-1": "наступного року",
             "relativeTime-type-future": {
@@ -40,8 +39,8 @@
           "year-short": {
             "displayName": "р.",
             "relative-type--1": "торік",
-            "relative-type-0": "цього року",
-            "relative-type-1": "наступного року",
+            "relative-type-0": "цьогоріч",
+            "relative-type-1": "наст. року",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "через {0} р.",
               "relativeTimePattern-count-few": "через {0} р.",
@@ -59,7 +58,7 @@
             "displayName": "р",
             "relative-type--1": "торік",
             "relative-type-0": "цього року",
-            "relative-type-1": "наступного року",
+            "relative-type-1": "наст. р.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} р.",
               "relativeTimePattern-count-few": "за {0} р.",
@@ -110,7 +109,7 @@
             }
           },
           "quarter-narrow": {
-            "displayName": "кв.",
+            "displayName": "кв",
             "relative-type--1": "минулого кв.",
             "relative-type-0": "цього кв.",
             "relative-type-1": "наступного кв.",
@@ -165,9 +164,9 @@
           },
           "month-narrow": {
             "displayName": "м",
-            "relative-type--1": "минулого місяця",
-            "relative-type-0": "цього місяця",
-            "relative-type-1": "наступного місяця",
+            "relative-type--1": "мин. міс.",
+            "relative-type-0": "цього міс.",
+            "relative-type-1": "наст. міс.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "за {0} міс.",
               "relativeTimePattern-count-few": "за {0} міс.",
@@ -202,9 +201,9 @@
           },
           "week-short": {
             "displayName": "тиж.",
-            "relative-type--1": "минулого тижня",
+            "relative-type--1": "мин. тижня",
             "relative-type-0": "цього тижня",
-            "relative-type-1": "наступного тижня",
+            "relative-type-1": "наст. тижня",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "через {0} тиж.",
               "relativeTimePattern-count-few": "через {0} тиж.",

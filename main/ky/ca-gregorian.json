@@ -3,8 +3,7 @@
     "ky": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ky"
       },
@@ -292,19 +291,19 @@
                 "0": "биздин заманга чейин",
                 "0-alt-variant": "б.з.ч.",
                 "1": "биздин заман",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "б.з."
               },
               "eraAbbr": {
                 "0": "б.з.ч.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "б.з.ч.",
                 "1": "б.з.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "б.з."
               },
               "eraNarrow": {
                 "0": "б.з.ч.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "б.з.ч.",
                 "1": "б.з.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "б.з."
               }
             },
             "dateFormats": {

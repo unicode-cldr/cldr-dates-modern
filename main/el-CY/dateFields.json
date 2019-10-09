@@ -3,8 +3,7 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "el",
         "territory": "CY"
@@ -134,9 +133,9 @@
           },
           "month-narrow": {
             "displayName": "μήν.",
-            "relative-type--1": "προηγούμενος μήνας",
-            "relative-type-0": "τρέχων μήνας",
-            "relative-type-1": "επόμενος μήνας",
+            "relative-type--1": "προηγ. μήνας",
+            "relative-type-0": "τρέχ. μήνας",
+            "relative-type-1": "επόμ. μήνας",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "σε {0} μ.",
               "relativeTimePattern-count-other": "σε {0} μ."
@@ -163,9 +162,9 @@
           },
           "week-short": {
             "displayName": "εβδ.",
-            "relative-type--1": "προηγούμενη εβδομάδα",
-            "relative-type-0": "τρέχουσα εβδομάδα",
-            "relative-type-1": "επόμενη εβδομάδα",
+            "relative-type--1": "προηγ. εβδομάδα",
+            "relative-type-0": "τρέχ. εβδομάδα",
+            "relative-type-1": "επόμ. εβδομάδα",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "σε {0} εβδ.",
               "relativeTimePattern-count-other": "σε {0} εβδ."
@@ -178,9 +177,9 @@
           },
           "week-narrow": {
             "displayName": "εβδ.",
-            "relative-type--1": "προηγούμενη εβδομάδα",
-            "relative-type-0": "τρέχουσα εβδομάδα",
-            "relative-type-1": "επόμενη εβδομάδα",
+            "relative-type--1": "προηγ. εβδ.",
+            "relative-type-0": "τρέχ. εβδ.",
+            "relative-type-1": "επόμ. εβδ.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "σε {0} εβδ.",
               "relativeTimePattern-count-other": "σε {0} εβδ."

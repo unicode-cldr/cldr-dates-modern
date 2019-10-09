@@ -3,8 +3,7 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lo"
       },
@@ -267,9 +266,9 @@
             }
           },
           "sun-narrow": {
-            "relative-type--1": "ອາ. ແລ້ວ",
-            "relative-type-0": "ອາ. ນີ້",
-            "relative-type-1": "ອາ. ໜ້າ",
+            "relative-type--1": "ວັນທິດແລ້ວ",
+            "relative-type-0": "ວັນທິດນີ້",
+            "relative-type-1": "ວັນທິດໜ້າ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ໃນ {0} ວັນອາທິດ"
             },
@@ -300,9 +299,9 @@
             }
           },
           "mon-narrow": {
-            "relative-type--1": "ຈ. ແລ້ວ",
-            "relative-type-0": "ຈ. ນີ້",
-            "relative-type-1": "ຈ. ໜ້າ",
+            "relative-type--1": "ຈັນແລ້ວ",
+            "relative-type-0": "ຈັນນີ້",
+            "relative-type-1": "ຈັນໜ້າ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ໃນ {0} ວັນຈັນ"
             },
@@ -366,9 +365,9 @@
             }
           },
           "wed-narrow": {
-            "relative-type--1": "ພຸ. ແລ້ວ",
-            "relative-type-0": "ພຸ. ນີ້",
-            "relative-type-1": "ພຸ. ໜ້າ",
+            "relative-type--1": "ພຸດແລ້ວ",
+            "relative-type-0": "ພຸດນີ້",
+            "relative-type-1": "ພຸດໜ້າ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ໃນ {0} ວັນພຸດ"
             },
@@ -399,9 +398,9 @@
             }
           },
           "thu-narrow": {
-            "relative-type--1": "ພຫ. ແລ້ວ",
-            "relative-type-0": "ພຫ. ນີ້",
-            "relative-type-1": "ພຫ. ໜ້າ",
+            "relative-type--1": "ພະຫັດແລ້ວ",
+            "relative-type-0": "ພະຫັດນີ້",
+            "relative-type-1": "ພະຫັດໜ້າ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ໃນ {0} ວັນພະຫັດ"
             },
@@ -432,9 +431,9 @@
             }
           },
           "fri-narrow": {
-            "relative-type--1": "ສຸ. ແລ້ວ",
-            "relative-type-0": "ສຸ. ນີ້",
-            "relative-type-1": "ສຸ. ໜ້າ",
+            "relative-type--1": "ສຸກແລ້ວ",
+            "relative-type-0": "ສຸກນີ້",
+            "relative-type-1": "ສຸກໜ້າ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ໃນອີກ {0} ວັນສຸກ"
             },
@@ -465,9 +464,9 @@
             }
           },
           "sat-narrow": {
-            "relative-type--1": "ສ. ແລ້ວ",
-            "relative-type-0": "ສ. ນີ້",
-            "relative-type-1": "ສ. ໜ້າ",
+            "relative-type--1": "ເສົາແລ້ວ",
+            "relative-type-0": "ເສົານີ້",
+            "relative-type-1": "ເສົາໜ້າ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ໃນ {0} ວັນເສົາ"
             },
@@ -518,7 +517,7 @@
             "displayName": "ນາທີ",
             "relative-type-0": "ນາທີນີ້",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "{0} ໃນອີກ 0 ນາທີ"
+              "relativeTimePattern-count-other": "ໃນອີກ {0} ນາທີ"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} ນາທີກ່ອນ"

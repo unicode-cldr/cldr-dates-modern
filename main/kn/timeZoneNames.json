@@ -3,8 +3,7 @@
     "kn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kn"
       },
@@ -1050,7 +1049,7 @@
                 "exemplarCity": "ಶಾಂಘೈ"
               },
               "Singapore": {
-                "exemplarCity": "ಸಿಂಗಾಪೂರ್"
+                "exemplarCity": "ಸಿಂಗಪುರ್"
               },
               "Srednekolymsk": {
                 "exemplarCity": "ಸ್ರೇದ್ನೇಕೋಲೀಮಸ್ಕ"
@@ -2113,7 +2112,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "ಸಿಂಗಾಪುರ್ ಪ್ರಮಾಣಿತ ಸಮಯ"
+                "standard": "ಸಿಂಗಪುರ್ ಪ್ರಮಾಣಿತ ಸಮಯ"
               }
             },
             "Solomon": {

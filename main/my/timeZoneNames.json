@@ -3,8 +3,7 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "my"
       },
@@ -106,7 +105,7 @@
                 "exemplarCity": "ကာရာကာစ်"
               },
               "Catamarca": {
-                "exemplarCity": "ကာတာမာရကွာ"
+                "exemplarCity": "ကာတာမာရကာ"
               },
               "Cayenne": {
                 "exemplarCity": "ကေညင်န်"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "ကာတာ"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "ကော့စ်တနေ"
               },
               "Qyzylorda": {
                 "exemplarCity": "ကီဇလော်ဒါ"

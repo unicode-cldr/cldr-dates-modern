@@ -3,8 +3,7 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "he"
       },
@@ -609,7 +608,7 @@
           "fri-short": {
             "relative-type--1": "יום ו׳ שעבר",
             "relative-type-0": "יום ו׳",
-            "relative-type-1": "ביום ו׳ הבא",
+            "relative-type-1": "יום ו׳ הבא",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "בעוד יום שישי {0}",
               "relativeTimePattern-count-two": "בעוד {0} ימי שישי",
@@ -845,7 +844,7 @@
             }
           },
           "zone": {
-            "displayName": "אזור"
+            "displayName": "אזור זמן"
           },
           "zone-short": {
             "displayName": "אזור"

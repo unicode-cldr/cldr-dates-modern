@@ -3,8 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fa",
         "territory": "AF"
@@ -120,7 +119,7 @@
           },
           "month-short": {
             "displayName": "ماه",
-            "relative-type--1": "ماه پیش",
+            "relative-type--1": "ماه گذشته",
             "relative-type-0": "این ماه",
             "relative-type-1": "ماه آینده",
             "relativeTime-type-future": {
@@ -134,7 +133,7 @@
           },
           "month-narrow": {
             "displayName": "ماه",
-            "relative-type--1": "ماه پیش",
+            "relative-type--1": "ماه گذشته",
             "relative-type-0": "این ماه",
             "relative-type-1": "ماه آینده",
             "relativeTime-type-future": {

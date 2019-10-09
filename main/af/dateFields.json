@@ -3,8 +3,7 @@
     "af": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "af"
       },
@@ -35,9 +34,9 @@
           },
           "year-short": {
             "displayName": "j.",
-            "relative-type--1": "verlede jaar",
-            "relative-type-0": "hierdie jaar",
-            "relative-type-1": "volgende jaar",
+            "relative-type--1": "verlede j.",
+            "relative-type-0": "hierdie j.",
+            "relative-type-1": "volgende j.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} j.",
               "relativeTimePattern-count-other": "oor {0} j."
@@ -49,9 +48,9 @@
           },
           "year-narrow": {
             "displayName": "j.",
-            "relative-type--1": "verlede jaar",
-            "relative-type-0": "hierdie jaar",
-            "relative-type-1": "volgende jaar",
+            "relative-type--1": "verlede j.",
+            "relative-type-0": "hierdie j.",
+            "relative-type-1": "volgende j.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} j.",
               "relativeTimePattern-count-other": "oor {0} j."
@@ -119,9 +118,9 @@
           },
           "month-short": {
             "displayName": "md.",
-            "relative-type--1": "verlede maand",
-            "relative-type-0": "vandeesmaand",
-            "relative-type-1": "volgende maand",
+            "relative-type--1": "verlede md.",
+            "relative-type-0": "hierdie md.",
+            "relative-type-1": "volgende md.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} md.",
               "relativeTimePattern-count-other": "oor {0} md."
@@ -133,9 +132,9 @@
           },
           "month-narrow": {
             "displayName": "md.",
-            "relative-type--1": "verlede maand",
-            "relative-type-0": "vandeesmaand",
-            "relative-type-1": "volgende maand",
+            "relative-type--1": "verlede md.",
+            "relative-type-0": "hierdie md.",
+            "relative-type-1": "volgende md.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} md.",
               "relativeTimePattern-count-other": "oor {0} md."
@@ -162,9 +161,9 @@
           },
           "week-short": {
             "displayName": "wk.",
-            "relative-type--1": "verlede week",
-            "relative-type-0": "hierdie week",
-            "relative-type-1": "volgende week",
+            "relative-type--1": "verlede w.",
+            "relative-type-0": "hierdie w.",
+            "relative-type-1": "volgende w.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} w.",
               "relativeTimePattern-count-other": "oor {0} w."
@@ -177,9 +176,9 @@
           },
           "week-narrow": {
             "displayName": "wk.",
-            "relative-type--1": "verlede week",
-            "relative-type-0": "hierdie week",
-            "relative-type-1": "volgende week",
+            "relative-type--1": "verlede w.",
+            "relative-type-0": "hierdie w.",
+            "relative-type-1": "volgende w.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} w.",
               "relativeTimePattern-count-other": "oor {0} w."
@@ -301,16 +300,16 @@
             }
           },
           "sun-narrow": {
-            "relative-type--1": "verlede Son.",
-            "relative-type-0": "dié So.",
-            "relative-type-1": "vlg. So.",
+            "relative-type--1": "verlede So.",
+            "relative-type-0": "hierdie So.",
+            "relative-type-1": "volgende So.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} So.",
               "relativeTimePattern-count-other": "oor {0} So."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Sondae gelede",
-              "relativeTimePattern-count-other": "{0} Sondae gelede"
+              "relativeTimePattern-count-one": "{0} So. gelede",
+              "relativeTimePattern-count-other": "{0} So. gelede"
             }
           },
           "mon": {
@@ -348,8 +347,8 @@
               "relativeTimePattern-count-other": "oor {0} Ma."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Maandae gelede",
-              "relativeTimePattern-count-other": "{0} Maandae gelede"
+              "relativeTimePattern-count-one": "{0} Ma. gelede",
+              "relativeTimePattern-count-other": "{0} Ma. gelede"
             }
           },
           "tue": {
@@ -387,8 +386,8 @@
               "relativeTimePattern-count-other": "oor {0} Di."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Dinsdae gelede",
-              "relativeTimePattern-count-other": "{0} Dinsdae gelede"
+              "relativeTimePattern-count-one": "{0} Di. gelede",
+              "relativeTimePattern-count-other": "{0} Di. gelede"
             }
           },
           "wed": {
@@ -426,8 +425,8 @@
               "relativeTimePattern-count-other": "oor {0} Wo."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Woensdae gelede",
-              "relativeTimePattern-count-other": "{0} Woensdae gelede"
+              "relativeTimePattern-count-one": "{0} Wo. gelede",
+              "relativeTimePattern-count-other": "{0} Wo. gelede"
             }
           },
           "thu": {
@@ -465,8 +464,8 @@
               "relativeTimePattern-count-other": "oor {0} Do."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Donderdae gelede",
-              "relativeTimePattern-count-other": "{0} Donderdae gelede"
+              "relativeTimePattern-count-one": "{0} Do. gelede",
+              "relativeTimePattern-count-other": "{0} Do. gelede"
             }
           },
           "fri": {
@@ -484,7 +483,7 @@
           },
           "fri-short": {
             "relative-type--1": "verlede Vr.",
-            "relative-type-0": "dié Vr.",
+            "relative-type-0": "hierdie Vr.",
             "relative-type-1": "vlg. Vr.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} Vr.",
@@ -497,15 +496,15 @@
           },
           "fri-narrow": {
             "relative-type--1": "verlede Vr.",
-            "relative-type-0": "dié Vr.",
-            "relative-type-1": "vlg. Vr.",
+            "relative-type-0": "hierdie Vr.",
+            "relative-type-1": "volgende Vr.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} Vr.",
               "relativeTimePattern-count-other": "oor {0} Vr."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Vrydae gelede",
-              "relativeTimePattern-count-other": "{0} Vrydae gelede"
+              "relativeTimePattern-count-one": "{0} Vr. gelede",
+              "relativeTimePattern-count-other": "{0} Vr. gelede"
             }
           },
           "sat": {
@@ -524,7 +523,7 @@
           "sat-short": {
             "relative-type--1": "verlede Sa.",
             "relative-type-0": "dié Sa.",
-            "relative-type-1": "vlg. Sa.",
+            "relative-type-1": "volgende Sa.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} Sa.",
               "relativeTimePattern-count-other": "oor {0} Sa."
@@ -536,15 +535,15 @@
           },
           "sat-narrow": {
             "relative-type--1": "verlede Sa.",
-            "relative-type-0": "dié Sa.",
-            "relative-type-1": "vlg. Sa.",
+            "relative-type-0": "hierdie Sa.",
+            "relative-type-1": "volgende Sa.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "oor {0} Sa.",
               "relativeTimePattern-count-other": "oor {0} Sa."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} Saterdae gelede",
-              "relativeTimePattern-count-other": "{0} Saterdae gelede"
+              "relativeTimePattern-count-one": "{0} Sa. gelede",
+              "relativeTimePattern-count-other": "{0} Sa. gelede"
             }
           },
           "dayperiod-short": {

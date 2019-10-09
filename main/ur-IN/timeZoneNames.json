@@ -3,8 +3,7 @@
     "ur-IN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ur",
         "territory": "IN"
@@ -377,7 +376,7 @@
                 "exemplarCity": "پیورٹو ریکو"
               },
               "Punta_Arenas": {
-                "exemplarCity": "پنٹا یریناس"
+                "exemplarCity": "پنٹا اریناس"
               },
               "Rainy_River": {
                 "exemplarCity": "رینی ریور"
@@ -573,7 +572,7 @@
                 "exemplarCity": "کالينينغراد"
               },
               "Kiev": {
-                "exemplarCity": "کیوو"
+                "exemplarCity": "کیو"
               },
               "Kirov": {
                 "exemplarCity": "کیروف"
@@ -663,7 +662,7 @@
                 "exemplarCity": "الیانوسک"
               },
               "Uzhgorod": {
-                "exemplarCity": "ازگوروڈ"
+                "exemplarCity": "ازہوراڈ"
               },
               "Vaduz": {
                 "exemplarCity": "ویڈوز"
@@ -1441,9 +1440,9 @@
             },
             "Argentina": {
               "long": {
-                "generic": "ارجنٹینا ٹائم",
-                "standard": "ارجنٹینا سٹینڈرڈ ٹائم",
-                "daylight": "ارجنٹینا سمر ٹائم"
+                "generic": "ارجنٹینا کا وقت",
+                "standard": "ارجنٹینا کا معیاری وقت",
+                "daylight": "ارجنٹینا کا موسم گرما کا وقت"
               }
             },
             "Argentina_Western": {
@@ -1566,7 +1565,7 @@
             },
             "China": {
               "long": {
-                "generic": "چین ٹائم",
+                "generic": "چین کا وقت",
                 "standard": "چین سٹینڈرڈ ٹائم",
                 "daylight": "چینی ڈے لائٹ ٹائم"
               }

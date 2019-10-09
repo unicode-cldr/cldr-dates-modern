@@ -3,8 +3,7 @@
     "ro": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ro"
       },
@@ -200,7 +199,7 @@
           "week-narrow": {
             "displayName": "săpt.",
             "relative-type--1": "săpt. trecută",
-            "relative-type-0": "săptămâna aceasta",
+            "relative-type-0": "săpt. aceasta",
             "relative-type-1": "săpt. viitoare",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} săpt.",

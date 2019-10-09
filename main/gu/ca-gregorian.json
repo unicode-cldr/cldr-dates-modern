@@ -3,8 +3,7 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gu"
       },
@@ -353,8 +352,8 @@
                 "MMMd": "d MMM",
                 "MMMEd": "E, d MMM",
                 "MMMMd": "d MMMM",
-                "MMMMW-count-one": "MMMM ના W અઠવાડિયા",
-                "MMMMW-count-other": "MMMM ના W અઠવાડિયા",
+                "MMMMW-count-one": "MMMMના W અઠવાડિયા",
+                "MMMMW-count-other": "MMMMના W અઠવાડિયા",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",

@@ -3,8 +3,7 @@
     "sr-Cyrl-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -62,13 +61,13 @@
                 "abbreviated": {
                   "1": "јан",
                   "2": "феб",
-                  "3": "март",
+                  "3": "мар",
                   "4": "апр",
                   "5": "мај",
                   "6": "јун",
                   "7": "јул",
                   "8": "авг",
-                  "9": "септ",
+                  "9": "сеп",
                   "10": "окт",
                   "11": "нов",
                   "12": "дец"
@@ -292,21 +291,21 @@
             "eras": {
               "eraNames": {
                 "0": "прије нове ере",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "п. н. е.",
                 "1": "нове ере",
                 "1-alt-variant": "нове ере"
               },
               "eraAbbr": {
                 "0": "п. н. е.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "п. н. е.",
                 "1": "н. е.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н. е."
               },
               "eraNarrow": {
                 "0": "п.н.е.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "п. н. е.",
                 "1": "н.е.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н. е."
               }
             },
             "dateFormats": {

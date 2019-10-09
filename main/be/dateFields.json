@@ -3,8 +3,7 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "be"
       },
@@ -39,9 +38,9 @@
           },
           "year-short": {
             "displayName": "г.",
-            "relative-type--1": "у мінулым годзе",
+            "relative-type--1": "у мін. годзе",
             "relative-type-0": "у гэтым годзе",
-            "relative-type-1": "у наступным годзе",
+            "relative-type-1": "у наст. годзе",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "праз {0} г.",
               "relativeTimePattern-count-few": "праз {0} г.",
@@ -57,9 +56,9 @@
           },
           "year-narrow": {
             "displayName": "г.",
-            "relative-type--1": "у мінулым годзе",
+            "relative-type--1": "у мін. годзе",
             "relative-type-0": "у гэтым годзе",
-            "relative-type-1": "у наступным годзе",
+            "relative-type-1": "у наст. годзе",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "праз {0} г.",
               "relativeTimePattern-count-few": "праз {0} г.",
@@ -147,9 +146,9 @@
           },
           "month-short": {
             "displayName": "мес.",
-            "relative-type--1": "у мінулым месяцы",
-            "relative-type-0": "у гэтым месяцы",
-            "relative-type-1": "у наступным месяцы",
+            "relative-type--1": "у мін. мес.",
+            "relative-type-0": "у гэтым мес.",
+            "relative-type-1": "у наст. мес.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "праз {0} мес.",
               "relativeTimePattern-count-few": "праз {0} мес.",
@@ -165,9 +164,9 @@
           },
           "month-narrow": {
             "displayName": "мес.",
-            "relative-type--1": "у мінулым месяцы",
-            "relative-type-0": "у гэтым месяцы",
-            "relative-type-1": "у наступным месяцы",
+            "relative-type--1": "у мін. мес.",
+            "relative-type-0": "у гэтым мес.",
+            "relative-type-1": "у наст. мес.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "праз {0} мес.",
               "relativeTimePattern-count-few": "праз {0} мес.",
@@ -202,9 +201,9 @@
           },
           "week-short": {
             "displayName": "тыд",
-            "relative-type--1": "на мінулым тыдні",
-            "relative-type-0": "на гэтым тыдні",
-            "relative-type-1": "на наступным тыдні",
+            "relative-type--1": "на мін. тыд.",
+            "relative-type-0": "на гэтым тыд.",
+            "relative-type-1": "на наст. тыд.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "праз {0} тыд",
               "relativeTimePattern-count-few": "праз {0} тыд",
@@ -221,9 +220,9 @@
           },
           "week-narrow": {
             "displayName": "тыд",
-            "relative-type--1": "на мінулым тыдні",
-            "relative-type-0": "на гэтым тыдні",
-            "relative-type-1": "на наступным тыдні",
+            "relative-type--1": "на мін. тыд.",
+            "relative-type-0": "на гэтым тыд.",
+            "relative-type-1": "на наст. тыд.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "праз {0} тыд",
               "relativeTimePattern-count-few": "праз {0} тыд",

@@ -3,8 +3,7 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hi"
       },
@@ -49,9 +48,9 @@
           },
           "year-narrow": {
             "displayName": "वर्ष",
-            "relative-type--1": "पिछला वर्ष",
-            "relative-type-0": "इस वर्ष",
-            "relative-type-1": "अगला वर्ष",
+            "relative-type--1": "पिछले साल",
+            "relative-type-0": "इस साल",
+            "relative-type-1": "अगले साल",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} वर्ष में",
               "relativeTimePattern-count-other": "{0} वर्ष में"
@@ -218,9 +217,9 @@
           "day-short": {
             "displayName": "दिन",
             "relative-type--2": "परसों",
-            "relative-type--1": "कल",
+            "relative-type--1": "बीता कल",
             "relative-type-0": "आज",
-            "relative-type-1": "कल",
+            "relative-type-1": "आने वाला कल",
             "relative-type-2": "परसों",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} दिन में",
@@ -234,9 +233,9 @@
           "day-narrow": {
             "displayName": "दिन",
             "relative-type--2": "परसों",
-            "relative-type--1": "कल",
+            "relative-type--1": "बीता कल",
             "relative-type-0": "आज",
-            "relative-type-1": "कल",
+            "relative-type-1": "आने वाला कल",
             "relative-type-2": "परसों",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} दिन में",

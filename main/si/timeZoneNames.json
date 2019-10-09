@@ -3,8 +3,7 @@
     "si": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "si"
       },
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "කටාර්"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "කොස්තානේ"
               },
               "Qyzylorda": {
                 "exemplarCity": "ක්යිසිලෝර්ඩා"

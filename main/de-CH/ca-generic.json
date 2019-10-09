@@ -3,8 +3,7 @@
     "de-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "de",
         "territory": "CH"
@@ -237,8 +236,8 @@
                 },
                 "narrow": {
                   "midnight": "Mitternacht",
-                  "am": "a",
-                  "pm": "p",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vorm.",
                   "afternoon1": "mittags",
@@ -272,8 +271,8 @@
                 },
                 "narrow": {
                   "midnight": "Mitternacht",
-                  "am": "a",
-                  "pm": "p",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "Morgen",
                   "morning2": "Vorm.",
                   "afternoon1": "Mittag",

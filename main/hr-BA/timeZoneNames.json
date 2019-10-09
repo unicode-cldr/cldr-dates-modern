@@ -3,8 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hr",
         "territory": "BA"
@@ -113,7 +112,7 @@
                 "exemplarCity": "Cayenne"
               },
               "Cayman": {
-                "exemplarCity": "Kajman"
+                "exemplarCity": "Cayman"
               },
               "Chicago": {
                 "exemplarCity": "Chicago"
@@ -513,7 +512,7 @@
                 "exemplarCity": "Andora"
               },
               "Astrakhan": {
-                "exemplarCity": "Astrakhan"
+                "exemplarCity": "Astrahan"
               },
               "Athens": {
                 "exemplarCity": "Atena"
@@ -642,7 +641,7 @@
                 "exemplarCity": "Saratov"
               },
               "Simferopol": {
-                "exemplarCity": "Simferopol"
+                "exemplarCity": "Simferopolj"
               },
               "Skopje": {
                 "exemplarCity": "Skoplje"
@@ -871,7 +870,7 @@
                 "exemplarCity": "Aktobe"
               },
               "Ashgabat": {
-                "exemplarCity": "Ashgabat"
+                "exemplarCity": "Ašgabat"
               },
               "Atyrau": {
                 "exemplarCity": "Atyrau"
@@ -904,7 +903,7 @@
                 "exemplarCity": "Kolkata"
               },
               "Chita": {
-                "exemplarCity": "Chita"
+                "exemplarCity": "Čita"
               },
               "Choibalsan": {
                 "exemplarCity": "Choibalsan"
@@ -1096,7 +1095,7 @@
                 "exemplarCity": "Jakutsk"
               },
               "Yekaterinburg": {
-                "exemplarCity": "Ekaterinburg"
+                "exemplarCity": "Jekaterinburg"
               },
               "Yerevan": {
                 "exemplarCity": "Erevan"
@@ -1726,12 +1725,12 @@
             },
             "French_Guiana": {
               "long": {
-                "standard": "vrijeme Francuske Gvajane"
+                "standard": "vrijeme Francuske Gijane"
               }
             },
             "French_Southern": {
               "long": {
-                "standard": "južnofrancusko i antarktičko vrijeme"
+                "standard": "vrijeme Francuskih južnih i antarktičkih teritorija"
               }
             },
             "Galapagos": {
@@ -1920,7 +1919,7 @@
             },
             "Line_Islands": {
               "long": {
-                "standard": "vrijeme Otoka Line"
+                "standard": "vrijeme Ekvatorskih otoka"
               }
             },
             "Lord_Howe": {
@@ -2324,9 +2323,9 @@
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "ekaterinburško vrijeme",
-                "standard": "ekaterinburško standardno vrijeme",
-                "daylight": "ekaterinburško ljetno vrijeme"
+                "generic": "jekaterinburško vrijeme",
+                "standard": "jekaterinburško standardno vrijeme",
+                "daylight": "jekaterinburško ljetno vrijeme"
               }
             }
           }

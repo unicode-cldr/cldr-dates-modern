@@ -3,8 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pl"
       },
@@ -147,9 +146,9 @@
           },
           "month-short": {
             "displayName": "mies.",
-            "relative-type--1": "w zeszłym miesiącu",
-            "relative-type-0": "w tym miesiącu",
-            "relative-type-1": "w przyszłym miesiącu",
+            "relative-type--1": "w zeszłym mies.",
+            "relative-type-0": "w tym mies.",
+            "relative-type-1": "w przyszłym mies.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} mies.",
               "relativeTimePattern-count-few": "za {0} mies.",
@@ -165,9 +164,9 @@
           },
           "month-narrow": {
             "displayName": "mc",
-            "relative-type--1": "w zeszłym miesiącu",
-            "relative-type-0": "w tym miesiącu",
-            "relative-type-1": "w przyszłym miesiącu",
+            "relative-type--1": "w zeszłym mies.",
+            "relative-type-0": "w tym mies.",
+            "relative-type-1": "w przyszłym mies.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} mies.",
               "relativeTimePattern-count-few": "za {0} mies.",
@@ -202,9 +201,9 @@
           },
           "week-short": {
             "displayName": "tydz.",
-            "relative-type--1": "w zeszłym tygodniu",
-            "relative-type-0": "w tym tygodniu",
-            "relative-type-1": "w przyszłym tygodniu",
+            "relative-type--1": "w zeszłym tyg.",
+            "relative-type-0": "w tym tyg.",
+            "relative-type-1": "w przyszłym tyg.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} tydz.",
               "relativeTimePattern-count-few": "za {0} tyg.",
@@ -221,9 +220,9 @@
           },
           "week-narrow": {
             "displayName": "tydz.",
-            "relative-type--1": "w zeszłym tygodniu",
-            "relative-type-0": "w tym tygodniu",
-            "relative-type-1": "w przyszłym tygodniu",
+            "relative-type--1": "w zeszłym tyg.",
+            "relative-type-0": "w tym tyg.",
+            "relative-type-1": "w przyszłym tyg.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "za {0} tydz.",
               "relativeTimePattern-count-few": "za {0} tyg.",
@@ -268,7 +267,7 @@
             }
           },
           "day-short": {
-            "displayName": "dzień",
+            "displayName": "dz.",
             "relative-type--2": "przedwczoraj",
             "relative-type--1": "wczoraj",
             "relative-type-0": "dzisiaj",
@@ -288,10 +287,10 @@
             }
           },
           "day-narrow": {
-            "displayName": "dzień",
+            "displayName": "d.",
             "relative-type--2": "przedwczoraj",
-            "relative-type--1": "wczoraj",
-            "relative-type-0": "dzisiaj",
+            "relative-type--1": "wcz.",
+            "relative-type-0": "dziś",
             "relative-type-1": "jutro",
             "relative-type-2": "pojutrze",
             "relativeTime-type-future": {
@@ -323,7 +322,7 @@
             "displayName": "dzień tyg."
           },
           "weekday-narrow": {
-            "displayName": "dzień tyg."
+            "displayName": "dz. tyg."
           },
           "weekdayOfMonth": {
             "displayName": "dzień miesiąca"
@@ -332,7 +331,7 @@
             "displayName": "dzień mies."
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "dzień mies."
+            "displayName": "dz. mies."
           },
           "sun": {
             "relative-type--1": "w zeszłą niedzielę",

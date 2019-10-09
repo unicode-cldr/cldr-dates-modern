@@ -3,8 +3,7 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "he"
       },
@@ -396,7 +395,7 @@
                   "d": "d–d"
                 },
                 "Gy": {
-                  "G": "G y – G y",
+                  "G": "y G – y G",
                   "y": "G y–y"
                 },
                 "GyM": {
@@ -407,31 +406,31 @@
                 "GyMd": {
                   "d": "GGGGG y-MM-dd – y-MM-dd",
                   "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "M": "d.M.y – d.M.y GGGGG",
+                  "y": "d.M.y – d.M.y GGGGG"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "E, d.M.y – E, d.M.y GGGGG",
+                  "G": "E, d.M.y GGGGG – E, d.M.y GGGGG",
+                  "M": "E, d.M.y – E, d.M.y GGGGG",
+                  "y": "E, d.M.y – E, d.M.y GGGGG"
                 },
                 "GyMMM": {
-                  "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
-                  "y": "G y MMM – y MMM"
+                  "G": "MMM y G – MMM y G",
+                  "M": "MMM – MMM y G",
+                  "y": "MMM y – MMM y G"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "d – d בMMM y G",
+                  "G": "d בMMM y G – d בMMM y G",
+                  "M": "d בMMM – d בMMM y G",
+                  "y": "d בMMM y – d בMMM y G"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "E, d בMMM – E, d בMMM y G",
+                  "G": "E, d בMMM y G – E, d בMMM y G",
+                  "M": "E, d בMMM – E, d בMMM y G",
+                  "y": "E, d בMMM y – E, d בMMM y G"
                 },
                 "h": {
                   "a": "h a – h a",

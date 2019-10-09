@@ -3,8 +3,7 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "bs",
         "script": "Latn"
@@ -361,9 +360,9 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "MMMMW-count-one": "W. 'sedmica' 'u' MMMM",
-                "MMMMW-count-few": "W. 'sedmica' 'u' MMMM",
-                "MMMMW-count-other": "W. 'sedmica' 'u' MMMM",
+                "MMMMW-count-one": "W. 'sedmica' 'mjesec' MMMM",
+                "MMMMW-count-few": "W. 'sedmica' 'mjesec' MMMM",
+                "MMMMW-count-other": "W. 'sedmica' 'mjesec' MMMM",
                 "ms": "mm:ss",
                 "y": "y.",
                 "yM": "MM/y",

@@ -3,8 +3,7 @@
     "es-VE": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "VE"
@@ -404,13 +403,13 @@
                 "exemplarCity": "Santarém"
               },
               "Santiago": {
-                "exemplarCity": "Santiago de Chile"
+                "exemplarCity": "Santiago"
               },
               "Santo_Domingo": {
                 "exemplarCity": "Santo Domingo"
               },
               "Sao_Paulo": {
-                "exemplarCity": "San Pablo"
+                "exemplarCity": "São Paulo"
               },
               "Scoresbysund": {
                 "exemplarCity": "Ittoqqortoormiit"
@@ -547,7 +546,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "hora de verano de Irlanda"
+                  "daylight": "hora estándar de Irlanda"
                 },
                 "exemplarCity": "Dublín"
               },
@@ -698,7 +697,7 @@
                 "exemplarCity": "Abiyán"
               },
               "Accra": {
-                "exemplarCity": "Accra"
+                "exemplarCity": "Acra"
               },
               "Addis_Ababa": {
                 "exemplarCity": "Addis Abeba"
@@ -925,7 +924,7 @@
                 "exemplarCity": "Dubái"
               },
               "Dushanbe": {
-                "exemplarCity": "Duchanbé"
+                "exemplarCity": "Dusambé"
               },
               "Famagusta": {
                 "exemplarCity": "Famagusta"

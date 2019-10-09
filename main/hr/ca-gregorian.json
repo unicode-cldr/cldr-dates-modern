@@ -3,8 +3,7 @@
     "hr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "hr"
       },
@@ -360,9 +359,9 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "MMMMW-count-one": "W. 'tjedan' 'u' MMMM",
-                "MMMMW-count-few": "W. 'tjedan' 'u' MMMM",
-                "MMMMW-count-other": "W. 'tjedan' 'u' MMMM",
+                "MMMMW-count-one": "W. 'tjedan' MMMM",
+                "MMMMW-count-few": "W. 'tjedan' MMMM",
+                "MMMMW-count-other": "W. 'tjedan' MMMM",
                 "ms": "mm:ss",
                 "y": "y.",
                 "yM": "MM. y.",

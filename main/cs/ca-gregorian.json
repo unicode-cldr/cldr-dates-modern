@@ -3,8 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cs"
       },
@@ -296,21 +295,21 @@
             "eras": {
               "eraNames": {
                 "0": "před naším letopočtem",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "před naším letopočtem",
                 "1": "našeho letopočtu",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "našeho letopočtu"
               },
               "eraAbbr": {
                 "0": "př. n. l.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "př. n. l.",
                 "1": "n. l.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. l."
               },
               "eraNarrow": {
                 "0": "př.n.l.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "př. n. l.",
                 "1": "n.l.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "n. l."
               }
             },
             "dateFormats": {

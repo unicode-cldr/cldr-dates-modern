@@ -3,8 +3,7 @@
     "te": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "te"
       },
@@ -35,9 +34,9 @@
           },
           "year-short": {
             "displayName": "సం.",
-            "relative-type--1": "గత సంవత్సరం",
-            "relative-type-0": "ఈ సంవత్సరం",
-            "relative-type-1": "తదుపరి సంవత్సరం",
+            "relative-type--1": "గత సంవ.",
+            "relative-type-0": "ఈ సంవ.",
+            "relative-type-1": "తదుపరి సంవ.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} సం.లో",
               "relativeTimePattern-count-other": "{0} సం.ల్లో"
@@ -49,9 +48,9 @@
           },
           "year-narrow": {
             "displayName": "సం.",
-            "relative-type--1": "గత సంవత్సరం",
-            "relative-type-0": "ఈ సంవత్సరం",
-            "relative-type-1": "తదుపరి సంవత్సరం",
+            "relative-type--1": "గత సం.",
+            "relative-type-0": "ఈ సం.",
+            "relative-type-1": "తదుపరి సం.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} సం.లో",
               "relativeTimePattern-count-other": "{0} సం.ల్లో"
@@ -173,7 +172,7 @@
               "relativeTimePattern-count-one": "{0} వారం క్రితం",
               "relativeTimePattern-count-other": "{0} వారాల క్రితం"
             },
-            "relativePeriod": "{0}లో వారం"
+            "relativePeriod": "{0} వారం"
           },
           "week-narrow": {
             "displayName": "వా",
@@ -188,7 +187,7 @@
               "relativeTimePattern-count-one": "{0} వారం క్రితం",
               "relativeTimePattern-count-other": "{0} వారాల క్రితం"
             },
-            "relativePeriod": "{0}లో వారం"
+            "relativePeriod": "{0} వారం"
           },
           "weekOfMonth": {
             "displayName": "నెలలో వారం"
@@ -617,7 +616,7 @@
             }
           },
           "minute-narrow": {
-            "displayName": "ని",
+            "displayName": "నిమి.",
             "relative-type-0": "ఈ నిమిషం",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} నిమి.లో",

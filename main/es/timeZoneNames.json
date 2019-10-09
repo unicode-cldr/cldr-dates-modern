@@ -3,8 +3,7 @@
     "es": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es"
       },
@@ -480,7 +479,7 @@
                 "exemplarCity": "Bermudas"
               },
               "Canary": {
-                "exemplarCity": "Islas Canarias"
+                "exemplarCity": "Canarias"
               },
               "Cape_Verde": {
                 "exemplarCity": "Cabo Verde"
@@ -1718,7 +1717,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "hora de las Tierras Australes y Antárticas Francesas"
+                "standard": "hora de Antártida y Territorios Australes Franceses"
               }
             },
             "Galapagos": {
@@ -1998,7 +1997,7 @@
             },
             "Myanmar": {
               "long": {
-                "standard": "hora de Myanmar (Birmania)"
+                "standard": "hora de Myanmar"
               }
             },
             "Nauru": {

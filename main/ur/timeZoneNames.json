@@ -3,8 +3,7 @@
     "ur": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ur"
       },
@@ -15,7 +14,7 @@
           "gmtZeroFormat": "GMT",
           "regionFormat": "{0} وقت",
           "regionFormat-type-daylight": "{0} ڈے لائٹ ٹائم",
-          "regionFormat-type-standard": "{0} اسٹینڈرڈ ٹائم",
+          "regionFormat-type-standard": "{0} معیاری وقت",
           "fallbackFormat": "{1} ({0})",
           "zone": {
             "America": {
@@ -376,7 +375,7 @@
                 "exemplarCity": "پیورٹو ریکو"
               },
               "Punta_Arenas": {
-                "exemplarCity": "پنٹا یریناس"
+                "exemplarCity": "پنٹا اریناس"
               },
               "Rainy_River": {
                 "exemplarCity": "رینی ریور"
@@ -572,7 +571,7 @@
                 "exemplarCity": "کالينينغراد"
               },
               "Kiev": {
-                "exemplarCity": "کیوو"
+                "exemplarCity": "کیو"
               },
               "Kirov": {
                 "exemplarCity": "کیروف"
@@ -662,7 +661,7 @@
                 "exemplarCity": "الیانوسک"
               },
               "Uzhgorod": {
-                "exemplarCity": "ازگوروڈ"
+                "exemplarCity": "ازہوراڈ"
               },
               "Vaduz": {
                 "exemplarCity": "ویڈوز"
@@ -1385,7 +1384,7 @@
             "Amazon": {
               "long": {
                 "generic": "امیزون ٹائم",
-                "standard": "ایمیزون سٹینڈرڈ ٹائم",
+                "standard": "ایمیزون کا معیاری وقت",
                 "daylight": "امیزون کا موسم گرما کا وقت"
               }
             },
@@ -1440,9 +1439,9 @@
             },
             "Argentina": {
               "long": {
-                "generic": "ارجنٹینا ٹائم",
-                "standard": "ارجنٹینا سٹینڈرڈ ٹائم",
-                "daylight": "ارجنٹینا سمر ٹائم"
+                "generic": "ارجنٹینا کا وقت",
+                "standard": "ارجنٹینا کا معیاری وقت",
+                "daylight": "ارجنٹینا کا موسم گرما کا وقت"
               }
             },
             "Argentina_Western": {
@@ -1565,7 +1564,7 @@
             },
             "China": {
               "long": {
-                "generic": "چین ٹائم",
+                "generic": "چین کا وقت",
                 "standard": "چین سٹینڈرڈ ٹائم",
                 "daylight": "چینی ڈے لائٹ ٹائم"
               }

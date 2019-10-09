@@ -3,8 +3,7 @@
     "el": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "el"
       },
@@ -242,10 +241,10 @@
                 "wide": {
                   "am": "π.μ.",
                   "pm": "μ.μ.",
-                  "morning1": "πρωί",
-                  "afternoon1": "μεσημέρι",
-                  "evening1": "απόγευμα",
-                  "night1": "βράδυ"
+                  "morning1": "το πρωί",
+                  "afternoon1": "το μεσημέρι",
+                  "evening1": "το απόγευμα",
+                  "night1": "το βράδυ"
                 }
               },
               "stand-alone": {

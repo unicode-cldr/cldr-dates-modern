@@ -3,8 +3,7 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ca"
       },
@@ -418,7 +417,7 @@
                 "GyMEd": {
                   "d": "E, d/M/y – E, d/M/y GGGGG",
                   "G": "E, d/M/y GGGGG – E, d/M/y GGGGG",
-                  "M": "E, d/M/y GGGGG – E, d/M/y GGGGG",
+                  "M": "E, d/M/y – E, d/M/y GGGGG",
                   "y": "E, d/M/y – E, d/M/y GGGGG"
                 },
                 "GyMMM": {

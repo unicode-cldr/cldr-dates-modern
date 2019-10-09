@@ -3,8 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cy"
       },
@@ -17,7 +16,7 @@
                   "1": "Ion",
                   "2": "Chwef",
                   "3": "Maw",
-                  "4": "Ebrill",
+                  "4": "Ebr",
                   "5": "Mai",
                   "6": "Meh",
                   "7": "Gorff",
@@ -225,9 +224,9 @@
               "format": {
                 "abbreviated": {
                   "midnight": "canol nos",
-                  "am": "yb",
+                  "am": "AM",
                   "noon": "canol dydd",
-                  "pm": "yh",
+                  "pm": "PM",
                   "morning1": "y bore",
                   "afternoon1": "y prynhawn",
                   "evening1": "yr hwyr"
@@ -254,27 +253,27 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "canol nos",
-                  "am": "yb",
+                  "am": "AM",
                   "noon": "canol dydd",
-                  "pm": "yh",
+                  "pm": "PM",
                   "morning1": "bore",
                   "afternoon1": "prynhawn",
                   "evening1": "yr hwyr"
                 },
                 "narrow": {
                   "midnight": "canol nos",
-                  "am": "yb",
+                  "am": "AM",
                   "noon": "canol dydd",
-                  "pm": "yh",
+                  "pm": "PM",
                   "morning1": "bore",
                   "afternoon1": "prynhawn",
                   "evening1": "min nos"
                 },
                 "wide": {
                   "midnight": "canol nos",
-                  "am": "yb",
+                  "am": "AM",
                   "noon": "canol dydd",
-                  "pm": "yh",
+                  "pm": "PM",
                   "morning1": "y bore",
                   "afternoon1": "y prynhawn",
                   "evening1": "yr hwyr"

@@ -3,8 +3,7 @@
     "ms-BN": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ms",
         "territory": "BN"
@@ -143,9 +142,9 @@
           },
           "week-short": {
             "displayName": "mgu",
-            "relative-type--1": "mng lepas",
-            "relative-type-0": "mng ini",
-            "relative-type-1": "mng depan",
+            "relative-type--1": "mgu lepas",
+            "relative-type-0": "mgu ini",
+            "relative-type-1": "mgu depan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "dlm {0} mgu"
             },
@@ -156,9 +155,9 @@
           },
           "week-narrow": {
             "displayName": "mgu",
-            "relative-type--1": "mng lepas",
-            "relative-type-0": "mng ini",
-            "relative-type-1": "mng depan",
+            "relative-type--1": "mgu lepas",
+            "relative-type-0": "mgu ini",
+            "relative-type-1": "mgu depan",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "dlm {0} mgu"
             },
@@ -193,7 +192,7 @@
           "day-short": {
             "displayName": "hari",
             "relative-type--2": "kelmarin",
-            "relative-type--1": "semlm",
+            "relative-type--1": "semalam",
             "relative-type-0": "hari ini",
             "relative-type-1": "esok",
             "relative-type-2": "lusa",

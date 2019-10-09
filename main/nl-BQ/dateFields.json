@@ -3,8 +3,7 @@
     "nl-BQ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nl",
         "territory": "BQ"
@@ -582,7 +581,7 @@
             }
           },
           "hour-narrow": {
-            "displayName": "uur",
+            "displayName": "u",
             "relative-type-0": "binnen een uur",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "over {0} uur",

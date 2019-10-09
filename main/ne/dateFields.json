@@ -3,8 +3,7 @@
     "ne": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ne"
       },
@@ -121,7 +120,7 @@
             "displayName": "महिना",
             "relative-type--1": "गत महिना",
             "relative-type-0": "यो महिना",
-            "relative-type-1": "अर्को महिना",
+            "relative-type-1": "आगामी महिना",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} महिनामा",
               "relativeTimePattern-count-other": "{0} महिनामा"
@@ -135,7 +134,7 @@
             "displayName": "महिना",
             "relative-type--1": "गत महिना",
             "relative-type-0": "यो महिना",
-            "relative-type-1": "अर्को महिना",
+            "relative-type-1": "आगामी महिना",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} महिनामा",
               "relativeTimePattern-count-other": "{0} महिनामा"
@@ -164,7 +163,7 @@
             "displayName": "हप्ता",
             "relative-type--1": "गत हप्ता",
             "relative-type-0": "यो हप्ता",
-            "relative-type-1": "आउने हप्ता",
+            "relative-type-1": "आगामी हप्ता",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} हप्तामा",
               "relativeTimePattern-count-other": "{0} हप्तामा"
@@ -179,7 +178,7 @@
             "displayName": "हप्ता",
             "relative-type--1": "गत हप्ता",
             "relative-type-0": "यो हप्ता",
-            "relative-type-1": "आउने हप्ता",
+            "relative-type-1": "आगामी हप्ता",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} हप्तामा",
               "relativeTimePattern-count-other": "{0} हप्तामा"

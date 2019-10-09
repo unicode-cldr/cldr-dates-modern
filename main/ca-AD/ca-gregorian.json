@@ -3,8 +3,7 @@
     "ca-AD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14769 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ca",
         "territory": "AD"
@@ -416,7 +415,7 @@
                 },
                 "Gy": {
                   "G": "y G – y G",
-                  "y": "y – y G"
+                  "y": "y–y G"
                 },
                 "GyM": {
                   "G": "M/y GGGGG – M/y GGGGG",
@@ -441,7 +440,7 @@
                   "y": "LLL y – LLL y G"
                 },
                 "GyMMMd": {
-                  "d": "d – d LLL, y G",
+                  "d": "d–d LLL, y G",
                   "G": "d MMM, y G – d MMM, y G",
                   "M": "d MMM – d MMM, y G",
                   "y": "d MMM, y – d MMM, y G"

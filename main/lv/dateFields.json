@@ -3,8 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lv"
       },
@@ -37,9 +36,9 @@
           },
           "year-short": {
             "displayName": "g.",
-            "relative-type--1": "pagājušajā gadā",
-            "relative-type-0": "šajā gadā",
-            "relative-type-1": "nākamajā gadā",
+            "relative-type--1": "pag. gadā",
+            "relative-type-0": "šajā g.",
+            "relative-type-1": "nāk. gadā",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} g.",
               "relativeTimePattern-count-one": "pēc {0} g.",
@@ -53,9 +52,9 @@
           },
           "year-narrow": {
             "displayName": "g.",
-            "relative-type--1": "pagājušajā gadā",
-            "relative-type-0": "šajā gadā",
-            "relative-type-1": "nākamajā gadā",
+            "relative-type--1": "pag. gadā",
+            "relative-type-0": "šajā g.",
+            "relative-type-1": "nāk. gadā",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} g.",
               "relativeTimePattern-count-one": "pēc {0} g.",
@@ -133,9 +132,9 @@
           },
           "month-short": {
             "displayName": "mēn.",
-            "relative-type--1": "pagājušajā mēnesī",
-            "relative-type-0": "šajā mēnesī",
-            "relative-type-1": "nākamajā mēnesī",
+            "relative-type--1": "pag. mēn.",
+            "relative-type-0": "šajā mēn.",
+            "relative-type-1": "nāk. mēn.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} mēn.",
               "relativeTimePattern-count-one": "pēc {0} mēn.",
@@ -149,9 +148,9 @@
           },
           "month-narrow": {
             "displayName": "mēn.",
-            "relative-type--1": "pagājušajā mēnesī",
-            "relative-type-0": "šajā mēnesī",
-            "relative-type-1": "nākamajā mēnesī",
+            "relative-type--1": "pag. mēn.",
+            "relative-type-0": "šajā mēn.",
+            "relative-type-1": "nāk. mēn.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} mēn.",
               "relativeTimePattern-count-one": "pēc {0} mēn.",
@@ -182,9 +181,9 @@
           },
           "week-short": {
             "displayName": "ned.",
-            "relative-type--1": "pagājušajā nedēļā",
-            "relative-type-0": "šajā nedēļā",
-            "relative-type-1": "nākamajā nedēļā",
+            "relative-type--1": "pag. ned.",
+            "relative-type-0": "šajā ned.",
+            "relative-type-1": "nāk. ned.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} ned.",
               "relativeTimePattern-count-one": "pēc {0} ned.",
@@ -199,9 +198,9 @@
           },
           "week-narrow": {
             "displayName": "ned.",
-            "relative-type--1": "pagājušajā nedēļā",
-            "relative-type-0": "šajā nedēļā",
-            "relative-type-1": "nākamajā nedēļā",
+            "relative-type--1": "pag. ned.",
+            "relative-type-0": "šajā ned.",
+            "relative-type-1": "nāk. ned.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} ned.",
               "relativeTimePattern-count-one": "pēc {0} ned.",

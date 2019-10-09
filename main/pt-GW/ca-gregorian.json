@@ -3,8 +3,7 @@
     "pt-GW": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt",
         "territory": "GW"
@@ -15,18 +14,18 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "jan",
-                  "2": "fev",
-                  "3": "mar",
-                  "4": "abr",
-                  "5": "mai",
-                  "6": "jun",
-                  "7": "jul",
-                  "8": "ago",
-                  "9": "set",
-                  "10": "out",
-                  "11": "nov",
-                  "12": "dez"
+                  "1": "jan.",
+                  "2": "fev.",
+                  "3": "mar.",
+                  "4": "abr.",
+                  "5": "mai.",
+                  "6": "jun.",
+                  "7": "jul.",
+                  "8": "ago.",
+                  "9": "set.",
+                  "10": "out.",
+                  "11": "nov.",
+                  "12": "dez."
                 },
                 "narrow": {
                   "1": "J",
@@ -59,18 +58,18 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "jan",
-                  "2": "fev",
-                  "3": "mar",
-                  "4": "abr",
-                  "5": "mai",
-                  "6": "jun",
-                  "7": "jul",
-                  "8": "ago",
-                  "9": "set",
-                  "10": "out",
-                  "11": "nov",
-                  "12": "dez"
+                  "1": "jan.",
+                  "2": "fev.",
+                  "3": "mar.",
+                  "4": "abr.",
+                  "5": "mai.",
+                  "6": "jun.",
+                  "7": "jul.",
+                  "8": "ago.",
+                  "9": "set.",
+                  "10": "out.",
+                  "11": "nov.",
+                  "12": "dez."
                 },
                 "narrow": {
                   "1": "J",
@@ -123,13 +122,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "dom",
-                  "mon": "seg",
-                  "tue": "ter",
-                  "wed": "qua",
-                  "thu": "qui",
-                  "fri": "sex",
-                  "sat": "sáb"
+                  "sun": "domingo",
+                  "mon": "segunda",
+                  "tue": "terça",
+                  "wed": "quarta",
+                  "thu": "quinta",
+                  "fri": "sexta",
+                  "sat": "sábado"
                 },
                 "wide": {
                   "sun": "domingo",
@@ -161,13 +160,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "dom",
-                  "mon": "seg",
-                  "tue": "ter",
-                  "wed": "qua",
-                  "thu": "qui",
-                  "fri": "sex",
-                  "sat": "sáb"
+                  "sun": "domingo",
+                  "mon": "segunda",
+                  "tue": "terça",
+                  "wed": "quarta",
+                  "thu": "quinta",
+                  "fri": "sexta",
+                  "sat": "sábado"
                 },
                 "wide": {
                   "sun": "domingo",
@@ -409,42 +408,42 @@
                   "d": "d–d"
                 },
                 "Gy": {
-                  "G": "G y – G y",
-                  "y": "G y – y"
+                  "G": "y G – y G",
+                  "y": "y – y G"
                 },
                 "GyM": {
-                  "G": "GGGGG MM/y – GGGGG MM/y",
-                  "M": "GGGGG MM/y – MM/y",
-                  "y": "GGGGG MM/y – MM/y"
+                  "G": "M/y GGGGG – M/y GGGGG",
+                  "M": "M/y – M/y GGGGG",
+                  "y": "M/y – M/y GGGGG"
                 },
                 "GyMd": {
-                  "d": "GGGGG dd/MM/y – dd/MM/y",
-                  "G": "GGGGG dd/MM/y – GGGGG dd/MM/y",
-                  "M": "GGGGG dd/MM/y – dd/MM/y",
-                  "y": "GGGGG dd/MM/y – dd/MM/y"
+                  "d": "d/M/y – d/M/y GGGGG",
+                  "G": "d/M/y GGGGG – d/M/y GGGGG",
+                  "M": "d/M/y – d/M/y GGGGG",
+                  "y": "d/M/y – d/M/y GGGGG"
                 },
                 "GyMEd": {
-                  "d": "GGGGG E dd/MM/y – dd/MM/y",
-                  "G": "GGGGG E dd/MM/y – GGGGG E dd/MM/y",
-                  "M": "GGGGG E dd/MM/y – E dd/MM/y",
-                  "y": "GGGGG E dd/MM/y – E dd/MM/y"
+                  "d": "E, d/M/y – E, d/M/y GGGGG",
+                  "G": "E, d/M/y GGGGG – E, d/M/y GGGGG",
+                  "M": "E, d/M/y – E, d/M/y GGGGG",
+                  "y": "E, d/M/y – E, d/M/y GGGGG"
                 },
                 "GyMMM": {
-                  "G": "G MMM y – G MMM y",
-                  "M": "G MMM y – MMM",
-                  "y": "G MMM y – MMM y"
+                  "G": "MMM y G – MMM y G",
+                  "M": "MMM – MMM y G",
+                  "y": "MMM y – MMM y G"
                 },
                 "GyMMMd": {
-                  "d": "G d – d 'de' MMM y",
-                  "G": "G d 'de' MMM y – G d 'de' MMM y",
-                  "M": "G d 'de' MMM y – d 'de' MMM",
-                  "y": "G d 'de' MMM y – d 'de' MMM y"
+                  "d": "d – d MMM y G",
+                  "G": "d MMM y G – d MMM y G",
+                  "M": "d MMM – d MMM y G",
+                  "y": "d MMM y – d MMM y G"
                 },
                 "GyMMMEd": {
-                  "d": "G E, d 'de' MMM y – E, d 'de' MMM",
-                  "G": "G E, d 'de' MMM y – G E, d 'de' MMM y",
-                  "M": "G E, d 'de' MMM y – E, d 'de' MMM",
-                  "y": "G E, d 'de' MMM y – E, d 'de' MMM y"
+                  "d": "E, d MMM – E, d MMM y G",
+                  "G": "E, d MMM y G – E, d MMM y G",
+                  "M": "E, d MMM – E, d MMM y G",
+                  "y": "E, d MMM y – E, d MMM y G"
                 },
                 "h": {
                   "a": "h a – h a",

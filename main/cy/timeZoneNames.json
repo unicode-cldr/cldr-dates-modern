@@ -3,8 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "cy"
       },
@@ -483,7 +482,7 @@
                 "exemplarCity": "Yr Ynysoedd Dedwydd"
               },
               "Cape_Verde": {
-                "exemplarCity": "Cabo Verde"
+                "exemplarCity": "Cape Verde"
               },
               "Faeroe": {
                 "exemplarCity": "Ffaro"
@@ -686,7 +685,7 @@
                 "exemplarCity": "Zagreb"
               },
               "Zaporozhye": {
-                "exemplarCity": "Zaporizhzhya"
+                "exemplarCity": "Zaporozhye"
               },
               "Zurich": {
                 "exemplarCity": "Zurich"
@@ -706,7 +705,7 @@
                 "exemplarCity": "Alger"
               },
               "Asmera": {
-                "exemplarCity": "Asmera"
+                "exemplarCity": "Asmara"
               },
               "Bamako": {
                 "exemplarCity": "Bamako"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1833,7 +1832,7 @@
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "Amser Gorllewin Casachstan"
+                "standard": "Amser Gorllewin Kazakhstan"
               }
             },
             "Korea": {
@@ -2192,9 +2191,9 @@
             },
             "Uzbekistan": {
               "long": {
-                "generic": "Amser Wsbecistan",
-                "standard": "Amser Safonol Wsbecistan",
-                "daylight": "Amser Haf Wsbecistan"
+                "generic": "Amser Uzbekistan",
+                "standard": "Amser Safonol Uzbekistan",
+                "daylight": "Amser Haf Uzbekistan"
               }
             },
             "Vanuatu": {

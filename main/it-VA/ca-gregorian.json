@@ -3,8 +3,7 @@
     "it-VA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "it",
         "territory": "VA"
@@ -230,7 +229,7 @@
                   "noon": "mezzogiorno",
                   "pm": "PM",
                   "morning1": "di mattina",
-                  "afternoon1": "del pomeriggio",
+                  "afternoon1": "di pomeriggio",
                   "evening1": "di sera",
                   "night1": "di notte"
                 },
@@ -240,7 +239,7 @@
                   "noon": "mezzogiorno",
                   "pm": "p.",
                   "morning1": "di mattina",
-                  "afternoon1": "del pomeriggio",
+                  "afternoon1": "di pomeriggio",
                   "evening1": "di sera",
                   "night1": "di notte"
                 },
@@ -429,7 +428,7 @@
                   "y": "MMM y – MMM y G"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
+                  "d": "d – d MMM y G",
                   "G": "d MMM y G – d MMM y G",
                   "M": "d MMM – d MMM y G",
                   "y": "d MMM y – d MMM y G"

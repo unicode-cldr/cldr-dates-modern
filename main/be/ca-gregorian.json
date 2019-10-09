@@ -3,8 +3,7 @@
     "be": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "be"
       },
@@ -260,15 +259,15 @@
               },
               "eraAbbr": {
                 "0": "да н.э.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "да н.э.",
                 "1": "н.э.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н.э."
               },
               "eraNarrow": {
                 "0": "да н.э.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "да н.э.",
                 "1": "н.э.",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "н.э."
               }
             },
             "dateFormats": {

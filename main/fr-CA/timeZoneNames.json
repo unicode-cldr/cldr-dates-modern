@@ -3,8 +3,7 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fr",
         "territory": "CA"
@@ -481,7 +480,7 @@
                 "exemplarCity": "Bermudes"
               },
               "Canary": {
-                "exemplarCity": "îles Canaries"
+                "exemplarCity": "Îles Canaries"
               },
               "Cape_Verde": {
                 "exemplarCity": "Cap-Vert"

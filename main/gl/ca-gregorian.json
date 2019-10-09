@@ -3,8 +3,7 @@
     "gl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gl"
       },
@@ -339,7 +338,7 @@
                 "EHms": "E, HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM 'de' y G",
-                "GyMMMd": "d 'de' MMMM 'de' y G",
+                "GyMMMd": "d 'de' MMM 'de' y G",
                 "GyMMMEd": "E, d 'de' MMM 'de' y G",
                 "h": "h a",
                 "H": "HH",
@@ -369,8 +368,8 @@
                 "yMEd": "E, d/M/y",
                 "yMM": "MM/y",
                 "yMMM": "MMM 'de' y",
-                "yMMMd": "d/MM/y",
-                "yMMMEd": "EEE, d/MM/y",
+                "yMMMd": "d 'de' MMM 'de' y",
+                "yMMMEd": "E, d 'de' MMM 'de' y",
                 "yMMMM": "MMMM 'de' y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ 'de' y",
@@ -490,11 +489,11 @@
                 },
                 "MMMd": {
                   "d": "d–d 'de' MMM",
-                  "M": "d MMM – d MMM"
+                  "M": "d 'de' MMM – d 'de' MMM"
                 },
                 "MMMEd": {
                   "d": "E, d 'de' MMM – E, d 'de' MMM",
-                  "M": "E, d MMM – E, d MMM"
+                  "M": "E, d 'de' MMM – E, d 'de' MMM"
                 },
                 "y": {
                   "y": "y–y"
@@ -519,8 +518,8 @@
                 },
                 "yMMMd": {
                   "d": "d–d 'de' MMMM 'de' y",
-                  "M": "d MMM – d MMM 'de' y",
-                  "y": "d MMM y – d MMM y"
+                  "M": "d 'de' MMM – d 'de' MMM 'de' y",
+                  "y": "d 'de' MMM 'de' y – d 'de' MMM 'de' y"
                 },
                 "yMMMEd": {
                   "d": "E, d MMM – E, d MMM y",

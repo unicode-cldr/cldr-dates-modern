@@ -3,8 +3,7 @@
     "kk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "kk"
       },
@@ -263,7 +262,7 @@
                 "exemplarCity": "Лима"
               },
               "Los_Angeles": {
-                "exemplarCity": "Лос-Анжелес"
+                "exemplarCity": "Лос-Анджелес"
               },
               "Louisville": {
                 "exemplarCity": "Луисвилл"
@@ -412,7 +411,7 @@
                 "exemplarCity": "Сан-Паулу"
               },
               "Scoresbysund": {
-                "exemplarCity": "Скорсбиссун"
+                "exemplarCity": "Иттоккортоормиит"
               },
               "Sitka": {
                 "exemplarCity": "Ситка"
@@ -557,7 +556,7 @@
                 "exemplarCity": "Гернси"
               },
               "Helsinki": {
-                "exemplarCity": "Хелсинки"
+                "exemplarCity": "Хельсинки"
               },
               "Isle_of_Man": {
                 "exemplarCity": "Мэн аралы"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Катар"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Қостанай"
               },
               "Qyzylorda": {
                 "exemplarCity": "Қызылорда"
@@ -1077,7 +1076,7 @@
                 "exemplarCity": "Томск"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "Улан-Батор"
+                "exemplarCity": "Ұланбатыр"
               },
               "Urumqi": {
                 "exemplarCity": "Үрімші"

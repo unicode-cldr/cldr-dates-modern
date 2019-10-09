@@ -3,8 +3,7 @@
     "as": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "as"
       },
@@ -133,8 +132,8 @@
           },
           "month-narrow": {
             "displayName": "মাহ",
-            "relative-type--1": "যোৱা মাহ",
-            "relative-type-0": "এই মাহ",
+            "relative-type--1": "যোৱা মা.",
+            "relative-type-0": "এই মা.",
             "relative-type-1": "অহা মাহ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} মাহত",

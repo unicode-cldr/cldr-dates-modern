@@ -3,8 +3,7 @@
     "es-BO": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "BO"
@@ -163,9 +162,9 @@
           },
           "week-short": {
             "displayName": "sem.",
-            "relative-type--1": "la semana pasada",
-            "relative-type-0": "esta semana",
-            "relative-type-1": "la próxima semana",
+            "relative-type--1": "sem. pas.",
+            "relative-type-0": "esta sem.",
+            "relative-type-1": "próx. sem.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} sem.",
               "relativeTimePattern-count-other": "dentro de {0} sem."
@@ -178,9 +177,9 @@
           },
           "week-narrow": {
             "displayName": "sem.",
-            "relative-type--1": "la semana pasada",
-            "relative-type-0": "esta semana",
-            "relative-type-1": "la próxima semana",
+            "relative-type--1": "sem. pas.",
+            "relative-type-0": "esta sem.",
+            "relative-type-1": "próx. sem.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} sem.",
               "relativeTimePattern-count-other": "dentro de {0} sem."
@@ -307,11 +306,11 @@
             "relative-type-1": "el próximo DO",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} DO",
-              "relativeTimePattern-count-other": "en {0} DO"
+              "relativeTimePattern-count-other": "dentro de {0} DO"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "hace {0} domingo",
-              "relativeTimePattern-count-other": "hace {0} domingos"
+              "relativeTimePattern-count-one": "hace {0} DO",
+              "relativeTimePattern-count-other": "hace {0} DO"
             }
           },
           "mon": {
@@ -319,8 +318,8 @@
             "relative-type-0": "este lunes",
             "relative-type-1": "el próximo lunes",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} lunes",
-              "relativeTimePattern-count-other": "en {0} lunes"
+              "relativeTimePattern-count-one": "dentro de {0} lunes",
+              "relativeTimePattern-count-other": "dentro de {0} lunes"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "hace {0} lunes",
@@ -332,12 +331,12 @@
             "relative-type-0": "este lun.",
             "relative-type-1": "el próximo lun.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} lun.",
+              "relativeTimePattern-count-one": "dentro de {0} lun.",
               "relativeTimePattern-count-other": "dentro de {0} lun."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "hace {0} lunes",
-              "relativeTimePattern-count-other": "hace {0} lunes"
+              "relativeTimePattern-count-one": "hace {0} lun.",
+              "relativeTimePattern-count-other": "hace {0} lun."
             }
           },
           "mon-narrow": {
@@ -345,12 +344,12 @@
             "relative-type-0": "este LU",
             "relative-type-1": "el próximo LU",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} lunes",
-              "relativeTimePattern-count-other": "en {0} lunes"
+              "relativeTimePattern-count-one": "dentro de {0} LU",
+              "relativeTimePattern-count-other": "dentro de {0} LU"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "hace {0} lunes",
-              "relativeTimePattern-count-other": "hace {0} lunes"
+              "relativeTimePattern-count-one": "hace {0} LU",
+              "relativeTimePattern-count-other": "hace {0} LU"
             }
           },
           "tue": {
@@ -397,7 +396,7 @@
             "relative-type-0": "este miércoles",
             "relative-type-1": "el próximo miércoles",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} miércoles",
+              "relativeTimePattern-count-one": "dentro de {0} miércoles",
               "relativeTimePattern-count-other": "dentro de {0} miércoles"
             },
             "relativeTime-type-past": {
@@ -410,12 +409,12 @@
             "relative-type-0": "este mié.",
             "relative-type-1": "el próximo mié.",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} mié.",
-              "relativeTimePattern-count-other": "en {0} mié."
+              "relativeTimePattern-count-one": "dentro de {0} mié.",
+              "relativeTimePattern-count-other": "dentro de {0} mié."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "hace {0} miércoles",
-              "relativeTimePattern-count-other": "hace {0} miércoles"
+              "relativeTimePattern-count-one": "hace {0} mié.",
+              "relativeTimePattern-count-other": "hace {0} mié."
             }
           },
           "wed-narrow": {
@@ -423,12 +422,12 @@
             "relative-type-0": "este MI",
             "relative-type-1": "el próximo MI",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} MI",
-              "relativeTimePattern-count-other": "en {0} MI"
+              "relativeTimePattern-count-one": "dentro de {0} MI",
+              "relativeTimePattern-count-other": "dentro de {0} MI"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "hace {0} miércoles",
-              "relativeTimePattern-count-other": "hace {0} miércoles"
+              "relativeTimePattern-count-one": "hace {0} MI",
+              "relativeTimePattern-count-other": "hace {0} MI"
             }
           },
           "thu": {
@@ -436,7 +435,7 @@
             "relative-type-0": "este jueves",
             "relative-type-1": "el próximo jueves",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} jueves",
+              "relativeTimePattern-count-one": "dentro de {0} jueves",
               "relativeTimePattern-count-other": "dentro de {0} jueves"
             },
             "relativeTime-type-past": {
@@ -463,7 +462,7 @@
             "relative-type-1": "el próximo JU",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} JU",
-              "relativeTimePattern-count-other": "en {0} JU"
+              "relativeTimePattern-count-other": "dentro de {0} JU"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "hace {0} JU",
@@ -476,7 +475,7 @@
             "relative-type-1": "el próximo viernes",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} viernes",
-              "relativeTimePattern-count-other": "en {0} viernes"
+              "relativeTimePattern-count-other": "dentro de {0} viernes"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "hace {0} viernes",
@@ -489,7 +488,7 @@
             "relative-type-1": "el próximo vie.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} vie.",
-              "relativeTimePattern-count-other": "en {0} vie."
+              "relativeTimePattern-count-other": "dentro de {0} vie."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "hace {0} viernes",
@@ -514,8 +513,8 @@
             "relative-type-0": "este sábado",
             "relative-type-1": "el próximo sábado",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} sábado",
-              "relativeTimePattern-count-other": "en {0} sábados"
+              "relativeTimePattern-count-one": "dentro de {0} sábado",
+              "relativeTimePattern-count-other": "dentro de {0} sábados"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "hace {0} sábado",
@@ -540,7 +539,7 @@
             "relative-type-0": "este SA",
             "relative-type-1": "el próximo SA",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "en {0} SA",
+              "relativeTimePattern-count-one": "dentro de {0} SA",
               "relativeTimePattern-count-other": "dentro de {0} SA"
             },
             "relativeTime-type-past": {

@@ -3,8 +3,7 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "uz"
       },
@@ -35,7 +34,7 @@
           },
           "year-short": {
             "displayName": "yil",
-            "relative-type--1": "oʻtgan yil",
+            "relative-type--1": "o‘ʻtgan yil",
             "relative-type-0": "bu yil",
             "relative-type-1": "keyingi yil",
             "relativeTime-type-future": {
@@ -49,7 +48,7 @@
           },
           "year-narrow": {
             "displayName": "yil",
-            "relative-type--1": "oʻtgan yil",
+            "relative-type--1": "o‘tgan yil",
             "relative-type-0": "bu yil",
             "relative-type-1": "keyingi yil",
             "relativeTime-type-future": {
@@ -120,7 +119,7 @@
           "month-short": {
             "displayName": "oy",
             "relative-type--1": "o‘tgan oy",
-            "relative-type-0": "shu oy",
+            "relative-type-0": "bu oy",
             "relative-type-1": "keyingi oy",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} oydan keyin",
@@ -134,7 +133,7 @@
           "month-narrow": {
             "displayName": "oy",
             "relative-type--1": "o‘tgan oy",
-            "relative-type-0": "shu oy",
+            "relative-type-0": "bu oy",
             "relative-type-1": "keyingi oy",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} oydan keyin",
@@ -163,7 +162,7 @@
           "week-short": {
             "displayName": "hafta",
             "relative-type--1": "o‘tgan hafta",
-            "relative-type-0": "shu hafta",
+            "relative-type-0": "bu hafta",
             "relative-type-1": "keyingi hafta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} haftadan keyin",
@@ -178,7 +177,7 @@
           "week-narrow": {
             "displayName": "hafta",
             "relative-type--1": "o‘tgan hafta",
-            "relative-type-0": "shu hafta",
+            "relative-type-0": "bu hafta",
             "relative-type-1": "keyingi hafta",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} haftadan keyin",

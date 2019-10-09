@@ -3,8 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sd"
       },
@@ -49,9 +48,9 @@
           },
           "year-narrow": {
             "displayName": "سال",
-            "relative-type--1": "پويون سال",
-            "relative-type-0": "پويون سال",
-            "relative-type-1": "پويون سال",
+            "relative-type--1": "پوئين سال",
+            "relative-type-0": "هن سال",
+            "relative-type-1": "اڳيئن سال",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} سالن ۾",
               "relativeTimePattern-count-other": "{0} سالن ۾"

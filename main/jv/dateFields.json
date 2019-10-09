@@ -3,8 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "jv"
       },
@@ -37,10 +36,10 @@
             "relative-type-0": "taun iki",
             "relative-type-1": "taun ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} tn"
+              "relativeTimePattern-count-other": "ing {0} taun"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} tn kepungkur"
+              "relativeTimePattern-count-other": "{0} taun kepungkur"
             }
           },
           "year-narrow": {
@@ -49,46 +48,46 @@
             "relative-type-0": "taun iki",
             "relative-type-1": "taun ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} y"
+              "relativeTimePattern-count-other": "ing {0} taun"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} y"
+              "relativeTimePattern-count-other": "{0} taun kepungkur"
             }
           },
           "quarter": {
             "displayName": "triwulan",
-            "relative-type--1": "kwartal wingi",
-            "relative-type-0": "kwartal iki",
-            "relative-type-1": "kwartal ngarep",
+            "relative-type--1": "triwulan wingi",
+            "relative-type-0": "triwulan iki",
+            "relative-type-1": "triwulan ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} kwartal"
+              "relativeTimePattern-count-other": "ing {0} triwulan"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} kwartal kepungkur"
+              "relativeTimePattern-count-other": "{0} triwulan kepungkur"
             }
           },
           "quarter-short": {
             "displayName": "triwulan",
-            "relative-type--1": "kwartal wingi",
-            "relative-type-0": "kwartal iki",
-            "relative-type-1": "kwartal ngarep",
+            "relative-type--1": "triwulan wingi",
+            "relative-type-0": "triwulan iki",
+            "relative-type-1": "triwulan ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} kwrt."
+              "relativeTimePattern-count-other": "ing {0} triwulan"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} kwrt. kepungkur"
+              "relativeTimePattern-count-other": "{0} triwulan kepungkur"
             }
           },
           "quarter-narrow": {
             "displayName": "triwulan",
-            "relative-type--1": "kwartal wingi",
-            "relative-type-0": "kwartal iki",
-            "relative-type-1": "kwartal ngarep",
+            "relative-type--1": "triwulan wingi",
+            "relative-type-0": "triwulan iki",
+            "relative-type-1": "triwulan ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} Q"
+              "relativeTimePattern-count-other": "ing {0} triwulan"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} Q"
+              "relativeTimePattern-count-other": "{0} triwulan kepungkur"
             }
           },
           "month": {
@@ -109,10 +108,10 @@
             "relative-type-0": "sasi iki",
             "relative-type-1": "sasi ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} s."
+              "relativeTimePattern-count-other": "ing {0} sasi"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} s. kepungkur"
+              "relativeTimePattern-count-other": "{0} sasi kepungkur"
             }
           },
           "month-narrow": {
@@ -121,10 +120,10 @@
             "relative-type-0": "sasi iki",
             "relative-type-1": "sasi ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} m"
+              "relativeTimePattern-count-other": "ing {0} sasi"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} m"
+              "relativeTimePattern-count-other": "{0} sasi kepungkur"
             }
           },
           "week": {
@@ -133,10 +132,10 @@
             "relative-type-0": "pekan iki",
             "relative-type-1": "pekan ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} minggu"
+              "relativeTimePattern-count-other": "ing {0} pekan"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} minggu kepungkur"
+              "relativeTimePattern-count-other": "{0} pekan kepungkur"
             },
             "relativePeriod": "pekan kaping {0}"
           },
@@ -146,10 +145,10 @@
             "relative-type-0": "pekan iki",
             "relative-type-1": "pekan ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} mgg."
+              "relativeTimePattern-count-other": "ing {0} pekan"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} mgg. kepungkur"
+              "relativeTimePattern-count-other": "{0} pekan kepungkur"
             },
             "relativePeriod": "pekan kaping {0}"
           },
@@ -159,26 +158,26 @@
             "relative-type-0": "pekan iki",
             "relative-type-1": "pekan ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} w"
+              "relativeTimePattern-count-other": "ing {0} pekan"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} w"
+              "relativeTimePattern-count-other": "{0} pekan kepungkur"
             },
             "relativePeriod": "pekan kaping {0}"
           },
           "weekOfMonth": {
-            "displayName": "minggu jroning sesasi"
+            "displayName": "pekan jroning sesasi"
           },
           "weekOfMonth-short": {
-            "displayName": "mgu ing sasi"
+            "displayName": "pekan jroning sasi"
           },
           "weekOfMonth-narrow": {
-            "displayName": "mgu ing sasi"
+            "displayName": "pekan jroning sasi"
           },
           "day": {
             "displayName": "dino",
             "relative-type--1": "wingi",
-            "relative-type-0": "saiki",
+            "relative-type-0": "dino iki",
             "relative-type-1": "sesuk",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ing {0} dina"
@@ -190,35 +189,35 @@
           "day-short": {
             "displayName": "dino",
             "relative-type--1": "wingi",
-            "relative-type-0": "saiki",
+            "relative-type-0": "dino iki",
             "relative-type-1": "sesuk",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ing {0} dina"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-other": "{0} dina kepungkur"
             }
           },
           "day-narrow": {
             "displayName": "dino",
             "relative-type--1": "wingi",
-            "relative-type-0": "saiki",
+            "relative-type-0": "dino iki",
             "relative-type-1": "sesuk",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} d"
+              "relativeTimePattern-count-other": "ing {0} dina"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} d"
+              "relativeTimePattern-count-other": "{0} dino kepungkur"
             }
           },
           "dayOfYear": {
-            "displayName": "dina jroning setaun"
+            "displayName": "dina jroning taun"
           },
           "dayOfYear-short": {
-            "displayName": "dina ing taun"
+            "displayName": "dina jroning taun"
           },
           "dayOfYear-narrow": {
-            "displayName": "dn ing taun"
+            "displayName": "dina jroning taun"
           },
           "weekday": {
             "displayName": "dino sepekan"
@@ -233,10 +232,10 @@
             "displayName": "dina jroning sasi"
           },
           "weekdayOfMonth-short": {
-            "displayName": "dn jroning sasi"
+            "displayName": "dina jroning sasi"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "Weekday Of Month"
+            "displayName": "dino jroning sasi"
           },
           "sun": {
             "relative-type--1": "Ahad wingi",
@@ -261,14 +260,14 @@
             }
           },
           "sun-narrow": {
-            "relative-type--1": "Ah wingi",
-            "relative-type-0": "Ah iki",
-            "relative-type-1": "Ah ngarep",
+            "relative-type--1": "Ahad wingi",
+            "relative-type-0": "Ahad iki",
+            "relative-type-1": "Ahad ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} Ah"
+              "relativeTimePattern-count-other": "ing {0} Ahad"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} Ah kepungkur"
+              "relativeTimePattern-count-other": "{0} Ahad kepungkur"
             }
           },
           "mon": {
@@ -284,7 +283,7 @@
           },
           "mon-short": {
             "relative-type--1": "Sen. wingi",
-            "relative-type-0": "Sen iki",
+            "relative-type-0": "Sen. iki",
             "relative-type-1": "Sen. ngarep",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ing {0} Sen."
@@ -327,14 +326,14 @@
             }
           },
           "tue-narrow": {
-            "relative-type--1": "Sl wingi",
-            "relative-type-0": "Sl iki",
-            "relative-type-1": "Sl ngarep",
+            "relative-type--1": "Sel. wingi",
+            "relative-type-0": "Sel. iki",
+            "relative-type-1": "Sel. ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} Sl"
+              "relativeTimePattern-count-other": "ing {0} Sel."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} Sl kepungkur"
+              "relativeTimePattern-count-other": "{0} Sel. kepungkur"
             }
           },
           "wed": {
@@ -360,14 +359,14 @@
             }
           },
           "wed-narrow": {
-            "relative-type--1": "R wingi",
-            "relative-type-0": "R iki",
-            "relative-type-1": "R ngarep",
+            "relative-type--1": "Reb. wingi",
+            "relative-type-0": "Reb. iki",
+            "relative-type-1": "Reb. ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} R"
+              "relativeTimePattern-count-other": "ing {0} Reb."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} R kepungkur"
+              "relativeTimePattern-count-other": "{0} Reb. kepungkur"
             }
           },
           "thu": {
@@ -393,14 +392,14 @@
             }
           },
           "thu-narrow": {
-            "relative-type--1": "K wingi",
-            "relative-type-0": "K iki",
-            "relative-type-1": "K ngarep",
+            "relative-type--1": "Kms. wingi",
+            "relative-type-0": "Kms. iki",
+            "relative-type-1": "Kms. ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} K"
+              "relativeTimePattern-count-other": "ing {0} Kms."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} K kepungkur"
+              "relativeTimePattern-count-other": "{0} Kms. kepungkur"
             }
           },
           "fri": {
@@ -426,14 +425,14 @@
             }
           },
           "fri-narrow": {
-            "relative-type--1": "J wingi",
-            "relative-type-0": "J iki",
-            "relative-type-1": "J ngarep",
+            "relative-type--1": "Jem. wingi",
+            "relative-type-0": "Jem. iki",
+            "relative-type-1": "Jem. ngarep",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} J"
+              "relativeTimePattern-count-other": "ing {0} Jem."
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} J kepungkur"
+              "relativeTimePattern-count-other": "{0} Jem. kepungkur"
             }
           },
           "sat": {
@@ -492,55 +491,55 @@
             "displayName": "jam",
             "relative-type-0": "jam iki",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-other": "ing {0} jam"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-other": "{0} jam kepungkur"
             }
           },
           "hour-narrow": {
             "displayName": "jam",
             "relative-type-0": "jam iki",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} h"
+              "relativeTimePattern-count-other": "ing {0} jam"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} h"
+              "relativeTimePattern-count-other": "{0} jam kepungkur"
             }
           },
           "minute": {
             "displayName": "menit",
             "relative-type-0": "menit iki",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} mnt"
+              "relativeTimePattern-count-other": "ing {0} menit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} men. kepungkur"
+              "relativeTimePattern-count-other": "{0} menit kepungkur"
             }
           },
           "minute-short": {
             "displayName": "menit",
             "relative-type-0": "menit iki",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-other": "ing {0} menit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-other": "{0} menit kepungkur"
             }
           },
           "minute-narrow": {
             "displayName": "menit",
             "relative-type-0": "menit iki",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-other": "ing {0} menit"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-other": "{0} menit kepungkur"
             }
           },
           "second": {
             "displayName": "detik",
-            "relative-type-0": "now",
+            "relative-type-0": "saiki",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ing {0} detik"
             },
@@ -550,22 +549,22 @@
           },
           "second-short": {
             "displayName": "detik",
-            "relative-type-0": "now",
+            "relative-type-0": "saiki",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "ing {0} dtk"
+              "relativeTimePattern-count-other": "ing {0} detik"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "{0} det. kepungkur"
+              "relativeTimePattern-count-other": "{0} detik kepungkur"
             }
           },
           "second-narrow": {
             "displayName": "detik",
-            "relative-type-0": "now",
+            "relative-type-0": "saiki",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-other": "+{0} s"
+              "relativeTimePattern-count-other": "ing {0} detik"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-other": "-{0} s"
+              "relativeTimePattern-count-other": "{0} detik kepungkur"
             }
           },
           "zone": {

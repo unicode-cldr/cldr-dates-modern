@@ -3,8 +3,7 @@
     "sr-Cyrl-ME": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -138,7 +137,7 @@
                 "exemplarCity": "Куиаба"
               },
               "Curacao": {
-                "exemplarCity": "Кирасо"
+                "exemplarCity": "Курасао"
               },
               "Danmarkshavn": {
                 "exemplarCity": "Данмарксхаген"
@@ -1025,7 +1024,7 @@
                 "exemplarCity": "Катар"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Костанај"
               },
               "Qyzylorda": {
                 "exemplarCity": "Кизилорда"

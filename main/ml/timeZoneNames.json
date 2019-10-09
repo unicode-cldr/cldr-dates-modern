@@ -3,8 +3,7 @@
     "ml": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ml"
       },
@@ -451,7 +450,7 @@
                 "exemplarCity": "തിയുവാന"
               },
               "Toronto": {
-                "exemplarCity": "ടൊറണ്ടോ"
+                "exemplarCity": "ടൊറന്റോ"
               },
               "Tortola": {
                 "exemplarCity": "ടോർ‌ട്ടോള"

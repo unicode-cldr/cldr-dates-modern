@@ -3,8 +3,7 @@
     "es-419": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "419"
@@ -263,9 +262,9 @@
                   "night1": "noche"
                 },
                 "narrow": {
-                  "am": "a.m.",
+                  "am": "a. m.",
                   "noon": "mediodía",
-                  "pm": "p.m.",
+                  "pm": "p. m.",
                   "morning1": "madrugada",
                   "morning2": "mañana",
                   "evening1": "tarde",

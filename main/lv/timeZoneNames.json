@@ -3,8 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14843 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "lv"
       },
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Katara"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanaja"
               },
               "Qyzylorda": {
                 "exemplarCity": "Kizilorda"

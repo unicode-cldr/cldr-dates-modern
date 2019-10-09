@@ -3,8 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "bg"
       },
@@ -314,10 +313,10 @@
               "short": "d.MM.yy 'г'."
             },
             "timeFormats": {
-              "full": "H:mm:ss 'ч'. zzzz",
-              "long": "H:mm:ss 'ч'. z",
-              "medium": "H:mm:ss 'ч'.",
-              "short": "H:mm 'ч'."
+              "full": "H:mm:ss zzzz",
+              "long": "H:mm:ss z",
+              "medium": "H:mm:ss",
+              "short": "H:mm"
             },
             "dateTimeFormats": {
               "full": "{1}, {0}",
@@ -325,18 +324,18 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
-                "Bh": "h 'ч'. B",
-                "Bhm": "h:mm 'ч'. B",
-                "Bhms": "h:mm:ss 'ч'. B",
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
-                "EBhm": "E, h:mm 'ч'. B",
-                "EBhms": "E, h:mm:ss 'ч'. B",
+                "EBhm": "E, h:mm B",
+                "EBhms": "E, h:mm:ss B",
                 "Ed": "E, d",
-                "Ehm": "E, h:mm 'ч'. a",
-                "EHm": "E, HH:mm 'ч'.",
-                "Ehms": "E, h:mm:ss 'ч'. a",
-                "EHms": "E, H:mm:ss 'ч'.",
+                "Ehm": "E, h:mm a",
+                "EHm": "E, HH:mm",
+                "Ehms": "E, h:mm:ss a",
+                "EHms": "E, H:mm:ss",
                 "Gy": "y 'г'. G",
                 "GyMMM": "MM.y 'г'. G",
                 "GyMMMd": "d.MM.y 'г'. G",
@@ -344,16 +343,16 @@
                 "GyMMMM": "MMMM y 'г'. G",
                 "GyMMMMd": "d MMMM y 'г'. G",
                 "GyMMMMEd": "E, d MMMM y 'г'. G",
-                "h": "h 'ч'. a",
-                "H": "H 'ч'.",
-                "hm": "h:mm 'ч'. a",
-                "Hm": "H:mm 'ч'.",
-                "hms": "h:mm:ss 'ч'. a",
-                "Hms": "H:mm:ss 'ч'.",
-                "hmsv": "h:mm:ss 'ч'. a v",
-                "Hmsv": "HH:mm:ss 'ч'. v",
-                "hmv": "h:mm 'ч'. a v",
-                "Hmv": "HH:mm 'ч'. v",
+                "h": "h a",
+                "H": "H",
+                "hm": "h:mm a",
+                "Hm": "H:mm",
+                "hms": "h:mm:ss a",
+                "Hms": "H:mm:ss",
+                "hmsv": "h:mm:ss a v",
+                "Hmsv": "HH:mm:ss v",
+                "hmv": "h:mm a v",
+                "Hmv": "HH:mm v",
                 "M": "L",
                 "Md": "d.MM",
                 "MEd": "E, d.MM",
@@ -448,36 +447,36 @@
                   "y": "E, d MMM y – E, d MMM y G"
                 },
                 "h": {
-                  "a": "h 'ч'. a – h 'ч'. a",
-                  "h": "h – h 'ч'. a"
+                  "a": "h a – h a",
+                  "h": "h – h a"
                 },
                 "H": {
-                  "H": "H – H 'ч'."
+                  "H": "H – H"
                 },
                 "hm": {
-                  "a": "h:mm 'ч'. a – h:mm 'ч'. a",
-                  "h": "h:mm 'ч'. – h:mm 'ч'. a",
-                  "m": "h:mm 'ч'. – h:mm 'ч'. a"
+                  "a": "h:mm a – h:mm a",
+                  "h": "h:mm – h:mm a",
+                  "m": "h:mm – h:mm a"
                 },
                 "Hm": {
-                  "H": "H:mm 'ч'. – H:mm 'ч'.",
-                  "m": "H:mm 'ч'. – H:mm 'ч'."
+                  "H": "H:mm – H:mm",
+                  "m": "H:mm – H:mm"
                 },
                 "hmv": {
-                  "a": "h:mm 'ч'. a – h:mm 'ч'. a v",
-                  "h": "h:mm 'ч'. a – h:mm 'ч'. a v",
-                  "m": "h:mm 'ч'. a – h:mm 'ч'. a v"
+                  "a": "h:mm a – h:mm a v",
+                  "h": "h:mm a – h:mm a v",
+                  "m": "h:mm a – h:mm a v"
                 },
                 "Hmv": {
-                  "H": "H:mm 'ч'. – H:mm 'ч'. v",
-                  "m": "H:mm 'ч'. – H:mm 'ч'. v"
+                  "H": "H:mm – H:mm v",
+                  "m": "H:mm – H:mm v"
                 },
                 "hv": {
-                  "a": "h 'ч'. a – h 'ч'. a v",
-                  "h": "h – h 'ч'. a v"
+                  "a": "h a – h a v",
+                  "h": "h – h a v"
                 },
                 "Hv": {
-                  "H": "H – H 'ч'. v"
+                  "H": "H – H v"
                 },
                 "M": {
                   "M": "M – M"

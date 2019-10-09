@@ -3,8 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt"
       },
@@ -104,13 +103,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "dom",
-                  "mon": "seg",
-                  "tue": "ter",
-                  "wed": "qua",
-                  "thu": "qui",
-                  "fri": "sex",
-                  "sat": "sáb"
+                  "sun": "dom.",
+                  "mon": "seg.",
+                  "tue": "ter.",
+                  "wed": "qua.",
+                  "thu": "qui.",
+                  "fri": "sex.",
+                  "sat": "sáb."
                 },
                 "narrow": {
                   "sun": "D",
@@ -122,13 +121,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "dom",
-                  "mon": "seg",
-                  "tue": "ter",
-                  "wed": "qua",
-                  "thu": "qui",
-                  "fri": "sex",
-                  "sat": "sáb"
+                  "sun": "dom.",
+                  "mon": "seg.",
+                  "tue": "ter.",
+                  "wed": "qua.",
+                  "thu": "qui.",
+                  "fri": "sex.",
+                  "sat": "sáb."
                 },
                 "wide": {
                   "sun": "domingo",
@@ -142,13 +141,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "dom",
-                  "mon": "seg",
-                  "tue": "ter",
-                  "wed": "qua",
-                  "thu": "qui",
-                  "fri": "sex",
-                  "sat": "sáb"
+                  "sun": "dom.",
+                  "mon": "seg.",
+                  "tue": "ter.",
+                  "wed": "qua.",
+                  "thu": "qui.",
+                  "fri": "sex.",
+                  "sat": "sáb."
                 },
                 "narrow": {
                   "sun": "D",
@@ -160,13 +159,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "dom",
-                  "mon": "seg",
-                  "tue": "ter",
-                  "wed": "qua",
-                  "thu": "qui",
-                  "fri": "sex",
-                  "sat": "sáb"
+                  "sun": "dom.",
+                  "mon": "seg.",
+                  "tue": "ter.",
+                  "wed": "qua.",
+                  "thu": "qui.",
+                  "fri": "sex.",
+                  "sat": "sáb."
                 },
                 "wide": {
                   "sun": "domingo",
@@ -385,7 +384,7 @@
                 },
                 "Bhm": {
                   "B": "h:mm B – h:mm B",
-                  "h": "h:mm–h:mm B",
+                  "h": "h:mm – h:mm B",
                   "m": "h:mm–h:mm B"
                 },
                 "d": {

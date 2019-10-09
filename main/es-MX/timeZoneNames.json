@@ -3,8 +3,7 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14796 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "MX"
@@ -324,7 +323,7 @@
                 "exemplarCity": "Montserrat"
               },
               "Nassau": {
-                "exemplarCity": "Nassau"
+                "exemplarCity": "Nasáu"
               },
               "New_York": {
                 "exemplarCity": "Nueva York"
@@ -404,7 +403,7 @@
                 "exemplarCity": "Santarém"
               },
               "Santiago": {
-                "exemplarCity": "Santiago de Chile"
+                "exemplarCity": "Santiago"
               },
               "Santo_Domingo": {
                 "exemplarCity": "Santo Domingo"
@@ -547,7 +546,7 @@
               },
               "Dublin": {
                 "long": {
-                  "daylight": "hora de verano de Irlanda"
+                  "daylight": "hora estándar de Irlanda"
                 },
                 "exemplarCity": "Dublín"
               },
@@ -576,7 +575,7 @@
                 "exemplarCity": "Kiev"
               },
               "Kirov": {
-                "exemplarCity": "Kirov"
+                "exemplarCity": "Kírov"
               },
               "Lisbon": {
                 "exemplarCity": "Lisboa"
@@ -1018,10 +1017,10 @@
                 "exemplarCity": "Pontianak"
               },
               "Pyongyang": {
-                "exemplarCity": "Piongyang"
+                "exemplarCity": "Pyongyang"
               },
               "Qatar": {
-                "exemplarCity": "Qatar"
+                "exemplarCity": "Catar"
               },
               "Qostanay": {
                 "exemplarCity": "Kostanái"
@@ -1337,7 +1336,7 @@
             "Etc": {
               "UTC": {
                 "long": {
-                  "standard": "Tiempo Universal Coordinado"
+                  "standard": "hora universal coordinada"
                 },
                 "short": {
                   "standard": "UTC"

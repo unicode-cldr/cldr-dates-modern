@@ -3,8 +3,7 @@
     "en-TZ": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14770 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "en",
         "territory": "TZ"
@@ -416,22 +415,22 @@
                 "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
-                "exemplarCity": "St. Barthélemy"
+                "exemplarCity": "St Barthélemy"
               },
               "St_Johns": {
-                "exemplarCity": "St. John’s"
+                "exemplarCity": "St John’s"
               },
               "St_Kitts": {
-                "exemplarCity": "St. Kitts"
+                "exemplarCity": "St Kitts"
               },
               "St_Lucia": {
-                "exemplarCity": "St. Lucia"
+                "exemplarCity": "St Lucia"
               },
               "St_Thomas": {
-                "exemplarCity": "St. Thomas"
+                "exemplarCity": "St Thomas"
               },
               "St_Vincent": {
-                "exemplarCity": "St. Vincent"
+                "exemplarCity": "St Vincent"
               },
               "Swift_Current": {
                 "exemplarCity": "Swift Current"
@@ -496,7 +495,7 @@
                 "exemplarCity": "South Georgia"
               },
               "St_Helena": {
-                "exemplarCity": "St. Helena"
+                "exemplarCity": "St Helena"
               },
               "Stanley": {
                 "exemplarCity": "Stanley"
@@ -2120,9 +2119,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "St. Pierre & Miquelon Time",
-                "standard": "St. Pierre & Miquelon Standard Time",
-                "daylight": "St. Pierre & Miquelon Daylight Time"
+                "generic": "St Pierre & Miquelon Time",
+                "standard": "St Pierre & Miquelon Standard Time",
+                "daylight": "St Pierre & Miquelon Daylight Time"
               }
             },
             "Pitcairn": {

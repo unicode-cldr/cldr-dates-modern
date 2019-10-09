@@ -3,8 +3,7 @@
     "ru-KG": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ru",
         "territory": "KG"
@@ -297,13 +296,13 @@
               },
               "eraAbbr": {
                 "0": "до н. э.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "до н. э.",
                 "1": "н. э.",
                 "1-alt-variant": "н. э."
               },
               "eraNarrow": {
                 "0": "до н.э.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "до н. э.",
                 "1": "н.э.",
                 "1-alt-variant": "н. э."
               }

@@ -3,8 +3,7 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14796 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "es",
         "territory": "MX"
@@ -68,7 +67,7 @@
             "relative-type-0": "este trimestre",
             "relative-type-1": "el próximo trimestre",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "dentro de {0} trimetre",
+              "relativeTimePattern-count-one": "en {0} trimestre",
               "relativeTimePattern-count-other": "dentro de {0} trimetres"
             },
             "relativeTime-type-past": {
@@ -96,8 +95,8 @@
             "relative-type-0": "este trimestre",
             "relative-type-1": "el próximo trimestre",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} T",
-              "relativeTimePattern-count-other": "+{0} T"
+              "relativeTimePattern-count-one": "en {0} trim.",
+              "relativeTimePattern-count-other": "en {0} trim."
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "-{0} T",
@@ -163,9 +162,9 @@
           },
           "week-short": {
             "displayName": "sem.",
-            "relative-type--1": "la semana pasada",
-            "relative-type-0": "esta semana",
-            "relative-type-1": "la semana próxima",
+            "relative-type--1": "sem. pas.",
+            "relative-type-0": "esta sem.",
+            "relative-type-1": "próx. sem.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "en {0} sem.",
               "relativeTimePattern-count-other": "en {0} sem."
@@ -178,9 +177,9 @@
           },
           "week-narrow": {
             "displayName": "sem.",
-            "relative-type--1": "la semana pasada",
-            "relative-type-0": "esta semana",
-            "relative-type-1": "la semana próxima",
+            "relative-type--1": "sem. pas.",
+            "relative-type-0": "esta sem.",
+            "relative-type-1": "próx. sem.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "dentro de {0} sem.",
               "relativeTimePattern-count-other": "dentro de {0} sem."
@@ -241,7 +240,7 @@
             "relative-type-2": "pasado mañana",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} día",
-              "relativeTimePattern-count-other": "+{0} días"
+              "relativeTimePattern-count-other": "en {0} días"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "hace {0} día",
@@ -621,12 +620,12 @@
             "displayName": "min",
             "relative-type-0": "este minuto",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} min",
-              "relativeTimePattern-count-other": "+{0} min"
+              "relativeTimePattern-count-one": "en {0} min",
+              "relativeTimePattern-count-other": "en {0} min"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} min",
-              "relativeTimePattern-count-other": "-{0} min"
+              "relativeTimePattern-count-one": "hace {0} min",
+              "relativeTimePattern-count-other": "hace {0} min"
             }
           },
           "second": {

@@ -3,8 +3,7 @@
     "ru-BY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ru",
         "territory": "BY"
@@ -224,7 +223,7 @@
             "displayName": "нед.",
             "relative-type--1": "на пр. нед.",
             "relative-type-0": "на эт. нед.",
-            "relative-type-1": "на след. неделе",
+            "relative-type-1": "на след. нед.",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} нед.",
               "relativeTimePattern-count-few": "+{0} нед.",
@@ -721,32 +720,32 @@
             "displayName": "ч",
             "relative-type-0": "в этот час",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "через {0} ч.",
-              "relativeTimePattern-count-few": "через {0} ч.",
-              "relativeTimePattern-count-many": "через {0} ч.",
-              "relativeTimePattern-count-other": "через {0} ч."
+              "relativeTimePattern-count-one": "через {0} ч",
+              "relativeTimePattern-count-few": "через {0} ч",
+              "relativeTimePattern-count-many": "через {0} ч",
+              "relativeTimePattern-count-other": "через {0} ч"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} ч. назад",
-              "relativeTimePattern-count-few": "{0} ч. назад",
-              "relativeTimePattern-count-many": "{0} ч. назад",
-              "relativeTimePattern-count-other": "{0} ч. назад"
+              "relativeTimePattern-count-one": "{0} ч назад",
+              "relativeTimePattern-count-few": "{0} ч назад",
+              "relativeTimePattern-count-many": "{0} ч назад",
+              "relativeTimePattern-count-other": "{0} ч назад"
             }
           },
           "hour-narrow": {
             "displayName": "ч",
             "relative-type-0": "в этот час",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} ч.",
-              "relativeTimePattern-count-few": "+{0} ч.",
-              "relativeTimePattern-count-many": "+{0} ч.",
-              "relativeTimePattern-count-other": "+{0} ч."
+              "relativeTimePattern-count-one": "+{0} ч",
+              "relativeTimePattern-count-few": "+{0} ч",
+              "relativeTimePattern-count-many": "+{0} ч",
+              "relativeTimePattern-count-other": "+{0} ч"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} ч.",
-              "relativeTimePattern-count-few": "-{0} ч.",
-              "relativeTimePattern-count-many": "-{0} ч.",
-              "relativeTimePattern-count-other": "-{0} ч."
+              "relativeTimePattern-count-one": "-{0} ч",
+              "relativeTimePattern-count-few": "-{0} ч",
+              "relativeTimePattern-count-many": "-{0} ч",
+              "relativeTimePattern-count-other": "-{0} ч"
             }
           },
           "minute": {
@@ -785,16 +784,16 @@
             "displayName": "мин",
             "relative-type-0": "в эту минуту",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "+{0} мин.",
-              "relativeTimePattern-count-few": "+{0} мин.",
-              "relativeTimePattern-count-many": "+{0} мин.",
-              "relativeTimePattern-count-other": "+{0} мин."
+              "relativeTimePattern-count-one": "+{0} мин",
+              "relativeTimePattern-count-few": "+{0} мин",
+              "relativeTimePattern-count-many": "+{0} мин",
+              "relativeTimePattern-count-other": "+{0} мин"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "-{0} мин.",
-              "relativeTimePattern-count-few": "-{0} мин.",
-              "relativeTimePattern-count-many": "-{0} мин.",
-              "relativeTimePattern-count-other": "-{0} мин."
+              "relativeTimePattern-count-one": "-{0} мин",
+              "relativeTimePattern-count-few": "-{0} мин",
+              "relativeTimePattern-count-many": "-{0} мин",
+              "relativeTimePattern-count-other": "-{0} мин"
             }
           },
           "second": {

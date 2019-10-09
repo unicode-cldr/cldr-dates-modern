@@ -3,8 +3,7 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "mn"
       },
@@ -162,9 +161,9 @@
           },
           "week-short": {
             "displayName": "7 хоног",
-            "relative-type--1": "өнгөрсөн долоо хоног",
-            "relative-type-0": "энэ долоо хоног",
-            "relative-type-1": "ирэх долоо хоног",
+            "relative-type--1": "өнгөрсөн 7 хоног",
+            "relative-type-0": "энэ 7 хоног",
+            "relative-type-1": "ирэх 7 хоног",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} 7 хоногийн дараа",
               "relativeTimePattern-count-other": "{0} 7 хоногийн дараа"
@@ -177,9 +176,9 @@
           },
           "week-narrow": {
             "displayName": "7 хоног",
-            "relative-type--1": "өнгөрсөн долоо хоног",
-            "relative-type-0": "энэ долоо хоног",
-            "relative-type-1": "ирэх долоо хоног",
+            "relative-type--1": "өнгөрсөн 7 хоног",
+            "relative-type-0": "энэ 7 хоног",
+            "relative-type-1": "ирэх 7 хоног",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} 7 хоногийн дараа",
               "relativeTimePattern-count-other": "{0} 7 хоногийн дараа"

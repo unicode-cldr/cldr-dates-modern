@@ -3,8 +3,7 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ca"
       },
@@ -133,9 +132,9 @@
           },
           "month-narrow": {
             "displayName": "mes",
-            "relative-type--1": "mes passat",
+            "relative-type--1": "el mes passat",
             "relative-type-0": "aquest mes",
-            "relative-type-1": "mes vinent",
+            "relative-type-1": "el mes que ve",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "d’aquí a {0} mes",
               "relativeTimePattern-count-other": "d’aquí a {0} mesos"
@@ -177,9 +176,9 @@
           },
           "week-narrow": {
             "displayName": "setm.",
-            "relative-type--1": "setm. passada",
+            "relative-type--1": "la setm. passada",
             "relative-type-0": "aquesta setm.",
-            "relative-type-1": "setm. vinent",
+            "relative-type-1": "la setm. que ve",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "d’aquí a {0} setm.",
               "relativeTimePattern-count-other": "d’aquí a {0} setm."

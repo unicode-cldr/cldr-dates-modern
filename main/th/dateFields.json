@@ -3,8 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "th"
       },
@@ -525,7 +524,7 @@
             }
           },
           "minute-short": {
-            "displayName": "น.",
+            "displayName": "นาที",
             "relative-type-0": "นาทีนี้",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ใน {0} นาที"
@@ -535,7 +534,7 @@
             }
           },
           "minute-narrow": {
-            "displayName": "น.",
+            "displayName": "นาที",
             "relative-type-0": "นาทีนี้",
             "relativeTime-type-future": {
               "relativeTimePattern-count-other": "ใน {0} นาที"

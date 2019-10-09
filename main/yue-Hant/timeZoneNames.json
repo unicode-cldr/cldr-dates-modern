@@ -3,8 +3,7 @@
     "yue-Hant": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yue",
         "script": "Hant"
@@ -1024,7 +1023,7 @@
                 "exemplarCity": "卡達"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "科斯塔奈"
               },
               "Qyzylorda": {
                 "exemplarCity": "克孜勒奧爾達"

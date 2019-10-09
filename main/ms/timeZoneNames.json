@@ -3,8 +3,7 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14902 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ms"
       },
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1407,7 +1406,7 @@
               "long": {
                 "generic": "Waktu Pergunungan",
                 "standard": "Waktu Piawai Pergunungan",
-                "daylight": "Waktu Hari Siang Pergunungan"
+                "daylight": "Waktu Siang Pergunungan"
               }
             },
             "America_Pacific": {
@@ -1429,6 +1428,13 @@
                 "generic": "Waktu Apia",
                 "standard": "Waktu Piawai Apia",
                 "daylight": "Waktu Siang Apia"
+              }
+            },
+            "Aqtau": {
+              "long": {
+                "generic": "Waktu Aqtau",
+                "standard": "Waktu Standard Aqtau",
+                "daylight": "Waktu Musim Panas Aqtau"
               }
             },
             "Arabian": {
@@ -1710,6 +1716,9 @@
             "GMT": {
               "long": {
                 "standard": "Waktu Min Greenwich"
+              },
+              "short": {
+                "standard": "GMT"
               }
             },
             "Greenland_Eastern": {

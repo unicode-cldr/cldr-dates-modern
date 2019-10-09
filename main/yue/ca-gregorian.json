@@ -3,8 +3,7 @@
     "yue": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "yue"
       },
@@ -408,42 +407,42 @@
                   "d": "d日至d日"
                 },
                 "Gy": {
-                  "G": "G y – G y",
-                  "y": "G y–y"
+                  "G": "Gy年至Gy年",
+                  "y": "Gy年至y年"
                 },
                 "GyM": {
-                  "G": "GGGGG y-MM – GGGGG y-MM",
-                  "M": "GGGGG y-MM – y-MM",
-                  "y": "GGGGG y-MM – y-MM"
+                  "G": "GGGGGy年M月至y年M月",
+                  "M": "GGGGGy年M月至y年M月",
+                  "y": "GGGGGy年M月至y年M月"
                 },
                 "GyMd": {
-                  "d": "GGGGG y-MM-dd – y-MM-dd",
-                  "G": "GGGGG y-MM-dd – GGGGG y-MM-dd",
-                  "M": "GGGGG y-MM-dd – y-MM-dd",
-                  "y": "GGGGG y-MM-dd – y-MM-dd"
+                  "d": "GGGGGy年M月dd日至y年M月dd日",
+                  "G": "GGGGGy年M月dd日y年M月dd日",
+                  "M": "GGGGGy年M月dd日至y年M月dd日",
+                  "y": "GGGGGy年M月dd日至y年M月dd日"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
+                  "d": "GGGGGy年M月dd日E至y年M月dd日E",
+                  "G": "GGGGGy年M月dd日E至GGGGGy年M月dd日E",
+                  "M": "GGGGGy年M月dd日E至y年M月dd日E",
+                  "y": "GGGGGy年M月dd日E至y年M月dd日E"
                 },
                 "GyMMM": {
-                  "G": "G y MMM – G y MMM",
-                  "M": "G y MMM–MMM",
-                  "y": "G y MMM – y MMM"
+                  "G": "Gy年MMM至Gy年MMM",
+                  "M": "G y年MMM至MMM",
+                  "y": "Gy年MMM至y年MMM"
                 },
                 "GyMMMd": {
-                  "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "d": "Gy年MMMd至d日",
+                  "G": "Gy年MMMd日至Gy年MMMd日",
+                  "M": "Gy年MMMd日至MMMd日",
+                  "y": "Gy年MMMd日至y年MMMd日"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "Gy年MMMd日E至MMMd日E",
+                  "G": "Gy 年MMMd日E至Gy年MMMd日E",
+                  "M": "Gy年MMMd日E至MMMd日E",
+                  "y": "Gy年MMMd日E至y年MMMd日E"
                 },
                 "h": {
                   "a": "ah時至ah時",

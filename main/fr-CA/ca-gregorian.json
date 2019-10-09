@@ -3,8 +3,7 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14786 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "fr",
         "territory": "CA"
@@ -312,7 +311,7 @@
               "full": "EEEE d MMMM y",
               "long": "d MMMM y",
               "medium": "d MMM y",
-              "short": "yy-MM-dd"
+              "short": "y-MM-dd"
             },
             "timeFormats": {
               "full": "HH 'h' mm 'min' ss 's' zzzz",

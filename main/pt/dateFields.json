@@ -3,8 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt"
       },
@@ -58,7 +57,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "há {0} ano",
-              "relativeTimePattern-count-other": "{0} anos atrás"
+              "relativeTimePattern-count-other": "há {0} anos"
             }
           },
           "quarter": {
@@ -86,7 +85,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "há {0} trim.",
-              "relativeTimePattern-count-other": "{0} trim. atrás"
+              "relativeTimePattern-count-other": "há {0} trim."
             }
           },
           "quarter-narrow": {
@@ -323,7 +322,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "há {0} segunda-feira",
-              "relativeTimePattern-count-other": "{0} segundas-feiras atrás"
+              "relativeTimePattern-count-other": "há {0} segundas-feiras"
             }
           },
           "mon-short": {
@@ -400,7 +399,7 @@
               "relativeTimePattern-count-other": "em {0} quartas-feiras"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} quartas-feiras",
+              "relativeTimePattern-count-one": "há {0} quarta-feira",
               "relativeTimePattern-count-other": "há {0} quartas-feiras"
             }
           },

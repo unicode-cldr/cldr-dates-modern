@@ -3,8 +3,7 @@
     "gu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "gu"
       },
@@ -495,7 +494,7 @@
                 "exemplarCity": "રૅકયાવિક"
               },
               "South_Georgia": {
-                "exemplarCity": "સાઉથ જ્યોર્જિયા"
+                "exemplarCity": "દક્ષિણ જ્યોર્જિયા"
               },
               "St_Helena": {
                 "exemplarCity": "સેંટ હેલેના"
@@ -1112,7 +1111,7 @@
                 "exemplarCity": "ક્રિસમસ"
               },
               "Cocos": {
-                "exemplarCity": "કૉકોસ"
+                "exemplarCity": "કોકોઝ"
               },
               "Comoro": {
                 "exemplarCity": "કોમોરો"
@@ -1133,7 +1132,7 @@
                 "exemplarCity": "મેયોટ"
               },
               "Reunion": {
-                "exemplarCity": "રિયુનિયન"
+                "exemplarCity": "રીયુનિયન"
               }
             },
             "Australia": {
@@ -1303,7 +1302,7 @@
                 "exemplarCity": "કૅસી"
               },
               "Davis": {
-                "exemplarCity": "ડૅવિસ"
+                "exemplarCity": "ડેવિસ"
               },
               "DumontDUrville": {
                 "exemplarCity": "દુમોન્ત દી‘ઉર્વિલ"
@@ -1496,29 +1495,29 @@
             },
             "Australia_Central": {
               "long": {
-                "generic": "કેન્દ્રીય ઓસ્ટ્રેલિયન સમય",
-                "standard": "ઓસ્ટ્રેલિયન કેન્દ્રીય માનક સમય",
+                "generic": "કેન્દ્રીય ઑસ્ટ્રેલિયન સમય",
+                "standard": "ઑસ્ટ્રેલિયન કેન્દ્રીય માનક સમય",
                 "daylight": "ઓસ્ટ્રેલિયન કેન્દ્રીય દિવસ સમય"
               }
             },
             "Australia_CentralWestern": {
               "long": {
-                "generic": "ઓસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી સમય",
-                "standard": "ઓસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી માનક સમય",
+                "generic": "ઑસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી સમય",
+                "standard": "ઑસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી માનક સમય",
                 "daylight": "ઓસ્ટ્રેલિયન કેન્દ્રીય પશ્ચિમી દિવસ સમય"
               }
             },
             "Australia_Eastern": {
               "long": {
-                "generic": "પૂર્વીય ઓસ્ટ્રેલિયા સમય",
-                "standard": "ઓસ્ટ્રેલિયન પૂર્વીય માનક સમય",
+                "generic": "પૂર્વીય ઑસ્ટ્રેલિયા સમય",
+                "standard": "ઑસ્ટ્રેલિયન પૂર્વીય માનક સમય",
                 "daylight": "ઓસ્ટ્રેલિયન પૂર્વીય દિવસ સમય"
               }
             },
             "Australia_Western": {
               "long": {
-                "generic": "પશ્ચિમી ઓસ્ટ્રેલિયા સમય",
-                "standard": "ઓસ્ટ્રેલિયન પશ્ચિમી માનક સમય",
+                "generic": "પશ્ચિમી ઑસ્ટ્રેલિયા સમય",
+                "standard": "ઑસ્ટ્રેલિયન પશ્ચિમી માનક સમય",
                 "daylight": "ઓસ્ટ્રેલિયન પશ્ચિમી દિવસ સમય"
               }
             },
@@ -1562,7 +1561,7 @@
             },
             "Brunei": {
               "long": {
-                "standard": "બ્રૂનેઈ દારુસલામ સમય"
+                "standard": "બ્રુનેઇ દરુસલામ સમય"
               }
             },
             "Cape_Verde": {
@@ -1617,9 +1616,9 @@
             },
             "Colombia": {
               "long": {
-                "generic": "કોલંબિયા સમય",
-                "standard": "કોલંબિયા માનક સમય",
-                "daylight": "કોલંબિયા ગ્રીષ્મ સમય"
+                "generic": "કોલમ્બિયા સમય",
+                "standard": "કોલમ્બિયા માનક સમય",
+                "daylight": "કોલમ્બિયા ગ્રીષ્મ સમય"
               }
             },
             "Cook": {
@@ -1691,9 +1690,9 @@
             },
             "Falkland": {
               "long": {
-                "generic": "ફોકલૅંડ આઇલેન્ડ્સ સમય",
-                "standard": "ફોકલૅંડ આઇલેન્ડ્સ માનક સમય",
-                "daylight": "ફોકલૅંડ આઇલેન્ડ્સ ગ્રીષ્મ સમય"
+                "generic": "ફૉકલેન્ડ આઇલેન્ડ્સ સમય",
+                "standard": "ફૉકલેન્ડ આઇલેન્ડ્સ માનક સમય",
+                "daylight": "ફૉકલેન્ડ આઇલેન્ડ્સ ગ્રીષ્મ સમય"
               }
             },
             "Fiji": {
@@ -1889,7 +1888,7 @@
             },
             "Kyrgystan": {
               "long": {
-                "standard": "કિર્ગિઝતાન સમય"
+                "standard": "કિર્ગિઝ્સ્તાન સમય"
               }
             },
             "Lanka": {
@@ -2180,7 +2179,7 @@
             },
             "South_Georgia": {
               "long": {
-                "standard": "સાઉથ જ્યોર્જિયા સમય"
+                "standard": "દક્ષિણ જ્યોર્જિયા સમય"
               }
             },
             "Suriname": {

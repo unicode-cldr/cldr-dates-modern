@@ -3,8 +3,7 @@
     "nl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "nl"
       },
@@ -421,19 +420,19 @@
                 "exemplarCity": "Saint-Barthélemy"
               },
               "St_Johns": {
-                "exemplarCity": "St. John’s"
+                "exemplarCity": "Saint John’s"
               },
               "St_Kitts": {
-                "exemplarCity": "St. Kitts"
+                "exemplarCity": "Saint Kitts"
               },
               "St_Lucia": {
-                "exemplarCity": "St. Lucia"
+                "exemplarCity": "Saint Lucia"
               },
               "St_Thomas": {
-                "exemplarCity": "St. Thomas"
+                "exemplarCity": "Saint Thomas"
               },
               "St_Vincent": {
-                "exemplarCity": "St. Vincent"
+                "exemplarCity": "Saint Vincent"
               },
               "Swift_Current": {
                 "exemplarCity": "Swift Current"
@@ -1358,26 +1357,59 @@
                 "generic": "Acre-tijd",
                 "standard": "Acre-standaardtijd",
                 "daylight": "Acre-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Afghanistan": {
               "long": {
-                "standard": "Afghaanse tijd"
+                "generic": {},
+                "standard": "Afghaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Africa_Central": {
               "long": {
-                "standard": "Centraal-Afrikaanse tijd"
+                "generic": {},
+                "standard": "Centraal-Afrikaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Africa_Eastern": {
               "long": {
-                "standard": "Oost-Afrikaanse tijd"
+                "generic": {},
+                "standard": "Oost-Afrikaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Zuid-Afrikaanse tijd"
+                "generic": {},
+                "standard": "Zuid-Afrikaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Africa_Western": {
@@ -1385,6 +1417,11 @@
                 "generic": "West-Afrikaanse tijd",
                 "standard": "West-Afrikaanse standaardtijd",
                 "daylight": "West-Afrikaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Alaska": {
@@ -1404,6 +1441,11 @@
                 "generic": "Alma-Ata-tijd",
                 "standard": "Alma-Ata-standaardtijd",
                 "daylight": "Alma-Ata-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Amazon": {
@@ -1411,6 +1453,11 @@
                 "generic": "Amazone-tijd",
                 "standard": "Amazone-standaardtijd",
                 "daylight": "Amazone-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "America_Central": {
@@ -1466,6 +1513,11 @@
                 "generic": "Anadyr-tijd",
                 "standard": "Anadyr-standaardtijd",
                 "daylight": "Anadyr-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Apia": {
@@ -1473,6 +1525,11 @@
                 "generic": "Apia-tijd",
                 "standard": "Apia-standaardtijd",
                 "daylight": "Apia-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Aqtau": {
@@ -1480,6 +1537,11 @@
                 "generic": "Aqtau-tijd",
                 "standard": "Aqtau-standaardtijd",
                 "daylight": "Aqtau-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Aqtobe": {
@@ -1487,6 +1549,11 @@
                 "generic": "Aqtöbe-tijd",
                 "standard": "Aqtöbe-standaardtijd",
                 "daylight": "Aqtöbe-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Arabian": {
@@ -1494,6 +1561,11 @@
                 "generic": "Arabische tijd",
                 "standard": "Arabische standaardtijd",
                 "daylight": "Arabische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Argentina": {
@@ -1501,6 +1573,11 @@
                 "generic": "Argentijnse tijd",
                 "standard": "Argentijnse standaardtijd",
                 "daylight": "Argentijnse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Argentina_Western": {
@@ -1508,6 +1585,11 @@
                 "generic": "West-Argentijnse tijd",
                 "standard": "West-Argentijnse standaardtijd",
                 "daylight": "West-Argentijnse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Armenia": {
@@ -1515,6 +1597,11 @@
                 "generic": "Armeense tijd",
                 "standard": "Armeense standaardtijd",
                 "daylight": "Armeense zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Atlantic": {
@@ -1534,6 +1621,11 @@
                 "generic": "Midden-Australische tijd",
                 "standard": "Midden-Australische standaardtijd",
                 "daylight": "Midden-Australische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Australia_CentralWestern": {
@@ -1541,6 +1633,11 @@
                 "generic": "Midden-Australische westelijke tijd",
                 "standard": "Midden-Australische westelijke standaardtijd",
                 "daylight": "Midden-Australische westelijke zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Australia_Eastern": {
@@ -1548,6 +1645,11 @@
                 "generic": "Oost-Australische tijd",
                 "standard": "Oost-Australische standaardtijd",
                 "daylight": "Oost-Australische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Australia_Western": {
@@ -1555,6 +1657,11 @@
                 "generic": "West-Australische tijd",
                 "standard": "West-Australische standaardtijd",
                 "daylight": "West-Australische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Azerbaijan": {
@@ -1562,6 +1669,11 @@
                 "generic": "Azerbeidzjaanse tijd",
                 "standard": "Azerbeidzjaanse standaardtijd",
                 "daylight": "Azerbeidzjaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Azores": {
@@ -1569,6 +1681,11 @@
                 "generic": "Azoren-tijd",
                 "standard": "Azoren-standaardtijd",
                 "daylight": "Azoren-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Bangladesh": {
@@ -1576,16 +1693,35 @@
                 "generic": "Bengalese tijd",
                 "standard": "Bengalese standaardtijd",
                 "daylight": "Bengalese zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Bhutan": {
               "long": {
-                "standard": "Bhutaanse tijd"
+                "generic": {},
+                "standard": "Bhutaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Bolivia": {
               "long": {
-                "standard": "Boliviaanse tijd"
+                "generic": {},
+                "standard": "Boliviaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Brasilia": {
@@ -1593,11 +1729,23 @@
                 "generic": "Braziliaanse tijd",
                 "standard": "Braziliaanse standaardtijd",
                 "daylight": "Braziliaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Brunei": {
               "long": {
-                "standard": "Bruneise tijd"
+                "generic": {},
+                "standard": "Bruneise tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Cape_Verde": {
@@ -1605,16 +1753,35 @@
                 "generic": "Kaapverdische tijd",
                 "standard": "Kaapverdische standaardtijd",
                 "daylight": "Kaapverdische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Casey": {
               "long": {
-                "standard": "Casey tijd"
+                "generic": {},
+                "standard": "Casey tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Chamorro": {
               "long": {
-                "standard": "Chamorro-tijd"
+                "generic": {},
+                "standard": "Chamorro-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Chatham": {
@@ -1622,6 +1789,11 @@
                 "generic": "Chatham-tijd",
                 "standard": "Chatham-standaardtijd",
                 "daylight": "Chatham-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Chile": {
@@ -1629,6 +1801,11 @@
                 "generic": "Chileense tijd",
                 "standard": "Chileense standaardtijd",
                 "daylight": "Chileense zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "China": {
@@ -1636,6 +1813,11 @@
                 "generic": "Chinese tijd",
                 "standard": "Chinese standaardtijd",
                 "daylight": "Chinese zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Choibalsan": {
@@ -1643,16 +1825,35 @@
                 "generic": "Tsjojbalsan-tijd",
                 "standard": "Tsjojbalsan-standaardtijd",
                 "daylight": "Tsjojbalsan-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Christmas": {
               "long": {
-                "standard": "Christmaseilandse tijd"
+                "generic": {},
+                "standard": "Christmaseilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Cocos": {
               "long": {
-                "standard": "Cocoseilandse tijd"
+                "generic": {},
+                "standard": "Cocoseilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Colombia": {
@@ -1660,6 +1861,11 @@
                 "generic": "Colombiaanse tijd",
                 "standard": "Colombiaanse standaardtijd",
                 "daylight": "Colombiaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Cook": {
@@ -1667,6 +1873,11 @@
                 "generic": "Cookeilandse tijd",
                 "standard": "Cookeilandse standaardtijd",
                 "daylight": "Cookeilandse halve zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Cuba": {
@@ -1674,21 +1885,47 @@
                 "generic": "Cubaanse tijd",
                 "standard": "Cubaanse standaardtijd",
                 "daylight": "Cubaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Davis": {
               "long": {
-                "standard": "Davis-tijd"
+                "generic": {},
+                "standard": "Davis-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "DumontDUrville": {
               "long": {
-                "standard": "Dumont-d’Urville-tijd"
+                "generic": {},
+                "standard": "Dumont-d’Urville-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "East_Timor": {
               "long": {
-                "standard": "Oost-Timorese tijd"
+                "generic": {},
+                "standard": "Oost-Timorese tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Easter": {
@@ -1696,11 +1933,23 @@
                 "generic": "Paaseilandse tijd",
                 "standard": "Paaseilandse standaardtijd",
                 "daylight": "Paaseilandse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Ecuador": {
               "long": {
-                "standard": "Ecuadoraanse tijd"
+                "generic": {},
+                "standard": "Ecuadoraanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Europe_Central": {
@@ -1729,7 +1978,14 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Verder-oostelijk-Europese tijd"
+                "generic": {},
+                "standard": "Verder-oostelijk-Europese tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Europe_Western": {
@@ -1749,6 +2005,11 @@
                 "generic": "Falklandeilandse tijd",
                 "standard": "Falklandeilandse standaardtijd",
                 "daylight": "Falklandeilandse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Fiji": {
@@ -1756,26 +2017,59 @@
                 "generic": "Fijische tijd",
                 "standard": "Fijische standaardtijd",
                 "daylight": "Fijische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "French_Guiana": {
               "long": {
-                "standard": "Frans-Guyaanse tijd"
+                "generic": {},
+                "standard": "Frans-Guyaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "French_Southern": {
               "long": {
-                "standard": "Franse zuidelijke en Antarctische tijd"
+                "generic": {},
+                "standard": "Franse zuidelijke en Antarctische tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Galapagos": {
               "long": {
-                "standard": "Galapagoseilandse standaardtijd"
+                "generic": {},
+                "standard": "Galapagoseilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Gambier": {
               "long": {
-                "standard": "Gambiereilandse tijd"
+                "generic": {},
+                "standard": "Gambiereilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Georgia": {
@@ -1783,19 +2077,35 @@
                 "generic": "Georgische tijd",
                 "standard": "Georgische standaardtijd",
                 "daylight": "Georgische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Gilbert_Islands": {
               "long": {
-                "standard": "Gilberteilandse tijd"
+                "generic": {},
+                "standard": "Gilberteilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "GMT": {
               "long": {
-                "standard": "Greenwich Mean Time"
+                "generic": {},
+                "standard": "Greenwich Mean Time",
+                "daylight": {}
               },
               "short": {
-                "standard": "GMT"
+                "generic": {},
+                "standard": "GMT",
+                "daylight": {}
               }
             },
             "Greenland_Eastern": {
@@ -1803,6 +2113,11 @@
                 "generic": "Oost-Groenlandse tijd",
                 "standard": "Oost-Groenlandse standaardtijd",
                 "daylight": "Oost-Groenlandse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Greenland_Western": {
@@ -1810,21 +2125,47 @@
                 "generic": "West-Groenlandse tijd",
                 "standard": "West-Groenlandse standaardtijd",
                 "daylight": "West-Groenlandse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Guam": {
               "long": {
-                "standard": "Guamese standaardtijd"
+                "generic": {},
+                "standard": "Guamese standaardtijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Gulf": {
               "long": {
-                "standard": "Golf-standaardtijd"
+                "generic": {},
+                "standard": "Golf-standaardtijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Guyana": {
               "long": {
-                "standard": "Guyaanse tijd"
+                "generic": {},
+                "standard": "Guyaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Hawaii_Aleutian": {
@@ -1844,6 +2185,11 @@
                 "generic": "Hongkongse tijd",
                 "standard": "Hongkongse standaardtijd",
                 "daylight": "Hongkongse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Hovd": {
@@ -1851,36 +2197,83 @@
                 "generic": "Hovd-tijd",
                 "standard": "Hovd-standaardtijd",
                 "daylight": "Hovd-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "India": {
               "long": {
-                "standard": "Indiase tijd"
+                "generic": {},
+                "standard": "Indiase tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Indian_Ocean": {
               "long": {
-                "standard": "Indische Oceaan-tijd"
+                "generic": {},
+                "standard": "Indische Oceaan-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Indochina": {
               "long": {
-                "standard": "Indochinese tijd"
+                "generic": {},
+                "standard": "Indochinese tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Indonesia_Central": {
               "long": {
-                "standard": "Centraal-Indonesische tijd"
+                "generic": {},
+                "standard": "Centraal-Indonesische tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Indonesia_Eastern": {
               "long": {
-                "standard": "Oost-Indonesische tijd"
+                "generic": {},
+                "standard": "Oost-Indonesische tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Indonesia_Western": {
               "long": {
-                "standard": "West-Indonesische tijd"
+                "generic": {},
+                "standard": "West-Indonesische tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Iran": {
@@ -1888,6 +2281,11 @@
                 "generic": "Iraanse tijd",
                 "standard": "Iraanse standaardtijd",
                 "daylight": "Iraanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Irkutsk": {
@@ -1895,6 +2293,11 @@
                 "generic": "Irkoetsk-tijd",
                 "standard": "Irkoetsk-standaardtijd",
                 "daylight": "Irkoetsk-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Israel": {
@@ -1902,6 +2305,11 @@
                 "generic": "Israëlische tijd",
                 "standard": "Israëlische standaardtijd",
                 "daylight": "Israëlische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Japan": {
@@ -1909,6 +2317,11 @@
                 "generic": "Japanse tijd",
                 "standard": "Japanse standaardtijd",
                 "daylight": "Japanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Kamchatka": {
@@ -1916,16 +2329,35 @@
                 "generic": "Petropavlovsk-Kamtsjatski-tijd",
                 "standard": "Petropavlovsk-Kamtsjatski-standaardtijd",
                 "daylight": "Petropavlovsk-Kamtsjatski-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Kazakhstan_Eastern": {
               "long": {
-                "standard": "Oost-Kazachse tijd"
+                "generic": {},
+                "standard": "Oost-Kazachse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "West-Kazachse tijd"
+                "generic": {},
+                "standard": "West-Kazachse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Korea": {
@@ -1933,11 +2365,23 @@
                 "generic": "Koreaanse tijd",
                 "standard": "Koreaanse standaardtijd",
                 "daylight": "Koreaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Kosrae": {
               "long": {
-                "standard": "Kosraese tijd"
+                "generic": {},
+                "standard": "Kosraese tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Krasnoyarsk": {
@@ -1945,21 +2389,47 @@
                 "generic": "Krasnojarsk-tijd",
                 "standard": "Krasnojarsk-standaardtijd",
                 "daylight": "Krasnojarsk-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Kyrgystan": {
               "long": {
-                "standard": "Kirgizische tijd"
+                "generic": {},
+                "standard": "Kirgizische tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Lanka": {
               "long": {
-                "standard": "Lanka-tijd"
+                "generic": {},
+                "standard": "Lanka-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Line_Islands": {
               "long": {
-                "standard": "Line-eilandse tijd"
+                "generic": {},
+                "standard": "Line-eilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Lord_Howe": {
@@ -1967,6 +2437,11 @@
                 "generic": "Lord Howe-eilandse tijd",
                 "standard": "Lord Howe-eilandse standaardtijd",
                 "daylight": "Lord Howe-eilandse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Macau": {
@@ -1974,11 +2449,23 @@
                 "generic": "Macause tijd",
                 "standard": "Macause standaardtijd",
                 "daylight": "Macause zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Macquarie": {
               "long": {
-                "standard": "Macquarie-eilandse tijd"
+                "generic": {},
+                "standard": "Macquarie-eilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Magadan": {
@@ -1986,26 +2473,59 @@
                 "generic": "Magadan-tijd",
                 "standard": "Magadan-standaardtijd",
                 "daylight": "Magadan-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Malaysia": {
               "long": {
-                "standard": "Maleisische tijd"
+                "generic": {},
+                "standard": "Maleisische tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Maldives": {
               "long": {
-                "standard": "Maldivische tijd"
+                "generic": {},
+                "standard": "Maldivische tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Marquesas": {
               "long": {
-                "standard": "Marquesaseilandse tijd"
+                "generic": {},
+                "standard": "Marquesaseilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Marshall_Islands": {
               "long": {
-                "standard": "Marshalleilandse tijd"
+                "generic": {},
+                "standard": "Marshalleilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Mauritius": {
@@ -2013,11 +2533,23 @@
                 "generic": "Mauritiaanse tijd",
                 "standard": "Mauritiaanse standaardtijd",
                 "daylight": "Mauritiaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Mawson": {
               "long": {
-                "standard": "Mawson-tijd"
+                "generic": {},
+                "standard": "Mawson-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Mexico_Northwest": {
@@ -2025,6 +2557,11 @@
                 "generic": "Noordwest-Mexicaanse tijd",
                 "standard": "Noordwest-Mexicaanse standaardtijd",
                 "daylight": "Noordwest-Mexicaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Mexico_Pacific": {
@@ -2032,6 +2569,11 @@
                 "generic": "Mexicaanse Pacific-tijd",
                 "standard": "Mexicaanse Pacific-standaardtijd",
                 "daylight": "Mexicaanse Pacific-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Mongolia": {
@@ -2039,6 +2581,11 @@
                 "generic": "Ulaanbaatar-tijd",
                 "standard": "Ulaanbaatar-standaardtijd",
                 "daylight": "Ulaanbaatar-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Moscow": {
@@ -2046,21 +2593,47 @@
                 "generic": "Moskou-tijd",
                 "standard": "Moskou-standaardtijd",
                 "daylight": "Moskou-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Myanmar": {
               "long": {
-                "standard": "Myanmarese tijd"
+                "generic": {},
+                "standard": "Myanmarese tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Nauru": {
               "long": {
-                "standard": "Nauruaanse tijd"
+                "generic": {},
+                "standard": "Nauruaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Nepal": {
               "long": {
-                "standard": "Nepalese tijd"
+                "generic": {},
+                "standard": "Nepalese tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "New_Caledonia": {
@@ -2068,6 +2641,11 @@
                 "generic": "Nieuw-Caledonische tijd",
                 "standard": "Nieuw-Caledonische standaardtijd",
                 "daylight": "Nieuw-Caledonische zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "New_Zealand": {
@@ -2075,6 +2653,11 @@
                 "generic": "Nieuw-Zeelandse tijd",
                 "standard": "Nieuw-Zeelandse standaardtijd",
                 "daylight": "Nieuw-Zeelandse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Newfoundland": {
@@ -2082,16 +2665,35 @@
                 "generic": "Newfoundland-tijd",
                 "standard": "Newfoundland-standaardtijd",
                 "daylight": "Newfoundland-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Niue": {
               "long": {
-                "standard": "Niuese tijd"
+                "generic": {},
+                "standard": "Niuese tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkeilandse tijd"
+                "generic": {},
+                "standard": "Norfolkeilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Noronha": {
@@ -2099,11 +2701,23 @@
                 "generic": "Fernando de Noronha-tijd",
                 "standard": "Fernando de Noronha-standaardtijd",
                 "daylight": "Fernando de Noronha-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "North_Mariana": {
               "long": {
-                "standard": "Noordelijk Mariaanse tijd"
+                "generic": {},
+                "standard": "Noordelijk Mariaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Novosibirsk": {
@@ -2111,6 +2725,11 @@
                 "generic": "Novosibirsk-tijd",
                 "standard": "Novosibirsk-standaardtijd",
                 "daylight": "Novosibirsk-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Omsk": {
@@ -2118,6 +2737,11 @@
                 "generic": "Omsk-tijd",
                 "standard": "Omsk-standaardtijd",
                 "daylight": "Omsk-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Pakistan": {
@@ -2125,16 +2749,35 @@
                 "generic": "Pakistaanse tijd",
                 "standard": "Pakistaanse standaardtijd",
                 "daylight": "Pakistaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Palau": {
               "long": {
-                "standard": "Belause tijd"
+                "generic": {},
+                "standard": "Belause tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Papua_New_Guinea": {
               "long": {
-                "standard": "Papoea-Nieuw-Guineese tijd"
+                "generic": {},
+                "standard": "Papoea-Nieuw-Guineese tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Paraguay": {
@@ -2142,6 +2785,11 @@
                 "generic": "Paraguayaanse tijd",
                 "standard": "Paraguayaanse standaardtijd",
                 "daylight": "Paraguayaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Peru": {
@@ -2149,6 +2797,11 @@
                 "generic": "Peruaanse tijd",
                 "standard": "Peruaanse standaardtijd",
                 "daylight": "Peruaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Philippines": {
@@ -2156,11 +2809,23 @@
                 "generic": "Filipijnse tijd",
                 "standard": "Filipijnse standaardtijd",
                 "daylight": "Filipijnse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Phoenix_Islands": {
               "long": {
-                "standard": "Phoenixeilandse tijd"
+                "generic": {},
+                "standard": "Phoenixeilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Pierre_Miquelon": {
@@ -2168,21 +2833,47 @@
                 "generic": "Saint Pierre en Miquelon-tijd",
                 "standard": "Saint Pierre en Miquelon-standaardtijd",
                 "daylight": "Saint Pierre en Miquelon-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Pitcairn": {
               "long": {
-                "standard": "Pitcairneilandse tijd"
+                "generic": {},
+                "standard": "Pitcairneilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Ponape": {
               "long": {
-                "standard": "Pohnpei-tijd"
+                "generic": {},
+                "standard": "Pohnpei-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Pyongyang": {
               "long": {
-                "standard": "Pyongyang-tijd"
+                "generic": {},
+                "standard": "Pyongyang-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Qyzylorda": {
@@ -2190,16 +2881,35 @@
                 "generic": "Qyzylorda-tijd",
                 "standard": "Qyzylorda-standaardtijd",
                 "daylight": "Qyzylorda-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Reunion": {
               "long": {
-                "standard": "Réunionse tijd"
+                "generic": {},
+                "standard": "Réunionse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Rothera": {
               "long": {
-                "standard": "Rothera-tijd"
+                "generic": {},
+                "standard": "Rothera-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Sakhalin": {
@@ -2207,6 +2917,11 @@
                 "generic": "Sachalin-tijd",
                 "standard": "Sachalin-standaardtijd",
                 "daylight": "Sachalin-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Samara": {
@@ -2214,6 +2929,11 @@
                 "generic": "Samara-tijd",
                 "standard": "Samara-standaardtijd",
                 "daylight": "Samara-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Samoa": {
@@ -2221,41 +2941,95 @@
                 "generic": "Samoaanse tijd",
                 "standard": "Samoaanse standaardtijd",
                 "daylight": "Samoaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Seychelles": {
               "long": {
-                "standard": "Seychelse tijd"
+                "generic": {},
+                "standard": "Seychelse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Singapore": {
               "long": {
-                "standard": "Singaporese standaardtijd"
+                "generic": {},
+                "standard": "Singaporese standaardtijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Solomon": {
               "long": {
-                "standard": "Salomonseilandse tijd"
+                "generic": {},
+                "standard": "Salomonseilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "South_Georgia": {
               "long": {
-                "standard": "Zuid-Georgische tijd"
+                "generic": {},
+                "standard": "Zuid-Georgische tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Suriname": {
               "long": {
-                "standard": "Surinaamse tijd"
+                "generic": {},
+                "standard": "Surinaamse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Syowa": {
               "long": {
-                "standard": "Syowa-tijd"
+                "generic": {},
+                "standard": "Syowa-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Tahiti": {
               "long": {
-                "standard": "Tahitiaanse tijd"
+                "generic": {},
+                "standard": "Tahitiaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Taipei": {
@@ -2263,16 +3037,35 @@
                 "generic": "Taipei-tijd",
                 "standard": "Taipei-standaardtijd",
                 "daylight": "Taipei-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Tajikistan": {
               "long": {
-                "standard": "Tadzjiekse tijd"
+                "generic": {},
+                "standard": "Tadzjiekse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Tokelau": {
               "long": {
-                "standard": "Tokelau-eilandse tijd"
+                "generic": {},
+                "standard": "Tokelau-eilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Tonga": {
@@ -2280,11 +3073,23 @@
                 "generic": "Tongaanse tijd",
                 "standard": "Tongaanse standaardtijd",
                 "daylight": "Tongaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Truk": {
               "long": {
-                "standard": "Chuukse tijd"
+                "generic": {},
+                "standard": "Chuukse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Turkmenistan": {
@@ -2292,11 +3097,23 @@
                 "generic": "Turkmeense tijd",
                 "standard": "Turkmeense standaardtijd",
                 "daylight": "Turkmeense zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Tuvalu": {
               "long": {
-                "standard": "Tuvaluaanse tijd"
+                "generic": {},
+                "standard": "Tuvaluaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Uruguay": {
@@ -2304,6 +3121,11 @@
                 "generic": "Uruguayaanse tijd",
                 "standard": "Uruguayaanse standaardtijd",
                 "daylight": "Uruguayaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Uzbekistan": {
@@ -2311,6 +3133,11 @@
                 "generic": "Oezbeekse tijd",
                 "standard": "Oezbeekse standaardtijd",
                 "daylight": "Oezbeekse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Vanuatu": {
@@ -2318,11 +3145,23 @@
                 "generic": "Vanuatuaanse tijd",
                 "standard": "Vanuatuaanse standaardtijd",
                 "daylight": "Vanuatuaanse zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Venezuela": {
               "long": {
-                "standard": "Venezolaanse tijd"
+                "generic": {},
+                "standard": "Venezolaanse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Vladivostok": {
@@ -2330,6 +3169,11 @@
                 "generic": "Vladivostok-tijd",
                 "standard": "Vladivostok-standaardtijd",
                 "daylight": "Vladivostok-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Volgograd": {
@@ -2337,21 +3181,47 @@
                 "generic": "Wolgograd-tijd",
                 "standard": "Wolgograd-standaardtijd",
                 "daylight": "Wolgograd-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Vostok": {
               "long": {
-                "standard": "Vostok-tijd"
+                "generic": {},
+                "standard": "Vostok-tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Wake": {
               "long": {
-                "standard": "Wake-eilandse tijd"
+                "generic": {},
+                "standard": "Wake-eilandse tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Wallis": {
               "long": {
-                "standard": "Wallis en Futunase tijd"
+                "generic": {},
+                "standard": "Wallis en Futunase tijd",
+                "daylight": {}
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Yakutsk": {
@@ -2359,6 +3229,11 @@
                 "generic": "Jakoetsk-tijd",
                 "standard": "Jakoetsk-standaardtijd",
                 "daylight": "Jakoetsk-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             },
             "Yekaterinburg": {
@@ -2366,6 +3241,11 @@
                 "generic": "Jekaterinenburg-tijd",
                 "standard": "Jekaterinenburg-standaardtijd",
                 "daylight": "Jekaterinenburg-zomertijd"
+              },
+              "short": {
+                "generic": {},
+                "standard": {},
+                "daylight": {}
               }
             }
           }

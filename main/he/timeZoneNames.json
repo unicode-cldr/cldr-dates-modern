@@ -3,8 +3,7 @@
     "he": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "he"
       },
@@ -1077,7 +1076,7 @@
                 "exemplarCity": "טומסק"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "אולאאנבטאר"
+                "exemplarCity": "אולאן באטור"
               },
               "Urumqi": {
                 "exemplarCity": "אורומקי"
@@ -1086,7 +1085,7 @@
                 "exemplarCity": "אוסט-נרה"
               },
               "Vientiane": {
-                "exemplarCity": "האנוי"
+                "exemplarCity": "ויינטיאן"
               },
               "Vladivostok": {
                 "exemplarCity": "ולדיווסטוק"
@@ -1324,7 +1323,7 @@
                 "exemplarCity": "רות׳רה"
               },
               "Syowa": {
-                "exemplarCity": "סיוואה"
+                "exemplarCity": "סייווה"
               },
               "Troll": {
                 "exemplarCity": "טרול"
@@ -1517,9 +1516,9 @@
             },
             "Azerbaijan": {
               "long": {
-                "generic": "שעון אזרבייג׳אן",
-                "standard": "שעון אזרבייג׳אן (חורף)",
-                "daylight": "שעון אזרבייג׳אן (קיץ)"
+                "generic": "שעון אזרבייג׳ן",
+                "standard": "שעון אזרבייג׳ן (חורף)",
+                "daylight": "שעון אזרבייג׳ן (קיץ)"
               }
             },
             "Azores": {
@@ -1961,9 +1960,9 @@
             },
             "Mongolia": {
               "long": {
-                "generic": "שעון אולן בטור",
-                "standard": "שעון אולן בטור (חורף)",
-                "daylight": "שעון אולן בטור (קיץ)"
+                "generic": "שעון אולאן באטור",
+                "standard": "שעון אולאן באטור (חורף)",
+                "daylight": "שעון אולאן באטור (קיץ)"
               }
             },
             "Moscow": {

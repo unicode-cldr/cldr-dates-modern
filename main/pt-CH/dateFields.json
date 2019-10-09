@@ -3,8 +3,7 @@
     "pt-CH": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14771 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "pt",
         "territory": "CH"
@@ -324,7 +323,7 @@
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "há {0} segunda-feira",
-              "relativeTimePattern-count-other": "{0} segundas-feiras atrás"
+              "relativeTimePattern-count-other": "há {0} segundas-feiras"
             }
           },
           "mon-short": {

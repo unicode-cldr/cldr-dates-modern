@@ -3,8 +3,7 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "bs"
       },
@@ -873,7 +872,7 @@
                 "exemplarCity": "Ašhabad"
               },
               "Atyrau": {
-                "exemplarCity": "Atyrau"
+                "exemplarCity": "Atiraj"
               },
               "Baghdad": {
                 "exemplarCity": "Bagdad"
@@ -1023,7 +1022,7 @@
                 "exemplarCity": "Katar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanaj"
               },
               "Qyzylorda": {
                 "exemplarCity": "Kizilorda"
