@@ -3,7 +3,7 @@
     "bn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bn"
       },
@@ -1985,7 +1985,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "নরফোক দ্বীপ সময়"
+                "generic": "নরফোক দ্বীপ সময়",
+                "standard": "নরফোক দ্বীপ মানক সময়",
+                "daylight": "নরফোক দ্বীপ দিবালোক সময়"
               }
             },
             "Noronha": {

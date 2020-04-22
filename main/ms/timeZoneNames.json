@@ -3,7 +3,7 @@
     "ms": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ms"
       },
@@ -1995,7 +1995,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Waktu Kepulauan Norfolk"
+                "generic": "Waktu Kepulauan Norfolk",
+                "standard": "Waktu Piawai Kepulauan Norfolk",
+                "daylight": "Waktu Musim Panas Kepulauan Norfolk"
               }
             },
             "Noronha": {

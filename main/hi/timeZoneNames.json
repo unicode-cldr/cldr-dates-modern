@@ -3,7 +3,7 @@
     "hi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hi"
       },
@@ -1985,7 +1985,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "नॉरफ़ॉक द्वीप समय"
+                "generic": "नॉरफ़ॉक द्वीप समय",
+                "standard": "नॉरफ़ॉक द्वीप मानक समय",
+                "daylight": "नॉरफ़ॉक द्वीप डेलाइट समय"
               }
             },
             "Noronha": {

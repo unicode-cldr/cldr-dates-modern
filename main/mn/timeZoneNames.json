@@ -3,7 +3,7 @@
     "mn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mn"
       },
@@ -1968,7 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Норфолк арлын цаг"
+                "generic": "Норфолк арлын цаг",
+                "standard": "Норфолк арлын стандарт цаг",
+                "daylight": "Норфолк арлын зуны цаг"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "lo": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lo"
       },
@@ -403,9 +403,9 @@
                   "y": "GGGGG d/M/y – d/M/y"
                 },
                 "GyMEd": {
-                  "d": "GGGGG y-MM-dd, E – y-MM-dd, E",
-                  "G": "GGGGG y-MM-dd, E – GGGGG y-MM-dd, E",
-                  "M": "GGGGG y-MM-dd, E – y-MM-dd, E",
+                  "d": "E, d/M GGGGG y – E, d/M GGGGG y",
+                  "G": "E, d/M GGGGG y – E, d/M GGGGG y",
+                  "M": "E, d/M GGGGG y – E, d/M GGGGG y",
                   "y": "GGGGG y-MM-dd, E – y-MM-dd, E"
                 },
                 "GyMMM": {
@@ -415,15 +415,15 @@
                 },
                 "GyMMMd": {
                   "d": "G y MMM d–d",
-                  "G": "G y MMM d – G y MMM d",
-                  "M": "G y MMM d – MMM d",
-                  "y": "G y MMM d – y MMM d"
+                  "G": "d MMM G y– d MMM G y",
+                  "M": "d MMM – d MMM G y",
+                  "y": "d MMM G y– d MMM G y"
                 },
                 "GyMMMEd": {
-                  "d": "G y MMM d, E – MMM d, E",
-                  "G": "G y MMM d, E – G y MMM d, E",
-                  "M": "G y MMM d, E – MMM d, E",
-                  "y": "G y MMM d, E – y MMM d, E"
+                  "d": "E, d MMM – E, d MMM G y",
+                  "G": "E, d MMM G y – E, d MMM G y",
+                  "M": "E, d MMM – E, d MMM G y",
+                  "y": "E, d MMM G y – E, d MMM G y"
                 },
                 "h": {
                   "a": "h a – h a",

@@ -3,7 +3,7 @@
     "lt": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lt"
       },
@@ -2032,7 +2032,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolko Salų laikas"
+                "generic": "Norfolko Salų laikas",
+                "standard": "Norfolko Salų žiemos laikas",
+                "daylight": "Norfolko Salų vasaros laikas"
               }
             },
             "Noronha": {

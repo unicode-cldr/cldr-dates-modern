@@ -3,7 +3,7 @@
     "zh-Hant-HK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zh",
         "script": "Hant",
@@ -2072,7 +2072,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "諾福克島時間"
+                "generic": "諾福克島時間",
+                "standard": "諾福克島標準時間",
+                "daylight": "諾福克島夏令時間"
               }
             },
             "Noronha": {

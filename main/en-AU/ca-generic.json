@@ -3,7 +3,7 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "en",
         "territory": "AU"
@@ -418,10 +418,10 @@
                   "y": "dd/MM/y – dd/MM/y GGGGG"
                 },
                 "GyMEd": {
-                  "d": "E, dd/MM/y – E, dd/MM/y GGGGG",
-                  "G": "E, dd/MM/y GGGGG – E, dd/MM/y GGGGG",
-                  "M": "E, dd/MM/y – E, dd/MM/y GGGGG",
-                  "y": "E, dd/MM/y – E, dd/MM/y GGGGG"
+                  "d": "E dd/MM/y – E dd/MM/y GGGGG",
+                  "G": "E dd/MM/y GGGGG – E dd/MM/y GGGGG",
+                  "M": "E dd/MM/y – E dd/MM/y GGGGG",
+                  "y": "E dd/MM/y – E dd/MM/y GGGGG"
                 },
                 "GyMMM": {
                   "G": "MMM y G – MMM y G",
@@ -435,10 +435,10 @@
                   "y": "d MMM y – d MMM y G"
                 },
                 "GyMMMEd": {
-                  "d": "E, d MMM – E, d MMM y G",
-                  "G": "E, d MMM y G – E, d MMM y G",
-                  "M": "E, d MMM – E, d MMM y G",
-                  "y": "E, d MMM y – E, d MMM y G"
+                  "d": "E d MMM – E d MMM y G",
+                  "G": "E d MMM y G – E d MMM y G",
+                  "M": "E d MMM – E d MMM y G",
+                  "y": "E d MMM y – E d MMM y G"
                 },
                 "h": {
                   "a": "h a – h a",

@@ -3,7 +3,7 @@
     "be": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "be"
       },
@@ -1968,7 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Час вострава Норфалк"
+                "generic": "Час вострава Норфалк",
+                "standard": "Стандартны час вострава Норфалк",
+                "daylight": "Летні час вострава Норфалк"
               }
             },
             "Noronha": {

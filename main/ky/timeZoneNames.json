@@ -3,7 +3,7 @@
     "ky": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ky"
       },
@@ -1968,7 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Норфолк убактысы"
+                "generic": "Норфолк убактысы",
+                "standard": "Норфолк кышкы убактысы",
+                "daylight": "Норфолк жайкы убактысы"
               }
             },
             "Noronha": {

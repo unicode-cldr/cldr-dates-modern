@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eu"
       },
@@ -41,18 +41,18 @@
                   "12": "A"
                 },
                 "wide": {
-                  "1": "urtarrila",
-                  "2": "otsaila",
-                  "3": "martxoa",
-                  "4": "apirila",
-                  "5": "maiatza",
-                  "6": "ekaina",
-                  "7": "uztaila",
-                  "8": "abuztua",
-                  "9": "iraila",
-                  "10": "urria",
-                  "11": "azaroa",
-                  "12": "abendua"
+                  "1": "urtarrilak",
+                  "2": "otsailak",
+                  "3": "martxoak",
+                  "4": "apirilak",
+                  "5": "maiatzak",
+                  "6": "ekainak",
+                  "7": "uztailak",
+                  "8": "abuztuak",
+                  "9": "irailak",
+                  "10": "urriak",
+                  "11": "azaroak",
+                  "12": "abenduak"
                 }
               },
               "stand-alone": {

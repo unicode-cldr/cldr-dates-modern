@@ -3,7 +3,7 @@
     "si": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "si"
       },
@@ -1973,7 +1973,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "නොෆොල්ක් දුපත් වේලාව"
+                "generic": "නොෆොල්ක් දුපත් වේලාව",
+                "standard": "නොෆොල්ක් දුපත් සම්මත වේලාව",
+                "daylight": "නොෆොල්ක් දුපත් ග්‍රීෂ්ම වේලාව"
               }
             },
             "Noronha": {

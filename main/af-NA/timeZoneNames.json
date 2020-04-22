@@ -3,7 +3,7 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "af",
         "territory": "NA"
@@ -1997,7 +1997,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkeiland-tyd"
+                "generic": "Norfolkeiland-tyd",
+                "standard": "Norfolkeiland-standaardtyd",
+                "daylight": "Norfolkeiland-dagligtyd"
               }
             },
             "Noronha": {

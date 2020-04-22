@@ -3,7 +3,7 @@
     "kk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kk"
       },
@@ -1973,7 +1973,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Норфолк аралы уақыты"
+                "generic": "Норфолк аралы уақыты",
+                "standard": "Норфолк аралы стандартты уақыты",
+                "daylight": "Норфолк аралы жазғы уақыты"
               }
             },
             "Noronha": {

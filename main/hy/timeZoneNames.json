@@ -3,7 +3,7 @@
     "hy": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hy"
       },
@@ -1968,7 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Նորֆոլկ կղզու ժամանակ"
+                "generic": "Նորֆոլկ կղզու ժամանակ",
+                "standard": "Նորֆոլկ կղզու ստանդարտ ժամանակ",
+                "daylight": "Նորֆոլկ կղզու ամառային ժամանակ"
               }
             },
             "Noronha": {

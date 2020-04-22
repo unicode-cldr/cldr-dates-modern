@@ -3,7 +3,7 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ko",
         "territory": "KP"
@@ -2023,7 +2023,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "노퍽섬 시간"
+                "generic": "노퍽섬 시간",
+                "standard": "노퍽섬 표준시",
+                "daylight": "노퍽섬 하계 표준시"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cy"
       },
@@ -1986,7 +1986,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Amser Ynys Norfolk"
+                "generic": "Amser Ynys Norfolk",
+                "standard": "Amser Safonol Ynys Norfolk",
+                "daylight": "Amser Haf Ynys Norfolk"
               }
             },
             "Noronha": {

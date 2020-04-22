@@ -3,7 +3,7 @@
     "so": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "so"
       },
@@ -76,9 +76,9 @@
           },
           "quarter-short": {
             "displayName": "rbc",
-            "relative-type--1": "Rubucii hore",
+            "relative-type--1": "Rubucii ugu dambeeyay",
             "relative-type-0": "Rubucan",
-            "relative-type-1": "Rubuca danbe",
+            "relative-type-1": "Rubuca xiga",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} rbc",
               "relativeTimePattern-count-other": "{0} rbc"
@@ -90,9 +90,9 @@
           },
           "quarter-narrow": {
             "displayName": "rbc",
-            "relative-type--1": "Rubucii hore",
+            "relative-type--1": "Rubucii ugu dambeeyay",
             "relative-type-0": "Rubucan",
-            "relative-type-1": "Rubuca danbe",
+            "relative-type-1": "Rubuca xiga",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} rbc",
               "relativeTimePattern-count-other": "{0} rbc"
@@ -635,7 +635,7 @@
           },
           "second-short": {
             "displayName": "ilbrqsi",
-            "relative-type-0": "Imika",
+            "relative-type-0": "Iminka",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ilbrqsi",
               "relativeTimePattern-count-other": "{0} ilbrqsi"
@@ -647,7 +647,7 @@
           },
           "second-narrow": {
             "displayName": "ilbrqsi",
-            "relative-type-0": "Imika",
+            "relative-type-0": "Iminka",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ilbrqsi",
               "relativeTimePattern-count-other": "{0} ilbrqsi"

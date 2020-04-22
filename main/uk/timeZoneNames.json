@@ -3,7 +3,7 @@
     "uk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uk"
       },
@@ -1994,7 +1994,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "за часом на острові Норфолк"
+                "generic": "за часом на острові Норфолк",
+                "standard": "за стандартним часом на острові Норфолк",
+                "daylight": "за літнім часом на острові Норфолк"
               }
             },
             "Noronha": {

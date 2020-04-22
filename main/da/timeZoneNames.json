@@ -3,7 +3,7 @@
     "da": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "da"
       },
@@ -2042,7 +2042,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk Island-tid"
+                "generic": "Norfolk Island-tid",
+                "standard": "Norfolk Island-normaltid",
+                "daylight": "Norfolk Island-sommertid"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "cs": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "cs"
       },
@@ -2072,7 +2072,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkský čas"
+                "generic": "Norfolkský čas",
+                "standard": "Norfolkský standardní čas",
+                "daylight": "Norfolkský letní čas"
               }
             },
             "Noronha": {

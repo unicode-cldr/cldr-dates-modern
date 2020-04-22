@@ -3,7 +3,7 @@
     "fi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fi"
       },
@@ -2036,7 +2036,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkinsaaren aika"
+                "generic": "Norfolkinsaaren aika",
+                "standard": "Norfolkinsaaren normaaliaika",
+                "daylight": "Norfolkinsaaren kesäaika"
               }
             },
             "Noronha": {

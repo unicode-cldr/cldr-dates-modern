@@ -3,7 +3,7 @@
     "sr-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sr",
         "script": "Cyrl"
@@ -2046,7 +2046,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Норфолк Острво време"
+                "generic": "Норфолк Острво време",
+                "standard": "Норфолк Острво, стандардно време",
+                "daylight": "Норфолк Острво, летње време"
               }
             },
             "Noronha": {

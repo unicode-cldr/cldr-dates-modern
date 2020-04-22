@@ -3,7 +3,7 @@
     "az-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "az",
         "script": "Latn"
@@ -1969,7 +1969,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk Adası Vaxtı"
+                "generic": "Norfolk Adası Vaxtı",
+                "standard": "Norfolk Adası Standart Vaxtı",
+                "daylight": "Norfolk Adası Yay Vaxtı"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "ga": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ga"
       },
@@ -2061,7 +2061,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Am Oileán Norfolk"
+                "generic": "Am Oileán Norfolk",
+                "standard": "Am Caighdeánach Oileán Norfolk",
+                "daylight": "Am Samhraidh Oileán Norfolk"
               }
             },
             "Noronha": {

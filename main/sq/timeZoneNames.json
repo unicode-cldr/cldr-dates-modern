@@ -3,7 +3,7 @@
     "sq": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sq"
       },
@@ -2032,7 +2032,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Ora e Ishullit Norfolk"
+                "generic": "Ora e Ishullit Norfolk",
+                "standard": "Ora standarde e Ishullit Norfolk",
+                "daylight": "Ora verore e Ishullit Norfolk"
               }
             },
             "Noronha": {

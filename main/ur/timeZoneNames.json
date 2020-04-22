@@ -3,7 +3,7 @@
     "ur": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ur"
       },
@@ -1982,7 +1982,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "نارفوک آئلینڈ کا وقت"
+                "generic": "نارفوک آئلینڈ کا وقت",
+                "standard": "نارفوک آئلینڈ کا معیاری وقت",
+                "daylight": "نارفوک آئلینڈ کا موسم گرما کا وقت"
               }
             },
             "Noronha": {

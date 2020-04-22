@@ -3,7 +3,7 @@
     "ms": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ms"
       },
@@ -283,21 +283,21 @@
             "eras": {
               "eraNames": {
                 "0": "S.M.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "S.M.",
                 "1": "TM",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "TM"
               },
               "eraAbbr": {
                 "0": "S.M.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "S.M.",
                 "1": "TM",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "TM"
               },
               "eraNarrow": {
                 "0": "S.M.",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "S.M.",
                 "1": "TM",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "TM"
               }
             },
             "dateFormats": {

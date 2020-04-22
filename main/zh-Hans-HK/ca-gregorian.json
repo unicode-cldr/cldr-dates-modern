@@ -3,7 +3,7 @@
     "zh-Hans-HK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zh",
         "script": "Hans",
@@ -297,21 +297,21 @@
             "eras": {
               "eraNames": {
                 "0": "公元前",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "公元前",
                 "1": "公元",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "公元"
               },
               "eraAbbr": {
                 "0": "公元前",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "公元前",
                 "1": "公元",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "公元"
               },
               "eraNarrow": {
                 "0": "公元前",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "公元前",
                 "1": "公元",
-                "1-alt-variant": "CE"
+                "1-alt-variant": "公元"
               }
             },
             "dateFormats": {

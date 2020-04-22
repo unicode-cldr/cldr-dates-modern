@@ -3,7 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "jv"
       },
@@ -1962,7 +1962,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Wektu Pulo Norfolk"
+                "generic": "Wektu Pulo Norfolk",
+                "standard": "Wektu Standar Pulo Norfolk",
+                "daylight": "Wektu Ketigo Pulo Norfolk"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "en-NZ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "en",
         "territory": "NZ"
@@ -2066,7 +2066,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk Island Time"
+                "generic": "Norfolk Island Time",
+                "standard": "Norfolk Island Standard Time",
+                "daylight": "Norfolk Island Daylight Time"
               }
             },
             "Noronha": {

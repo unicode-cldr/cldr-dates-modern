@@ -3,7 +3,7 @@
     "nb-SJ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nb",
         "territory": "SJ"
@@ -2086,7 +2086,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "tidssone for Norfolkøya"
+                "generic": "tidssone for Norfolkøya",
+                "standard": "normaltid for Norfolkøya",
+                "daylight": "sommertid for Norfolkøya"
               }
             },
             "Noronha": {

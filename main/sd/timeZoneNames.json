@@ -3,7 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sd"
       },
@@ -1965,7 +1965,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "نار فوڪ آئي لينڊ جو وقت"
+                "generic": "نار فوڪ آئي لينڊ جو وقت",
+                "standard": "نار فوڪ آئي لينڊ جو معياري وقت",
+                "daylight": "نار فوڪ آئي لينڊ جي ڏينهن جو وقت"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "ca": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ca"
       },
@@ -2007,7 +2007,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Hora de les illes Norfolk"
+                "generic": "Hora de les illes Norfolk",
+                "standard": "Hora estàndard de les illes Norfolk",
+                "daylight": "Hora d’estiu de les illes Norfolk"
               }
             },
             "Noronha": {

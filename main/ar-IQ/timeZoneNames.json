@@ -3,7 +3,7 @@
     "ar-IQ": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ar",
         "territory": "IQ"
@@ -1991,7 +1991,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "توقيت جزيرة نورفولك"
+                "generic": "توقيت جزيرة نورفولك",
+                "standard": "توقيت جزيرة نورفولك الرسمي",
+                "daylight": "توقيت جزيرة نورفولك الصيفي"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "fr-KM": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fr",
         "territory": "KM"
@@ -2016,7 +2016,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "heure de l’île Norfolk"
+                "generic": "heure de l’île Norfolk",
+                "standard": "heure normale de l’île Norfolk",
+                "daylight": "heure d’été de l’île Norfolk"
               }
             },
             "Noronha": {

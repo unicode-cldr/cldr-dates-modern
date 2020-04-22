@@ -3,7 +3,7 @@
     "en-US-POSIX": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "en",
         "territory": "US",
@@ -2074,7 +2074,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk Island Time"
+                "generic": "Norfolk Island Time",
+                "standard": "Norfolk Island Standard Time",
+                "daylight": "Norfolk Island Daylight Time"
               }
             },
             "Noronha": {

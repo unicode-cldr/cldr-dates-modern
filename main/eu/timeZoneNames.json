@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "eu"
       },
@@ -1022,7 +1022,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Kyzylorda"
@@ -2000,7 +2000,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk uharteetako ordua"
+                "generic": "Norfolk uharteetako ordua",
+                "standard": "Norfolk uharteetako ordua estandarra",
+                "daylight": "Norfolk uharteetako udako ordua"
               }
             },
             "Noronha": {

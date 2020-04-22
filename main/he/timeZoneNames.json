@@ -3,7 +3,7 @@
     "he": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "he"
       },
@@ -2015,7 +2015,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "שעון האי נורפוק"
+                "generic": "שעון האי נורפוק",
+                "standard": "שעון האי נורפוק (חורף)",
+                "daylight": "שעון האי נורפוק (קיץ)"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "tk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "tk"
       },
@@ -1968,7 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk adasy wagty"
+                "generic": "Norfolk adasy wagty",
+                "standard": "Norfolk adasy standart wagty",
+                "daylight": "Norfolk adasy tomusky wagty"
               }
             },
             "Noronha": {

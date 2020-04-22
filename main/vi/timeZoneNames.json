@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "vi"
       },
@@ -2072,7 +2072,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Giờ đảo Norfolk"
+                "generic": "Giờ Đảo Norfolk",
+                "standard": "Giờ Chuẩn Đảo Norfolk",
+                "daylight": "Giờ Mùa Hè Đảo Norfolk"
               }
             },
             "Noronha": {

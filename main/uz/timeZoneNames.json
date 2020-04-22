@@ -3,7 +3,7 @@
     "uz": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "uz"
       },
@@ -1022,7 +1022,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kustanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qizilo‘rda"
@@ -1968,7 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk oroli vaqti"
+                "generic": "Norfolk oroli vaqti",
+                "standard": "Norfolk oroli standart vaqti",
+                "daylight": "Norfolk oroli yozgi vaqti"
               }
             },
             "Noronha": {

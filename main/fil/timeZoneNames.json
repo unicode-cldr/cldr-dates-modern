@@ -3,7 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fil"
       },
@@ -1982,7 +1982,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Oras sa Norfolk Island"
+                "generic": "Oras sa Norfolk Island",
+                "standard": "Standard na Norfolk Island",
+                "daylight": "Daylight Time sa Norfolk Island"
               }
             },
             "Noronha": {

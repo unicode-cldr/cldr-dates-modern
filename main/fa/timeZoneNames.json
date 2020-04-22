@@ -3,7 +3,7 @@
     "fa": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "fa"
       },
@@ -2006,7 +2006,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "وقت جزیرهٔ نورفولک"
+                "generic": "وقت جزیرهٔ نورفولک",
+                "standard": "وقت عادی جزیرهٔ نورفولک",
+                "daylight": "وقت تابستانی جزیرهٔ نورفولک"
               }
             },
             "Noronha": {

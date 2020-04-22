@@ -3,7 +3,7 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "or"
       },
@@ -76,8 +76,8 @@
           },
           "quarter-short": {
             "displayName": "ତ୍ରୟ.",
-            "relative-type--1": "ଗତ ତ୍ରୟମାସ",
-            "relative-type-0": "ଗତ ତ୍ରୟମାସ",
+            "relative-type--1": "ଗତ ତିନିମାସ",
+            "relative-type-0": "ଏହି ତ୍ରୟମାସ",
             "relative-type-1": "ଆଗାମୀ ତ୍ରୟମାସ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ତ୍ରୟ. ରେ",
@@ -90,9 +90,9 @@
           },
           "quarter-narrow": {
             "displayName": "ତ୍ରୟ.",
-            "relative-type--1": "ଗତ ତ୍ରୟମାସ",
-            "relative-type-0": "ଗତ ତ୍ରୟମାସ",
-            "relative-type-1": "ଆଗାମୀ ତ୍ରୟମାସ",
+            "relative-type--1": "ଗତ ତିନିମାସ",
+            "relative-type-0": "ଏହି ତିନିମାସ",
+            "relative-type-1": "ଆଗାମୀ ତିନିମାସ",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "{0} ତ୍ରୟ. ରେ",
               "relativeTimePattern-count-other": "{0} ତ୍ରୟ. ରେ"

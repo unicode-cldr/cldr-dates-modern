@@ -3,7 +3,7 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bs",
         "script": "Latn"
@@ -2028,7 +2028,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolško vrijeme"
+                "generic": "Norfolško vrijeme",
+                "standard": "Norfolško standardno vrijeme",
+                "daylight": "Norfolško ljetno vrijeme"
               }
             },
             "Noronha": {

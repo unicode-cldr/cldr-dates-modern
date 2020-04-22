@@ -3,7 +3,7 @@
     "ps": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ps"
       },
@@ -408,7 +408,7 @@
                 "exemplarCity": "ساو پاولو"
               },
               "Scoresbysund": {
-                "exemplarCity": "Ittoqqortoormiit"
+                "exemplarCity": "اټوکوټورمیټ"
               },
               "Sitka": {
                 "exemplarCity": "سیټکا"
@@ -1178,7 +1178,7 @@
                 "exemplarCity": "اکلند"
               },
               "Bougainville": {
-                "exemplarCity": "Bougainville"
+                "exemplarCity": "بوګن ویل"
               },
               "Chatham": {
                 "exemplarCity": "چاتام"
@@ -1965,7 +1965,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "د نورفکاس ټاپو وخت"
+                "generic": "د نورفکاس ټاپو وخت",
+                "standard": "د نورفکاس ټاپو معياري وخت",
+                "daylight": "د نورفکاس ټاپو اوړي وخت"
               }
             },
             "Noronha": {

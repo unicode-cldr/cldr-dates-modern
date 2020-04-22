@@ -3,7 +3,7 @@
     "so-KE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "so",
         "territory": "KE"
@@ -265,10 +265,10 @@
                 "1-alt-variant": "TM"
               },
               "eraNarrow": {
-                "0": "CH",
+                "0": "B",
                 "0-alt-variant": "KTM",
-                "1": "CD",
-                "1-alt-variant": "TM"
+                "1": "A",
+                "1-alt-variant": "CE"
               }
             },
             "dateFormats": {

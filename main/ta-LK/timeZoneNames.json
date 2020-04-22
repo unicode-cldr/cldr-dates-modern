@@ -3,7 +3,7 @@
     "ta-LK": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ta",
         "territory": "LK"
@@ -2031,7 +2031,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "நார்ஃபோக் தீவு நேரம்"
+                "generic": "நார்ஃபோக் தீவு நேரம்",
+                "standard": "நார்ஃபோக் தீவு நிலையான நேரம்",
+                "daylight": "நார்ஃபோக் தீவு கோடை நேரம்"
               }
             },
             "Noronha": {

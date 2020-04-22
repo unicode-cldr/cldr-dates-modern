@@ -3,7 +3,7 @@
     "it": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "it"
       },
@@ -1997,7 +1997,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Ora delle Isole Norfolk"
+                "generic": "Ora delle Isole Norfolk",
+                "standard": "Ora standard delle Isole Norfolk",
+                "daylight": "Ora legale delle Isole Norfolk"
               }
             },
             "Noronha": {

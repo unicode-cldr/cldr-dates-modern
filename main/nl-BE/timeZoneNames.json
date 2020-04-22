@@ -3,7 +3,7 @@
     "nl-BE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "nl",
         "territory": "BE"
@@ -2091,7 +2091,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkeilandse tijd"
+                "generic": "Norfolkeilandse tijd",
+                "standard": "Norfolkeilandse standaardtijd",
+                "daylight": "Norfolkeilandse zomertijd"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "am": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "am"
       },
@@ -295,13 +295,13 @@
               },
               "eraAbbr": {
                 "0": "ዓ/ዓ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ዓ/ዓ",
                 "1": "ዓ/ም",
                 "1-alt-variant": "CE"
               },
               "eraNarrow": {
                 "0": "ዓ/ዓ",
-                "0-alt-variant": "BCE",
+                "0-alt-variant": "ዓ/ዓ",
                 "1": "ዓ/ም",
                 "1-alt-variant": "CE"
               }

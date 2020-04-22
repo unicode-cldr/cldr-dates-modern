@@ -3,7 +3,7 @@
     "am": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "am"
       },
@@ -1982,7 +1982,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "የኖርፎልክ ደሴቶች ሰዓት"
+                "generic": "የኖርፎልክ ደሴቶች ሰዓት",
+                "standard": "የኖርፎልክ ደሴቶች መደበኛ የሰዓት አቆጣጠር",
+                "daylight": "የኖርፎልክ ደሴቶች የቀን የሰዓት አቆጣጠር"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "id"
       },
@@ -2041,7 +2041,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Waktu Kepulauan Norfolk"
+                "generic": "Waktu Kepulauan Norfolk",
+                "standard": "Waktu Standar Kepulauan Norfolk",
+                "daylight": "Waktu Musim Panas Kepulauan Norfolk"
               }
             },
             "Noronha": {

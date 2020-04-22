@@ -3,7 +3,7 @@
     "pt-CV": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pt",
         "territory": "CV"
@@ -2031,7 +2031,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Hora da Ilha Norfolk"
+                "generic": "Horário da Ilha Norfolk",
+                "standard": "Hora da Ilha Norfolk",
+                "daylight": "Horário de Verão da Ilha Norfolk"
               }
             },
             "Noronha": {

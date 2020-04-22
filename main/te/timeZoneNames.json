@@ -3,7 +3,7 @@
     "te": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "te"
       },
@@ -2030,7 +2030,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "నార్ఫోక్ దీవి సమయం"
+                "generic": "నార్ఫోక్ దీవి సమయం",
+                "standard": "నార్ఫోక్ దీవి ప్రామాణిక సమయం",
+                "daylight": "నార్ఫోక్ దీవి వేసవి సమయం"
               }
             },
             "Noronha": {

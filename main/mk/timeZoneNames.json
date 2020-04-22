@@ -3,7 +3,7 @@
     "mk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "mk"
       },
@@ -1997,7 +1997,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Време на Островите Норфолк"
+                "generic": "Време на Островите Норфолк",
+                "standard": "Стандардно време на Островите Норфолк",
+                "daylight": "Летно сметање на Островите Норфолк"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "sk": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sk"
       },
@@ -2042,7 +2042,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "norfolský čas"
+                "generic": "norfolský čas",
+                "standard": "norfolský štandardný čas",
+                "daylight": "norfolský letný čas"
               }
             },
             "Noronha": {

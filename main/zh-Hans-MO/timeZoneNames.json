@@ -3,7 +3,7 @@
     "zh-Hans-MO": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zh",
         "script": "Hans",
@@ -2034,7 +2034,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "诺福克岛时间"
+                "generic": "诺福克岛时间",
+                "standard": "诺福克岛标准时间",
+                "daylight": "诺福克岛夏令时间"
               }
             },
             "Noronha": {

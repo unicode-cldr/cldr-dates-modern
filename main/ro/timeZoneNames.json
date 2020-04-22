@@ -3,7 +3,7 @@
     "ro": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ro"
       },
@@ -2007,7 +2007,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Ora Insulelor Norfolk"
+                "generic": "Ora Insulelor Norfolk",
+                "standard": "Ora standard Insulelor Norfolk",
+                "daylight": "Ora de vară Insulelor Norfolk"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "el-CY": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "el",
         "territory": "CY"
@@ -2010,7 +2010,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Ώρα Νήσου Νόρφολκ"
+                "generic": "Ώρα Νήσου Νόρφολκ",
+                "standard": "Χειμερινή ώρα Νήσου Νόρφολκ",
+                "daylight": "Θερινή ώρα Νήσου Νόρφολκ"
               }
             },
             "Noronha": {

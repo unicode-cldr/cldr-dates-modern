@@ -3,7 +3,7 @@
     "es-VE": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "VE"
@@ -2021,7 +2021,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "hora de la Isla Norfolk"
+                "generic": "hora de la Isla Norfolk",
+                "standard": "hora estándar de la Isla Norfolk",
+                "daylight": "hora de verano de la Isla Norfolk"
               }
             },
             "Noronha": {

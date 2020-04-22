@@ -3,7 +3,7 @@
     "ka": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ka"
       },
@@ -1968,7 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "ნორფოლკის კუნძულის დრო"
+                "generic": "ნორფოლკის კუნძულის დრო",
+                "standard": "ნორფოლკის კუნძულის სტანდარტული დრო",
+                "daylight": "ნორფოლკის კუნძულის ზაფხულის დრო"
               }
             },
             "Noronha": {

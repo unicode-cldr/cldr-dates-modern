@@ -3,7 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sl"
       },
@@ -1982,7 +1982,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Čas: Norfolški otoki"
+                "generic": "Norfolški otoki čas",
+                "standard": "Norfolški otoki standardni čas",
+                "daylight": "Norfolški otoki poletni čas"
               }
             },
             "Noronha": {

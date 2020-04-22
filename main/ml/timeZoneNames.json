@@ -3,7 +3,7 @@
     "ml": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ml"
       },
@@ -2030,7 +2030,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "നോർഫാക്ക് ദ്വീപുകൾ സമയം"
+                "generic": "നോർഫാക്ക് ദ്വീപുകൾ സമയം",
+                "standard": "നോർഫാക്ക് ദ്വീപുകൾ സ്റ്റാൻഡേർഡ് സമയം",
+                "daylight": "നോർഫാക്ക് ദ്വീപുകൾ ഡേലൈറ്റ് സമയം"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "lv"
       },
@@ -1997,7 +1997,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkas salas laiks"
+                "generic": "Norfolkas salas laiks",
+                "standard": "Norfolkas salas ziemas laiks",
+                "daylight": "Norfolkas salas vasaras laiks"
               }
             },
             "Noronha": {

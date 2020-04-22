@@ -3,7 +3,7 @@
     "de": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "de"
       },
@@ -2047,7 +2047,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolkinsel-Zeit"
+                "generic": "Norfolkinsel-Zeit",
+                "standard": "Norfolkinsel-Normalzeit",
+                "daylight": "Norfolkinsel-Sommerzeit"
               }
             },
             "Noronha": {

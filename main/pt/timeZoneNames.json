@@ -3,7 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pt"
       },
@@ -2042,7 +2042,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Horário da Ilha Norfolk"
+                "generic": "Horário da Ilha Norfolk",
+                "standard": "Horário Padrão da Ilha Norfolk",
+                "daylight": "Horário de Verão da Ilha Norfolk"
               }
             },
             "Noronha": {

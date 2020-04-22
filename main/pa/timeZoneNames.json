@@ -3,7 +3,7 @@
     "pa": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "pa"
       },
@@ -2014,7 +2014,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "ਨੋਰਫੌਕ ਆਈਲੈਂਡ ਵੇਲਾ"
+                "generic": "ਨੋਰਫੌਕ ਆਈਲੈਂਡ ਵੇਲਾ",
+                "standard": "ਨੋਰਫੌਕ ਆਈਲੈਂਡ ਮਿਆਰੀ ਵੇਲਾ",
+                "daylight": "ਨੋਰਫੌਕ ਆਈਲੈਂਡ ਗਰਮੀਆਂ ਦਾ ਵੇਲਾ"
               }
             },
             "Noronha": {

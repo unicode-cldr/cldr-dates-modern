@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hu"
       },
@@ -2045,7 +2045,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "norfolk-szigeteki idő"
+                "generic": "norfolk-szigeteki idő",
+                "standard": "norfolk-szigeteki téli idő",
+                "daylight": "norfolk-szigeteki nyári idő"
               }
             },
             "Noronha": {

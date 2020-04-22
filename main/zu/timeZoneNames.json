@@ -3,7 +3,7 @@
     "zu": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "zu"
       },
@@ -1982,7 +1982,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Isikhathi sase-Norfolk Islands"
+                "generic": "Isikhathi sase-Norfolk Islands",
+                "standard": "Isikhathi sase-Norfolk Islands esivamile",
+                "daylight": "Isikhathi sase-Norfolk Islands sasehlobo"
               }
             },
             "Noronha": {

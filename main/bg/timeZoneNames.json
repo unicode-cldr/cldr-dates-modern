@@ -3,7 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "bg"
       },
@@ -1982,7 +1982,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Норфолкско време"
+                "generic": "Норфолкско време",
+                "standard": "Норфолкско стандартно време",
+                "daylight": "Норфолкско лятно часово време"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "kn": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "kn"
       },
@@ -1985,7 +1985,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ ಸಮಯ"
+                "generic": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ ಸಮಯ",
+                "standard": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ನಾರ್ಫೋಕ್ ದ್ವೀಪ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
             "Noronha": {

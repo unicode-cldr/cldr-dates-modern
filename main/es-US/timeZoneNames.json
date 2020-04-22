@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "es",
         "territory": "US"
@@ -2061,7 +2061,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "hora de la isla Norfolk"
+                "generic": "hora de la isla Norfolk",
+                "standard": "hora estándar de la isla Norfolk",
+                "daylight": "hora de verano de la isla Norfolk"
               }
             },
             "Noronha": {

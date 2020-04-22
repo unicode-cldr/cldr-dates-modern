@@ -3,7 +3,7 @@
     "or": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "or"
       },
@@ -1344,6 +1344,13 @@
             }
           },
           "metazone": {
+            "Acre": {
+              "long": {
+                "generic": "ଆକା ସମୟ",
+                "standard": "ଆକା ମାନକ ସମୟ",
+                "daylight": "ଆକା ଗ୍ରୀଷ୍ମ ସମୟ"
+              }
+            },
             "Afghanistan": {
               "long": {
                 "standard": "ଆଫଗାନିସ୍ତାନ ସମୟ"
@@ -1376,6 +1383,13 @@
                 "generic": "ଆଲାସ୍କା ସମୟ",
                 "standard": "ଆଲାସ୍କା ମାନାଙ୍କ ସମୟ",
                 "daylight": "ଆଲାସ୍କା ଦିବାଲୋକ ସମୟ"
+              }
+            },
+            "Almaty": {
+              "long": {
+                "generic": "ଅଲମାଟୀ ସମୟ",
+                "standard": "ଅଲମାଟୀ ମାନକ ସମୟ",
+                "daylight": "ଅଲମାଟୀ ଗ୍ରୀଷ୍ମ ସମୟ"
               }
             },
             "Amazon": {
@@ -1413,11 +1427,32 @@
                 "daylight": "ପାସିଫିକ୍ ଦିବାଲୋକ ସମୟ"
               }
             },
+            "Anadyr": {
+              "long": {
+                "generic": "ଅନାଡିର୍ ସମୟ",
+                "standard": "ଅନାଡିର୍ ମାନକ ସମୟ",
+                "daylight": "ଅନାଡିର୍ ଗ୍ରୀଷ୍ମ ସମୟ"
+              }
+            },
             "Apia": {
               "long": {
                 "generic": "ଆପିଆ ସମୟ",
                 "standard": "ଆପିଆ ମାନାଙ୍କ ସମୟ",
                 "daylight": "ଆପିଆ ଦିବାଲୋକ ସମୟ"
+              }
+            },
+            "Aqtau": {
+              "long": {
+                "generic": "ଅକତୌ ସମୟ",
+                "standard": "ଅକତୌ ମାନକ ସମୟ",
+                "daylight": "ଅକତୌ ଗ୍ରୀଷ୍ମ ସମୟ"
+              }
+            },
+            "Aqtobe": {
+              "long": {
+                "generic": "ଅକ୍ତୋବ ସମୟ",
+                "standard": "ଅକ୍ତୋବ ମାନକ ସମୟ",
+                "daylight": "ଅକ୍ତୋବ ଗ୍ରୀଷ୍ମ ସମୟ"
               }
             },
             "Arabian": {
@@ -1699,6 +1734,9 @@
             "GMT": {
               "long": {
                 "standard": "ଗ୍ରୀନୱିଚ୍ ମିନ୍ ସମୟ"
+              },
+              "short": {
+                "standard": "GMT"
               }
             },
             "Greenland_Eastern": {
@@ -1807,6 +1845,13 @@
                 "daylight": "ଜାପାନ ଦିବାଲୋକ ସମୟ"
               }
             },
+            "Kamchatka": {
+              "long": {
+                "generic": "ପେଟ୍ରୋପାଭଲୋଭ୍ସକ-କମଚଟସ୍କି ସମୟ",
+                "standard": "ପେଟ୍ରୋପାଭଲୋଭ୍ସକ-କମଚଟସ୍କି ମାନକ ସମୟ",
+                "daylight": "ପେଟ୍ରୋପାଭଲୋଭ୍ସକ-କମଚଟସ୍କି ଗ୍ରୀଷ୍ମ ସମୟ"
+              }
+            },
             "Kazakhstan_Eastern": {
               "long": {
                 "standard": "ପୂର୍ବ କାଜାକସ୍ତାନ୍ ସମୟ"
@@ -1841,6 +1886,11 @@
                 "standard": "କିର୍ଗିସ୍ତାନ ସମୟ"
               }
             },
+            "Lanka": {
+              "long": {
+                "standard": "ଲଙ୍କା ସମୟ"
+              }
+            },
             "Line_Islands": {
               "long": {
                 "standard": "ଲାଇନ୍‌ ଦ୍ୱୀପପୁଞ୍ଜ ସମୟ"
@@ -1851,6 +1901,13 @@
                 "generic": "ଲର୍ଡ ହୋୱେ ସମୟ",
                 "standard": "ଲର୍ଡ ହୋୱେ ମାନାଙ୍କ ସମୟ",
                 "daylight": "ଲର୍ଡ ହୋୱେ ଦିବାଲୋକ ସମୟ"
+              }
+            },
+            "Macau": {
+              "long": {
+                "generic": "ମାକାଓ ସମୟ",
+                "standard": "ମକାଓ ମାନକ ସମୟ",
+                "daylight": "ମକାଓ ଗ୍ରୀଷ୍ମ ସମୟ"
               }
             },
             "Macquarie": {
@@ -1968,7 +2025,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "ନରଫୋକ୍‌ ଦ୍ୱୀପ ସମୟ"
+                "generic": "ନରଫୋକ୍‌ ଦ୍ୱୀପ ସମୟ",
+                "standard": "ନରଫୋକ୍‌ ଦ୍ୱୀପ ମାନାଙ୍କ ସମୟ",
+                "daylight": "ନରଫୋକ୍‌ ଦ୍ୱୀପ ଗ୍ରୀଷ୍ମକାଳ ସମୟ"
               }
             },
             "Noronha": {
@@ -1976,6 +2035,11 @@
                 "generic": "ଫର୍ଣ୍ଣାଣ୍ଡୋ ଡି ନୋରୋନ୍ନା ସମୟ",
                 "standard": "ଫର୍ଣ୍ଣାଣ୍ଡୋ ଡି ନୋରୋନ୍ନା ମାନାଙ୍କ ସମୟ",
                 "daylight": "ଫର୍ଣ୍ଣାଣ୍ଡୋ ଡି ନୋରୋନ୍ନା ଗ୍ରୀଷ୍ମକାଳ ସମୟ"
+              }
+            },
+            "North_Mariana": {
+              "long": {
+                "standard": "ଉତ୍ତର ମେରିଆନା ଆଇଲ୍ୟାଣ୍ଡ ସମୟ"
               }
             },
             "Novosibirsk": {
@@ -2057,6 +2121,13 @@
                 "standard": "ପୋୟଙ୍ଗୟାଙ୍ଗ ସମୟ"
               }
             },
+            "Qyzylorda": {
+              "long": {
+                "generic": "କାଜିଲୋର୍ଡା ସମୟ",
+                "standard": "କାଜିଲୋର୍ଡା ମାନକ ସମୟ",
+                "daylight": "କାଜିଲୋର୍ଡା ଗ୍ରୀଷ୍ମ ସମୟ"
+              }
+            },
             "Reunion": {
               "long": {
                 "standard": "ରିୟୁନିଅନ୍‌ ସମୟ"
@@ -2072,6 +2143,13 @@
                 "generic": "ସଖାଲିନ୍ ସମୟ",
                 "standard": "ସଖାଲିନ୍ ମାନାଙ୍କ ସମୟ",
                 "daylight": "ସଖାଲିନ୍ ଗ୍ରୀଷ୍ମକାଳ ସମୟ"
+              }
+            },
+            "Samara": {
+              "long": {
+                "generic": "ସମାରା ସମୟ",
+                "standard": "ସମାରା ମାନକ ସମୟ",
+                "daylight": "ସମାରା ଗ୍ରୀଷ୍ମ ସମୟ"
               }
             },
             "Samoa": {

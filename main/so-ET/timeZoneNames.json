@@ -3,7 +3,7 @@
     "so-ET": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "so",
         "territory": "ET"
@@ -1333,7 +1333,7 @@
                   "standard": "Waqtiga Isku-xiran ee Caalamka"
                 },
                 "short": {
-                  "standard": "UTC"
+                  "standard": "Waqtiga UTC"
                 }
               },
               "Unknown": {
@@ -1342,6 +1342,13 @@
             }
           },
           "metazone": {
+            "Acre": {
+              "long": {
+                "generic": "Wakhtiga Acre",
+                "standard": "Wakhtiga Caadiga ah ee Acre",
+                "daylight": "Wakhtiga Kulka ee Acre"
+              }
+            },
             "Afghanistan": {
               "long": {
                 "standard": "Waqtiga Afggaanistaan"
@@ -1374,6 +1381,13 @@
                 "generic": "Waqtiga Alaska",
                 "standard": "Waqtiga Caadiga Ah ee Alaska",
                 "daylight": "Waqtiga Dharaarta ee Alaska"
+              }
+            },
+            "Almaty": {
+              "long": {
+                "generic": "Waqtiga Almaty",
+                "standard": "Waqtiga Caadiga ah ee Almaty",
+                "daylight": "Saacada Waqtiga Kulaylaha ee Almaty"
               }
             },
             "Amazon": {
@@ -1411,11 +1425,32 @@
                 "daylight": "Waqtiga Dharaarta ee Basifika Waqooyiga Ameerika"
               }
             },
+            "Anadyr": {
+              "long": {
+                "generic": "Wakhtiga Anadyr",
+                "standard": "Wakhtiga Caadiga ah ee Anadyr",
+                "daylight": "Wakhtiga Kulka ee Anadyr"
+              }
+            },
             "Apia": {
               "long": {
                 "generic": "Waqtiga Abiya",
                 "standard": "Waqtiga Caadiga Ah ee Abiya",
                 "daylight": "Waqtiga Dharaarta ee Abiya"
+              }
+            },
+            "Aqtau": {
+              "long": {
+                "generic": "Waqtiga Aqtau",
+                "standard": "Waqtiga Caadiga ah ee Aqtau",
+                "daylight": "Saacada Waqtiga Kulaylaha Aqtau"
+              }
+            },
+            "Aqtobe": {
+              "long": {
+                "generic": "Waqtiga Aqtobe",
+                "standard": "Waqtiga Caadiga ah ee Aqtobe",
+                "daylight": "Saacada Waqtiga kulaylaha Aqtobe"
               }
             },
             "Arabian": {
@@ -1728,6 +1763,11 @@
                 "generic": "Waqtiga Hawaay-Alutiyaan",
                 "standard": "Waqtiga Caadiga Ah ee Hawaay-Alutiyaan",
                 "daylight": "Waqtiga Dharaarta ee Hawaay-Alutiyaan"
+              },
+              "short": {
+                "generic": "HAT",
+                "standard": "HAST",
+                "daylight": "HADT"
               }
             },
             "Hong_Kong": {
@@ -1800,6 +1840,13 @@
                 "generic": "Waqtiga Jabaan",
                 "standard": "Waqtiga Caadiga Ah ee Jabaan",
                 "daylight": "Waqtiga Dharaarta ee Jabaan"
+              }
+            },
+            "Kamchatka": {
+              "long": {
+                "generic": "Wakhtiga Petropavlovsk-Kamchatski",
+                "standard": "Wakhtiga Caadiga ah ee Petropavlovsk-Kamchatski",
+                "daylight": "Wakhtiga Kulka ee Petropavlovsk-Kamchatski"
               }
             },
             "Kazakhstan_Eastern": {
@@ -1963,7 +2010,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Waqtiga Noorfek Aylaan"
+                "generic": "Waqtiga Noorfek Aylaan",
+                "standard": "Waqtiga Caadiga Ah ee Noorfek Aylaan",
+                "daylight": "Waqtiga Xagaaga ee Noorfek Aylaan"
               }
             },
             "Noronha": {
@@ -2052,6 +2101,13 @@
                 "standard": "Waqtiga Boyongyang"
               }
             },
+            "Qyzylorda": {
+              "long": {
+                "generic": "Waqtiga Qyzylorda",
+                "standard": "Waqtiga Caadiga ah ee Qyzylorda",
+                "daylight": "Saacada Waqtiga Kulaylaha Qyzylorda"
+              }
+            },
             "Reunion": {
               "long": {
                 "standard": "Waqtiga Riyuuniyon"
@@ -2067,6 +2123,13 @@
                 "generic": "Waqtiga Sakhalin",
                 "standard": "Waqtiga Caadiga Ah ee Sakhalin",
                 "daylight": "Waqtiga Xagaaga ee Sakhalin"
+              }
+            },
+            "Samara": {
+              "long": {
+                "generic": "Wakhtiga Samara",
+                "standard": "Wakhtiga Caadiga ah ee Samara",
+                "daylight": "Wakhtiga Kulka ee Samara"
               }
             },
             "Samoa": {

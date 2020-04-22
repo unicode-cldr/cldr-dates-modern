@@ -3,7 +3,7 @@
     "my": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "my"
       },
@@ -1980,7 +1980,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "နောဖော့ခ်ကျွန်းအချိန်"
+                "generic": "နောဖော့ခ်ကျွန်း အချိန်",
+                "standard": "နောဖော့ခ်ကျွန်း စံတော်ချိန်",
+                "daylight": "နောဖော့ခ်ကျွန်း နွေရာသီ စံတော်ချိန်"
               }
             },
             "Noronha": {

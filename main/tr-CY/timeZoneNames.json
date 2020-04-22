@@ -3,7 +3,7 @@
     "tr-CY": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "tr",
         "territory": "CY"
@@ -2033,7 +2033,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Norfolk Adası Saati"
+                "generic": "Norfolk Adası Saati",
+                "standard": "Norfolk Adası Standart Saati",
+                "daylight": "Norfolk Adası Yaz Saati"
               }
             },
             "Noronha": {

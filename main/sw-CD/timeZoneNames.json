@@ -3,7 +3,7 @@
     "sw-CD": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "sw",
         "territory": "CD"
@@ -1023,7 +1023,7 @@
                 "exemplarCity": "Qatar"
               },
               "Qostanay": {
-                "exemplarCity": "Qostanay"
+                "exemplarCity": "Kostanay"
               },
               "Qyzylorda": {
                 "exemplarCity": "Qyzylorda"
@@ -1983,7 +1983,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "Saa za Kisiwa cha Norfolk"
+                "generic": "Saa za Kisiwa cha Norfolk",
+                "standard": "Saa za Wastani za Kisiwa cha Norfolk",
+                "daylight": "Saa za Majira ya joto za Kisiwa cha Norfolk"
               }
             },
             "Noronha": {

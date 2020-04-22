@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "hr",
         "territory": "BA"
@@ -2051,7 +2051,9 @@
             },
             "Norfolk": {
               "long": {
-                "standard": "vrijeme Otoka Norfolk"
+                "generic": "vrijeme Otoka Norfolk",
+                "standard": "standardno vrijeme Otoka Norfolk",
+                "daylight": "ljetno vrijeme Otoka Norfolk"
               }
             },
             "Noronha": {
