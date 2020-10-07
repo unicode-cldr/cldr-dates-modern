@@ -3,7 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bg"
       },
@@ -382,12 +382,12 @@
             "relative-type-0": "този вт",
             "relative-type-1": "следв. вт",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "сл. {0} вт.",
-              "relativeTimePattern-count-other": "сл. {0} вт."
+              "relativeTimePattern-count-one": "сл. {0} вт",
+              "relativeTimePattern-count-other": "сл. {0} вт"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "пр. {0} вт.",
-              "relativeTimePattern-count-other": "пр. {0} вт."
+              "relativeTimePattern-count-one": "пр. {0} вт",
+              "relativeTimePattern-count-other": "пр. {0} вт"
             }
           },
           "wed": {

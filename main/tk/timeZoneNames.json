@@ -3,7 +3,7 @@
     "tk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "tk"
       },
@@ -1701,7 +1701,7 @@
             },
             "GMT": {
               "long": {
-                "standard": "Grinwiç boýunça orta wagt"
+                "standard": "Grinwiç ortaça wagty"
               }
             },
             "Greenland_Eastern": {

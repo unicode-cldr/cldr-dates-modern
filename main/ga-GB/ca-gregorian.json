@@ -3,7 +3,7 @@
     "ga-GB": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ga",
         "territory": "GB"
@@ -338,11 +338,11 @@
                 "yMMMM": "MMMM y",
                 "yQQQ": "QQQ y",
                 "yQQQQ": "QQQQ y",
-                "yw-count-one": "'seachtain' 'a' w 'i' Y",
-                "yw-count-two": "'seachtain' 'a' w 'i' Y",
-                "yw-count-few": "'seachtain' 'a' w 'i' Y",
-                "yw-count-many": "'seachtain' 'a' w 'i' Y",
-                "yw-count-other": "'seachtain' 'a' w 'i' Y"
+                "yw-count-one": "'seachtain' 'a' w 'in' Y",
+                "yw-count-two": "'seachtain' 'a' w 'in' Y",
+                "yw-count-few": "'seachtain' 'a' w 'in' Y",
+                "yw-count-many": "'seachtain' 'a' w 'in' Y",
+                "yw-count-other": "'seachtain' 'a' w 'in' Y"
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

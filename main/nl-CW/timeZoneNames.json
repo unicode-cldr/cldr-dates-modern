@@ -3,7 +3,7 @@
     "nl-CW": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nl",
         "territory": "CW"
@@ -1011,7 +1011,7 @@
                 "exemplarCity": "Oral"
               },
               "Phnom_Penh": {
-                "exemplarCity": "Phnom-Penh"
+                "exemplarCity": "Phnom Penh"
               },
               "Pontianak": {
                 "exemplarCity": "Pontianak"
@@ -1341,7 +1341,7 @@
             "Etc": {
               "UTC": {
                 "long": {
-                  "standard": "Gecoördineerde wereldtijd"
+                  "standard": "gecoördineerde wereldtijd"
                 },
                 "short": {
                   "standard": "UTC"

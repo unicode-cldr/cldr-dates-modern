@@ -3,7 +3,7 @@
     "mr": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "mr"
       },
@@ -559,7 +559,7 @@
                 "exemplarCity": "हेलसिंकी"
               },
               "Isle_of_Man": {
-                "exemplarCity": "आइल ऑफ मॅन"
+                "exemplarCity": "आयल ऑफ मॅन"
               },
               "Istanbul": {
                 "exemplarCity": "इस्तंबूल"
@@ -688,7 +688,7 @@
                 "exemplarCity": "झापोरोझे"
               },
               "Zurich": {
-                "exemplarCity": "झुरिच"
+                "exemplarCity": "झुरिक"
               }
             },
             "Africa": {
@@ -1397,7 +1397,7 @@
             },
             "Amazon": {
               "long": {
-                "generic": "अॅमेझॉन वेळ",
+                "generic": "अ‍ॅमेझॉन वेळ",
                 "standard": "अ‍ॅमेझॉन प्रमाण वेळ",
                 "daylight": "अ‍ॅमेझॉन उन्हाळी वेळ"
               }
@@ -1678,7 +1678,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "अग्र-पौर्वात्य यूरोपीयन वेळ"
+                "standard": "अग्र-पौर्वात्य युरोपीयन वेळ"
               }
             },
             "Europe_Western": {

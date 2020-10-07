@@ -3,7 +3,7 @@
     "ne": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ne"
       },
@@ -1968,9 +1968,9 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "नोर्फल्क टापू समय",
-                "standard": "नोर्फल्क टापू मानक समय",
-                "daylight": "नोर्फल्क टापू ग्रीष्मकालीन समय"
+                "generic": "नोर्फोक टापूको समय",
+                "standard": "नोर्फोक टापूको मानक समय",
+                "daylight": "नोर्फोक टापूको ग्रीष्मकालीन समय"
               }
             },
             "Noronha": {

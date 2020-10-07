@@ -3,7 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bg"
       },
@@ -307,10 +307,10 @@
               "short": "d.MM.yy G"
             },
             "timeFormats": {
-              "full": "H:mm:ss zzzz",
-              "long": "H:mm:ss z",
-              "medium": "H:mm:ss",
-              "short": "H:mm"
+              "full": "H:mm:ss 'ч'. zzzz",
+              "long": "H:mm:ss 'ч'. z",
+              "medium": "H:mm:ss 'ч'.",
+              "short": "H:mm 'ч'."
             },
             "dateTimeFormats": {
               "full": "{1}, {0}",
@@ -337,12 +337,12 @@
                 "GyMMMM": "MMMM y 'г'. G",
                 "GyMMMMd": "d MMMM y 'г'. G",
                 "GyMMMMEd": "E, d MMMM y 'г'. G",
-                "h": "h a",
-                "H": "HH",
+                "h": "h 'ч'. a",
+                "H": "HH 'ч'.",
                 "hm": "h:mm 'ч'. a",
-                "Hm": "HH:mm",
+                "Hm": "HH:mm 'ч'.",
                 "hms": "h:mm:ss 'ч'. a",
-                "Hms": "HH:mm:ss",
+                "Hms": "HH:mm:ss 'ч'.",
                 "M": "M",
                 "Md": "d.MM",
                 "MEd": "E, d.MM",

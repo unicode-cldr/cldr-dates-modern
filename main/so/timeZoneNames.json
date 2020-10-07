@@ -3,7 +3,7 @@
     "so": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "so"
       },
@@ -485,7 +485,7 @@
                 "exemplarCity": "Farow"
               },
               "Madeira": {
-                "exemplarCity": "Madeera"
+                "exemplarCity": "Madira"
               },
               "Reykjavik": {
                 "exemplarCity": "Reykjafik"
@@ -514,7 +514,7 @@
                 "exemplarCity": "Atens"
               },
               "Belgrade": {
-                "exemplarCity": "Bilgaraydh"
+                "exemplarCity": "Belgaraydh"
               },
               "Berlin": {
                 "exemplarCity": "Barliin"
@@ -568,7 +568,7 @@
                 "exemplarCity": "Kaliningrad"
               },
               "Kiev": {
-                "exemplarCity": "Kiyf"
+                "exemplarCity": "Kiyeef"
               },
               "Kirov": {
                 "exemplarCity": "Kiroof"
@@ -586,10 +586,10 @@
                 "exemplarCity": "Landan"
               },
               "Luxembourg": {
-                "exemplarCity": "Luksembaag"
+                "exemplarCity": "Luksemberg"
               },
               "Madrid": {
-                "exemplarCity": "Maadriid"
+                "exemplarCity": "Madriid"
               },
               "Malta": {
                 "exemplarCity": "Malta"
@@ -667,7 +667,7 @@
                 "exemplarCity": "Fatikaan"
               },
               "Vienna": {
-                "exemplarCity": "Fiyaana"
+                "exemplarCity": "Fiyeena"
               },
               "Vilnius": {
                 "exemplarCity": "Finiyuus"
@@ -679,13 +679,13 @@
                 "exemplarCity": "Warsaw"
               },
               "Zagreb": {
-                "exemplarCity": "Sagreb"
+                "exemplarCity": "Saqrib"
               },
               "Zaporozhye": {
                 "exemplarCity": "Saborosey"
               },
               "Zurich": {
-                "exemplarCity": "Surij"
+                "exemplarCity": "Suurikh"
               }
             },
             "Africa": {
@@ -1730,7 +1730,7 @@
             },
             "GMT": {
               "long": {
-                "standard": "Waqtiga Celceliska Giriinwij"
+                "standard": "Wakhtiga Giriinwij"
               }
             },
             "Greenland_Eastern": {

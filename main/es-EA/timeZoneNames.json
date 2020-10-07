@@ -3,7 +3,7 @@
     "es-EA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "EA"
@@ -554,7 +554,7 @@
                 "exemplarCity": "Gibraltar"
               },
               "Guernsey": {
-                "exemplarCity": "Guernsey"
+                "exemplarCity": "Guernesey"
               },
               "Helsinki": {
                 "exemplarCity": "Helsinki"
@@ -1343,7 +1343,7 @@
                 }
               },
               "Unknown": {
-                "exemplarCity": "ciudad desconocida"
+                "exemplarCity": "Ciudad desconocida"
               }
             }
           },

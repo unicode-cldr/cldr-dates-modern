@@ -3,7 +3,7 @@
     "ko-KP": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ko",
         "territory": "KP"
@@ -339,10 +339,10 @@
                 "Ehms": "E a h:mm:ss",
                 "EHms": "E HH:mm:ss",
                 "Gy": "G y년",
-                "GyMMM": "G y년 MMM월",
-                "GyMMMd": "G y년 MMM월 d일",
-                "GyMMMEd": "G y년 MMM월 d일 (E)",
-                "GyMMMEEEEd": "G y년 MMM월 d일 EEEE",
+                "GyMMM": "G y년 M월",
+                "GyMMMd": "G y년 M월 d일",
+                "GyMMMEd": "G y년 M월 d일 (E)",
+                "GyMMMEEEEd": "G y년 M월 d일 EEEE",
                 "h": "a h시",
                 "H": "H시",
                 "HHmmss": "HH:mm:ss",
@@ -355,10 +355,10 @@
                 "MEd": "M. d. (E)",
                 "MEEEEd": "M. d. EEEE",
                 "MMM": "LLL",
-                "MMMd": "MMM월 d일",
-                "MMMEd": "MMM월 d일 (E)",
-                "MMMEEEEd": "MMM월 d일 EEEE",
-                "MMMMd": "MMMM월 d일",
+                "MMMd": "M월 d일",
+                "MMMEd": "M월 d일 (E)",
+                "MMMEEEEd": "M월 d일 EEEE",
+                "MMMMd": "M월 d일",
                 "ms": "mm:ss",
                 "y": "G y년",
                 "yyyy": "G y년",
@@ -366,11 +366,11 @@
                 "yyyyMd": "G y. M. d.",
                 "yyyyMEd": "G y. M. d. (E)",
                 "yyyyMEEEEd": "G y. M. d. EEEE",
-                "yyyyMMM": "G y년 MMM월",
-                "yyyyMMMd": "G y년 MMM월 d일",
-                "yyyyMMMEd": "G y년 MMM월 d일 (E)",
-                "yyyyMMMEEEEd": "G y년 MMM월 d일 EEEE",
-                "yyyyMMMM": "G y년 MMMM월",
+                "yyyyMMM": "G y년 M월",
+                "yyyyMMMd": "G y년 M월 d일",
+                "yyyyMMMEd": "G y년 M월 d일 (E)",
+                "yyyyMMMEEEEd": "G y년 M월 d일 EEEE",
+                "yyyyMMMM": "G y년 M월",
                 "yyyyQQQ": "G y년 QQQ",
                 "yyyyQQQQ": "G y년 QQQQ"
               },
@@ -423,21 +423,21 @@
                   "y": "GGGGG y년 M월 d일 E요일 ~ y년 M월 d일 E요일"
                 },
                 "GyMMM": {
-                  "G": "G y년 MMM ~ G y년 MMM",
-                  "M": "G y년 MMM ~ y년 MMM",
-                  "y": "G y년 MMM ~ y년 MMM"
+                  "G": "G y년 M월 ~ G y년 M월",
+                  "M": "G y년 M월 ~ y년 M월",
+                  "y": "G y년 M월 ~ y년 M월"
                 },
                 "GyMMMd": {
-                  "d": "G y년 MMM d일 ~ d일",
-                  "G": "G y년 MMM d일 ~ y년 MMM d일",
-                  "M": "G y년 MMM d일 ~ MMM d일",
-                  "y": "G y년 MMM d일 ~ MMM y년 d일"
+                  "d": "G y년 M월 d일 ~ d일",
+                  "G": "G y년 M월 d일 ~ y년 M월 d일",
+                  "M": "G y년 M월 d일 ~ M월 d일",
+                  "y": "G y년 M월 d일 ~ y년 M월 d일"
                 },
                 "GyMMMEd": {
-                  "d": "G y년 MMM d일 e요일 – MMM d일 e요일",
-                  "G": "G y년 MMM d일 E요일 ~ G y년 MMM d일 E요일",
-                  "M": "G y년 MMM d일 E요일 ~ MMM d일 E요일",
-                  "y": "G y년 MMM d일 E요일 ~ y년 MMM d일 E요일"
+                  "d": "G y년 M월 d일 e요일 – M월 d일 e요일",
+                  "G": "G y년 M월 d일 E요일 ~ G y년 M월 d일 E요일",
+                  "M": "G y년 M월 d일 E요일 ~ M월 d일 E요일",
+                  "y": "G y년 M월 d일 E요일 ~ y년 M월 d일 E요일"
                 },
                 "h": {
                   "a": "a h시 ~ a h시",
@@ -483,7 +483,7 @@
                   "M": "M. d (E) ~ M. d (E)"
                 },
                 "MMM": {
-                  "M": "MMM ~ MMM"
+                  "M": "M월 ~ M월"
                 },
                 "MMMd": {
                   "d": "M월 d일 ~ d일",

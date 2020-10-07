@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "US"
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "dom.",
-                  "mon": "lun.",
-                  "tue": "mar.",
-                  "wed": "mié.",
-                  "thu": "jue.",
-                  "fri": "vie.",
-                  "sat": "sáb."
+                  "sun": "dom",
+                  "mon": "lun",
+                  "tue": "mar",
+                  "wed": "mié",
+                  "thu": "jue",
+                  "fri": "vie",
+                  "sat": "sáb"
                 },
                 "narrow": {
                   "sun": "D",
@@ -182,42 +182,42 @@
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "1er. trim.",
-                  "2": "2º. trim.",
-                  "3": "3er. trim.",
-                  "4": "4º trim."
+                  "1": "T1",
+                  "2": "T2",
+                  "3": "T3",
+                  "4": "T4"
                 },
                 "narrow": {
-                  "1": "1T",
-                  "2": "2T",
-                  "3": "3T",
-                  "4": "4T"
+                  "1": "1",
+                  "2": "2",
+                  "3": "3",
+                  "4": "4"
                 },
                 "wide": {
                   "1": "1.er trimestre",
-                  "2": "2º. trimestre",
+                  "2": "2.º trimestre",
                   "3": "3.er trimestre",
-                  "4": "4o. trimestre"
+                  "4": "4.º trimestre"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "1er. trim.",
-                  "2": "2º. trim.",
-                  "3": "3er. trim.",
-                  "4": "4º trim."
+                  "1": "T1",
+                  "2": "T2",
+                  "3": "T3",
+                  "4": "T4"
                 },
                 "narrow": {
-                  "1": "1T",
-                  "2": "2T",
-                  "3": "3T",
-                  "4": "4T"
+                  "1": "1",
+                  "2": "2",
+                  "3": "3",
+                  "4": "4"
                 },
                 "wide": {
                   "1": "1.er trimestre",
                   "2": "2º. trimestre",
                   "3": "3.er trimestre",
-                  "4": "4º trimestre"
+                  "4": "4.º trimestre"
                 }
               }
             },
@@ -237,7 +237,7 @@
                   "noon": "del mediodía",
                   "pm": "p. m.",
                   "morning1": "de la madrugada",
-                  "morning2": "mañana",
+                  "morning2": "de la mañana",
                   "evening1": "de la tarde",
                   "night1": "de la noche"
                 },
@@ -369,9 +369,9 @@
                 "yMd": "d/M/y",
                 "yMEd": "E, d/M/y",
                 "yMM": "MM/y",
-                "yMMM": "MMMM 'de' y",
-                "yMMMd": "d 'de' MMMM 'de' y",
-                "yMMMEd": "EEE, d 'de' MMMM 'de' y",
+                "yMMM": "MMM 'de' y",
+                "yMMMd": "d 'de' MMM 'de' y",
+                "yMMMEd": "EEE, d 'de' MMM 'de' y",
                 "yMMMM": "MMMM 'de' y",
                 "yMMMMd": "d 'de' MMMM 'de' y",
                 "yMMMMEd": "EEE, d 'de' MMMM 'de' y",
@@ -496,8 +496,8 @@
                   "M": "d 'de' MMM – d 'de' MMM"
                 },
                 "MMMEd": {
-                  "d": "E d 'de' MMM – E d 'de' MMM",
-                  "M": "E d 'de' MMM – E d 'de' MMM"
+                  "d": "E, d 'de' MMM – E, d 'de' MMM",
+                  "M": "E, d 'de' MMM – E, d 'de' MMM"
                 },
                 "MMMMd": {
                   "d": "d–d 'de' MMMM",

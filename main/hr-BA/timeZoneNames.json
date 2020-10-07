@@ -3,7 +3,7 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hr",
         "territory": "BA"
@@ -483,7 +483,7 @@
                 "exemplarCity": "Kanari"
               },
               "Cape_Verde": {
-                "exemplarCity": "Zelenortski Otoci"
+                "exemplarCity": "Cape Verde"
               },
               "Faeroe": {
                 "exemplarCity": "Ferojski otoci"
@@ -1109,13 +1109,13 @@
                 "exemplarCity": "Chagos"
               },
               "Christmas": {
-                "exemplarCity": "Božićni otok"
+                "exemplarCity": "Christmas"
               },
               "Cocos": {
-                "exemplarCity": "Kokosovi otoci"
+                "exemplarCity": "Cocos"
               },
               "Comoro": {
-                "exemplarCity": "Komori"
+                "exemplarCity": "Comoro"
               },
               "Kerguelen": {
                 "exemplarCity": "Kerguelen"
@@ -1188,7 +1188,7 @@
                 "exemplarCity": "Chatham"
               },
               "Easter": {
-                "exemplarCity": "Uskršnji otok"
+                "exemplarCity": "Easter"
               },
               "Efate": {
                 "exemplarCity": "Efate"
@@ -2134,12 +2134,12 @@
             },
             "Pitcairn": {
               "long": {
-                "standard": "vrijeme Pitcairna"
+                "standard": "pitcairnsko vrijeme"
               }
             },
             "Ponape": {
               "long": {
-                "standard": "vrijeme Ponapea"
+                "standard": "ponapejsko vrijeme"
               }
             },
             "Pyongyang": {

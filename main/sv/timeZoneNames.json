@@ -3,7 +3,7 @@
     "sv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sv"
       },
@@ -1340,7 +1340,7 @@
             "Etc": {
               "UTC": {
                 "long": {
-                  "standard": "Koordinerad universell tid"
+                  "standard": "koordinerad universell tid"
                 },
                 "short": {
                   "standard": "UTC"

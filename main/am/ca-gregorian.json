@@ -3,7 +3,7 @@
     "am": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "am"
       },
@@ -358,7 +358,8 @@
                 "MMMEd": "E፣ MMM d",
                 "MMMMd": "MMMM d",
                 "MMMMEd": "E፣ MMMM d",
-                "MMMMW-count-other": "'week' W 'of' MMMM",
+                "MMMMW-count-one": "ሳምንት W የ MMMM",
+                "MMMMW-count-other": "ሳምንት W የ MMMM",
                 "ms": "mm:ss",
                 "y": "y",
                 "yM": "M/y",

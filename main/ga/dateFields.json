@@ -3,7 +3,7 @@
     "ga": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ga"
       },
@@ -21,7 +21,7 @@
           "year": {
             "displayName": "Bliain",
             "relative-type--1": "anuraidh",
-            "relative-type-0": "an bhliain seo",
+            "relative-type-0": "i mbliana",
             "relative-type-1": "an bhliain seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} bhliain",
@@ -41,7 +41,7 @@
           "year-short": {
             "displayName": "bl.",
             "relative-type--1": "anuraidh",
-            "relative-type-0": "an bhl. seo",
+            "relative-type-0": "i mbl.",
             "relative-type-1": "an bhl. seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} bl.",
@@ -61,7 +61,7 @@
           "year-narrow": {
             "displayName": "bl.",
             "relative-type--1": "anuraidh",
-            "relative-type-0": "an bhl. seo",
+            "relative-type-0": "i mbl.",
             "relative-type-1": "an bhl. seo chugainn",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "+{0} bhl.",
@@ -777,14 +777,14 @@
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "i gceann {0} uair an chloig",
               "relativeTimePattern-count-two": "i gceann {0} uair an chloig",
-              "relativeTimePattern-count-few": "i gceann {0} huaire an chloig",
+              "relativeTimePattern-count-few": "i gceann {0} uair an chloig",
               "relativeTimePattern-count-many": "i gceann {0} n-uaire an chloig",
               "relativeTimePattern-count-other": "i gceann {0} uair an chloig"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} uair an chloig ó shin",
               "relativeTimePattern-count-two": "{0} uair an chloig ó shin",
-              "relativeTimePattern-count-few": "{0} huaire an chloig ó shin",
+              "relativeTimePattern-count-few": "{0} uair an chloig ó shin",
               "relativeTimePattern-count-many": "{0} n-uaire an chloig ó shin",
               "relativeTimePattern-count-other": "{0} uair an chloig ó shin"
             }

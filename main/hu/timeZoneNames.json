@@ -3,7 +3,7 @@
     "hu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hu"
       },
@@ -1335,7 +1335,7 @@
             "Etc": {
               "UTC": {
                 "long": {
-                  "standard": "Koordinált világidő"
+                  "standard": "koordinált világidő"
                 },
                 "short": {
                   "standard": "UTC"

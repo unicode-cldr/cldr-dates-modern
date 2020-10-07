@@ -3,7 +3,7 @@
     "it-VA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "it",
         "territory": "VA"
@@ -391,12 +391,12 @@
                 "intervalFormatFallback": "{0} - {1}",
                 "Bh": {
                   "B": "h B – h B",
-                  "h": "h–h B"
+                  "h": "h – h B"
                 },
                 "Bhm": {
                   "B": "h:mm B – h:mm B",
-                  "h": "h:mm–h:mm B",
-                  "m": "h:mm–h:mm B"
+                  "h": "h:mm – h:mm B",
+                  "m": "h:mm – h:mm B"
                 },
                 "d": {
                   "d": "d–d"
@@ -434,7 +434,7 @@
                   "y": "d MMM y – d MMM y G"
                 },
                 "GyMMMEd": {
-                  "d": "E d MMM – d E MMM y G",
+                  "d": "E d MMM – E d MMM y G",
                   "G": "E d MMM y G – E d MMM y G",
                   "M": "E d MMM – E d MMM y G",
                   "y": "E d MMM y – E d MMM y G"

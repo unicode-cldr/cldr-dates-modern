@@ -3,7 +3,7 @@
     "pa": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pa"
       },
@@ -289,13 +289,13 @@
               },
               "eraAbbr": {
                 "0": "ਈ. ਪੂ.",
-                "0-alt-variant": "ਈ. ਪੂ. ਸੰ.",
+                "0-alt-variant": "ਈ. ਪੂ.",
                 "1": "ਸੰਨ",
                 "1-alt-variant": "ਈ. ਸੰ."
               },
               "eraNarrow": {
                 "0": "ਈ.ਪੂ.",
-                "0-alt-variant": "ਈ.ਪੂ.ਸੰ.",
+                "0-alt-variant": "ਈ. ਪੂ.",
                 "1": "ਸੰਨ",
                 "1-alt-variant": "ਈ.ਸੰ."
               }

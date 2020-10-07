@@ -3,7 +3,7 @@
     "de-IT": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "de",
         "territory": "IT"
@@ -1730,7 +1730,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "Französische Süd- und Antarktisgebiete-Zeit"
+                "standard": "Französische-Süd-und-Antarktisgebiete-Zeit"
               }
             },
             "Galapagos": {
@@ -1812,12 +1812,12 @@
             },
             "India": {
               "long": {
-                "standard": "Indische Zeit"
+                "standard": "Indische Normalzeit"
               }
             },
             "Indian_Ocean": {
               "long": {
-                "standard": "Indischer Ozean-Zeit"
+                "standard": "Indischer-Ozean-Zeit"
               }
             },
             "Indochina": {
@@ -2055,9 +2055,9 @@
             },
             "Noronha": {
               "long": {
-                "generic": "Fernando de Noronha-Zeit",
-                "standard": "Fernando de Noronha-Normalzeit",
-                "daylight": "Fernando de Noronha-Sommerzeit"
+                "generic": "Fernando-de-Noronha-Zeit",
+                "standard": "Fernando-de-Noronha-Normalzeit",
+                "daylight": "Fernando-de-Noronha-Sommerzeit"
               }
             },
             "North_Mariana": {
@@ -2074,9 +2074,9 @@
             },
             "Omsk": {
               "long": {
-                "generic": "Omsk-Zeit",
-                "standard": "Omsk-Normalzeit",
-                "daylight": "Omsk-Sommerzeit"
+                "generic": "Omsker Zeit",
+                "standard": "Omsker Normalzeit",
+                "daylight": "Omsker Sommerzeit"
               }
             },
             "Pakistan": {
@@ -2189,7 +2189,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "Singapur-Zeit"
+                "standard": "Singapurische Normalzeit"
               }
             },
             "Solomon": {
@@ -2315,9 +2315,9 @@
             },
             "Yakutsk": {
               "long": {
-                "generic": "Jakutsk-Zeit",
-                "standard": "Jakutsk-Normalzeit",
-                "daylight": "Jakutsk-Sommerzeit"
+                "generic": "Jakutsker Zeit",
+                "standard": "Jakutsker Normalzeit",
+                "daylight": "Jakutsker Sommerzeit"
               }
             },
             "Yekaterinburg": {

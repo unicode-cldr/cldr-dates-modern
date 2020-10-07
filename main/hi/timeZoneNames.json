@@ -3,7 +3,7 @@
     "hi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "hi"
       },
@@ -1217,6 +1217,10 @@
                 "exemplarCity": "गुआम"
               },
               "Honolulu": {
+                "short": {
+                  "generic": "एचएसटी",
+                  "standard": "एचएसटी"
+                },
                 "exemplarCity": "होनोलुलु"
               },
               "Johnston": {

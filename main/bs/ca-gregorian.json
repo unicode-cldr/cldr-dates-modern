@@ -3,7 +3,7 @@
     "bs": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bs"
       },
@@ -295,13 +295,13 @@
               },
               "eraAbbr": {
                 "0": "p. n. e.",
-                "0-alt-variant": "p.n.e.",
+                "0-alt-variant": "p. n. e.",
                 "1": "n. e.",
                 "1-alt-variant": "n.e."
               },
               "eraNarrow": {
                 "0": "p.n.e.",
-                "0-alt-variant": "p.n.e.",
+                "0-alt-variant": "p. n. e.",
                 "1": "n.e.",
                 "1-alt-variant": "n.e."
               }

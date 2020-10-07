@@ -3,7 +3,7 @@
     "ca-FR": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ca",
         "territory": "FR"
@@ -599,7 +599,7 @@
                 "exemplarCity": "Malta"
               },
               "Mariehamn": {
-                "exemplarCity": "Maarianhamina"
+                "exemplarCity": "Mariehamn"
               },
               "Minsk": {
                 "exemplarCity": "Minsk"
@@ -641,7 +641,7 @@
                 "exemplarCity": "Saràtov"
               },
               "Simferopol": {
-                "exemplarCity": "Simferopol"
+                "exemplarCity": "Simferòpol"
               },
               "Skopje": {
                 "exemplarCity": "Skopje"
@@ -1080,7 +1080,7 @@
                 "exemplarCity": "Ulan Bator"
               },
               "Urumqi": {
-                "exemplarCity": "Urumchi"
+                "exemplarCity": "Ürümchi"
               },
               "Ust-Nera": {
                 "exemplarCity": "Ust’-Nera"
@@ -1496,9 +1496,9 @@
             },
             "Azerbaijan": {
               "long": {
-                "generic": "Hora d’Azerbaidjan",
-                "standard": "Hora estàndard d’Azerbaidjan",
-                "daylight": "Hora d’estiu d’Azerbaidjan"
+                "generic": "Hora de l’Azerbaidjan",
+                "standard": "Hora estàndard de l’Azerbaidjan",
+                "daylight": "Hora d’estiu de l’Azerbaidjan"
               }
             },
             "Azores": {
@@ -1510,9 +1510,9 @@
             },
             "Bangladesh": {
               "long": {
-                "generic": "Hora de Bangla Desh",
-                "standard": "Hora estàndard de Bangla Desh",
-                "daylight": "Hora d’estiu de Bangla Desh"
+                "generic": "Hora de Bangladesh",
+                "standard": "Hora estàndard de Bangladesh",
+                "daylight": "Hora d’estiu de Bangladesh"
               }
             },
             "Bhutan": {
@@ -1546,7 +1546,7 @@
             },
             "Chamorro": {
               "long": {
-                "standard": "Hora de Chamorro"
+                "standard": "Hora estàndard de Chamorro"
               }
             },
             "Chatham": {
@@ -1746,7 +1746,7 @@
             },
             "Gulf": {
               "long": {
-                "standard": "Hora del Golf"
+                "standard": "Hora estàndard del Golf"
               }
             },
             "Guyana": {
@@ -1787,7 +1787,7 @@
             },
             "Indochina": {
               "long": {
-                "standard": "Hora d’Indoxina"
+                "standard": "Hora de l’Indoxina"
               }
             },
             "Indonesia_Central": {
@@ -1807,9 +1807,9 @@
             },
             "Iran": {
               "long": {
-                "generic": "Hora d’Iran",
-                "standard": "Hora estàndard d’Iran",
-                "daylight": "Hora d’estiu d’Iran"
+                "generic": "Hora de l’Iran",
+                "standard": "Hora estàndard de l’Iran",
+                "daylight": "Hora d’estiu de l’Iran"
               }
             },
             "Irkutsk": {
@@ -2067,9 +2067,9 @@
             },
             "Philippines": {
               "long": {
-                "generic": "Hora de Filipines",
-                "standard": "Hora estàndard de Filipines",
-                "daylight": "Hora d’estiu de Filipines"
+                "generic": "Hora de les Filipines",
+                "standard": "Hora estàndard de les Filipines",
+                "daylight": "Hora d’estiu de les Filipines"
               }
             },
             "Phoenix_Islands": {
@@ -2142,7 +2142,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "Hora de Salomó"
+                "standard": "Hora de les illes Salomó"
               }
             },
             "South_Georgia": {
@@ -2253,7 +2253,7 @@
             },
             "Wake": {
               "long": {
-                "standard": "Hora de Wake"
+                "standard": "Hora de les illes Wake"
               }
             },
             "Wallis": {

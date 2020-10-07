@@ -3,7 +3,7 @@
     "sw-KE": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sw",
         "territory": "KE"
@@ -1638,7 +1638,7 @@
             "Europe_Central": {
               "long": {
                 "generic": "Saa za Ulaya ya Kati",
-                "standard": "Saa za Wastani za Ulaya ya kati",
+                "standard": "Saa za Wastani za Ulaya ya Kati",
                 "daylight": "Saa za Majira ya joto za Ulaya ya Kati"
               }
             },
@@ -1902,9 +1902,9 @@
             },
             "Mauritius": {
               "long": {
-                "generic": "Saa za Mauritius",
-                "standard": "Saa za Wastani za Mauritius",
-                "daylight": "Saa za Majira ya joto za Mauritius"
+                "generic": "Saa za Morisi",
+                "standard": "Saa za Wastani za Morisi",
+                "daylight": "Saa za Majira ya joto za Morisi"
               }
             },
             "Mawson": {
@@ -1921,9 +1921,9 @@
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "Saa za pasifiki za Mexico",
-                "standard": "Saa za wastani za pasifiki za Mexico",
-                "daylight": "Saa za mchana za pasifiki za Mexico"
+                "generic": "Saa za pasifiki za Meksiko",
+                "standard": "Saa za wastani za pasifiki za Meksiko",
+                "daylight": "Saa za mchana za pasifiki za Meksiko"
               }
             },
             "Mongolia": {

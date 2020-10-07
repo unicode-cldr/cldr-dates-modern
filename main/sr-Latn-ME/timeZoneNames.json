@@ -3,7 +3,7 @@
     "sr-Latn-ME": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Latn",
@@ -567,7 +567,7 @@
                 "exemplarCity": "Istanbul"
               },
               "Jersey": {
-                "exemplarCity": "Džersi"
+                "exemplarCity": "Džerzi"
               },
               "Kaliningrad": {
                 "exemplarCity": "Kalinjingrad"
@@ -1690,7 +1690,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Dalji istok Evrope"
+                "standard": "Vreme daljeg istoka Evrope"
               }
             },
             "Europe_Western": {

@@ -3,7 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bg"
       },
@@ -13,7 +13,7 @@
           "gmtFormat": "Гринуич{0}",
           "gmtZeroFormat": "Гринуич",
           "regionFormat": "{0}",
-          "regionFormat-type-daylight": "{0}, лятно часово време",
+          "regionFormat-type-daylight": "{0} – лятно часово време",
           "regionFormat-type-standard": "{0} – стандартно време",
           "fallbackFormat": "{1} ({0})",
           "zone": {
@@ -1342,7 +1342,7 @@
                 }
               },
               "Unknown": {
-                "exemplarCity": "неизвестен"
+                "exemplarCity": "неизвестен град"
               }
             }
           },

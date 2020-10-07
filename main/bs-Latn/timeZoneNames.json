@@ -3,7 +3,7 @@
     "bs-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bs",
         "script": "Latn"
@@ -1668,6 +1668,11 @@
                 "generic": "Centralnoevropsko vrijeme",
                 "standard": "Centralnoevropsko standardno vrijeme",
                 "daylight": "Centralnoevropsko ljetno vrijeme"
+              },
+              "short": {
+                "generic": "CET",
+                "standard": "CET",
+                "daylight": "CEST"
               }
             },
             "Europe_Eastern": {
@@ -1675,6 +1680,11 @@
                 "generic": "Istočnoevropsko vrijeme",
                 "standard": "Istočnoevropsko standardno vrijeme",
                 "daylight": "Istočnoevropsko ljetno vrijeme"
+              },
+              "short": {
+                "generic": "EET",
+                "standard": "EET",
+                "daylight": "EEST"
               }
             },
             "Europe_Further_Eastern": {
@@ -1687,6 +1697,11 @@
                 "generic": "Zapadnoevropsko vrijeme",
                 "standard": "Zapadnoevropsko standardno vrijeme",
                 "daylight": "Zapadnoevropsko ljetno vrijeme"
+              },
+              "short": {
+                "generic": "WET",
+                "standard": "WET",
+                "daylight": "WEST"
               }
             },
             "Falkland": {
@@ -1738,6 +1753,9 @@
             "GMT": {
               "long": {
                 "standard": "Griničko vrijeme"
+              },
+              "short": {
+                "standard": "GMT"
               }
             },
             "Greenland_Eastern": {

@@ -3,7 +3,7 @@
     "ps": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ps"
       },
@@ -508,7 +508,7 @@
                 "exemplarCity": "اندورا"
               },
               "Astrakhan": {
-                "exemplarCity": "آسترخان"
+                "exemplarCity": "استرا خان"
               },
               "Athens": {
                 "exemplarCity": "ايتنز"
@@ -1628,7 +1628,7 @@
               "long": {
                 "generic": "مرکزي اروپايي وخت",
                 "standard": "د مرکزي اروپا معیاري وخت",
-                "daylight": "وسطي اروپايي د اوړي وخت"
+                "daylight": "مرکزي اروپايياوړي وخت"
               }
             },
             "Europe_Eastern": {
@@ -1965,7 +1965,7 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "د نورفکاس ټاپو وخت",
+                "generic": "نورفوک ټاپو وخت",
                 "standard": "د نورفکاس ټاپو معياري وخت",
                 "daylight": "د نورفکاس ټاپو اوړي وخت"
               }
@@ -2220,7 +2220,7 @@
             },
             "Yekaterinburg": {
               "long": {
-                "generic": "د ياکيټرنبرګ وخت",
+                "generic": "یکاټیرینبرګ وخت",
                 "standard": "د ياکيټرنبرګ معياري وخت",
                 "daylight": "د ياکټرنبرګ د اوړي وخت"
               }

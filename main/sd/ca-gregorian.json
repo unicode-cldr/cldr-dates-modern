@@ -3,7 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sd"
       },
@@ -252,7 +252,7 @@
             },
             "eras": {
               "eraNames": {
-                "0": "مسيح کان اڳ",
+                "0": "قبل مسيح",
                 "0-alt-variant": "عام دور کان پهرين",
                 "1": "عيسوي کان پهرين",
                 "1-alt-variant": "عام دور"

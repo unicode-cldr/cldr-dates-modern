@@ -3,7 +3,7 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "MX"
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "dom.",
-                  "mon": "lun.",
-                  "tue": "mar.",
-                  "wed": "mié.",
-                  "thu": "jue.",
-                  "fri": "vie.",
-                  "sat": "sáb."
+                  "sun": "dom",
+                  "mon": "lun",
+                  "tue": "mar",
+                  "wed": "mié",
+                  "thu": "jue",
+                  "fri": "vie",
+                  "sat": "sáb"
                 },
                 "narrow": {
                   "sun": "D",
@@ -302,10 +302,10 @@
               "short": "dd/MM/yy GGGGG"
             },
             "timeFormats": {
-              "full": "H:mm:ss zzzz",
-              "long": "H:mm:ss z",
-              "medium": "H:mm:ss",
-              "short": "H:mm"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1}, {0}",
@@ -326,9 +326,9 @@
                 "Ehms": "E h:mm:ss a",
                 "EHms": "E HH:mm:ss",
                 "Gy": "y G",
-                "GyMMM": "MMM y G",
-                "GyMMMd": "d MMM y G",
-                "GyMMMEd": "E, d MMM y G",
+                "GyMMM": "MMM 'de' y G",
+                "GyMMMd": "d 'de' MMM 'de' y G",
+                "GyMMMEd": "E, d 'de' MMM 'de' y G",
                 "GyMMMM": "MMMM 'de' y G",
                 "GyMMMMd": "d 'de' MMMM 'de' y G",
                 "GyMMMMEd": "E, d 'de' MMMM 'de' y G",
@@ -342,7 +342,7 @@
                 "Md": "d/M",
                 "MEd": "E, d/M",
                 "MMM": "LLL",
-                "MMMd": "d MMM",
+                "MMMd": "d 'de' MMM",
                 "MMMEd": "E d MMM",
                 "MMMMd": "d 'de' MMMM",
                 "MMMMEd": "E, d 'de' MMMM",

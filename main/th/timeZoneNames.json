@@ -3,7 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "th"
       },
@@ -2034,7 +2034,7 @@
               "long": {
                 "generic": "เวลาเกาะนอร์ฟอล์ก",
                 "standard": "เวลามาตรฐานเกาะนอร์ฟอล์ก",
-                "daylight": "เวลาฤดูร้อนเกาะนอร์ฟอล์ก"
+                "daylight": "เวลาออมแสงเกาะนอร์ฟอล์ก"
               }
             },
             "Noronha": {

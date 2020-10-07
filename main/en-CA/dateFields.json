@@ -3,7 +3,7 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "CA"
@@ -339,11 +339,11 @@
             "relative-type-1": "next M",
             "relativeTime-type-future": {
               "relativeTimePattern-count-one": "in {0} M",
-              "relativeTimePattern-count-other": "in {0} M"
+              "relativeTimePattern-count-other": "in {0} Mo’s"
             },
             "relativeTime-type-past": {
               "relativeTimePattern-count-one": "{0} M ago",
-              "relativeTimePattern-count-other": "{0} M ago"
+              "relativeTimePattern-count-other": "{0} Mo’s ago"
             }
           },
           "tue": {

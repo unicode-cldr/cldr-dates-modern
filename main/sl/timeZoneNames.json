@@ -3,7 +3,7 @@
     "sl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sl"
       },
@@ -485,7 +485,7 @@
                 "exemplarCity": "Zelenortski otoki"
               },
               "Faeroe": {
-                "exemplarCity": "Faroe"
+                "exemplarCity": "Ferski otoki"
               },
               "Madeira": {
                 "exemplarCity": "Madeira"
@@ -1982,9 +1982,9 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "Norfolški otoki čas",
-                "standard": "Norfolški otoki standardni čas",
-                "daylight": "Norfolški otoki poletni čas"
+                "generic": "Čas: Norfolški otoki",
+                "standard": "Standardni čas: Norfolški otoki",
+                "daylight": "Poletni čas: Norfolški otoki"
               }
             },
             "Noronha": {

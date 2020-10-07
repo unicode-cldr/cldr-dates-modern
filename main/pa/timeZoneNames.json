@@ -3,7 +3,7 @@
     "pa": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pa"
       },
@@ -2016,7 +2016,7 @@
               "long": {
                 "generic": "ਨੋਰਫੌਕ ਆਈਲੈਂਡ ਵੇਲਾ",
                 "standard": "ਨੋਰਫੌਕ ਆਈਲੈਂਡ ਮਿਆਰੀ ਵੇਲਾ",
-                "daylight": "ਨੋਰਫੌਕ ਆਈਲੈਂਡ ਗਰਮੀਆਂ ਦਾ ਵੇਲਾ"
+                "daylight": "ਨੋਰਫੌਕ ਆਈਲੈਂਡ ਪ੍ਰਕਾਸ਼ ਵੇਲਾ"
               }
             },
             "Noronha": {

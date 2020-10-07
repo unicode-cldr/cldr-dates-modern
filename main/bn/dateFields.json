@@ -3,7 +3,7 @@
     "bn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bn"
       },
@@ -321,7 +321,7 @@
               "relativeTimePattern-count-other": "{0} সোমবারেতে"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} সোমবারেতে",
+              "relativeTimePattern-count-one": "{0} সোমবার আগে",
               "relativeTimePattern-count-other": "{0} সোমবার আগে"
             }
           },

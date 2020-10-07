@@ -3,7 +3,7 @@
     "pt-TL": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt",
         "territory": "TL"
@@ -243,8 +243,8 @@
               "relativeTimePattern-count-other": "+{0} dias"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "há {0} dias",
-              "relativeTimePattern-count-other": "há {0} dias"
+              "relativeTimePattern-count-one": "-{0} dia",
+              "relativeTimePattern-count-other": "-{0} dias"
             }
           },
           "dayOfYear": {
@@ -260,10 +260,10 @@
             "displayName": "dia da semana"
           },
           "weekday-short": {
-            "displayName": "dia da semana"
+            "displayName": "dia da sem."
           },
           "weekday-narrow": {
-            "displayName": "dia da semana"
+            "displayName": "dia da sem."
           },
           "weekdayOfMonth": {
             "displayName": "dia da semana do mês"

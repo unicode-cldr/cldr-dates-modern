@@ -3,7 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "th"
       },
@@ -425,20 +425,20 @@
                 },
                 "GyM": {
                   "G": "MM/GGGGG y – MM/GGGGG y",
-                  "M": "M/y – M/y G",
-                  "y": "M/y – M/y G"
+                  "M": "MM/GGGGG y – MM/GGGGG y",
+                  "y": "MM/GGGGG y – MM/GGGGG y"
                 },
                 "GyMd": {
-                  "d": "d/M/y – d/M/y G",
+                  "d": "d/MM/GGGGG y – d/MM/GGGGG y",
                   "G": "d/MM/GGGGG y – d/MM/GGGGG y",
-                  "M": "d/M/y – d/M/y G",
-                  "y": "d/M/y – d/M/y G"
+                  "M": "d/MM/GGGGG y – d/MM/GGGGG y",
+                  "y": "d/MM/GGGGG y – d/MM/GGGGG y"
                 },
                 "GyMEd": {
-                  "d": "E d/M/y – E d/M/y G",
+                  "d": "E d/MM/GGGGG y – E d/MM/GGGGG y",
                   "G": "E d/MM/GGGGG y – E d/MM/GGGGG y",
-                  "M": "E d/M/y – E d/M/y G",
-                  "y": "E d/M/y – E d/M/y G"
+                  "M": "E d/MM/GGGGG y – E d/MM/GGGGG y",
+                  "y": "E d/MM/GGGGG y – E d/MM/GGGGG y"
                 },
                 "GyMMM": {
                   "G": "MMM G y – MMM G y",

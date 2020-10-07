@@ -3,7 +3,7 @@
     "te": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "te"
       },
@@ -2032,7 +2032,7 @@
               "long": {
                 "generic": "నార్ఫోక్ దీవి సమయం",
                 "standard": "నార్ఫోక్ దీవి ప్రామాణిక సమయం",
-                "daylight": "నార్ఫోక్ దీవి వేసవి సమయం"
+                "daylight": "నార్ఫోక్ దీవి పగటి సమయం"
               }
             },
             "Noronha": {

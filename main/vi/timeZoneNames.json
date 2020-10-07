@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "vi"
       },
@@ -1347,7 +1347,7 @@
                 }
               },
               "Unknown": {
-                "exemplarCity": "Thành phố Không xác định"
+                "exemplarCity": "Thành phố không xác định"
               }
             }
           },
@@ -1566,8 +1566,8 @@
             "Azores": {
               "long": {
                 "generic": "Giờ Azores",
-                "standard": "Giờ Chuẩn Azores",
-                "daylight": "Giờ Mùa Hè Azores"
+                "standard": "Giờ chuẩn Azores",
+                "daylight": "Giờ mùa hè Azores"
               }
             },
             "Bangladesh": {
@@ -1718,7 +1718,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Giờ Châu Âu Viễn Đông"
+                "standard": "Giờ Viễn đông Châu Âu"
               }
             },
             "Europe_Western": {

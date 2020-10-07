@@ -3,7 +3,7 @@
     "km": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "km"
       },
@@ -556,7 +556,7 @@
                 "exemplarCity": "ហ្គេនស៊ី"
               },
               "Helsinki": {
-                "exemplarCity": "ហែលស៊ិងគី"
+                "exemplarCity": "ហែលស៊ិនគី"
               },
               "Isle_of_Man": {
                 "exemplarCity": "អែលអុហ្វម៉ែន"
@@ -622,7 +622,7 @@
                 "exemplarCity": "ប្រាក"
               },
               "Riga": {
-                "exemplarCity": "រីហ្គា"
+                "exemplarCity": "រីហ្កា"
               },
               "Rome": {
                 "exemplarCity": "រ៉ូម"
@@ -1411,9 +1411,9 @@
             },
             "America_Pacific": {
               "long": {
-                "generic": "ម៉ោង​​នៅទ្វីប​អាមរិក​ខាង​ជើងភាគខាងលិច",
-                "standard": "ម៉ោងស្តង់ដារ​​​នៅទ្វីប​អាមរិក​ខាង​ជើងភាគខាងលិច",
-                "daylight": "ម៉ោង​​ពេលថ្ងៃនៅទ្វីប​អាមរិក​ខាង​ជើងភាគខាងលិច"
+                "generic": "ម៉ោងនៅប៉ាស៊ីហ្វិកអាមេរិក",
+                "standard": "ម៉ោងស្ដង់ដារនៅប៉ាស៊ីហ្វិកអាមេរិក",
+                "daylight": "ម៉ោងពេលថ្ងៃនៅប៉ាស៊ីហ្វិកអាមេរិក"
               }
             },
             "Apia": {
@@ -1968,7 +1968,7 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "ម៉ោង​នៅ​កោះ​ន័រហ្វក់",
+                "generic": "ម៉ោង​នៅ​កោះ​ណ័រហ្វក់",
                 "standard": "ម៉ោង​ស្ដង់ដារ​នៅ​ណ័រហ្វក់",
                 "daylight": "ម៉ោងនៅ​ណ័រហ្វក់នា​រដូវ​ក្ដៅ"
               }

@@ -3,7 +3,7 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Latn",
@@ -107,8 +107,8 @@
                 "abbreviated": {
                   "sun": "ned",
                   "mon": "pon",
-                  "tue": "ut",
-                  "wed": "sr",
+                  "tue": "uto",
+                  "wed": "sre",
                   "thu": "čet",
                   "fri": "pet",
                   "sat": "sub"
@@ -133,7 +133,7 @@
                 },
                 "wide": {
                   "sun": "nedjelja",
-                  "mon": "ponedeljak",
+                  "mon": "ponedjeljak",
                   "tue": "utorak",
                   "wed": "srijeda",
                   "thu": "četvrtak",
@@ -145,8 +145,8 @@
                 "abbreviated": {
                   "sun": "ned",
                   "mon": "pon",
-                  "tue": "ut",
-                  "wed": "sr",
+                  "tue": "uto",
+                  "wed": "sri",
                   "thu": "čet",
                   "fri": "pet",
                   "sat": "sub"
@@ -171,7 +171,7 @@
                 },
                 "wide": {
                   "sun": "nedjelja",
-                  "mon": "ponedeljak",
+                  "mon": "ponedjeljak",
                   "tue": "utorak",
                   "wed": "srijeda",
                   "thu": "četvrtak",

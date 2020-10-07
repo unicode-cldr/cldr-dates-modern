@@ -3,7 +3,7 @@
     "fr-CA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fr",
         "territory": "CA"
@@ -1600,8 +1600,8 @@
             "Chatham": {
               "long": {
                 "generic": "heure des îles Chatham",
-                "standard": "heure normale des Îles Chatham",
-                "daylight": "heure avancée des Îles Chatham"
+                "standard": "heure normale des îles Chatham",
+                "daylight": "heure d’été des îles Chatham"
               }
             },
             "Chile": {
@@ -1685,16 +1685,16 @@
             },
             "Europe_Central": {
               "long": {
-                "generic": "heure d’Europe centrale",
-                "standard": "heure normale d’Europe centrale",
-                "daylight": "heure avancée d’Europe centrale"
+                "generic": "heure de l’Europe centrale",
+                "standard": "heure normale de l’Europe centrale",
+                "daylight": "heure avancée de l’Europe centrale"
               }
             },
             "Europe_Eastern": {
               "long": {
-                "generic": "heure d’Europe de l’Est",
-                "standard": "heure normale d’Europe de l’Est",
-                "daylight": "heure avancée d’Europe de l’Est"
+                "generic": "heure de l’Europe de l’Est",
+                "standard": "heure normale de l’Europe de l’Est",
+                "daylight": "heure avancée de l’Europe de l’Est"
               }
             },
             "Europe_Further_Eastern": {
@@ -1704,9 +1704,9 @@
             },
             "Europe_Western": {
               "long": {
-                "generic": "heure d’Europe de l’Ouest",
-                "standard": "heure normale d’Europe de l’Ouest",
-                "daylight": "heure avancée d’Europe de l’Ouest"
+                "generic": "heure de l’Europe de l’Ouest",
+                "standard": "heure normale de l’Europe de l’Ouest",
+                "daylight": "heure avancée de l’Europe de l’Ouest"
               }
             },
             "Falkland": {

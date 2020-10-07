@@ -3,7 +3,7 @@
     "en-VC": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "VC"
@@ -333,7 +333,7 @@
               "availableFormats": {
                 "Bh": "h B",
                 "Bhm": "h:mm B",
-                "Bhms": "h:mm.ss B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
                 "EBhm": "E, h:mm B",

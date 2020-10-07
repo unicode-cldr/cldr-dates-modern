@@ -3,7 +3,7 @@
     "pt-GQ": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt",
         "territory": "GQ"
@@ -653,7 +653,7 @@
                 "exemplarCity": "Estocolmo"
               },
               "Tallinn": {
-                "exemplarCity": "Tallinn"
+                "exemplarCity": "Talim"
               },
               "Tirane": {
                 "exemplarCity": "Tirana"
@@ -2048,9 +2048,9 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "Horário da Ilha Norfolk",
-                "standard": "Hora da Ilha Norfolk",
-                "daylight": "Horário de Verão da Ilha Norfolk"
+                "generic": "Hora da Ilha Norfolk",
+                "standard": "Hora padrão da Ilha Norfolk",
+                "daylight": "Hora de verão da Ilha Norfolk"
               }
             },
             "Noronha": {

@@ -3,7 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lv"
       },
@@ -684,7 +684,7 @@
             }
           },
           "minute-short": {
-            "displayName": "min.",
+            "displayName": "min",
             "relative-type-0": "šajā minūtē",
             "relativeTime-type-future": {
               "relativeTimePattern-count-zero": "pēc {0} min.",

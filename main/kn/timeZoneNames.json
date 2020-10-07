@@ -3,7 +3,7 @@
     "kn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "kn"
       },
@@ -634,7 +634,7 @@
                 "exemplarCity": "ಸ್ಯಾನ್ ಮರೀನೊ"
               },
               "Sarajevo": {
-                "exemplarCity": "ಸರಜೆವೊ"
+                "exemplarCity": "ಸರಯೇವೊ"
               },
               "Saratov": {
                 "exemplarCity": "ಸರಾಟೋವ್"
@@ -1061,7 +1061,7 @@
                 "exemplarCity": "ತಾಶ್ಕೆಂಟ್"
               },
               "Tbilisi": {
-                "exemplarCity": "ತಿಬಿಲಿಸಿ"
+                "exemplarCity": "ಟಿಬಿಲಿಸಿ"
               },
               "Tehran": {
                 "exemplarCity": "ತೆಹ್ರಾನ್"
@@ -1076,7 +1076,7 @@
                 "exemplarCity": "ಟೋಮ್‌ಸ್ಕ್"
               },
               "Ulaanbaatar": {
-                "exemplarCity": "ಉಲಾನ್‍ಬಾತರ್"
+                "exemplarCity": "ಉಲಾನ್ ಬತೊರ್"
               },
               "Urumqi": {
                 "exemplarCity": "ಉರುಮ್‍ಕಿ"
@@ -1097,7 +1097,7 @@
                 "exemplarCity": "ಎಕ್ಯಾಟೆರಿನ್ಬರ್ಗ್"
               },
               "Yerevan": {
-                "exemplarCity": "ಯೆರಿವಾನ್"
+                "exemplarCity": "ಯೆರೆವಾನ್"
               }
             },
             "Indian": {
@@ -1347,6 +1347,13 @@
             }
           },
           "metazone": {
+            "Acre": {
+              "long": {
+                "generic": "ಏಕರ್ ಸಮಯ",
+                "standard": "ಏಕರ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ಏಕರ್ ಬೇಸಿಗೆ ಸಮಯ"
+              }
+            },
             "Afghanistan": {
               "long": {
                 "standard": "ಅಫಘಾನಿಸ್ತಾನ ಸಮಯ"
@@ -1379,6 +1386,13 @@
                 "generic": "ಅಲಾಸ್ಕಾ ಸಮಯ",
                 "standard": "ಅಲಸ್ಕಾ ಪ್ರಮಾಣಿತ ಸಮಯ",
                 "daylight": "‌ಅಲಾಸ್ಕಾ ಹಗಲು ಸಮಯ"
+              }
+            },
+            "Almaty": {
+              "long": {
+                "generic": "ಆಲ್ಮೇಟಿ ಸಮಯ",
+                "standard": "ಆಲ್ಮೇಟಿ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ಆಲ್ಮೇಟಿ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
             "Amazon": {
@@ -1428,6 +1442,20 @@
                 "generic": "ಅಪಿಯಾ ಸಮಯ",
                 "standard": "ಅಪಿಯಾ ಪ್ರಮಾಣಿತ ಸಮಯ",
                 "daylight": "ಅಪಿಯಾ ಹಗಲು ಸಮಯ"
+              }
+            },
+            "Aqtau": {
+              "long": {
+                "generic": "ಅಕ್ಟೌ ಸಮಯ",
+                "standard": "ಅಕ್ಟೌ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ಅಕ್ಟೌ ಬೇಸಿಗೆ ಸಮಯ"
+              }
+            },
+            "Aqtobe": {
+              "long": {
+                "generic": "ಅಕ್ಟೋಬೆ ಸಮಯ",
+                "standard": "ಅಕ್ಟೋಬೆ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ಅಕ್ಟೋಬೆ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
             "Arabian": {
@@ -1662,9 +1690,9 @@
             },
             "Falkland": {
               "long": {
-                "generic": "ಫಾಲ್ಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳ ಸಮಯ",
-                "standard": "ಫಾಲ್ಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳ ಪ್ರಮಾಣಿತ ಸಮಯ",
-                "daylight": "ಫಾಲ್ಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳ ಬೇಸಿಗೆ ಸಮಯ"
+                "generic": "ಫಾಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳ ಸಮಯ",
+                "standard": "ಫಾಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ಫಾಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
             "Fiji": {
@@ -1723,6 +1751,11 @@
                 "generic": "ಪಶ್ಚಿಮ ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಸಮಯ",
                 "standard": "ಪಶ್ಚಿಮ ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
                 "daylight": "ಪಶ್ಚಿಮ ಗ್ರೀನ್‌ಲ್ಯಾಂಡ್ ಬೇಸಿಗೆ ಸಮಯ"
+              }
+            },
+            "Guam": {
+              "long": {
+                "standard": "ಗುವಾಮ್ ಪ್ರಮಾಣಿತ ಸಮಯ"
               }
             },
             "Gulf": {
@@ -1858,6 +1891,11 @@
                 "standard": "ಕಿರ್ಗಿಸ್ತಾನ್ ಸಮಯ"
               }
             },
+            "Lanka": {
+              "long": {
+                "standard": "ಲಂಕಾ ಸಮಯ"
+              }
+            },
             "Line_Islands": {
               "long": {
                 "standard": "ಲೈನ್ ದ್ವೀಪಗಳ ಸಮಯ"
@@ -1868,6 +1906,13 @@
                 "generic": "ಲಾರ್ಡ್ ಹೋವ್ ಸಮಯ",
                 "standard": "ಲಾರ್ಡ್ ಹೋವ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
                 "daylight": "ಲಾರ್ಡ್ ಹೋವ್ ಬೆಳಗಿನ ಸಮಯ"
+              }
+            },
+            "Macau": {
+              "long": {
+                "generic": "ಮಕಾವ್ ಸಮಯ",
+                "standard": "ಮಕಾವ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ಮಕಾವ್ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
             "Macquarie": {
@@ -1930,9 +1975,9 @@
             },
             "Mongolia": {
               "long": {
-                "generic": "ಉಲನ್ ಬ್ಯಾಟರ್ ಸಮಯ",
-                "standard": "ಉಲನ್ ಬ್ಯಾಟರ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
-                "daylight": "ಉಲನ್ ಬ್ಯಾಟರ್ ಬೇಸಿಗೆ ಸಮಯ"
+                "generic": "ಉಲಾನ್ ಬತೊರ್ ಸಮಯ",
+                "standard": "ಉಲಾನ್ ಬತೊರ್ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ಉಲಾನ್ ಬತೊರ್ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
             "Moscow": {
@@ -1995,6 +2040,11 @@
                 "generic": "ಫೆರ್ನಾಂಡೋ ಡೆ ನೊರೊನ್ಹಾ ಸಮಯ",
                 "standard": "ಫೆರ್ನಾಂಡೋ ಡೆ ನೊರೊನ್ಹಾ ಪ್ರಮಾಣಿತ ಸಮಯ",
                 "daylight": "ಫರ್ನಾಂಡೋ ದೆ ನೊರೊನ್ಹಾ ಬೇಸಿಗೆ ಸಮಯ"
+              }
+            },
+            "North_Mariana": {
+              "long": {
+                "standard": "ಉತ್ತರ ಮರಿಯಾನಾ ದ್ವೀಪಗಳ ಸಮಯ"
               }
             },
             "Novosibirsk": {
@@ -2074,6 +2124,13 @@
             "Pyongyang": {
               "long": {
                 "standard": "ಪ್ಯೊಂಗ್ಯಾಂಗ್ ಸಮಯ"
+              }
+            },
+            "Qyzylorda": {
+              "long": {
+                "generic": "ಕೋಜಿಲೋರ್ಡಾ ಸಮಯ",
+                "standard": "ಕೋಜಿಲೋರ್ಡಾ ಪ್ರಮಾಣಿತ ಸಮಯ",
+                "daylight": "ಕೋಜಿಲೋರ್ಡಾ ಬೇಸಿಗೆ ಸಮಯ"
               }
             },
             "Reunion": {

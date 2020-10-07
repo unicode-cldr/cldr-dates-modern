@@ -3,7 +3,7 @@
     "en-SB": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "SB"
@@ -862,7 +862,7 @@
                 "exemplarCity": "Anadyr"
               },
               "Aqtau": {
-                "exemplarCity": "Aqtau"
+                "exemplarCity": "Aktau"
               },
               "Aqtobe": {
                 "exemplarCity": "Aqtobe"

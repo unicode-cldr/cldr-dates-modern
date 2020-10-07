@@ -3,7 +3,7 @@
     "ro-MD": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ro",
         "territory": "MD"
@@ -486,7 +486,7 @@
                 "exemplarCity": "Capul Verde"
               },
               "Faeroe": {
-                "exemplarCity": "Faroe"
+                "exemplarCity": "Feroe"
               },
               "Madeira": {
                 "exemplarCity": "Madeira"
@@ -617,7 +617,7 @@
                 "exemplarCity": "Paris"
               },
               "Podgorica": {
-                "exemplarCity": "Podgorica"
+                "exemplarCity": "Podgorița"
               },
               "Prague": {
                 "exemplarCity": "Praga"
@@ -1389,6 +1389,13 @@
                 "daylight": "Ora de vară din Alaska"
               }
             },
+            "Almaty": {
+              "long": {
+                "generic": "Ora Almaty",
+                "standard": "Ora standard Almaty",
+                "daylight": "Ora de vară Almaty"
+              }
+            },
             "Amazon": {
               "long": {
                 "generic": "Ora Amazonului",
@@ -1436,6 +1443,20 @@
                 "generic": "Ora din Apia",
                 "standard": "Ora standard din Apia",
                 "daylight": "Ora de vară din Apia"
+              }
+            },
+            "Aqtau": {
+              "long": {
+                "generic": "Ora Aqtau",
+                "standard": "Ora standard Aqtau",
+                "daylight": "Ora de vară a zonei Aqtau"
+              }
+            },
+            "Aqtobe": {
+              "long": {
+                "generic": "Ora Aqtobe",
+                "standard": "Ora standard Aqtobe",
+                "daylight": "Ora de vară a zonei Aqtobe"
               }
             },
             "Arabian": {
@@ -2008,9 +2029,9 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "Ora Insulelor Norfolk",
-                "standard": "Ora standard Insulelor Norfolk",
-                "daylight": "Ora de vară Insulelor Norfolk"
+                "generic": "Ora Insulei Norfolk",
+                "standard": "Ora standard a Insulei Norfolk",
+                "daylight": "Ora de vară a Insulei Norfolk"
               }
             },
             "Noronha": {

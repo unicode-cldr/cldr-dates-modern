@@ -3,7 +3,7 @@
     "id": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "id"
       },
@@ -1899,7 +1899,7 @@
             },
             "Kyrgystan": {
               "long": {
-                "standard": "Waktu Kirghizia"
+                "standard": "Waktu Kirgizstan"
               }
             },
             "Lanka": {
@@ -1993,9 +1993,9 @@
             },
             "Moscow": {
               "long": {
-                "generic": "Waktu Moskwa",
-                "standard": "Waktu Standar Moskwa",
-                "daylight": "Waktu Musim Panas Moskwa"
+                "generic": "Waktu Moskow",
+                "standard": "Waktu Standar Moskow",
+                "daylight": "Waktu Musim Panas Moskow"
               }
             },
             "Myanmar": {
@@ -2041,9 +2041,9 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "Waktu Kepulauan Norfolk",
-                "standard": "Waktu Standar Kepulauan Norfolk",
-                "daylight": "Waktu Musim Panas Kepulauan Norfolk"
+                "generic": "Waktu Pulau Norfolk",
+                "standard": "Waktu Standar Pulau Norfolk",
+                "daylight": "Waktu Musim Panas Pulau Norfolk"
               }
             },
             "Noronha": {

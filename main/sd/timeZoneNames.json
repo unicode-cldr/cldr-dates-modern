@@ -3,7 +3,7 @@
     "sd": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sd"
       },
@@ -568,7 +568,7 @@
                 "exemplarCity": "ڪلينن گراڊ"
               },
               "Kiev": {
-                "exemplarCity": "ڪيف"
+                "exemplarCity": "ڪِيو"
               },
               "Kirov": {
                 "exemplarCity": "ڪيروف"
@@ -652,7 +652,7 @@
                 "exemplarCity": "ٽالن"
               },
               "Tirane": {
-                "exemplarCity": "اراني"
+                "exemplarCity": "تراني"
               },
               "Ulyanovsk": {
                 "exemplarCity": "اليانوسڪ"
@@ -968,7 +968,7 @@
                 "exemplarCity": "ڪريسنويارسڪ"
               },
               "Kuala_Lumpur": {
-                "exemplarCity": "ڪوللمپور"
+                "exemplarCity": "ڪوالالمپور"
               },
               "Kuching": {
                 "exemplarCity": "کوچنگ"
@@ -1134,7 +1134,7 @@
             },
             "Australia": {
               "Adelaide": {
-                "exemplarCity": "ايڊيلينڊ"
+                "exemplarCity": "ايڊيليڊ"
               },
               "Brisbane": {
                 "exemplarCity": "برسبين"
@@ -1429,16 +1429,16 @@
             },
             "Argentina": {
               "long": {
-                "generic": "ارجنٽائن وقت",
+                "generic": "ارجنٽينا جو وقت",
                 "standard": "ارجنٽائن معياري وقت",
                 "daylight": "ارجنٽائن جي اونهاري جو وقت"
               }
             },
             "Argentina_Western": {
               "long": {
-                "generic": "مغربي ارجنٽائن وقت",
-                "standard": "مغربي ارجنٽائن جو معياري وقت",
-                "daylight": "مغربي ارجنٽائن جي اونهاري جو وقت"
+                "generic": "اولهه ارجنٽينا جو وقت",
+                "standard": "اولهه ارجنٽينا جو معياري وقت",
+                "daylight": "اولهه ارجنٽينا جي اونهاري جو وقت"
               }
             },
             "Armenia": {
@@ -1523,7 +1523,7 @@
             },
             "Brunei": {
               "long": {
-                "standard": "برونائي داروالسلام جو وقت"
+                "standard": "برونائي دارالسلام جو وقت"
               }
             },
             "Cape_Verde": {
@@ -1554,7 +1554,7 @@
             },
             "China": {
               "long": {
-                "generic": "چائنا جو وقت",
+                "generic": "چين جو وقت",
                 "standard": "چائنا جو معياري وقت",
                 "daylight": "چائنا جي ڏينهن جو وقت"
               }
@@ -1645,9 +1645,9 @@
             },
             "Europe_Western": {
               "long": {
-                "generic": "مغربي يورپي وقت",
-                "standard": "مغربي يورپي معياري وقت",
-                "daylight": "مغربي يورپي ڏينهن جو وقت"
+                "generic": "اولهه يورپي وقت",
+                "standard": "اولهه يورپي معياري وقت",
+                "daylight": "اولهه يورپي ڏينهن جو وقت"
               }
             },
             "Falkland": {
@@ -1671,7 +1671,7 @@
             },
             "French_Southern": {
               "long": {
-                "standard": "فرانسيسي ڏاکڻي ۽ انٽارڪٽڪ جو وقت"
+                "standard": "فرانسيسي ڏاکڻيو ۽ انٽارڪٽڪ وقت"
               }
             },
             "Galapagos": {
@@ -1717,7 +1717,7 @@
             },
             "Gulf": {
               "long": {
-                "standard": "خلج معياري وقت"
+                "standard": "خليجي معياري وقت"
               }
             },
             "Guyana": {
@@ -1811,7 +1811,7 @@
             },
             "Kazakhstan_Western": {
               "long": {
-                "standard": "اولهه قزاقستان جو وقت"
+                "standard": "اولهه قازقستان جو وقت"
               }
             },
             "Korea": {
@@ -1835,7 +1835,7 @@
             },
             "Kyrgystan": {
               "long": {
-                "standard": "ڪرگزستان جو وقت"
+                "standard": "ڪرغزستان جو وقت"
               }
             },
             "Line_Islands": {
@@ -2036,9 +2036,9 @@
             },
             "Pierre_Miquelon": {
               "long": {
-                "generic": "سينٽ پيئر ائن ميڪوئلون جو وقت",
-                "standard": "سینٽ پیئر اَئن میڪوئلون جو مانائتو وقت",
-                "daylight": "سینٽ پیئر و میڪوئیلون جي ڏينهن جو وقت"
+                "generic": "سينٽ پيئر ۽ ميڪلون جو وقت",
+                "standard": "سينٽ پيئر ۽ ميڪلون جو معياري وقت",
+                "daylight": "سينٽ پيئر ۽ ميڪلون جي ڏينهن جو وقت"
               }
             },
             "Pitcairn": {
@@ -2053,7 +2053,7 @@
             },
             "Pyongyang": {
               "long": {
-                "standard": "شيانگ يانگ جو وقت"
+                "standard": "پيانگ يانگ جو وقت"
               }
             },
             "Reunion": {

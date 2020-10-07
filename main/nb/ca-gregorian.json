@@ -3,7 +3,7 @@
     "nb": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "nb"
       },
@@ -246,11 +246,11 @@
                   "midnight": "midnatt",
                   "am": "a.m.",
                   "pm": "p.m.",
-                  "morning1": "morgenen",
-                  "morning2": "formiddagen",
-                  "afternoon1": "ettermiddagen",
-                  "evening1": "kvelden",
-                  "night1": "natten"
+                  "morning1": "på morgenen",
+                  "morning2": "på formiddagen",
+                  "afternoon1": "på ettermiddagen",
+                  "evening1": "på kvelden",
+                  "night1": "på natten"
                 }
               },
               "stand-alone": {
@@ -323,7 +323,7 @@
               "short-alt-variant": "HH.mm"
             },
             "dateTimeFormats": {
-              "full": "{1} {0}",
+              "full": "{1} 'kl'. {0}",
               "long": "{1} 'kl'. {0}",
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
@@ -337,9 +337,9 @@
                 "EBhms": "E h:mm:ss B",
                 "Ed": "E d.",
                 "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
+                "EHm": "E 'kl'. HH:mm",
                 "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
+                "EHms": "E 'kl'. HH:mm:ss",
                 "Gy": "y G",
                 "GyMMM": "MMM y G",
                 "GyMMMd": "d. MMM y G",
@@ -368,7 +368,7 @@
                 "y": "y",
                 "yM": "M.y",
                 "yMd": "d.M.y",
-                "yMEd": "E d.MM.y",
+                "yMEd": "E d.M.y",
                 "yMM": "MM.y",
                 "yMMM": "MMM y",
                 "yMMMd": "d. MMM y",
@@ -445,14 +445,14 @@
                   "y": "E d. MMM y–E d. MMM y G"
                 },
                 "h": {
-                  "a": "h a – h a",
+                  "a": "h a–h a",
                   "h": "h–h a"
                 },
                 "H": {
                   "H": "HH–HH"
                 },
                 "hm": {
-                  "a": "h:mm a – h:mm a",
+                  "a": "h:mm a–h:mm a",
                   "h": "h:mm–h:mm a",
                   "m": "h:mm–h:mm a"
                 },
@@ -461,7 +461,7 @@
                   "m": "HH:mm–HH:mm"
                 },
                 "hmv": {
-                  "a": "h:mm a – h:mm a v",
+                  "a": "h:mm a–h:mm a v",
                   "h": "h:mm–h:mm a v",
                   "m": "h:mm–h:mm a v"
                 },
@@ -470,7 +470,7 @@
                   "m": "HH:mm–HH:mm v"
                 },
                 "hv": {
-                  "a": "h a – h a v",
+                  "a": "h a–h a v",
                   "h": "h–h a v"
                 },
                 "Hv": {

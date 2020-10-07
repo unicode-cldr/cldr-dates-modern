@@ -3,7 +3,7 @@
     "ka": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ka"
       },
@@ -529,7 +529,7 @@
                 "exemplarCity": "ბრიუსელი"
               },
               "Bucharest": {
-                "exemplarCity": "ბუხარესტი"
+                "exemplarCity": "ბუქარესტი"
               },
               "Budapest": {
                 "exemplarCity": "ბუდაპეშტი"
@@ -664,7 +664,7 @@
                 "exemplarCity": "უჟგოროდი"
               },
               "Vaduz": {
-                "exemplarCity": "ვადუზი"
+                "exemplarCity": "ვადუცი"
               },
               "Vatican": {
                 "exemplarCity": "ვატიკანი"

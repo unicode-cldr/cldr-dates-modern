@@ -3,7 +3,7 @@
     "af-NA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "af",
         "territory": "NA"
@@ -942,7 +942,7 @@
                 "exemplarCity": "Hovd"
               },
               "Irkutsk": {
-                "exemplarCity": "Irkutsk"
+                "exemplarCity": "Irkoetsk"
               },
               "Jakarta": {
                 "exemplarCity": "Djakarta"
@@ -1536,7 +1536,7 @@
             },
             "Bolivia": {
               "long": {
-                "standard": "Bolivia-tyd"
+                "standard": "Bolivië-tyd"
               }
             },
             "Brasilia": {
@@ -1747,7 +1747,7 @@
             },
             "Guyana": {
               "long": {
-                "standard": "Guyana-tyd"
+                "standard": "Guiana-tyd"
               }
             },
             "Hawaii_Aleutian": {
@@ -1810,9 +1810,9 @@
             },
             "Irkutsk": {
               "long": {
-                "generic": "Irkutsk-tyd",
-                "standard": "Irkutsk-standaardtyd",
-                "daylight": "Irkutsk-somertyd"
+                "generic": "Irkoetsk-tyd",
+                "standard": "Irkoetsk-standaardtyd",
+                "daylight": "Irkoetsk-somertyd"
               }
             },
             "Israel": {

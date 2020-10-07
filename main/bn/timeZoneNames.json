@@ -3,7 +3,7 @@
     "bn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bn"
       },
@@ -1347,6 +1347,13 @@
             }
           },
           "metazone": {
+            "Acre": {
+              "long": {
+                "generic": "একর সময়",
+                "standard": "একর মানক সময়",
+                "daylight": "একর গ্রীষ্মকাল সময়"
+              }
+            },
             "Afghanistan": {
               "long": {
                 "standard": "আফগানিস্তান সময়"
@@ -1650,7 +1657,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "অতিরিক্ত-পূর্ব ইউরোপীয় সময়"
+                "standard": "প্রান্তীয় পূর্ব ইউরোপীয় সময়"
               }
             },
             "Europe_Western": {

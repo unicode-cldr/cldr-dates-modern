@@ -3,7 +3,7 @@
     "sr-Cyrl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Cyrl"
@@ -566,7 +566,7 @@
                 "exemplarCity": "Истанбул"
               },
               "Jersey": {
-                "exemplarCity": "Џерси"
+                "exemplarCity": "Џерзи"
               },
               "Kaliningrad": {
                 "exemplarCity": "Калињинград"
@@ -1689,7 +1689,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Даљи исток Европе"
+                "standard": "Време даљег истока Европе"
               }
             },
             "Europe_Western": {

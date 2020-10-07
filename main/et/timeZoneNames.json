@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "et"
       },
@@ -2032,9 +2032,9 @@
             },
             "Norfolk": {
               "long": {
-                "generic": "Norfolki saarte aeg",
-                "standard": "Norfolki saarte standardaeg",
-                "daylight": "Norfolki saarte suveaeg"
+                "generic": "Norfolki saare aeg",
+                "standard": "Norfolki saare standardaeg",
+                "daylight": "Norfolki saare suveaeg"
               }
             },
             "Noronha": {

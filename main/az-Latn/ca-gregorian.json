@@ -3,7 +3,7 @@
     "az-Latn": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "az",
         "script": "Latn"
@@ -87,16 +87,16 @@
                 },
                 "wide": {
                   "1": "yanvar",
-                  "2": "Fevral",
+                  "2": "fevral",
                   "3": "mart",
-                  "4": "Aprel",
-                  "5": "May",
-                  "6": "İyun",
-                  "7": "İyul",
-                  "8": "Avqust",
-                  "9": "Sentyabr",
-                  "10": "Oktyabr",
-                  "11": "Noyabr",
+                  "4": "aprel",
+                  "5": "may",
+                  "6": "iyun",
+                  "7": "iyul",
+                  "8": "avqust",
+                  "9": "sentyabr",
+                  "10": "oktyabr",
+                  "11": "noyabr",
                   "12": "dekabr"
                 }
               }

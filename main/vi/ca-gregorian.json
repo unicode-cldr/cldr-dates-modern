@@ -3,7 +3,7 @@
     "vi": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "vi"
       },
@@ -288,15 +288,15 @@
             },
             "eras": {
               "eraNames": {
-                "0": "Trước CN",
-                "0-alt-variant": "trước CN",
-                "1": "sau CN",
-                "1-alt-variant": "CN"
+                "0": "Trước Thiên Chúa",
+                "0-alt-variant": "Trước Công Nguyên",
+                "1": "Sau Công Nguyên",
+                "1-alt-variant": "Công Nguyên"
               },
               "eraAbbr": {
                 "0": "Trước CN",
                 "0-alt-variant": "trước CN",
-                "1": "sau CN",
+                "1": "Sau CN",
                 "1-alt-variant": "CN"
               },
               "eraNarrow": {

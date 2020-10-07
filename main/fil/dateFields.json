@@ -3,7 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fil"
       },
@@ -61,7 +61,7 @@
             }
           },
           "quarter": {
-            "displayName": "Quarter",
+            "displayName": "quarter",
             "relative-type--1": "nakaraang quarter",
             "relative-type-0": "ngayong quarter",
             "relative-type-1": "susunod na quarter",

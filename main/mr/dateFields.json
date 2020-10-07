@@ -3,7 +3,7 @@
     "mr": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "mr"
       },
@@ -541,13 +541,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "[म.पू./म.उ.]"
+            "displayName": "AM/PM"
           },
           "dayperiod": {
-            "displayName": "[म.पू./म.उ.]"
+            "displayName": "AM/PM"
           },
           "dayperiod-narrow": {
-            "displayName": "[म.पू./म.उ.]"
+            "displayName": "AM/PM"
           },
           "hour": {
             "displayName": "तास",

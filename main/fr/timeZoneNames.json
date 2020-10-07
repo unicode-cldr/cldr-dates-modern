@@ -3,7 +3,7 @@
     "fr": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fr"
       },
@@ -485,7 +485,7 @@
                 "exemplarCity": "Cap-Vert"
               },
               "Faeroe": {
-                "exemplarCity": "Féroé"
+                "exemplarCity": "Îles Féroé"
               },
               "Madeira": {
                 "exemplarCity": "Madère"

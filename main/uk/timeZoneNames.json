@@ -3,7 +3,7 @@
     "uk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "uk"
       },
@@ -517,7 +517,7 @@
                 "exemplarCity": "Афіни"
               },
               "Belgrade": {
-                "exemplarCity": "Белґрад"
+                "exemplarCity": "Белград"
               },
               "Berlin": {
                 "exemplarCity": "Берлін"
@@ -541,7 +541,7 @@
                 "exemplarCity": "Кишинів"
               },
               "Copenhagen": {
-                "exemplarCity": "Копенгаґен"
+                "exemplarCity": "Копенгаген"
               },
               "Dublin": {
                 "long": {
@@ -550,10 +550,10 @@
                 "exemplarCity": "Дублін"
               },
               "Gibraltar": {
-                "exemplarCity": "Ґібралтар"
+                "exemplarCity": "Гібралтар"
               },
               "Guernsey": {
-                "exemplarCity": "Ґернсі"
+                "exemplarCity": "Гернсі"
               },
               "Helsinki": {
                 "exemplarCity": "Гельсінкі"
@@ -589,7 +589,7 @@
                 "exemplarCity": "Лондон"
               },
               "Luxembourg": {
-                "exemplarCity": "Люксембурґ"
+                "exemplarCity": "Люксембург"
               },
               "Madrid": {
                 "exemplarCity": "Мадрид"
@@ -631,7 +631,7 @@
                 "exemplarCity": "Самара"
               },
               "San_Marino": {
-                "exemplarCity": "Сан-Маріно"
+                "exemplarCity": "Сан-Марино"
               },
               "Sarajevo": {
                 "exemplarCity": "Сараєво"
@@ -682,7 +682,7 @@
                 "exemplarCity": "Варшава"
               },
               "Zagreb": {
-                "exemplarCity": "Заґреб"
+                "exemplarCity": "Загреб"
               },
               "Zaporozhye": {
                 "exemplarCity": "Запоріжжя"
@@ -884,7 +884,7 @@
                 "exemplarCity": "Баку"
               },
               "Bangkok": {
-                "exemplarCity": "Банґкок"
+                "exemplarCity": "Бангкок"
               },
               "Barnaul": {
                 "exemplarCity": "Барнаул"
@@ -974,7 +974,7 @@
                 "exemplarCity": "Куала-Лумпур"
               },
               "Kuching": {
-                "exemplarCity": "Кучінґ"
+                "exemplarCity": "Кучинг"
               },
               "Kuwait": {
                 "exemplarCity": "Кувейт"
@@ -1028,7 +1028,7 @@
                 "exemplarCity": "Кизилорда"
               },
               "Rangoon": {
-                "exemplarCity": "Янґон"
+                "exemplarCity": "Янгон"
               },
               "Riyadh": {
                 "exemplarCity": "Ер-Ріяд"
@@ -1208,13 +1208,13 @@
                 "exemplarCity": "Ґалапаґос"
               },
               "Gambier": {
-                "exemplarCity": "Ґамбʼєр"
+                "exemplarCity": "Гамбʼє"
               },
               "Guadalcanal": {
-                "exemplarCity": "Ґуадалканал"
+                "exemplarCity": "Гуадалканал"
               },
               "Guam": {
-                "exemplarCity": "Ґуам"
+                "exemplarCity": "Гуам"
               },
               "Honolulu": {
                 "exemplarCity": "Гонолулу"
@@ -1268,7 +1268,7 @@
                 "exemplarCity": "Порт-Морсбі"
               },
               "Rarotonga": {
-                "exemplarCity": "Раротонґа"
+                "exemplarCity": "Раротонга"
               },
               "Saipan": {
                 "exemplarCity": "Сайпан"
@@ -1280,7 +1280,7 @@
                 "exemplarCity": "Тарава"
               },
               "Tongatapu": {
-                "exemplarCity": "Тонґатапу"
+                "exemplarCity": "Тонгатапу"
               },
               "Truk": {
                 "exemplarCity": "Чуук"
@@ -1294,7 +1294,7 @@
             },
             "Arctic": {
               "Longyearbyen": {
-                "exemplarCity": "Лонґйїр"
+                "exemplarCity": "Лонгʼїр"
               }
             },
             "Antarctica": {
@@ -1715,7 +1715,7 @@
             },
             "GMT": {
               "long": {
-                "standard": "за Ґрінвічем"
+                "standard": "за Гринвічем"
               }
             },
             "Greenland_Eastern": {
@@ -2130,7 +2130,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "за часом у Сінґапурі"
+                "standard": "за часом у Сінгапурі"
               }
             },
             "Solomon": {
@@ -2177,9 +2177,9 @@
             },
             "Tonga": {
               "long": {
-                "generic": "за часом на островах Тонґа",
-                "standard": "за стандартним часом на островах Тонґа",
-                "daylight": "за літнім часом на островах Тонґа"
+                "generic": "за часом на островах Тонга",
+                "standard": "за стандартним часом на островах Тонга",
+                "daylight": "за літнім часом на островах Тонга"
               }
             },
             "Truk": {

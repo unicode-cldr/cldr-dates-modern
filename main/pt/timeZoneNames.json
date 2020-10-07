@@ -3,7 +3,7 @@
     "pt": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt"
       },
@@ -485,7 +485,7 @@
                 "exemplarCity": "Cabo Verde"
               },
               "Faeroe": {
-                "exemplarCity": "Ilhas Faroe"
+                "exemplarCity": "Ilhas Faroé"
               },
               "Madeira": {
                 "exemplarCity": "Madeira"
@@ -1034,7 +1034,7 @@
                 "exemplarCity": "Riade"
               },
               "Saigon": {
-                "exemplarCity": "Ho Chi Minh"
+                "exemplarCity": "Cidade de Ho Chi Minh"
               },
               "Sakhalin": {
                 "exemplarCity": "Sacalina"
@@ -2183,7 +2183,7 @@
             },
             "Singapore": {
               "long": {
-                "standard": "Horário Padrão de Cingapura"
+                "standard": "Horário Padrão de Singapura"
               }
             },
             "Solomon": {

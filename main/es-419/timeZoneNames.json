@@ -3,7 +3,7 @@
     "es-419": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "419"
@@ -1336,7 +1336,7 @@
             "Etc": {
               "UTC": {
                 "long": {
-                  "standard": "Hora Universal Coordinada"
+                  "standard": "hora universal coordinada"
                 },
                 "short": {
                   "standard": "UTC"

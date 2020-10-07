@@ -3,7 +3,7 @@
     "es-MX": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "MX"
@@ -104,13 +104,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "dom.",
-                  "mon": "lun.",
-                  "tue": "mar.",
-                  "wed": "mié.",
-                  "thu": "jue.",
-                  "fri": "vie.",
-                  "sat": "sáb."
+                  "sun": "dom",
+                  "mon": "lun",
+                  "tue": "mar",
+                  "wed": "mié",
+                  "thu": "jue",
+                  "fri": "vie",
+                  "sat": "sáb"
                 },
                 "narrow": {
                   "sun": "D",
@@ -308,10 +308,10 @@
               "short": "dd/MM/yy"
             },
             "timeFormats": {
-              "full": "H:mm:ss zzzz",
-              "long": "H:mm:ss z",
-              "medium": "H:mm:ss",
-              "short": "H:mm"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} 'a' 'las' {0}",
@@ -341,9 +341,9 @@
                 "h": "h a",
                 "H": "HH",
                 "hm": "h:mm a",
-                "Hm": "H:mm",
+                "Hm": "HH:mm",
                 "hms": "h:mm:ss a",
-                "Hms": "H:mm:ss",
+                "Hms": "HH:mm:ss",
                 "hmsv": "h:mm:ss a v",
                 "Hmsv": "HH:mm:ss v",
                 "hmsvvvv": "h:mm:ss a (vvvv)",
@@ -369,9 +369,9 @@
                 "yMd": "d/M/y",
                 "yMEd": "E, d/M/y",
                 "yMM": "MM/y",
-                "yMMM": "MMMM 'de' y",
-                "yMMMd": "d 'de' MMMM 'de' y",
-                "yMMMEd": "EEE, d 'de' MMMM 'de' y",
+                "yMMM": "MMM 'de' y",
+                "yMMMd": "d 'de' MMM 'de' y",
+                "yMMMEd": "EEE, d 'de' MMM 'de' y",
                 "yMMMM": "MMMM 'de' y",
                 "yMMMMd": "d 'de' MMMM 'de' y",
                 "yMMMMEd": "EEE, d 'de' MMMM 'de' y",

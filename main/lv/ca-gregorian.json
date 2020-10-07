@@ -3,7 +3,7 @@
     "lv": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "lv"
       },
@@ -260,7 +260,7 @@
                   "noon": "pusd.",
                   "pm": "pēcpusd.",
                   "morning1": "rīts",
-                  "afternoon1": "pēcpusdiena",
+                  "afternoon1": "pēcpusd.",
                   "evening1": "vakars",
                   "night1": "nakts"
                 },

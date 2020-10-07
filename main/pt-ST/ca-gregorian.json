@@ -3,7 +3,7 @@
     "pt-ST": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pt",
         "territory": "ST"
@@ -122,13 +122,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "domingo",
-                  "mon": "segunda",
-                  "tue": "terça",
-                  "wed": "quarta",
-                  "thu": "quinta",
-                  "fri": "sexta",
-                  "sat": "sábado"
+                  "sun": "dom.",
+                  "mon": "seg.",
+                  "tue": "ter.",
+                  "wed": "qua.",
+                  "thu": "qui.",
+                  "fri": "sex.",
+                  "sat": "sáb."
                 },
                 "wide": {
                   "sun": "domingo",
@@ -160,13 +160,13 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "domingo",
-                  "mon": "segunda",
-                  "tue": "terça",
-                  "wed": "quarta",
-                  "thu": "quinta",
-                  "fri": "sexta",
-                  "sat": "sábado"
+                  "sun": "dom.",
+                  "mon": "seg.",
+                  "tue": "ter.",
+                  "wed": "qua.",
+                  "thu": "qui.",
+                  "fri": "sex.",
+                  "sat": "sáb."
                 },
                 "wide": {
                   "sun": "domingo",

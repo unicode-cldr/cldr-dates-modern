@@ -3,7 +3,7 @@
     "uk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "uk"
       },
@@ -275,7 +275,7 @@
                   "night1": "ніч"
                 },
                 "wide": {
-                  "midnight": "опівніч",
+                  "midnight": "північ",
                   "am": "дп",
                   "noon": "полудень",
                   "pm": "пп",

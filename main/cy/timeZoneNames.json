@@ -3,7 +3,7 @@
     "cy": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "cy"
       },
@@ -417,7 +417,7 @@
                 "exemplarCity": "Sitka"
               },
               "St_Barthelemy": {
-                "exemplarCity": "St. Barthelemy"
+                "exemplarCity": "St. Barthélemy"
               },
               "St_Johns": {
                 "exemplarCity": "St. John’s"
@@ -607,7 +607,7 @@
                 "exemplarCity": "Monaco"
               },
               "Moscow": {
-                "exemplarCity": "Moscfa"
+                "exemplarCity": "Moscow"
               },
               "Oslo": {
                 "exemplarCity": "Oslo"
@@ -1514,7 +1514,7 @@
             },
             "Bolivia": {
               "long": {
-                "standard": "Amser Bolivia"
+                "standard": "Amser Bolifia"
               }
             },
             "Brasilia": {
@@ -1595,9 +1595,9 @@
             },
             "Cuba": {
               "long": {
-                "generic": "Amser Cuba",
-                "standard": "Amser Safonol Cuba",
-                "daylight": "Amser Haf Cuba"
+                "generic": "Amser Ciwba",
+                "standard": "Amser Safonol Ciwba",
+                "daylight": "Amser Haf Ciwa"
               }
             },
             "Davis": {
@@ -1820,9 +1820,9 @@
             },
             "Japan": {
               "long": {
-                "generic": "Amser Siapan",
-                "standard": "Amser Safonol Siapan",
-                "daylight": "Amser Haf Siapan"
+                "generic": "Amser Japan",
+                "standard": "Amser Safonol Japan",
+                "daylight": "Amser Haf Japan"
               }
             },
             "Kazakhstan_Eastern": {

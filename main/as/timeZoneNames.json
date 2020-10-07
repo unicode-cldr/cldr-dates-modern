@@ -3,7 +3,7 @@
     "as": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "as"
       },
@@ -1966,8 +1966,8 @@
             "Norfolk": {
               "long": {
                 "generic": "ন’ৰফ’ক দ্বীপৰ সময়",
-                "standard": "ন’ৰফ’ক দ্বীপৰ মান সময়",
-                "daylight": "ন’ৰফ’ক দ্বীপৰ সময় গ্ৰীষ্মকালীন সময়"
+                "standard": "ন’ৰফ’ক দ্বীপৰ মান্য সময়",
+                "daylight": "ন’ৰফ’ক দ্বীপৰ গ্ৰীষ্মকালীন সময়"
               }
             },
             "Noronha": {

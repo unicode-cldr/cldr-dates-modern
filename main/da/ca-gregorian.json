@@ -3,7 +3,7 @@
     "da": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "da"
       },
@@ -432,11 +432,11 @@
                 "GyMMMd": {
                   "d": "d.–d. MMM y G",
                   "G": "d. MMM y G–d. MMM y G",
-                  "M": "d. MMM y–d. MMM G",
+                  "M": "d. MMM–d. MMM y G",
                   "y": "d. MMM y–d. MMM y G"
                 },
                 "GyMMMEd": {
-                  "d": "E d. MMM y–E d. MMM G",
+                  "d": "E d. MMM–E d. MMM y G",
                   "G": "E d. MMM y G–E d. MMM y G",
                   "M": "E d. MMM–E d. MMM y G",
                   "y": "E d. MMM y–E d. MMM y G"

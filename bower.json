@@ -1,8 +1,8 @@
 {
   "name": "cldr-dates-modern",
-  "version": "37.0.0",
+  "version": "38.0.0",
   "dependencies": {
-    "cldr-numbers-modern": "37.0.0"
+    "cldr-numbers-modern": "38.0.0"
   },
   "main": "main/**/*.json",
   "ignore": [

@@ -3,7 +3,7 @@
     "eu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "eu"
       },
@@ -980,7 +980,7 @@
                 "exemplarCity": "Kuwait"
               },
               "Macau": {
-                "exemplarCity": "Macao"
+                "exemplarCity": "Macau"
               },
               "Magadan": {
                 "exemplarCity": "Magadan"
@@ -2001,7 +2001,7 @@
             "Norfolk": {
               "long": {
                 "generic": "Norfolk uharteetako ordua",
-                "standard": "Norfolk uharteetako ordua estandarra",
+                "standard": "Norfolk uharteetako ordu estandarra",
                 "daylight": "Norfolk uharteetako udako ordua"
               }
             },

@@ -3,7 +3,7 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "zh",
         "script": "Hans"
@@ -536,7 +536,7 @@
                 "exemplarCity": "布达佩斯"
               },
               "Busingen": {
-                "exemplarCity": "比辛根"
+                "exemplarCity": "布辛根"
               },
               "Chisinau": {
                 "exemplarCity": "基希讷乌"
@@ -1684,7 +1684,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "远东标准时间"
+                "standard": "欧洲极东时间"
               }
             },
             "Europe_Western": {
@@ -1807,7 +1807,7 @@
             },
             "Indochina": {
               "long": {
-                "standard": "印度支那时间"
+                "standard": "印度中国时间"
               }
             },
             "Indonesia_Central": {

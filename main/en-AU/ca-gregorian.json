@@ -3,7 +3,7 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "en",
         "territory": "AU"
@@ -19,10 +19,10 @@
                   "3": "Mar",
                   "4": "Apr",
                   "5": "May",
-                  "6": "Jun",
-                  "7": "Jul",
+                  "6": "June",
+                  "7": "July",
                   "8": "Aug",
-                  "9": "Sep",
+                  "9": "Sept",
                   "10": "Oct",
                   "11": "Nov",
                   "12": "Dec"

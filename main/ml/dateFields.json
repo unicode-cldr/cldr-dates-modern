@@ -3,7 +3,7 @@
     "ml": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ml"
       },
@@ -265,13 +265,13 @@
             "displayName": "ആഴ്‌ച. ദിവസം"
           },
           "weekdayOfMonth": {
-            "displayName": "മാസത്തിലെ പ്രവർത്തിദിനം"
+            "displayName": "മാസത്തിലെ പ്രവൃത്തി ദിവസം"
           },
           "weekdayOfMonth-short": {
-            "displayName": "മാസ. പ്രവർത്തിദിനം"
+            "displayName": "മാസ. പ്രവൃത്തി ദിവസം"
           },
           "weekdayOfMonth-narrow": {
-            "displayName": "മാസ. പ്രവർത്തിദിനം"
+            "displayName": "മാസ. പ്രവൃത്തി ദിവസം"
           },
           "sun": {
             "relative-type--1": "കഴിഞ്ഞ ഞായറാഴ്ച",
@@ -667,10 +667,10 @@
             "displayName": "സമയ മേഖല"
           },
           "zone-short": {
-            "displayName": "സമയ മേഖല"
+            "displayName": "മേഖല"
           },
           "zone-narrow": {
-            "displayName": "സമയ മേഖല"
+            "displayName": "മേഖല"
           }
         }
       }

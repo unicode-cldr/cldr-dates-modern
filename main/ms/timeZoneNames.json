@@ -3,7 +3,7 @@
     "ms": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ms"
       },
@@ -1347,6 +1347,13 @@
             }
           },
           "metazone": {
+            "Acre": {
+              "long": {
+                "generic": "Waktu Acre",
+                "standard": "Waktu Piawai Acre",
+                "daylight": "Waktu Musim Panas Acre"
+              }
+            },
             "Afghanistan": {
               "long": {
                 "standard": "Waktu Afghanistan"
@@ -1379,6 +1386,13 @@
                 "generic": "Waktu Alaska",
                 "standard": "Waktu Piawai Alaska",
                 "daylight": "Waktu Siang Alaska"
+              }
+            },
+            "Almaty": {
+              "long": {
+                "generic": "Waktu Almaty",
+                "standard": "Waktu Piawai Almaty",
+                "daylight": "Waktu Musim Panas Almaty"
               }
             },
             "Amazon": {
@@ -1435,6 +1449,13 @@
                 "generic": "Waktu Aqtau",
                 "standard": "Waktu Standard Aqtau",
                 "daylight": "Waktu Musim Panas Aqtau"
+              }
+            },
+            "Aqtobe": {
+              "long": {
+                "generic": "Waktu Aqtobe",
+                "standard": "Waktu Piawai Aqtobe",
+                "daylight": "Waktu Musim Panas Aqtobe"
               }
             },
             "Arabian": {
@@ -1877,6 +1898,13 @@
                 "daylight": "Waktu Siang Lord Howe"
               }
             },
+            "Macau": {
+              "long": {
+                "generic": "Waktu Macao",
+                "standard": "Waktu Piawai Macao",
+                "daylight": "Waktu Musim Panas Macao"
+              }
+            },
             "Macquarie": {
               "long": {
                 "standard": "Waktu Pulau Macquarie"
@@ -1997,7 +2025,7 @@
               "long": {
                 "generic": "Waktu Kepulauan Norfolk",
                 "standard": "Waktu Piawai Kepulauan Norfolk",
-                "daylight": "Waktu Musim Panas Kepulauan Norfolk"
+                "daylight": "Waktu Siang Kepulauan Norfolk"
               }
             },
             "Noronha": {
@@ -2005,6 +2033,11 @@
                 "generic": "Waktu Fernando de Noronha",
                 "standard": "Waktu Piawai Fernando de Noronha",
                 "daylight": "Waktu Musim Panas Fernando de Noronha"
+              }
+            },
+            "North_Mariana": {
+              "long": {
+                "standard": "Waktu Kepulauan Mariana Utara"
               }
             },
             "Novosibirsk": {
@@ -2084,6 +2117,13 @@
             "Pyongyang": {
               "long": {
                 "standard": "Waktu Pyongyang"
+              }
+            },
+            "Qyzylorda": {
+              "long": {
+                "generic": "Waktu Qyzylorda",
+                "standard": "Waktu Piawai Qyzylorda",
+                "daylight": "Waktu Musim Panas Qyzylorda"
               }
             },
             "Reunion": {

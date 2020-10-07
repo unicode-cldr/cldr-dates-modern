@@ -3,7 +3,7 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fa",
         "territory": "AF"
@@ -548,13 +548,13 @@
             }
           },
           "dayperiod-short": {
-            "displayName": "قبل/بعدازظهر"
+            "displayName": "ق.ظ/ب.ظ"
           },
           "dayperiod": {
-            "displayName": "قبل/بعدازظهر"
+            "displayName": "ق.ظ/ب.ظ"
           },
           "dayperiod-narrow": {
-            "displayName": "قبل/بعدازظهر"
+            "displayName": "ق.ظ/ب.ظ"
           },
           "hour": {
             "displayName": "ساعت",

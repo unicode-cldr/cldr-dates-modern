@@ -3,7 +3,7 @@
     "es-US": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "es",
         "territory": "US"
@@ -394,7 +394,7 @@
                 "exemplarCity": "Resolute"
               },
               "Rio_Branco": {
-                "exemplarCity": "Rio Branco"
+                "exemplarCity": "Río Branco"
               },
               "Santa_Isabel": {
                 "exemplarCity": "Santa Isabel"
@@ -855,7 +855,7 @@
                 "exemplarCity": "Adén"
               },
               "Almaty": {
-                "exemplarCity": "Almatý"
+                "exemplarCity": "Almaty"
               },
               "Amman": {
                 "exemplarCity": "Ammán"
@@ -888,7 +888,7 @@
                 "exemplarCity": "Bangkok"
               },
               "Barnaul": {
-                "exemplarCity": "Barnaul"
+                "exemplarCity": "Barnaúl"
               },
               "Beirut": {
                 "exemplarCity": "Beirut"
@@ -1635,7 +1635,7 @@
             },
             "Christmas": {
               "long": {
-                "standard": "hora de la isla de Navidad"
+                "standard": "hora de la Isla de Navidad"
               }
             },
             "Cocos": {
@@ -1863,8 +1863,8 @@
             "Irkutsk": {
               "long": {
                 "generic": "hora de Irkutsk",
-                "standard": "hora estándar de Irkutsh",
-                "daylight": "hora de verano de Irkutsh"
+                "standard": "hora estándar de Irkutsk",
+                "daylight": "hora de verano de Irkutsk"
               }
             },
             "Israel": {

@@ -3,7 +3,7 @@
     "fil": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "fil"
       },
@@ -1391,7 +1391,7 @@
             "America_Central": {
               "long": {
                 "generic": "Sentral na Oras",
-                "standard": "Sentral na Karaniwang Oras",
+                "standard": "Sentral na Standard na Oras",
                 "daylight": "Sentral na Daylight Time"
               }
             },
@@ -1983,7 +1983,7 @@
             "Norfolk": {
               "long": {
                 "generic": "Oras sa Norfolk Island",
-                "standard": "Standard na Norfolk Island",
+                "standard": "Standard na Oras sa Norfolk Island",
                 "daylight": "Daylight Time sa Norfolk Island"
               }
             },

@@ -3,7 +3,7 @@
     "gu": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "gu"
       },
@@ -2032,7 +2032,7 @@
               "long": {
                 "generic": "નોરફૉક આઇલેન્ડ સમય",
                 "standard": "નોરફૉક આઇલેન્ડ માનક સમય",
-                "daylight": "નોરફૉક આઇલેન્ડ ગ્રીષ્મ સમય"
+                "daylight": "નોરફૉક આઇલેન્ડ દિવસ સમય"
               }
             },
             "Noronha": {

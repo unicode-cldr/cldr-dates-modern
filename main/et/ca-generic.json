@@ -3,7 +3,7 @@
     "et": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "et"
       },
@@ -338,8 +338,8 @@
                 "H": "HH",
                 "hm": "h:mm a",
                 "Hm": "HH:mm",
-                "hms": "h:mm.ss a",
-                "Hms": "H:mm.ss",
+                "hms": "h:mm:ss a",
+                "Hms": "H:mm:ss",
                 "M": "M",
                 "Md": "d.M",
                 "MEd": "E, d.M",
@@ -348,8 +348,8 @@
                 "MMMEd": "E, d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "mmss": "mm.ss",
-                "ms": "mm.ss",
+                "mmss": "mm:ss",
+                "ms": "mm:ss",
                 "y": "y G",
                 "yyyy": "y G",
                 "yyyyM": "M.y G",

@@ -3,7 +3,7 @@
     "uk": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "uk"
       },
@@ -627,16 +627,16 @@
             "relative-type-0": "цієї пт",
             "relative-type-1": "наст. пт",
             "relativeTime-type-future": {
-              "relativeTimePattern-count-one": "через {0} пʼятницю",
-              "relativeTimePattern-count-few": "через {0} пʼятниці",
-              "relativeTimePattern-count-many": "через {0} пʼятниць",
-              "relativeTimePattern-count-other": "через {0} пʼятниці"
+              "relativeTimePattern-count-one": "через {0} пт",
+              "relativeTimePattern-count-few": "через {0} пт",
+              "relativeTimePattern-count-many": "через {0} пт",
+              "relativeTimePattern-count-other": "через {0} пт"
             },
             "relativeTime-type-past": {
-              "relativeTimePattern-count-one": "{0} пʼятницю тому",
-              "relativeTimePattern-count-few": "{0} пʼятниці тому",
-              "relativeTimePattern-count-many": "{0} пʼятниць тому",
-              "relativeTimePattern-count-other": "{0} пʼятниці тому"
+              "relativeTimePattern-count-one": "{0} пт тому",
+              "relativeTimePattern-count-few": "{0} пт тому",
+              "relativeTimePattern-count-many": "{0} пт тому",
+              "relativeTimePattern-count-other": "{0} пт тому"
             }
           },
           "sat": {

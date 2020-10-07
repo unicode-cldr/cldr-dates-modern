@@ -3,7 +3,7 @@
     "pl": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "pl"
       },
@@ -1514,6 +1514,11 @@
                 "daylight": "Bangladesz (czas letni)"
               }
             },
+            "Bhutan": {
+              "long": {
+                "standard": "czas Bhutan"
+              }
+            },
             "Bolivia": {
               "long": {
                 "standard": "czas Boliwia"
@@ -1524,6 +1529,11 @@
                 "generic": "czas Brasília",
                 "standard": "Brasília (czas standardowy)",
                 "daylight": "Brasília (czas letni)"
+              }
+            },
+            "Brunei": {
+              "long": {
+                "standard": "czas Brunei"
               }
             },
             "Cape_Verde": {
@@ -1595,6 +1605,11 @@
                 "generic": "czas Kuba",
                 "standard": "Kuba (czas standardowy)",
                 "daylight": "Kuba (czas letni)"
+              }
+            },
+            "Davis": {
+              "long": {
+                "standard": "czas Davis"
               }
             },
             "DumontDUrville": {
@@ -1682,6 +1697,11 @@
             "French_Southern": {
               "long": {
                 "standard": "czas Francuskie Terytoria Południowe i Antarktyczne"
+              }
+            },
+            "Galapagos": {
+              "long": {
+                "standard": "czas Galapagos"
               }
             },
             "Gambier": {
@@ -1833,6 +1853,11 @@
                 "daylight": "Korea (czas letni)"
               }
             },
+            "Kosrae": {
+              "long": {
+                "standard": "czas Kosrae"
+              }
+            },
             "Krasnoyarsk": {
               "long": {
                 "generic": "czas Krasnojarsk",
@@ -1855,6 +1880,11 @@
                 "generic": "czas Lord Howe",
                 "standard": "Lord Howe (czas standardowy)",
                 "daylight": "Lord Howe (czas letni)"
+              }
+            },
+            "Macquarie": {
+              "long": {
+                "standard": "czas Macquarie"
               }
             },
             "Magadan": {
@@ -1891,6 +1921,11 @@
                 "daylight": "Mauritius (czas letni)"
               }
             },
+            "Mawson": {
+              "long": {
+                "standard": "czas Mawson"
+              }
+            },
             "Mexico_Northwest": {
               "long": {
                 "generic": "czas Meksyk Północno-Zachodni",
@@ -1924,6 +1959,16 @@
                 "standard": "czas Mjanma"
               }
             },
+            "Nauru": {
+              "long": {
+                "standard": "czas Nauru"
+              }
+            },
+            "Nepal": {
+              "long": {
+                "standard": "czas Nepal"
+              }
+            },
             "New_Caledonia": {
               "long": {
                 "generic": "czas Nowa Kaledonia",
@@ -1943,6 +1988,18 @@
                 "generic": "czas Nowa Fundlandia",
                 "standard": "Nowa Fundlandia (czas standardowy)",
                 "daylight": "Nowa Fundlandia (czas letni)"
+              }
+            },
+            "Niue": {
+              "long": {
+                "standard": "czas Niue"
+              }
+            },
+            "Norfolk": {
+              "long": {
+                "generic": "czas Norfolk",
+                "standard": "Norfolk (czas standardowy)",
+                "daylight": "Norfolk (czas letni)"
               }
             },
             "Noronha": {
@@ -1971,6 +2028,11 @@
                 "generic": "czas Pakistan",
                 "standard": "Pakistan (czas standardowy)",
                 "daylight": "Pakistan (czas letni)"
+              }
+            },
+            "Palau": {
+              "long": {
+                "standard": "czas Palau"
               }
             },
             "Papua_New_Guinea": {
@@ -2011,6 +2073,11 @@
                 "daylight": "Saint-Pierre i Miquelon (czas letni)"
               }
             },
+            "Pitcairn": {
+              "long": {
+                "standard": "czas Pitcairn"
+              }
+            },
             "Ponape": {
               "long": {
                 "standard": "czas Pohnpei"
@@ -2019,6 +2086,16 @@
             "Pyongyang": {
               "long": {
                 "standard": "czas Pjongjang"
+              }
+            },
+            "Reunion": {
+              "long": {
+                "standard": "czas Reunion"
+              }
+            },
+            "Rothera": {
+              "long": {
+                "standard": "czas Rothera"
               }
             },
             "Sakhalin": {
@@ -2067,6 +2144,16 @@
                 "standard": "czas Surinam"
               }
             },
+            "Syowa": {
+              "long": {
+                "standard": "czas Syowa"
+              }
+            },
+            "Tahiti": {
+              "long": {
+                "standard": "czas Tahiti"
+              }
+            },
             "Taipei": {
               "long": {
                 "generic": "czas Tajpej",
@@ -2077,6 +2164,11 @@
             "Tajikistan": {
               "long": {
                 "standard": "czas Tadżykistan"
+              }
+            },
+            "Tokelau": {
+              "long": {
+                "standard": "czas Tokelau"
               }
             },
             "Tonga": {
@@ -2096,6 +2188,11 @@
                 "generic": "czas Turkmenistan",
                 "standard": "Turkmenistan (czas standardowy)",
                 "daylight": "Turkmenistan (czas letni)"
+              }
+            },
+            "Tuvalu": {
+              "long": {
+                "standard": "czas Tuvalu"
               }
             },
             "Uruguay": {
@@ -2141,6 +2238,11 @@
             "Vostok": {
               "long": {
                 "standard": "czas Wostok"
+              }
+            },
+            "Wake": {
+              "long": {
+                "standard": "czas Wake"
               }
             },
             "Wallis": {

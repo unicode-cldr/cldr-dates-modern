@@ -3,7 +3,7 @@
     "ms-SG": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ms",
         "territory": "SG"
@@ -400,7 +400,7 @@
                 },
                 "GyM": {
                   "G": "M/y GGGGG – M/y GGGGG",
-                  "M": "M/y –M/y GGGGG",
+                  "M": "M/y – M/y GGGGG",
                   "y": "M/y – M/y GGGGG"
                 },
                 "GyMd": {

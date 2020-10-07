@@ -3,7 +3,7 @@
     "ga": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ga"
       },
@@ -661,7 +661,7 @@
                 "exemplarCity": "Taillinn"
               },
               "Tirane": {
-                "exemplarCity": "Tirane"
+                "exemplarCity": "Tiorána"
               },
               "Ulyanovsk": {
                 "exemplarCity": "Ulyanovsk"
@@ -1377,7 +1377,7 @@
             },
             "Africa_Southern": {
               "long": {
-                "standard": "Am Caighdeánach na hAfraice Theas"
+                "standard": "Am na hAfraice Theas"
               }
             },
             "Africa_Western": {
@@ -1410,23 +1410,23 @@
             },
             "America_Central": {
               "long": {
-                "generic": "Am Lárnach",
-                "standard": "Am Caighdeánach Lárnach",
-                "daylight": "Am Samhraidh Lárnach"
+                "generic": "Am Lárnach Mheiriceá Thuaidh",
+                "standard": "Am Caighdeánach Lárnach Mheiriceá Thuaidh",
+                "daylight": "Am Samhraidh Lárnach Mheiriceá Thuaidh"
               }
             },
             "America_Eastern": {
               "long": {
-                "generic": "Am an Oirthir",
-                "standard": "Am Caighdeánach an Oirthir",
-                "daylight": "Am Samhraidh an Oirthir"
+                "generic": "Am Oirthear Mheiriceá Thuaidh",
+                "standard": "Am Caighdeánach Oirthear Mheiriceá Thuaidh",
+                "daylight": "Am Samhraidh Oirthear Mheiriceá Thuaidh"
               }
             },
             "America_Mountain": {
               "long": {
-                "generic": "Am na Sléibhte",
-                "standard": "Am Caighdeánach na Sléibhte",
-                "daylight": "Am Samhraidh na Sléibhte"
+                "generic": "Am Sléibhte Mheiriceá Thuaidh",
+                "standard": "Am Caighdeánach Sléibhte Mheiriceá Thuaidh",
+                "daylight": "Am Samhraidh Sléibhte Mheiriceá Thuaidh"
               }
             },
             "America_Pacific": {
@@ -2207,7 +2207,7 @@
             },
             "Solomon": {
               "long": {
-                "standard": "Am Oileáin Sholomón"
+                "standard": "Am Oileáin Sholaimh"
               }
             },
             "South_Georgia": {
@@ -2268,7 +2268,7 @@
             },
             "Tuvalu": {
               "long": {
-                "standard": "Am Thuvalu"
+                "standard": "Am Thúvalú"
               }
             },
             "Uruguay": {
@@ -2323,7 +2323,7 @@
             },
             "Wallis": {
               "long": {
-                "standard": "Am Vailís agus Futúna"
+                "standard": "Am Wallis agus Futuna"
               }
             },
             "Yakutsk": {

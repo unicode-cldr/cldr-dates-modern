@@ -3,7 +3,7 @@
     "sr-Cyrl-ME": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -291,9 +291,9 @@
             "eras": {
               "eraNames": {
                 "0": "прије нове ере",
-                "0-alt-variant": "п. н. е.",
+                "0-alt-variant": "пре наше ере",
                 "1": "нове ере",
-                "1-alt-variant": "н. е."
+                "1-alt-variant": "наше ере"
               },
               "eraAbbr": {
                 "0": "п. н. е.",

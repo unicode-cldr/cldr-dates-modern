@@ -3,7 +3,7 @@
     "th": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "th"
       },
@@ -137,7 +137,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} สัปดาห์ที่ผ่านมา"
             },
-            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่"
+            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่ {0}"
           },
           "week-short": {
             "displayName": "สัปดาห์",
@@ -150,7 +150,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} สัปดาห์ที่แล้ว"
             },
-            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่"
+            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่ {0}"
           },
           "week-narrow": {
             "displayName": "สัปดาห์",
@@ -163,7 +163,7 @@
             "relativeTime-type-past": {
               "relativeTimePattern-count-other": "{0} สัปดาห์ที่แล้ว"
             },
-            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่"
+            "relativePeriod": "สัปดาห์ที่เริ่มต้นวันที่ {0}"
           },
           "weekOfMonth": {
             "displayName": "สัปดาห์ของเดือน"

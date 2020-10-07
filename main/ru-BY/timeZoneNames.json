@@ -3,7 +3,7 @@
     "ru-BY": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ru",
         "territory": "BY"
@@ -1684,7 +1684,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "Минское время"
+                "standard": "Московское время"
               }
             },
             "Europe_Western": {

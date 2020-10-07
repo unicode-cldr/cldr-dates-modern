@@ -3,7 +3,7 @@
     "sr-Cyrl-BA": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sr",
         "script": "Cyrl",
@@ -107,8 +107,8 @@
                 "abbreviated": {
                   "sun": "нед",
                   "mon": "пон",
-                  "tue": "ут",
-                  "wed": "ср",
+                  "tue": "уто",
+                  "wed": "сре",
                   "thu": "чет",
                   "fri": "пет",
                   "sat": "суб"
@@ -133,7 +133,7 @@
                 },
                 "wide": {
                   "sun": "недјеља",
-                  "mon": "понедељак",
+                  "mon": "понедјељак",
                   "tue": "уторак",
                   "wed": "сриједа",
                   "thu": "четвртак",
@@ -145,8 +145,8 @@
                 "abbreviated": {
                   "sun": "нед",
                   "mon": "пон",
-                  "tue": "ут",
-                  "wed": "ср",
+                  "tue": "уто",
+                  "wed": "сри",
                   "thu": "чет",
                   "fri": "пет",
                   "sat": "суб"
@@ -171,7 +171,7 @@
                 },
                 "wide": {
                   "sun": "недјеља",
-                  "mon": "понедељак",
+                  "mon": "понедјељак",
                   "tue": "уторак",
                   "wed": "сриједа",
                   "thu": "четвртак",
@@ -291,7 +291,7 @@
             "eras": {
               "eraNames": {
                 "0": "прије нове ере",
-                "0-alt-variant": "п. н. е.",
+                "0-alt-variant": "пре наше ере",
                 "1": "нове ере",
                 "1-alt-variant": "нове ере"
               },
@@ -362,9 +362,9 @@
                 "MMMEd": "E d. MMM",
                 "MMMMd": "d. MMMM",
                 "MMMMEd": "E, d. MMMM",
-                "MMMMW-count-one": "W. 'сједмица' 'у' MMMM",
-                "MMMMW-count-few": "W. 'сједмица' 'у' MMMM",
-                "MMMMW-count-other": "W. 'сједмица' 'у' MMMM",
+                "MMMMW-count-one": "W. 'седмица' 'у' MMMM.",
+                "MMMMW-count-few": "W. 'седмица' 'у' MMMM.",
+                "MMMMW-count-other": "W. 'седмица' 'у' MMMM.",
                 "ms": "mm:ss",
                 "y": "y.",
                 "yM": "M.y.",
@@ -378,9 +378,9 @@
                 "yMMMM": "MMMM y.",
                 "yQQQ": "QQQ y.",
                 "yQQQQ": "QQQQ y.",
-                "yw-count-one": "w. 'сједмица' 'у' Y.",
-                "yw-count-few": "w. 'сједмица' 'у' Y.",
-                "yw-count-other": "w. 'сједмица' 'у' Y."
+                "yw-count-one": "w. 'седмица' 'у' Y.",
+                "yw-count-few": "w. 'седмица' 'у' Y.",
+                "yw-count-other": "w. 'седмица' 'у' Y."
               },
               "appendItems": {
                 "Day": "{0} ({2}: {1})",

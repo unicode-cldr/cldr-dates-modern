@@ -3,7 +3,7 @@
     "sw": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "sw"
       },
@@ -1578,7 +1578,7 @@
             },
             "Christmas": {
               "long": {
-                "standard": "Saa za Kisiwa cha Christmas"
+                "standard": "Saa za Kisiwa cha Krismasi"
               }
             },
             "Cocos": {
@@ -1588,9 +1588,9 @@
             },
             "Colombia": {
               "long": {
-                "generic": "Saa za Colombia",
-                "standard": "Saa za Wastani za Colombia",
-                "daylight": "Saa za Majira ya joto za Colombia"
+                "generic": "Saa za Kolombia",
+                "standard": "Saa za Wastani za Kolombia",
+                "daylight": "Saa za Majira ya joto za Kolombia"
               }
             },
             "Cook": {
@@ -1602,9 +1602,9 @@
             },
             "Cuba": {
               "long": {
-                "generic": "Saa za Cuba",
-                "standard": "Saa za Wastani ya Cuba",
-                "daylight": "Saa za Mchana za Cuba"
+                "generic": "Saa za Kuba",
+                "standard": "Saa za Wastani ya Kuba",
+                "daylight": "Saa za Mchana za Kuba"
               }
             },
             "Davis": {
@@ -1631,13 +1631,13 @@
             },
             "Ecuador": {
               "long": {
-                "standard": "Saa za Ecuador"
+                "standard": "Saa za Ekwado"
               }
             },
             "Europe_Central": {
               "long": {
                 "generic": "Saa za Ulaya ya Kati",
-                "standard": "Saa za Wastani za Ulaya ya kati",
+                "standard": "Saa za Wastani za Ulaya ya Kati",
                 "daylight": "Saa za Majira ya joto za Ulaya ya Kati"
               }
             },
@@ -1696,9 +1696,9 @@
             },
             "Georgia": {
               "long": {
-                "generic": "Saa za Georgia",
-                "standard": "Saa za Wastani za Georgia",
-                "daylight": "Saa za Majira ya joto za Georgia"
+                "generic": "Saa za Jojia",
+                "standard": "Saa za Wastani za Jojia",
+                "daylight": "Saa za Majira ya joto za Jojia"
               }
             },
             "Gilbert_Islands": {
@@ -1758,7 +1758,7 @@
             },
             "India": {
               "long": {
-                "standard": "Saa Wastani za India"
+                "standard": "Saa za Wastani za India"
               }
             },
             "Indian_Ocean": {
@@ -1810,7 +1810,7 @@
             "Japan": {
               "long": {
                 "generic": "Saa za Japan",
-                "standard": "Saa Wastani za Japan",
+                "standard": "Saa za Wastani za Japani",
                 "daylight": "Saa za Mchana za Japan"
               }
             },
@@ -1901,9 +1901,9 @@
             },
             "Mauritius": {
               "long": {
-                "generic": "Saa za Mauritius",
-                "standard": "Saa za Wastani za Mauritius",
-                "daylight": "Saa za Majira ya joto za Mauritius"
+                "generic": "Saa za Morisi",
+                "standard": "Saa za Wastani za Morisi",
+                "daylight": "Saa za Majira ya joto za Morisi"
               }
             },
             "Mawson": {
@@ -1913,16 +1913,16 @@
             },
             "Mexico_Northwest": {
               "long": {
-                "generic": "Saa za Mexico Kaskazini Magharibi",
-                "standard": "Saa za Wastani za Mexico Kaskazini Magharibi",
-                "daylight": "Saa za mchana za Mexico Kaskazini Magharibi"
+                "generic": "Saa za Meksiko Kaskazini Magharibi",
+                "standard": "Saa za Wastani za Meksiko Kaskazini Magharibi",
+                "daylight": "Saa za mchana za Meksiko Kaskazini Magharibi"
               }
             },
             "Mexico_Pacific": {
               "long": {
-                "generic": "Saa za pasifiki za Mexico",
-                "standard": "Saa za wastani za pasifiki za Mexico",
-                "daylight": "Saa za mchana za pasifiki za Mexico"
+                "generic": "Saa za pasifiki za Meksiko",
+                "standard": "Saa za wastani za pasifiki za Meksiko",
+                "daylight": "Saa za mchana za pasifiki za Meksiko"
               }
             },
             "Mongolia": {
@@ -2027,9 +2027,9 @@
             },
             "Paraguay": {
               "long": {
-                "generic": "Saa za Paraguay",
-                "standard": "Saa za Wastani za Paraguay",
-                "daylight": "Saa za Majira ya joto za Paraguay"
+                "generic": "Saa za Paragwai",
+                "standard": "Saa za Wastani za Paragwai",
+                "daylight": "Saa za Majira ya joto za Paragwai"
               }
             },
             "Peru": {
@@ -2182,9 +2182,9 @@
             },
             "Uruguay": {
               "long": {
-                "generic": "Saa za Uruguay",
-                "standard": "Saa za Wastani za Uruguay",
-                "daylight": "Saa za Majira ya joto za Uruguay"
+                "generic": "Saa za Urugwai",
+                "standard": "Saa za Wastani za Urugwai",
+                "daylight": "Saa za Majira ya joto za Urugwai"
               }
             },
             "Uzbekistan": {

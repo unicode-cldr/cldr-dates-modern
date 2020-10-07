@@ -3,7 +3,7 @@
     "ko": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ko"
       },
@@ -208,25 +208,25 @@
               },
               "Indiana": {
                 "Vincennes": {
-                  "exemplarCity": "인디아나주, 뱅센"
+                  "exemplarCity": "인디애나주, 빈센스"
                 },
                 "Petersburg": {
                   "exemplarCity": "인디애나주, 피츠버그"
                 },
                 "Tell_City": {
-                  "exemplarCity": "인디아나주, 텔시티"
+                  "exemplarCity": "인디애나주, 텔시티"
                 },
                 "Knox": {
-                  "exemplarCity": "인디애나주 녹스"
+                  "exemplarCity": "인디애나주, 녹스"
                 },
                 "Winamac": {
-                  "exemplarCity": "인디아나주, 워너맥"
+                  "exemplarCity": "인디애나주, 위너맥"
                 },
                 "Marengo": {
-                  "exemplarCity": "인디애나주, 마렝고"
+                  "exemplarCity": "인디애나주, 머렝고"
                 },
                 "Vevay": {
-                  "exemplarCity": "비비"
+                  "exemplarCity": "인디애나주, 비비"
                 }
               },
               "Indianapolis": {
@@ -341,7 +341,7 @@
                   "exemplarCity": "노스다코타주, 베라"
                 },
                 "New_Salem": {
-                  "exemplarCity": "노스 다코타주, 뉴살렘"
+                  "exemplarCity": "노스다코타주, 뉴살렘"
                 },
                 "Center": {
                   "exemplarCity": "중부, 노스다코타"
@@ -423,16 +423,16 @@
                 "exemplarCity": "세인트존스"
               },
               "St_Kitts": {
-                "exemplarCity": "세인트 키츠"
+                "exemplarCity": "세인트키츠"
               },
               "St_Lucia": {
-                "exemplarCity": "세인트 루시아"
+                "exemplarCity": "세인트루시아"
               },
               "St_Thomas": {
-                "exemplarCity": "세인트 토마스"
+                "exemplarCity": "세인트토마스"
               },
               "St_Vincent": {
-                "exemplarCity": "세인트 빈센트"
+                "exemplarCity": "세인트빈센트"
               },
               "Swift_Current": {
                 "exemplarCity": "스위프트커런트"
@@ -1669,9 +1669,9 @@
             },
             "Europe_Central": {
               "long": {
-                "generic": "중부 유럽 시간",
-                "standard": "중부 유럽 표준시",
-                "daylight": "중부 유럽 하계 표준시"
+                "generic": "중부유럽 시간",
+                "standard": "중부유럽 표준시",
+                "daylight": "중부유럽 하계 표준시"
               }
             },
             "Europe_Eastern": {
@@ -1683,7 +1683,7 @@
             },
             "Europe_Further_Eastern": {
               "long": {
-                "standard": "극동 유럽 표준시"
+                "standard": "극동유럽 표준시"
               }
             },
             "Europe_Western": {
